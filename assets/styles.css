@@ -12,15 +12,63 @@ body {
   background: radial-gradient(circle at top, #1d4ed8, var(--bg) 40%);
   min-height: 100vh;
 }
+.portal-hero {
+  width: min(1100px, 94%);
+  margin: 20px auto;
+  background: linear-gradient(145deg, #0b1225, #1d4ed8);
+  border: 1px solid #334155;
+  border-radius: 20px;
+  padding: 18px;
+}
+.portal-topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.portal-topbar nav a {
+  color: #cbd5e1;
+  text-decoration: none;
+  margin-left: 14px;
+}
+.portal-search-wrap { text-align: center; padding: 28px 16px 10px; }
+.portal-search-wrap h1 { margin: 0 0 8px; }
+.portal-search-wrap p { margin: 0 0 16px; color: #dbeafe; }
+.portal-search-bar {
+  max-width: 700px;
+  margin: 0 auto;
+  border-radius: 999px;
+  background: #fff;
+  color: #1e293b;
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  justify-content: center;
+}
+.portal-main { width: min(1100px, 94%); margin: 0 auto 48px; }
 .hero { text-align: center; padding: 48px 16px 24px; }
 .hero h1 { margin: 0 0 8px; }
 .hero p { margin: 0; opacity: .9; }
 .grid {
-  width: min(1100px, 92%);
   margin: 0 auto 48px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 16px;
+}
+.portal-menu h2 { margin-top: 0; }
+.menu-grid {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+.menu-chip {
+  text-decoration: none;
+  color: var(--text);
+  background: #0b1225;
+  border: 1px solid #334155;
+  border-radius: 999px;
+  padding: 10px 14px;
+  display: block;
 }
 .card {
   display: block;
@@ -32,7 +80,7 @@ body {
   border-radius: 14px;
   transition: transform .2s ease, border-color .2s ease;
 }
-.card:hover { transform: translateY(-2px); border-color: var(--accent); }
+.card:hover, .menu-chip:hover { transform: translateY(-2px); border-color: var(--accent); }
 .card h2 { font-size: 1.05rem; margin: 0 0 8px; }
 .app-shell { width: min(960px, 94%); margin: 24px auto 56px; }
 .back { color: #7dd3fc; text-decoration: none; display: inline-block; margin: 14px 0; }
@@ -43,6 +91,11 @@ body {
   padding: 16px;
   margin: 12px 0;
 }
+.hot-list { list-style: none; margin: 0; padding: 0; }
+.hot-item { padding: 12px 0; border-bottom: 1px solid #1f2937; }
+.hot-item:last-child { border-bottom: none; }
+.hot-item a { color: #e2e8f0; text-decoration: none; font-weight: 600; }
+.hot-item a:hover { color: #7dd3fc; }
 input, select, textarea, button {
   width: 100%;
   margin-top: 6px;

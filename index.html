@@ -3,35 +3,47 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>GitHub Pages 추천 앱 포탈</title>
+  <title>MyApps 포털</title>
   <link rel="stylesheet" href="assets/styles.css" />
 </head>
 <body>
-  <header class="hero">
-    <h1>🚀 추천 앱 5종 포탈</h1>
-    <p>GitHub Pages에서 동작하는 브라우저 기반 앱 모음입니다.</p>
+  <header class="portal-hero">
+    <div class="portal-topbar">
+      <strong>MyApps</strong>
+      <nav>
+        <a href="#services">서비스</a>
+        <a href="apps/ppomppu-hot/">뽐뿌 HOT</a>
+      </nav>
+    </div>
+    <div class="portal-search-wrap">
+      <h1>오늘의 인기 글 포털</h1>
+      <p>기존 포털 스타일로 진입하고, 메뉴에서 뽐뿌 HOT/인기 글을 확인하세요.</p>
+      <div class="portal-search-bar" aria-hidden="true">
+        <span>🔎</span>
+        <span>뽐뿌 인기글, 실시간 이슈, 커뮤니티 트렌드</span>
+      </div>
+    </div>
   </header>
-  <main class="grid">
-    <a class="card" href="apps/actioncam/">
-      <h2>1) 액션캠 저장 용량 계산기</h2>
-      <p>해상도/프레임/비트레이트 기반으로 예상 촬영 시간을 계산합니다.</p>
-    </a>
-    <a class="card" href="apps/prompt-generator/">
-      <h2>2) AI 프롬프트 템플릿</h2>
-      <p>역할/목적/형식을 입력해 프롬프트를 생성하고 저장합니다.</p>
-    </a>
-    <a class="card" href="apps/fan-hub/">
-      <h2>3) 아티스트 타임라인 Fan Hub</h2>
-      <p>연도별 사건과 세계관 노드를 인터랙티브하게 탐색합니다.</p>
-    </a>
-    <a class="card" href="apps/korean-quiz/">
-      <h2>4) 한국어 의성어·의태어 퀴즈</h2>
-      <p>플래시카드 형태로 문제를 맞추고 정답을 확인합니다.</p>
-    </a>
-    <a class="card" href="apps/prelaunch-landing/">
-      <h2>5) B2C 앱 사전예약 랜딩</h2>
-      <p>앱 소개, 스크린샷, 이메일 사전등록 폼까지 포함한 랜딩 페이지.</p>
-    </a>
+
+  <main class="portal-main" id="services">
+    <section class="portal-menu panel">
+      <h2>메뉴</h2>
+      <div class="menu-grid">
+        <a class="menu-chip" href="apps/ppomppu-hot/">🔥 뽐뿌 HOT/인기 게시글</a>
+        <a class="menu-chip" href="apps/actioncam/">🎥 액션캠 계산기</a>
+        <a class="menu-chip" href="apps/prompt-generator/">✍️ 프롬프트 생성기</a>
+        <a class="menu-chip" href="apps/fan-hub/">🧭 Fan Hub</a>
+        <a class="menu-chip" href="apps/korean-quiz/">🧠 한국어 퀴즈</a>
+        <a class="menu-chip" href="apps/prelaunch-landing/">🚀 사전예약 랜딩</a>
+      </div>
+    </section>
+
+    <section class="grid">
+      <a class="card" href="apps/ppomppu-hot/">
+        <h2>뽐뿌 HOT/인기 게시글 보기</h2>
+        <p>GitHub Actions가 수집한 최신 HOT 게시글을 GitHub Pages에서 제공합니다.</p>
+      </a>
+    </section>
   </main>
 </body>
 </html>

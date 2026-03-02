@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>뽐뿌 HOT/인기 게시글</title>
+  <link rel="stylesheet" href="../../assets/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <a class="back" href="../../">← 포털 홈으로</a>
+    <h1>🔥 뽐뿌 HOT/인기 게시글</h1>
+    <section class="panel">
+      <p id="meta" class="small">데이터를 불러오는 중...</p>
+      <p class="small">수집 원본: <a href="https://m.ppomppu.co.kr/new/index.php" target="_blank" rel="noreferrer">m.ppomppu.co.kr/new/index.php</a></p>
+    </section>
+
+    <section class="panel">
+      <ul id="hot-list" class="hot-list"></ul>
+      <p id="empty" class="small" hidden>표시할 게시글이 없습니다.</p>
+    </section>
+  </div>
+
+<script>
+const listEl = document.getElementById('hot-list');
+const emptyEl = document.getElementById('empty');
+const metaEl = document.getElementById('meta');
+
+function formatDate(isoString) {
+  if (!isoString) return '업데이트 정보 없음';
+  const date = new Date(isoString);
+  if (Number.isNaN(date.getTime())) return isoString;
+  return date.toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' }) + ' (KST)';
+}
+
+function renderPosts(posts) {
+  if (!posts || posts.length === 0) {
+    emptyEl.hidden = false;
+    return;
+  }
+
+  const fragment = document.createDocumentFragment();
+  posts.forEach((post, index) => {
+    const li = document.createElement('li');
+    li.className = 'hot-item';
+
+    const link = document.createElement('a');
+    link.href = post.url;
+    link.target = '_blank';
+    link.rel = 'noreferrer';
+    link.textContent = `${index + 1}. ${post.title}`;
+
+    const detail = document.createElement('div');
+    detail.className = 'small';
+    detail.textContent = [post.board, post.author, post.time].filter(Boolean).join(' · ');
+
+    li.appendChild(link);
+    li.appendChild(detail);
+    fragment.appendChild(li);
+  });
+  listEl.appendChild(fragment);
+}
+
+(async () => {
+  try {
+    const cacheBuster = `t=${Date.now()}`;
+    const res = await fetch(`../../data/ppomppu-hot.json?${cacheBuster}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
+    const data = await res.json();
+    metaEl.textContent = `최근 수집: ${formatDate(data.updatedAt)} · 총 ${data.count || 0}건`;
+
+    if (data.status !== 'ok' && data.error) {
+      metaEl.textContent += ` · 상태: ${data.status} (${data.error})`;
+    }
+
+    renderPosts(data.posts || []);
+  } catch (error) {
+    metaEl.textContent = `데이터를 불러오지 못했습니다: ${error.message}`;
+    emptyEl.hidden = false;
+  }
+})();
+</script>
+</body>
+</html>
