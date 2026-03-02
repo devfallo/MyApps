@@ -20,6 +20,12 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install crawler deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
       - name: Scrape hot posts
         run: python scripts/scrape_ppomppu_hot.py
 
