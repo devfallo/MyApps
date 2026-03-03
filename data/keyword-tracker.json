@@ -1,21 +1,12 @@
 {
-  "updatedAt": "2026-03-03T08:58:17.660499+00:00",
+  "updatedAt": "2026-03-03T13:04:21.115994+00:00",
   "status": "ok",
-  "keywords": [
-    "액션캠",
-    "NAS",
-    "특가",
-    "AI",
-    "LLM"
-  ],
-  "scannedCount": 0,
+  "keywords": [],
+  "scannedCount": 40,
   "newMatchCount": 0,
   "matchHistory": [],
   "keywordStats": [],
   "notifications": [],
   "seenUrls": [],
-  "errors": [
-    "fetch_hacker_news: <urlopen error Tunnel connection failed: 403 Forbidden>",
-    "fetch_github_discussions: <urlopen error Tunnel connection failed: 403 Forbidden>"
-  ]
+  "errors": []
 }
