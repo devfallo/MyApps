@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-03T17:06:35.790280+00:00",
+  "updatedAt": "2026-03-03T19:10:56.136959+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,10 +10,10 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 253458,
-      "comments": 9900,
+      "score": 253630,
+      "comments": 9948,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 253458, 반응 9900 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 253630, 반응 9948 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -28,221 +28,213 @@
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 177351,
-      "comments": 1398,
+      "score": 177370,
+      "comments": 1396,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 177351, 반응 1398 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 177370, 반응 1396 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 161452,
+      "score": 161451,
       "comments": 2462,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161452, 반응 2462 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161451, 반응 2462 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 149892,
+      "score": 149902,
       "comments": 18,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 149892, 반응 18 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 149902, 반응 18 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 131052,
-      "comments": 778,
+      "score": 131056,
+      "comments": 781,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 131052, 반응 778 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 131056, 반응 781 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 128066,
+      "score": 128072,
       "comments": 431,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128066, 반응 431 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128072, 반응 431 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 127547,
+      "score": 127561,
       "comments": 132,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 127547, 반응 132 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 127561, 반응 132 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 125592,
-      "comments": 271,
+      "score": 125602,
+      "comments": 274,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 125592, 반응 271 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 125602, 반응 274 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 107433,
+      "score": 107438,
       "comments": 24,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107433, 반응 24 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107438, 반응 24 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 104732,
+      "score": 104738,
       "comments": 3780,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 104732, 반응 3780 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 104738, 반응 3780 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 98447,
-      "comments": 970,
+      "score": 98443,
+      "comments": 965,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98447, 반응 970 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98443, 반응 965 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Meta’s AI smart glasses and data privacy concerns",
       "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-      "score": 1291,
-      "comments": 729,
+      "score": 1320,
+      "comments": 742,
       "text": "",
-      "summary": "Meta’s AI smart glasses and data privacy concerns. 점수 1291, 반응 729 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "British Columbia is permanently adopting daylight time",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
-      "score": 1047,
-      "comments": 506,
-      "text": "",
-      "summary": "British Columbia is permanently adopting daylight time. 점수 1047, 반응 506 기준 인기 이슈입니다."
+      "summary": "Meta’s AI smart glasses and data privacy concerns. 점수 1320, 반응 742 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Xkcd thing, now interactive",
       "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
-      "score": 771,
-      "comments": 93,
+      "score": 897,
+      "comments": 125,
       "text": "",
-      "summary": "The Xkcd thing, now interactive. 점수 771, 반응 93 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-      "url": "https://www.ntik.me/posts/voice-agent",
-      "score": 515,
-      "comments": 150,
-      "text": "I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable). That’s with full STT → LLM → TTS in the loop, clean barge-ins, and no precomputed responses.<p>What moved the needle:<p>Voice is a turn-taking problem, not a transcription problem. VAD alone fails; you need semantic end-of-turn detection.<p>The system reduces to one loop: speaking vs listening. The two transitions - cancel instantly on barge-in, respond instantly on end-of-turn - define the experience.<p>STT → LLM → TTS must stream. Sequential pipelines are dead on arrival for natural conversation.<p>TTFT dominates everything. In voice, the first token is the critical path. Groq’s ~80ms TTFT was the single biggest win.<p>Geography matters more than prompts. Colocate everything or you lose before you start.<p>GitHub Repo: \n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;NickTikhonov&#x2F;shuo\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;NickTikhonov&#x2F;shuo</a><p>Follow whatever I next tinker with: <a href=\"https:&#x2F;&#x2F;x.com&#x2F;nick_tikhonov\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;nick_tikhonov</a>",
-      "summary": "Show HN: I built a sub-500ms latency voice agent from scratch. I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable). That’s with full STT → LLM → TTS in the loop, clean barge-ins, and no precomputed responses. 점수 515, 반응 150 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
-      "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-      "score": 501,
-      "comments": 305,
-      "text": "",
-      "summary": "Ars Technica fires reporter after AI controversy involving fabricated quotes. 점수 501, 반응 305 기준 인기 이슈입니다."
+      "summary": "The Xkcd thing, now interactive. 점수 897, 반응 125 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I'm reluctant to verify my identity or age for any online services",
       "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
-      "score": 378,
-      "comments": 208,
+      "score": 602,
+      "comments": 365,
       "text": "",
-      "summary": "I'm reluctant to verify my identity or age for any online services. 점수 378, 반응 208 기준 인기 이슈입니다."
+      "summary": "I'm reluctant to verify my identity or age for any online services. 점수 602, 반응 365 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Apple Introduces MacBook Pro with All‑New M5 Pro and M5 Max",
+      "title": "MacBook Pro with new M5 Pro and M5 Max",
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-      "score": 345,
-      "comments": 353,
+      "score": 455,
+      "comments": 442,
       "text": "",
-      "summary": "Apple Introduces MacBook Pro with All‑New M5 Pro and M5 Max. 점수 345, 반응 353 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "India's top court angry after junior judge cites fake AI-generated orders",
-      "url": "https://www.bbc.com/news/articles/c178zzw780xo",
-      "score": 284,
-      "comments": 134,
-      "text": "",
-      "summary": "India's top court angry after junior judge cites fake AI-generated orders. 점수 284, 반응 134 기준 인기 이슈입니다."
+      "summary": "MacBook Pro with new M5 Pro and M5 Max. 점수 455, 반응 442 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I'm losing the SEO battle for my own open source project",
       "url": "https://twitter.com/Gavriel_Cohen/status/2028821432759717930",
-      "score": 231,
-      "comments": 108,
+      "score": 312,
+      "comments": 152,
       "text": "",
-      "summary": "I'm losing the SEO battle for my own open source project. 점수 231, 반응 108 기준 인기 이슈입니다."
+      "summary": "I'm losing the SEO battle for my own open source project. 점수 312, 반응 152 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude's Cycles [pdf]",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "score": 285,
+      "comments": 133,
+      "text": "",
+      "summary": "Claude's Cycles [pdf]. 점수 285, 반응 133 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]",
+      "url": "https://www.youtube.com/watch?v=B3m3AMRlYfc",
+      "score": 265,
+      "comments": 39,
+      "text": "",
+      "summary": "Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]. 점수 265, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "MacBook Air with M5",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "score": 247,
+      "comments": 227,
+      "text": "",
+      "summary": "MacBook Air with M5.  점수 247, 반응 227 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Simple screw counter",
       "url": "https://mitxela.com/projects/screwcounter",
-      "score": 227,
-      "comments": 64,
+      "score": 243,
+      "comments": 66,
       "text": "",
-      "summary": "Simple screw counter. 점수 227, 반응 64 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mullvad VPN: Banned TV Ad in the Streets of London [video]",
-      "url": "https://www.youtube.com/watch?v=rwhznrpgl7k",
-      "score": 226,
-      "comments": 126,
-      "text": "",
-      "summary": "Mullvad VPN: Banned TV Ad in the Streets of London [video]. 점수 226, 반응 126 기준 인기 이슈입니다."
+      "summary": "Simple screw counter. 점수 243, 반응 66 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Arm's Cortex X925: Reaching Desktop Performance",
       "url": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
-      "score": 196,
-      "comments": 104,
+      "score": 228,
+      "comments": 123,
       "text": "",
-      "summary": "Arm's Cortex X925: Reaching Desktop Performance. 점수 196, 반응 104 기준 인기 이슈입니다."
+      "summary": "Arm's Cortex X925: Reaching Desktop Performance. 점수 228, 반응 123 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Claude's Cycles: Claude Opus 4.6 solves a problem posed by Don Knuth [pdf]",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "score": 188,
-      "comments": 97,
+      "title": "Don't become an engineering manager",
+      "url": "https://newsletter.manager.dev/p/dont-become-an-engineering-manager",
+      "score": 176,
+      "comments": 116,
       "text": "",
-      "summary": "Claude's Cycles: Claude Opus 4.6 solves a problem posed by Don Knuth [pdf]. 점수 188, 반응 97 기준 인기 이슈입니다."
+      "summary": "Don't become an engineering manager. 점수 176, 반응 116 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Most-read tech publications have lost over half their Google traffic since 2024",
+      "url": "https://growtika.com/blog/tech-media-collapse",
+      "score": 163,
+      "comments": 115,
+      "text": "",
+      "summary": "Most-read tech publications have lost over half their Google traffic since 2024. 점수 163, 반응 115 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple Studio Display and Studio Display XDR",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/",
+      "score": 145,
+      "comments": 140,
+      "text": "",
+      "summary": "Apple Studio Display and Studio Display XDR. 점수 145, 반응 140 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "x2f",
-      "count": 14
-    },
-    {
       "keyword": "platform",
-      "count": 5
-    },
-    {
-      "keyword": "prompts",
       "count": 5
     },
     {
@@ -250,19 +242,7 @@
       "count": 4
     },
     {
-      "keyword": "agent",
-      "count": 4
-    },
-    {
-      "keyword": "voice",
-      "count": 4
-    },
-    {
-      "keyword": "https",
-      "count": 4
-    },
-    {
-      "keyword": "com",
+      "keyword": "prompts",
       "count": 4
     },
     {
@@ -274,23 +254,43 @@
       "count": 3
     },
     {
-      "keyword": "claude",
-      "count": 3
-    },
-    {
       "keyword": "supabase",
       "count": 3
     },
     {
-      "keyword": "problem",
-      "count": 3
-    },
-    {
-      "keyword": "github",
-      "count": 3
-    },
-    {
       "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "own",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "build",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "building",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "diffusion",
       "count": 2
     }
   ],
