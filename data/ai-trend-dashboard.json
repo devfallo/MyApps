@@ -1,14 +1,299 @@
 {
-  "updatedAt": "2026-03-03T08:58:16.845867+00:00",
-  "status": "error",
-  "count": 0,
+  "updatedAt": "2026-03-03T11:00:25.256045+00:00",
+  "status": "ok",
+  "count": 25,
   "errors": [
-    "fetch_hn: <urlopen error Tunnel connection failed: 403 Forbidden>",
-    "fetch_github_hot: <urlopen error Tunnel connection failed: 403 Forbidden>",
-    "fetch_reddit: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    "fetch_reddit: HTTP Error 403: Blocked"
   ],
-  "highlights": [],
-  "topKeywords": [],
+  "highlights": [
+    {
+      "source": "GitHub Repos",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 251865,
+      "comments": 9709,
+      "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "summary": "Your own personal AI assistant. 점수 251865, 반응 9709 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 182179,
+      "comments": 362,
+      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182179, 반응 362 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 177296,
+      "comments": 1396,
+      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 177296, 반응 1396 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "score": 161452,
+      "comments": 2462,
+      "text": "Stable Diffusion web UI",
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161452, 반응 2462 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 149850,
+      "comments": 18,
+      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 149850, 반응 18 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 131028,
+      "comments": 790,
+      "text": "Production-ready platform for agentic workflow development.",
+      "summary": "Production-ready platform for agentic workflow development. 점수 131028, 반응 790 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "score": 128027,
+      "comments": 428,
+      "text": "The agent engineering platform",
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128027, 반응 428 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "score": 127464,
+      "comments": 132,
+      "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 127464, 반응 132 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 125547,
+      "comments": 263,
+      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 125547, 반응 263 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "score": 107419,
+      "comments": 23,
+      "text": "21 Lessons, Get Started Building with Generative AI ",
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107419, 반응 23 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "score": 104716,
+      "comments": 3780,
+      "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 104716, 반응 3780 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "score": 98435,
+      "comments": 968,
+      "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98435, 반응 968 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Motorola announces a partnership with GrapheneOS",
+      "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+      "score": 2210,
+      "comments": 807,
+      "text": "",
+      "summary": "Motorola announces a partnership with GrapheneOS. 점수 2210, 반응 807 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta’s AI smart glasses and data privacy concerns",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "score": 1112,
+      "comments": 637,
+      "text": "",
+      "summary": "Meta’s AI smart glasses and data privacy concerns. 점수 1112, 반응 637 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "British Columbia is permanently adopting daylight time",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+      "score": 846,
+      "comments": 420,
+      "text": "",
+      "summary": "British Columbia is permanently adopting daylight time. 점수 846, 반응 420 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "url": "https://www.ntik.me/posts/voice-agent",
+      "score": 426,
+      "comments": 124,
+      "text": "I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable). That’s with full STT → LLM → TTS in the loop, clean barge-ins, and no precomputed responses.<p>What moved the needle:<p>Voice is a turn-taking problem, not a transcription problem. VAD alone fails; you need semantic end-of-turn detection.<p>The system reduces to one loop: speaking vs listening. The two transitions - cancel instantly on barge-in, respond instantly on end-of-turn - define the experience.<p>STT → LLM → TTS must stream. Sequential pipelines are dead on arrival for natural conversation.<p>TTFT dominates everything. In voice, the first token is the critical path. Groq’s ~80ms TTFT was the single biggest win.<p>Geography matters more than prompts. Colocate everything or you lose before you start.<p>GitHub Repo: \n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;NickTikhonov&#x2F;shuo\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;NickTikhonov&#x2F;shuo</a><p>Follow whatever I next tinker with: <a href=\"https:&#x2F;&#x2F;x.com&#x2F;nick_tikhonov\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;nick_tikhonov</a>",
+      "summary": "Show HN: I built a sub-500ms latency voice agent from scratch. I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable). That’s with full STT → LLM → TTS in the loop, clean barge-ins, and no precomputed responses. 점수 426, 반응 124 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "New iPad Air, powered by M4",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "score": 402,
+      "comments": 629,
+      "text": "",
+      "summary": "New iPad Air, powered by M4. 점수 402, 반응 629 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
+      "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
+      "score": 346,
+      "comments": 96,
+      "text": "",
+      "summary": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering. 점수 346, 반응 96 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+      "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "score": 307,
+      "comments": 181,
+      "text": "",
+      "summary": "Ars Technica fires reporter after AI controversy involving fabricated quotes. 점수 307, 반응 181 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "score": 306,
+      "comments": 55,
+      "text": "",
+      "summary": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study. 점수 306, 반응 55 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "iPhone 17e",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
+      "score": 287,
+      "comments": 417,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.apple.com&#x2F;iphone-17e&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.apple.com&#x2F;iphone-17e&#x2F;</a>",
+      "summary": "https:&#x2F;&#x2F;www.apple.com&#x2F;iphone-17e&#x2F; 점수 287, 반응 417 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Who is hiring? (March 2026)",
+      "url": "https://news.ycombinator.com/item?id=47219668",
+      "score": 217,
+      "comments": 261,
+      "text": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don&#x27;t reply to job posts to complain about\nsomething. It&#x27;s off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;</a>,\n<a href=\"https:&#x2F;&#x2F;hnjobs.emilburzo.com\" rel=\"nofollow\">https:&#x2F;&#x2F;hnjobs.emilburzo.com</a>, or this (unofficial) Chrome extension:\n<a href=\"https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;hn-hiring-pro&#x2F;mpfaljjblphnlloddaplgicpkinikjlp\" rel=\"nofollow\">https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;hn-hiring-pro&#x2F;mpfal...</a>.<p>Don&#x27;t miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47219667\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47219667</a>",
+      "summary": "Ask HN: Who is hiring? Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. 점수 217, 반응 261 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
+      "url": "https://govbase.com",
+      "score": 194,
+      "comments": 76,
+      "text": "Govbase tracks every bill, executive order, and federal regulation from official sources (Congress.gov, Federal Register, White House). An AI pipeline breaks each one down into plain-language summaries and shows who it impacts by demographic group.<p>It also ties each policy directly to bias-rated news coverage and politician social posts on X, Bluesky, and Truth Social. You can follow a single bill from the official text to how media frames it to what your representatives are saying about it.<p>Free on web, iOS, and Android.<p><a href=\"https:&#x2F;&#x2F;govbase.com\" rel=\"nofollow\">https:&#x2F;&#x2F;govbase.com</a><p>I&#x27;d love feedback from the community, especially on the data pipeline or what policy areas&#x2F;features you feel are missing.",
+      "summary": "Show HN: Govbase – Follow a bill from source text to news bias to social posts. Govbase tracks every bill, executive order, and federal regulation from official sources (Congress.gov, Federal Register, White House). An AI pipeline breaks each one down into plain-language summaries and shows who it impacts by demographic group. 점수 194, 반응 76 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Elevated Errors in Claude.ai",
+      "url": "https://status.claude.com/incidents/yf48hzysrvl5",
+      "score": 155,
+      "comments": 131,
+      "text": "",
+      "summary": "Elevated Errors in Claude.ai. 점수 155, 반응 131 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Simple screw counter",
+      "url": "https://mitxela.com/projects/screwcounter",
+      "score": 148,
+      "comments": 38,
+      "text": "",
+      "summary": "Simple screw counter. 점수 148, 반응 38 기준 인기 이슈입니다."
+    }
+  ],
+  "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 55
+    },
+    {
+      "keyword": "https",
+      "count": 14
+    },
+    {
+      "keyword": "com",
+      "count": 14
+    },
+    {
+      "keyword": "href",
+      "count": 8
+    },
+    {
+      "keyword": "rel",
+      "count": 7
+    },
+    {
+      "keyword": "nofollow",
+      "count": 7
+    },
+    {
+      "keyword": "platform",
+      "count": 5
+    },
+    {
+      "keyword": "prompts",
+      "count": 5
+    },
+    {
+      "keyword": "github",
+      "count": 5
+    },
+    {
+      "keyword": "please",
+      "count": 5
+    },
+    {
+      "keyword": "x27",
+      "count": 5
+    },
+    {
+      "keyword": "code",
+      "count": 4
+    },
+    {
+      "keyword": "agent",
+      "count": 4
+    },
+    {
+      "keyword": "voice",
+      "count": 4
+    },
+    {
+      "keyword": "remote",
+      "count": 4
+    }
+  ],
   "meta": {
     "llmEnabled": false,
     "sources": [
