@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AI 기술/트렌드 핫이슈 요약</title>
+  <link rel="stylesheet" href="../../assets/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <a class="back" href="../../">← 포털 홈으로</a>
+    <h1>🧠 AI 기술/트렌드 핫이슈 요약 대시보드</h1>
+
+    <section class="panel">
+      <p id="meta" class="small">데이터를 불러오는 중...</p>
+      <p class="small">수집 소스: Hacker News / GitHub Trending / Reddit r/programming</p>
+    </section>
+
+    <section class="panel">
+      <h2>지금 많이 나오는 키워드</h2>
+      <div id="keyword-chips" class="chip-wrap"></div>
+    </section>
+
+    <section class="panel">
+      <h2>핫이슈 피드</h2>
+      <ul id="trend-list" class="hot-list"></ul>
+      <p id="empty" class="small" hidden>표시할 데이터가 없습니다.</p>
+    </section>
+  </div>
+
+<script>
+const trendList = document.getElementById('trend-list');
+const keywordWrap = document.getElementById('keyword-chips');
+const metaEl = document.getElementById('meta');
+const emptyEl = document.getElementById('empty');
+
+function formatDate(iso) {
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return '업데이트 정보 없음';
+  return date.toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' }) + ' (KST)';
+}
+
+function renderKeywords(keywords) {
+  if (!keywords?.length) {
+    keywordWrap.innerHTML = '<p class="small">키워드 데이터가 없습니다.</p>';
+    return;
+  }
+
+  keywordWrap.innerHTML = keywords
+    .map((k) => `<span class="stat-chip">#${k.keyword} (${k.count})</span>`)
+    .join('');
+}
+
+function renderHighlights(items) {
+  if (!items?.length) {
+    emptyEl.hidden = false;
+    return;
+  }
+
+  const frag = document.createDocumentFragment();
+  items.forEach((item, idx) => {
+    const li = document.createElement('li');
+    li.className = 'hot-item';
+
+    const title = document.createElement('a');
+    title.href = item.url;
+    title.target = '_blank';
+    title.rel = 'noreferrer';
+    title.textContent = `${idx + 1}. [${item.source}] ${item.title}`;
+
+    const score = document.createElement('div');
+    score.className = 'small';
+    score.textContent = `점수 ${item.score ?? 0} · 댓글 ${item.comments ?? 0}`;
+
+    const summary = document.createElement('p');
+    summary.className = 'summary-text';
+    summary.textContent = item.summary || '요약 정보 없음';
+
+    li.append(title, score, summary);
+    frag.appendChild(li);
+  });
+
+  trendList.appendChild(frag);
+}
+
+(async () => {
+  try {
+    const res = await fetch(`../../data/ai-trend-dashboard.json?t=${Date.now()}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+
+    metaEl.textContent = `최근 수집: ${formatDate(data.updatedAt)} · 총 ${data.count || 0}건 · LLM요약: ${data.meta?.llmEnabled ? 'ON' : 'OFF(추출요약)'}`;
+    renderKeywords(data.topKeywords || []);
+    renderHighlights(data.highlights || []);
+  } catch (err) {
+    metaEl.textContent = `데이터 로딩 실패: ${err.message}`;
+    emptyEl.hidden = false;
+  }
+})();
+</script>
+</body>
+</html>

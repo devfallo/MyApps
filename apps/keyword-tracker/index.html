@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>관심 키워드 트래커</title>
+  <link rel="stylesheet" href="../../assets/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <a class="back" href="../../">← 포털 홈으로</a>
+    <h1>🔔 관심사 맞춤형 키워드 트래커</h1>
+
+    <section class="panel">
+      <p id="meta" class="small">데이터를 불러오는 중...</p>
+      <p class="small">알림 채널: Telegram Bot API 또는 Slack/Discord Webhook (GitHub Actions에서 호출)</p>
+    </section>
+
+    <section class="panel">
+      <h2>등록 키워드</h2>
+      <div id="tracked-keywords" class="chip-wrap"></div>
+    </section>
+
+    <section class="panel">
+      <h2>최근 많이 언급된 키워드</h2>
+      <ol id="keyword-stats" class="stats-list"></ol>
+    </section>
+
+    <section class="panel">
+      <h2>감지 히스토리</h2>
+      <ul id="history-list" class="hot-list"></ul>
+      <p id="empty" class="small" hidden>감지된 키워드 게시글이 없습니다.</p>
+    </section>
+  </div>
+
+<script>
+const metaEl = document.getElementById('meta');
+const keywordEl = document.getElementById('tracked-keywords');
+const statsEl = document.getElementById('keyword-stats');
+const historyEl = document.getElementById('history-list');
+const emptyEl = document.getElementById('empty');
+
+function formatDate(iso) {
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return '업데이트 정보 없음';
+  return date.toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' }) + ' (KST)';
+}
+
+function renderKeywords(keywords) {
+  if (!keywords?.length) {
+    keywordEl.innerHTML = '<p class="small">등록된 키워드가 없습니다.</p>';
+    return;
+  }
+  keywordEl.innerHTML = keywords.map((k) => `<span class="stat-chip">${k}</span>`).join('');
+}
+
+function renderStats(stats) {
+  if (!stats?.length) {
+    statsEl.innerHTML = '<li class="small">통계 데이터가 없습니다.</li>';
+    return;
+  }
+  statsEl.innerHTML = stats.map((row) => `<li>${row.keyword} <strong>(${row.count})</strong></li>`).join('');
+}
+
+function renderHistory(items) {
+  if (!items?.length) {
+    emptyEl.hidden = false;
+    return;
+  }
+  historyEl.innerHTML = items.slice(0, 30).map((item) => `
+    <li class="hot-item">
+      <a href="${item.url}" target="_blank" rel="noreferrer">[${item.source}] ${item.title}</a>
+      <div class="small">키워드: ${item.keywords.join(', ')} · 감지: ${formatDate(item.detectedAt)}</div>
+    </li>
+  `).join('');
+}
+
+(async () => {
+  try {
+    const res = await fetch(`../../data/keyword-tracker.json?t=${Date.now()}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+
+    const noti = (data.notifications || []).map((n) => `${n.channel}:${n.status}`).join(' / ') || 'none';
+    metaEl.textContent = `최근 스캔: ${formatDate(data.updatedAt)} · 스캔 ${data.scannedCount || 0}건 · 신규매치 ${data.newMatchCount || 0}건 · 알림 ${noti}`;
+
+    renderKeywords(data.keywords || []);
+    renderStats(data.keywordStats || []);
+    renderHistory(data.matchHistory || []);
+  } catch (err) {
+    metaEl.textContent = `데이터 로딩 실패: ${err.message}`;
+    emptyEl.hidden = false;
+  }
+})();
+</script>
+</body>
+</html>
