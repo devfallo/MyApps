@@ -1,0 +1,20 @@
+{
+  "updatedAt": "2026-03-03T08:58:16.845867+00:00",
+  "status": "error",
+  "count": 0,
+  "errors": [
+    "fetch_hn: <urlopen error Tunnel connection failed: 403 Forbidden>",
+    "fetch_github_hot: <urlopen error Tunnel connection failed: 403 Forbidden>",
+    "fetch_reddit: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  ],
+  "highlights": [],
+  "topKeywords": [],
+  "meta": {
+    "llmEnabled": false,
+    "sources": [
+      "Hacker News",
+      "GitHub API",
+      "Reddit /r/programming"
+    ]
+  }
+}
