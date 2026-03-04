@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-04T17:03:11.885137+00:00",
+  "updatedAt": "2026-03-04T19:07:40.844477+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 259693,
-      "comments": 10769,
+      "score": 259872,
+      "comments": 10909,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 259693, 반응 10769 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 259872, 반응 10909 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182190,
+      "score": 182189,
       "comments": 353,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182190, 반응 353 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182189, 반응 353 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 177553,
-      "comments": 1405,
+      "score": 177560,
+      "comments": 1407,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 177553, 반응 1405 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 177560, 반응 1407 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,193 +46,197 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 150013,
+      "score": 150020,
       "comments": 20,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 150013, 반응 20 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 150020, 반응 20 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 131190,
+      "score": 131193,
       "comments": 807,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 131190, 반응 807 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 131193, 반응 807 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 128222,
-      "comments": 445,
+      "score": 128227,
+      "comments": 446,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128222, 반응 445 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128227, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 127825,
+      "score": 127846,
       "comments": 124,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 127825, 반응 124 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 127846, 반응 124 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 125711,
-      "comments": 292,
+      "score": 125727,
+      "comments": 297,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 125711, 반응 292 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 125727, 반응 297 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 107499,
-      "comments": 24,
+      "score": 107503,
+      "comments": 25,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107499, 반응 24 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107503, 반응 25 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 104849,
-      "comments": 3782,
+      "score": 104853,
+      "comments": 3784,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 104849, 반응 3782 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 104853, 반응 3784 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 98528,
-      "comments": 969,
+      "score": 98530,
+      "comments": 968,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98528, 반응 969 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98530, 반응 968 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
       "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-      "score": 1064,
-      "comments": 425,
+      "score": 1139,
+      "comments": 461,
       "text": "",
-      "summary": "Motorola GrapheneOS devices will be bootloader unlockable/relockable. 점수 1064, 반응 425 기준 인기 이슈입니다."
+      "summary": "Motorola GrapheneOS devices will be bootloader unlockable/relockable. 점수 1139, 반응 461 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Claude's Cycles [pdf]",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "score": 727,
-      "comments": 306,
-      "text": "",
-      "summary": "Claude's Cycles [pdf]. 점수 727, 반응 306 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apple Introduces MacBook Neo",
+      "title": "MacBook Neo",
       "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
-      "score": 516,
-      "comments": 519,
-      "text": "",
-      "summary": "Apple Introduces MacBook Neo. 점수 516, 반응 519 기준 인기 이슈입니다."
+      "score": 951,
+      "comments": 1248,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.apple.com&#x2F;macbook-neo&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.apple.com&#x2F;macbook-neo&#x2F;</a>",
+      "summary": "https:&#x2F;&#x2F;www.apple.com&#x2F;macbook-neo&#x2F; 점수 951, 반응 1248 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nobody Gets Promoted for Simplicity",
       "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
-      "score": 504,
-      "comments": 291,
+      "score": 627,
+      "comments": 372,
       "text": "",
-      "summary": "Nobody Gets Promoted for Simplicity. 점수 504, 반응 291 기준 인기 이슈입니다."
+      "summary": "Nobody Gets Promoted for Simplicity. 점수 627, 반응 372 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Agentic Engineering Patterns",
       "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-      "score": 352,
-      "comments": 198,
+      "score": 404,
+      "comments": 224,
       "text": "",
-      "summary": "Agentic Engineering Patterns. 점수 352, 반응 198 기준 인기 이슈입니다."
+      "summary": "Agentic Engineering Patterns. 점수 404, 반응 224 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Bet on German Train Delays",
-      "url": "https://bahn.bet",
-      "score": 242,
-      "comments": 159,
+      "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+      "url": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+      "score": 345,
+      "comments": 337,
       "text": "",
-      "summary": "Bet on German Train Delays. 점수 242, 반응 159 기준 인기 이슈입니다."
+      "summary": "TikTok will not introduce end-to-end encryption, saying it makes users less safe. 점수 345, 반응 337 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Something is afoot in the land of Qwen",
+      "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+      "score": 256,
+      "comments": 107,
+      "text": "",
+      "summary": "Something is afoot in the land of Qwen. 점수 256, 반응 107 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Government grant-funded research should not be published in for-profit journals",
+      "url": "https://www.experimental-history.com/p/the-one-science-reform-we-can-all",
+      "score": 250,
+      "comments": 120,
+      "text": "",
+      "summary": "Government grant-funded research should not be published in for-profit journals. 점수 250, 반응 120 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RFC 9849. TLS Encrypted Client Hello",
       "url": "https://www.rfc-editor.org/rfc/rfc9849.html",
-      "score": 205,
-      "comments": 96,
+      "score": 227,
+      "comments": 113,
       "text": "",
-      "summary": "TLS Encrypted Client Hello. 점수 205, 반응 96 기준 인기 이슈입니다."
+      "summary": "TLS Encrypted Client Hello. 점수 227, 반응 113 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A CPU that runs entirely on GPU",
       "url": "https://github.com/robertcprice/nCPU",
-      "score": 191,
-      "comments": 92,
+      "score": 210,
+      "comments": 103,
       "text": "",
-      "summary": "A CPU that runs entirely on GPU. 점수 191, 반응 92 기준 인기 이슈입니다."
+      "summary": "A CPU that runs entirely on GPU. 점수 210, 반응 103 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Graphics Programming Resources",
-      "url": "https://develop--gpvm-website.netlify.app/resources/",
-      "score": 159,
-      "comments": 16,
+      "title": "“It turns out” (2010)",
+      "url": "https://jsomers.net/blog/it-turns-out",
+      "score": 164,
+      "comments": 62,
       "text": "",
-      "summary": "Graphics Programming Resources. 점수 159, 반응 16 기준 인기 이슈입니다."
+      "summary": "“It turns out” (2010). 점수 164, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RE#: how we built the fastest regex engine in F#",
       "url": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/",
-      "score": 133,
-      "comments": 50,
+      "score": 162,
+      "comments": 56,
       "text": "",
-      "summary": "RE#: how we built the fastest regex engine in F#. 점수 133, 반응 50 기준 인기 이슈입니다."
+      "summary": "RE#: how we built the fastest regex engine in F#. 점수 162, 반응 56 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The one science reform we can all agree on, but we're too cowardly to do",
-      "url": "https://www.experimental-history.com/p/the-one-science-reform-we-can-all",
-      "score": 130,
-      "comments": 72,
+      "title": "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation",
+      "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+      "score": 158,
+      "comments": 45,
       "text": "",
-      "summary": "The one science reform we can all agree on, but we're too cowardly to do. 점수 130, 반응 72 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Stacked Game of Life",
-      "url": "https://stacked-game-of-life.koenvangilst.nl/",
-      "score": 125,
-      "comments": 24,
-      "text": "",
-      "summary": "Show HN: Stacked Game of Life. 점수 125, 반응 24 기준 인기 이슈입니다."
+      "summary": "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation. 점수 158, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Glaze by Raycast",
       "url": "https://www.glazeapp.com/",
-      "score": 121,
-      "comments": 66,
+      "score": 142,
+      "comments": 83,
       "text": "",
-      "summary": "Glaze by Raycast.  점수 121, 반응 66 기준 인기 이슈입니다."
+      "summary": "Glaze by Raycast.  점수 142, 반응 83 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 8
+    },
     {
       "keyword": "platform",
       "count": 5
@@ -267,10 +271,6 @@
     },
     {
       "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "can",
       "count": 2
     },
     {
