@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-05T18:22:03.377541+00:00",
+  "updatedAt": "2026-03-05T20:53:31.292702+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,235 +10,267 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 265023,
-      "comments": 12162,
+      "score": 265158,
+      "comments": 12226,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 265023, 반응 12162 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 265158, 반응 12226 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "score": 182199,
-      "comments": 348,
+      "comments": 344,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182199, 반응 348 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182199, 반응 344 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 177715,
-      "comments": 1425,
+      "score": 177738,
+      "comments": 1419,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 177715, 반응 1425 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 177738, 반응 1419 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
       "score": 161504,
-      "comments": 2463,
+      "comments": 2465,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161504, 반응 2463 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161504, 반응 2465 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 150134,
+      "score": 150153,
       "comments": 12,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 150134, 반응 12 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 150153, 반응 12 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 131331,
+      "score": 131334,
       "comments": 814,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 131331, 반응 814 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 131334, 반응 814 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 128354,
+      "score": 128365,
       "comments": 446,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128354, 반응 446 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128365, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 128270,
+      "score": 128325,
       "comments": 126,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 128270, 반응 126 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 128325, 반응 126 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 125856,
-      "comments": 306,
+      "score": 125863,
+      "comments": 311,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 125856, 반응 306 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 125863, 반응 311 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 107554,
+      "score": 107558,
       "comments": 28,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107554, 반응 28 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107558, 반응 28 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 104947,
-      "comments": 3792,
+      "score": 104948,
+      "comments": 3790,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 104947, 반응 3792 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 104948, 반응 3790 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 98572,
-      "comments": 969,
+      "score": 98578,
+      "comments": 970,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98572, 반응 969 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98578, 반응 970 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google Workspace CLI",
       "url": "https://github.com/googleworkspace/cli",
-      "score": 831,
-      "comments": 266,
+      "score": 866,
+      "comments": 273,
       "text": "",
-      "summary": "Google Workspace CLI. 점수 831, 반응 266 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Something is afoot in the land of Qwen",
-      "url": "https://simonwillison.net/2026/Mar/4/qwen/",
-      "score": 761,
-      "comments": 334,
-      "text": "",
-      "summary": "Something is afoot in the land of Qwen. 점수 761, 반응 334 기준 인기 이슈입니다."
+      "summary": "Google Workspace CLI. 점수 866, 반응 273 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Building a new Flash",
       "url": "https://bill.newgrounds.com/news/post/1607118",
-      "score": 664,
-      "comments": 223,
+      "score": 697,
+      "comments": 226,
       "text": "",
-      "summary": "Building a new Flash. 점수 664, 반응 223 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Judge orders government to begin refunding more than $130B in tariffs",
-      "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
-      "score": 649,
-      "comments": 488,
-      "text": "",
-      "summary": "Judge orders government to begin refunding more than $130B in tariffs. 점수 649, 반응 488 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The L in \"LLM\" Stands for Lying",
-      "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
-      "score": 557,
-      "comments": 370,
-      "text": "",
-      "summary": "The L in \"LLM\" Stands for Lying. 점수 557, 반응 370 기준 인기 이슈입니다."
+      "summary": "Building a new Flash. 점수 697, 반응 226 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Wikipedia in read-only mode following mass admin account compromise",
       "url": "https://www.wikimediastatus.net",
-      "score": 359,
-      "comments": 106,
-      "text": "",
-      "summary": "Wikipedia in read-only mode following mass admin account compromise. 점수 359, 반응 106 기준 인기 이슈입니다."
+      "score": 677,
+      "comments": 211,
+      "text": "<a href=\"https:&#x2F;&#x2F;wikipediocracy.com&#x2F;forum&#x2F;viewtopic.php?f=8&amp;t=14555\" rel=\"nofollow\">https:&#x2F;&#x2F;wikipediocracy.com&#x2F;forum&#x2F;viewtopic.php?f=8&amp;t=14555</a><p><a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Wikipedia:Village_pump_(technical)#Meta-Wiki_compromised\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Wikipedia:Village_pump_(techni...</a><p><a href=\"https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;wikipedia&#x2F;comments&#x2F;1rllcdg&#x2F;megathread_wikimedia_wikis_locked_accounts&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;wikipedia&#x2F;comments&#x2F;1rllcdg&#x2F;megathre...</a>",
+      "summary": "Wikipedia in read-only mode following mass admin account compromise. https:&#x2F;&#x2F;wikipediocracy.com&#x2F;forum&#x2F;viewtopic.php?f=8&amp;t=14555 https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Wikipedia:Village_pump_(techni... https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;wikipedia&#x2F;comments&#x2F;1rllcdg&#x2F;megathre... 점수 677, 반응 211 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Relicensing with AI-Assisted Rewrite",
       "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
-      "score": 319,
-      "comments": 324,
+      "score": 346,
+      "comments": 338,
       "text": "",
-      "summary": "Relicensing with AI-Assisted Rewrite. 점수 319, 반응 324 기준 인기 이슈입니다."
+      "summary": "Relicensing with AI-Assisted Rewrite. 점수 346, 반응 338 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "score": 334,
+      "comments": 306,
+      "text": "<a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;status&#x2F;2029620619743219811\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;status&#x2F;2029620619743219811</a>",
+      "summary": "https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F; https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;status&#x2F;2029620619743219811 점수 334, 반응 306 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
       "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
-      "score": 305,
-      "comments": 98,
+      "score": 334,
+      "comments": 111,
       "text": "",
-      "summary": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift. 점수 305, 반응 98 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google Safe Browsing missed 84% of confirmed phishing sites",
-      "url": "https://www.norn-labs.com/blog/huginn-report-feb-2026",
-      "score": 189,
-      "comments": 57,
-      "text": "",
-      "summary": "Google Safe Browsing missed 84% of confirmed phishing sites. 점수 189, 반응 57 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time",
-      "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
-      "score": 183,
-      "comments": 159,
-      "text": "",
-      "summary": "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time. 점수 183, 반응 159 기준 인기 이슈입니다."
+      "summary": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift. 점수 334, 반응 111 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Good software knows when to stop",
       "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
-      "score": 172,
-      "comments": 97,
+      "score": 252,
+      "comments": 146,
       "text": "",
-      "summary": "Good software knows when to stop. 점수 172, 반응 97 기준 인기 이슈입니다."
+      "summary": "Good software knows when to stop. 점수 252, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Poor Man's Polaroid",
-      "url": "https://boxart.lt/blog/poor_mans_polaroid",
-      "score": 150,
-      "comments": 48,
+      "title": "Google Safe Browsing missed 84% of confirmed phishing sites",
+      "url": "https://www.norn-labs.com/blog/huginn-report-feb-2026",
+      "score": 237,
+      "comments": 69,
       "text": "",
-      "summary": "Poor Man's Polaroid.  점수 150, 반응 48 기준 인기 이슈입니다."
+      "summary": "Google Safe Browsing missed 84% of confirmed phishing sites. 점수 237, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time",
+      "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+      "score": 208,
+      "comments": 192,
+      "text": "",
+      "summary": "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time. 점수 208, 반응 192 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A GitHub Issue Title Compromised 4k Developer Machines",
+      "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+      "score": 198,
+      "comments": 47,
+      "text": "",
+      "summary": "A GitHub Issue Title Compromised 4k Developer Machines. 점수 198, 반응 47 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Government Uses Targeted Advertising to Track Your Location",
+      "url": "https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp",
+      "score": 194,
+      "comments": 72,
+      "text": "",
+      "summary": "The Government Uses Targeted Advertising to Track Your Location. 점수 194, 반응 72 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Jido 2.0, Elixir Agent Framework",
       "url": "https://jido.run/blog/jido-2-0-is-here",
-      "score": 121,
-      "comments": 33,
+      "score": 190,
+      "comments": 39,
       "text": "Hi HN!<p>I&#x27;m the author of an Elixir Agent Framework called Jido. We reached our 2.0 release this week, shipping a production-hardened framework to build, manage and run Agents on the BEAM.<p>Jido now supports a host of Agentic features, including:<p>- Tool Calling and Agent Skills\n- Comprehensive multi-agent support across distributed BEAM processes with Supervision\n- Multiple reasoning strategies including ReAct, Chain of Thought, Tree of Thought, and more\n- Advanced workflow capabilities\n- Durability through a robust Storage and Persistence layer\n- Agentic Memory\n- MCP and Sensors to interface with external services\n- Deep observability and debugging capabilities, including full stack OTel<p>I know Agent Frameworks can be considered a bit stale, but there hasn&#x27;t been a major release of a framework on the BEAM.  With a growing realization that the architecture of the BEAM is a good match for Agentic workloads, the time was right to make the announcement.<p>My background is enterprise engineering, distributed systems and Open Source. We&#x27;ve got a strong and growing community of builders committed to the Jido ecosystem.  We&#x27;re looking forward to what gets built on top of Jido!<p>Come build agents with us!",
-      "summary": "Show HN: Jido 2.0, Elixir Agent Framework. I&#x27;m the author of an Elixir Agent Framework called Jido. We reached our 2.0 release this week, shipping a production-hardened framework to build, manage and run Agents on the BEAM. 점수 121, 반응 33 기준 인기 이슈입니다."
+      "summary": "Show HN: Jido 2.0, Elixir Agent Framework. I&#x27;m the author of an Elixir Agent Framework called Jido. We reached our 2.0 release this week, shipping a production-hardened framework to build, manage and run Agents on the BEAM. 점수 190, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pentagon Formally Labels Anthropic Supply-Chain Risk",
+      "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+      "score": 177,
+      "comments": 69,
+      "text": "",
+      "summary": "Pentagon Formally Labels Anthropic Supply-Chain Risk. 점수 177, 반응 69 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 51
+    },
+    {
+      "keyword": "https",
+      "count": 10
+    },
+    {
+      "keyword": "com",
+      "count": 8
+    },
+    {
+      "keyword": "wikipedia",
+      "count": 7
+    },
     {
       "keyword": "agent",
       "count": 6
     },
     {
       "keyword": "platform",
+      "count": 5
+    },
+    {
+      "keyword": "openai",
+      "count": 5
+    },
+    {
+      "keyword": "href",
+      "count": 5
+    },
+    {
+      "keyword": "rel",
+      "count": 5
+    },
+    {
+      "keyword": "nofollow",
       "count": 5
     },
     {
@@ -260,38 +292,6 @@
     {
       "keyword": "agentic",
       "count": 4
-    },
-    {
-      "keyword": "framework",
-      "count": 4
-    },
-    {
-      "keyword": "x27",
-      "count": 4
-    },
-    {
-      "keyword": "beam",
-      "count": 4
-    },
-    {
-      "keyword": "workflow",
-      "count": 3
-    },
-    {
-      "keyword": "capabilities",
-      "count": 3
-    },
-    {
-      "keyword": "building",
-      "count": 3
-    },
-    {
-      "keyword": "open",
-      "count": 3
-    },
-    {
-      "keyword": "interface",
-      "count": 3
     }
   ],
   "meta": {
