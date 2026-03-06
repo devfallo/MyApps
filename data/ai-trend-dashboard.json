@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T16:59:42.888859+00:00",
+  "updatedAt": "2026-03-06T19:03:51.935146+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 270415,
-      "comments": 13219,
+      "score": 270612,
+      "comments": 10550,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 270415, 반응 13219 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 270612, 반응 10550 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182218,
-      "comments": 347,
+      "score": 182220,
+      "comments": 346,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182218, 반응 347 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182220, 반응 346 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 177883,
-      "comments": 1406,
+      "score": 177894,
+      "comments": 1407,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 177883, 반응 1406 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 177894, 반응 1407 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,203 +46,207 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 150351,
+      "score": 150355,
       "comments": 12,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 150351, 반응 12 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 150355, 반응 12 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 131463,
-      "comments": 795,
+      "score": 131467,
+      "comments": 796,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 131463, 반응 795 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 131467, 반응 796 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 128896,
+      "score": 128942,
       "comments": 126,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 128896, 반응 126 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 128942, 반응 126 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 128462,
-      "comments": 455,
+      "score": 128472,
+      "comments": 457,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128462, 반응 455 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128472, 반응 457 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 125978,
-      "comments": 330,
+      "score": 125986,
+      "comments": 337,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 125978, 반응 330 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 125986, 반응 337 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 107602,
+      "score": 107610,
       "comments": 2,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107602, 반응 2 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107610, 반응 2 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 105024,
-      "comments": 3790,
+      "score": 105029,
+      "comments": 3789,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 105024, 반응 3790 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 105029, 반응 3789 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 98619,
-      "comments": 955,
+      "score": 98622,
+      "comments": 954,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98619, 반응 955 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98622, 반응 954 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GPT-5.4",
       "url": "https://openai.com/index/introducing-gpt-5-4/",
-      "score": 942,
-      "comments": 737,
+      "score": 961,
+      "comments": 754,
       "text": "<a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;status&#x2F;2029620619743219811\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;status&#x2F;2029620619743219811</a>",
-      "summary": "https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F; https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;status&#x2F;2029620619743219811 점수 942, 반응 737 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "10% of Firefox crashes are caused by bitflips",
-      "url": "https://mas.to/@gabrielesvelto/116171750653898304",
-      "score": 818,
-      "comments": 406,
-      "text": "",
-      "summary": "10% of Firefox crashes are caused by bitflips. 점수 818, 반응 406 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F; https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;status&#x2F;2029620619743219811 점수 961, 반응 754 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "System76 on Age Verification Laws",
       "url": "https://blog.system76.com/post/system76-on-age-verification/",
-      "score": 682,
-      "comments": 452,
+      "score": 736,
+      "comments": 535,
       "text": "",
-      "summary": "System76 on Age Verification Laws. 점수 682, 반응 452 기준 인기 이슈입니다."
+      "summary": "System76 on Age Verification Laws. 점수 736, 반응 535 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Where things stand with the Department of War",
-      "url": "https://www.anthropic.com/news/where-stand-department-war",
-      "score": 575,
-      "comments": 673,
+      "title": "Global warming has accelerated significantly",
+      "url": "https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly",
+      "score": 706,
+      "comments": 672,
       "text": "",
-      "summary": "Where things stand with the Department of War. 점수 575, 반응 673 기준 인기 이슈입니다."
+      "summary": "Global warming has accelerated significantly. 점수 706, 반응 672 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A GitHub Issue Title Compromised 4k Developer Machines",
       "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
-      "score": 558,
-      "comments": 178,
+      "score": 588,
+      "comments": 181,
       "text": "Original report: <a href=\"https:&#x2F;&#x2F;adnanthekhan.com&#x2F;posts&#x2F;clinejection&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;adnanthekhan.com&#x2F;posts&#x2F;clinejection&#x2F;</a>",
-      "summary": "A GitHub Issue Title Compromised 4k Developer Machines. Original report: https:&#x2F;&#x2F;adnanthekhan.com&#x2F;posts&#x2F;clinejection&#x2F; 점수 558, 반응 178 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Good software knows when to stop",
-      "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
-      "score": 510,
-      "comments": 257,
-      "text": "",
-      "summary": "Good software knows when to stop. 점수 510, 반응 257 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Global Warming Has Accelerated Significantly",
-      "url": "https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly",
-      "score": 493,
-      "comments": 414,
-      "text": "",
-      "summary": "Global Warming Has Accelerated Significantly. 점수 493, 반응 414 기준 인기 이슈입니다."
+      "summary": "A GitHub Issue Title Compromised 4k Developer Machines. Original report: https:&#x2F;&#x2F;adnanthekhan.com&#x2F;posts&#x2F;clinejection&#x2F; 점수 588, 반응 181 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Brand Age",
       "url": "https://paulgraham.com/brandage.html",
-      "score": 416,
-      "comments": 332,
+      "score": 439,
+      "comments": 343,
       "text": "",
-      "summary": "The Brand Age.  점수 416, 반응 332 기준 인기 이슈입니다."
+      "summary": "The Brand Age.  점수 439, 반응 343 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "US economy unexpectedly sheds 92,000 jobs in February",
-      "url": "https://www.bbc.com/news/articles/cjd98091g28o",
-      "score": 337,
-      "comments": 375,
-      "text": "",
-      "summary": "US economy unexpectedly sheds 92,000 jobs in February. 점수 337, 반응 375 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Labor market impacts of AI: A new measure and early evidence",
-      "url": "https://www.anthropic.com/research/labor-market-impacts",
-      "score": 283,
-      "comments": 444,
-      "text": "",
-      "summary": "Labor market impacts of AI: A new measure and early evidence. 점수 283, 반응 444 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Workers who love 'synergizing paradigms' might be bad at their jobs",
+      "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
       "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
-      "score": 272,
-      "comments": 157,
+      "score": 386,
+      "comments": 213,
       "text": "",
-      "summary": "Workers who love 'synergizing paradigms' might be bad at their jobs. 점수 272, 반응 157 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
-      "url": "https://406.fail/",
-      "score": 263,
-      "comments": 91,
-      "text": "",
-      "summary": "A standard protocol to handle and discard low-effort, AI-Generated pull requests. 점수 263, 반응 91 기준 인기 이슈입니다."
+      "summary": "Workers who love ‘synergizing paradigms’ might be bad at their jobs. 점수 386, 반응 213 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Hardening Firefox with Anthropic's Red Team",
       "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-      "score": 215,
-      "comments": 67,
+      "score": 289,
+      "comments": 94,
       "text": "",
-      "summary": "Hardening Firefox with Anthropic's Red Team. 점수 215, 반응 67 기준 인기 이슈입니다."
+      "summary": "Hardening Firefox with Anthropic's Red Team. 점수 289, 반응 94 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Payphone Go",
+      "url": "https://walzr.com/payphone-go/",
+      "score": 202,
+      "comments": 45,
+      "text": "",
+      "summary": "Payphone Go.  점수 202, 반응 45 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LibreSprite – open-source pixel art editor",
+      "url": "https://libresprite.github.io/",
+      "score": 195,
+      "comments": 72,
+      "text": "",
+      "summary": "LibreSprite – open-source pixel art editor. 점수 195, 반응 72 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
+      "url": "https://dev.moment.com/",
+      "score": 160,
+      "comments": 53,
+      "text": "We built an ant colony simulation as an internal hiring challenge at Moment and decided to open it up publicly.<p>You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. Each ant can sense nearby cells (food, pheromones, home, other ants) but has no global view. The only coordination mechanism is pheromone trails, which ants can emit and sense them, but that&#x27;s it. Your program runs identically on every ant.<p>The goal is to collect the highest percentage of food across a set of maps. Different map layouts (clustered food, scattered, obstacles) reward very different strategies. The leaderboard is live.<p>Grand prize is a trip to Maui for two paid for by Moment. Challenge closes March 12.<p>Curious what strategies people discover. We&#x27;ve seen some surprisingly clever emergent behavior internally.",
+      "summary": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language. We built an ant colony simulation as an internal hiring challenge at Moment and decided to open it up publicly. You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. 점수 160, 반응 53 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+      "url": "https://github.com/moongate-community/moongatev2",
+      "score": 149,
+      "comments": 83,
+      "text": "I&#x27;ve been building a modern Ultima Online server emulator from scratch. It&#x27;s not feature-complete (no combat, no skills yet), but the foundation is solid and I wanted to share it early.<p>What it does today:\n- Full packet layer for the classic UO client (login, movement, items, mobiles)\n- Lua scripting for item behaviors (double-click a potion, open a door — all defined in Lua, no C# recompile)\n- Spatial world partitioned into sectors with delta sync (only sends packets for new sectors when crossing boundaries)\n- Snapshot-based persistence with MessagePack\n- Source generators for automatic DI wiring, packet handler registration, and Lua module exposure\n- NativeAOT support — the server compiles to a single native binary\n- Embedded HTTP admin API + React management UI\n- Auto-generated doors from map statics (same algorithm as ModernUO&#x2F;RunUO)<p>Tech stack: .NET 10, NativeAOT, NLua, MessagePack, DryIoc, Kestrel<p>What&#x27;s missing: Combat, skills, weather integration, NPC AI. This is still early — the focus so far has been on getting the architecture right so adding those systems doesn&#x27;t require rewiring everything.<p>Why not just use ModernUO&#x2F;RunUO? Those are mature and battle-tested. I started this because I wanted to rethink the architecture from scratch: strict network&#x2F;domain separation, event-driven game loop, no\n  inheritance-heavy item hierarchies, and Lua for rapid iteration on game logic without recompiling.<p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;moongate-community&#x2F;moongatev2\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;moongate-community&#x2F;moongatev2</a>",
+      "summary": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting. I&#x27;ve been building a modern Ultima Online server emulator from scratch. It&#x27;s not feature-complete (no combat, no skills yet), but the foundation is solid and I wanted to share it early. 점수 149, 반응 83 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "CT Scans of Health Wearables",
+      "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+      "score": 123,
+      "comments": 18,
+      "text": "",
+      "summary": "CT Scans of Health Wearables. 점수 123, 반응 18 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Open Camera is a FOSS Camera App for Android",
+      "url": "https://opencamera.org.uk/",
+      "score": 115,
+      "comments": 53,
+      "text": "",
+      "summary": "Open Camera is a FOSS Camera App for Android. 점수 115, 반응 53 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 30
+      "count": 41
     },
     {
       "keyword": "https",
-      "count": 6
+      "count": 8
     },
     {
       "keyword": "com",
+      "count": 8
+    },
+    {
+      "keyword": "x27",
       "count": 6
     },
     {
@@ -250,7 +254,15 @@
       "count": 5
     },
     {
+      "keyword": "open",
+      "count": 5
+    },
+    {
       "keyword": "openai",
+      "count": 5
+    },
+    {
+      "keyword": "lua",
       "count": 5
     },
     {
@@ -262,36 +274,24 @@
       "count": 4
     },
     {
-      "keyword": "supabase",
-      "count": 3
-    },
-    {
       "keyword": "href",
-      "count": 3
+      "count": 4
     },
     {
       "keyword": "rel",
-      "count": 3
+      "count": 4
     },
     {
       "keyword": "nofollow",
-      "count": 3
+      "count": 4
     },
     {
-      "keyword": "openclaw",
-      "count": 2
+      "keyword": "github",
+      "count": 4
     },
     {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
+      "keyword": "ants",
+      "count": 4
     }
   ],
   "meta": {
