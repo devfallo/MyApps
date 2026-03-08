@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T14:43:07.576591+00:00",
+  "updatedAt": "2026-03-08T16:46:04.511897+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,10 +10,10 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 279155,
-      "comments": 10935,
+      "score": 279679,
+      "comments": 10997,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 279155, 반응 10935 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 279679, 반응 10997 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -28,10 +28,10 @@
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 178110,
-      "comments": 1399,
+      "score": 178119,
+      "comments": 1401,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 178110, 반응 1399 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 178119, 반응 1401 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,190 +46,190 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 150751,
+      "score": 150768,
       "comments": 13,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 150751, 반응 13 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 150768, 반응 13 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 131612,
-      "comments": 801,
+      "score": 131619,
+      "comments": 799,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 131612, 반응 801 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 131619, 반응 799 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 129476,
+      "score": 129496,
       "comments": 129,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 129476, 반응 129 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 129496, 반응 129 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 128618,
-      "comments": 489,
+      "score": 128626,
+      "comments": 490,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128618, 반응 489 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128626, 반응 490 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 126189,
-      "comments": 272,
+      "score": 126203,
+      "comments": 275,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 126189, 반응 272 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 126203, 반응 275 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 107670,
+      "score": 107679,
       "comments": 4,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107670, 반응 4 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107679, 반응 4 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 105191,
-      "comments": 3794,
+      "score": 105203,
+      "comments": 3796,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 105191, 반응 3794 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 105203, 반응 3796 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 98695,
-      "comments": 967,
+      "score": 98704,
+      "comments": 968,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98695, 반응 967 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98704, 반응 968 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Yoghurt delivery women combatting loneliness in Japan",
       "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
-      "score": 340,
-      "comments": 178,
+      "score": 350,
+      "comments": 192,
       "text": "",
-      "summary": "Yoghurt delivery women combatting loneliness in Japan. 점수 340, 반응 178 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A decade of Docker containers",
-      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-      "score": 326,
-      "comments": 226,
-      "text": "",
-      "summary": "A decade of Docker containers. 점수 326, 반응 226 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "CasNum",
-      "url": "https://github.com/0x0mer/CasNum",
-      "score": 308,
-      "comments": 38,
-      "text": "",
-      "summary": "CasNum.  점수 308, 반응 38 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cloud VM benchmarks 2026",
-      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-      "score": 284,
-      "comments": 128,
-      "text": "",
-      "summary": "Cloud VM benchmarks 2026. 점수 284, 반응 128 기준 인기 이슈입니다."
+      "summary": "Yoghurt delivery women combatting loneliness in Japan. 점수 350, 반응 192 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How to run Qwen 3.5 locally",
       "url": "https://unsloth.ai/docs/models/qwen3.5",
-      "score": 275,
-      "comments": 85,
+      "score": 340,
+      "comments": 104,
       "text": "",
-      "summary": "How to run Qwen 3.5 locally. 점수 275, 반응 85 기준 인기 이슈입니다."
+      "summary": "How to run Qwen 3.5 locally. 점수 340, 반응 104 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Files are the interface humans and agents interact with",
-      "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
-      "score": 261,
-      "comments": 126,
+      "title": "A decade of Docker containers",
+      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+      "score": 335,
+      "comments": 239,
       "text": "",
-      "summary": "Files are the interface humans and agents interact with. 점수 261, 반응 126 기준 인기 이슈입니다."
+      "summary": "A decade of Docker containers. 점수 335, 반응 239 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "CasNum",
+      "url": "https://github.com/0x0mer/CasNum",
+      "score": 315,
+      "comments": 38,
+      "text": "",
+      "summary": "CasNum.  점수 315, 반응 38 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cloud VM benchmarks 2026",
+      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+      "score": 293,
+      "comments": 132,
+      "text": "",
+      "summary": "Cloud VM benchmarks 2026. 점수 293, 반응 132 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Warn about PyPy being unmaintained",
       "url": "https://github.com/astral-sh/uv/pull/17643",
-      "score": 249,
-      "comments": 125,
+      "score": 266,
+      "comments": 141,
       "text": "",
-      "summary": "Warn about PyPy being unmaintained. 점수 249, 반응 125 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
-      "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
-      "score": 224,
-      "comments": 13,
-      "text": "",
-      "summary": "Dumping Lego NXT firmware off of an existing brick (2025). 점수 224, 반응 13 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "FLASH radiotherapy's bold approach to cancer treatment",
-      "url": "https://spectrum.ieee.org/flash-radiotherapy",
-      "score": 218,
-      "comments": 67,
-      "text": "",
-      "summary": "FLASH radiotherapy's bold approach to cancer treatment. 점수 218, 반응 67 기준 인기 이슈입니다."
+      "summary": "Warn about PyPy being unmaintained. 점수 266, 반응 141 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
       "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
-      "score": 169,
-      "comments": 82,
+      "score": 260,
+      "comments": 144,
       "text": "",
-      "summary": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage. 점수 169, 반응 82 기준 인기 이슈입니다."
+      "summary": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage. 점수 260, 반응 144 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The surprising whimsy of the Time Zone Database",
-      "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
-      "score": 153,
-      "comments": 52,
+      "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
+      "url": "https://xcancel.com/theflow0/status/2030011206040256841",
+      "score": 175,
+      "comments": 63,
       "text": "",
-      "summary": "The surprising whimsy of the Time Zone Database. 점수 153, 반응 52 기준 인기 이슈입니다."
+      "summary": "I ported Linux to the PS5 and turned it into a Steam Machine. 점수 175, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
-      "url": "https://github.com/karpathy/autoresearch",
-      "score": 142,
-      "comments": 40,
+      "title": "Notes on Writing WASM",
+      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+      "score": 123,
+      "comments": 49,
       "text": "",
-      "summary": "Autoresearch: Agents researching on single-GPU nanochat training automatically. 점수 142, 반응 40 기준 인기 이슈입니다."
+      "summary": "Notes on Writing WASM. 점수 123, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
-      "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
-      "score": 127,
-      "comments": 19,
+      "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+      "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+      "score": 103,
+      "comments": 16,
       "text": "",
-      "summary": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad. 점수 127, 반응 19 기준 인기 이슈입니다."
+      "summary": "Emacs internals: Deconstructing Lisp_Object in C (Part 2). 점수 103, 반응 16 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+      "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+      "score": 96,
+      "comments": 21,
+      "text": "",
+      "summary": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn. 점수 96, 반응 21 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
+      "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
+      "score": 94,
+      "comments": 16,
+      "text": "",
+      "summary": "LibreOffice: Request to the European Commission to adhere to its own guidances. 점수 94, 반응 16 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+      "url": "https://arxiv.org/abs/2603.03823",
+      "score": 93,
+      "comments": 30,
+      "text": "",
+      "summary": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI. 점수 93, 반응 30 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -246,7 +246,7 @@
       "count": 4
     },
     {
-      "keyword": "interface",
+      "keyword": "agent",
       "count": 3
     },
     {
@@ -255,6 +255,10 @@
     },
     {
       "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "own",
       "count": 2
     },
     {
@@ -278,19 +282,15 @@
       "count": 2
     },
     {
+      "keyword": "capabilities",
+      "count": 2
+    },
+    {
       "keyword": "building",
       "count": 2
     },
     {
       "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "cloud",
-      "count": 2
-    },
-    {
-      "keyword": "diffusion",
       "count": 2
     }
   ],
