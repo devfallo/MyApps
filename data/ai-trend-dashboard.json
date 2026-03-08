@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T18:52:14.501694+00:00",
+  "updatedAt": "2026-03-08T20:42:26.677468+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,232 +10,256 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 279930,
-      "comments": 11064,
+      "score": 280060,
+      "comments": 11107,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 279930, 반응 11064 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 280060, 반응 11107 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182263,
+      "score": 182261,
       "comments": 346,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182263, 반응 346 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182261, 반응 346 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 178123,
-      "comments": 1402,
+      "score": 178140,
+      "comments": 1403,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 178123, 반응 1402 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 178140, 반응 1403 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 161557,
+      "score": 161556,
       "comments": 2467,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161557, 반응 2467 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161556, 반응 2467 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 150800,
+      "score": 150825,
       "comments": 13,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 150800, 반응 13 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 150825, 반응 13 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 131621,
+      "score": 131625,
       "comments": 800,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 131621, 반응 800 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 131625, 반응 800 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 129519,
+      "score": 129535,
       "comments": 129,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 129519, 반응 129 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 129535, 반응 129 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 128635,
-      "comments": 483,
+      "score": 128643,
+      "comments": 459,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128635, 반응 483 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128643, 반응 459 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 126222,
-      "comments": 277,
+      "score": 126230,
+      "comments": 279,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 126222, 반응 277 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 126230, 반응 279 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 107681,
+      "score": 107685,
       "comments": 4,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107681, 반응 4 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107685, 반응 4 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 105208,
+      "score": 105213,
       "comments": 3797,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 105208, 반응 3797 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 105213, 반응 3797 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 98709,
-      "comments": 966,
+      "score": 98711,
+      "comments": 968,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98709, 반응 966 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98711, 반응 968 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How to run Qwen 3.5 locally",
       "url": "https://unsloth.ai/docs/models/qwen3.5",
-      "score": 385,
-      "comments": 124,
-      "text": "",
-      "summary": "How to run Qwen 3.5 locally. 점수 385, 반응 124 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "CasNum",
-      "url": "https://github.com/0x0mer/CasNum",
-      "score": 321,
-      "comments": 38,
-      "text": "",
-      "summary": "CasNum.  점수 321, 반응 38 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
-      "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
-      "score": 314,
-      "comments": 184,
-      "text": "",
-      "summary": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage. 점수 314, 반응 184 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cloud VM benchmarks 2026",
-      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-      "score": 310,
+      "score": 424,
       "comments": 138,
       "text": "",
-      "summary": "Cloud VM benchmarks 2026. 점수 310, 반응 138 기준 인기 이슈입니다."
+      "summary": "How to run Qwen 3.5 locally. 점수 424, 반응 138 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Warn about PyPy being unmaintained",
-      "url": "https://github.com/astral-sh/uv/pull/17643",
+      "title": "LLM Writing Tropes.md",
+      "url": "https://tropes.fyi/tropes-md",
       "score": 283,
-      "comments": 149,
-      "text": "",
-      "summary": "Warn about PyPy being unmaintained. 점수 283, 반응 149 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Based on its own charter, OpenAI should surrender the race",
-      "url": "https://mlumiste.com/general/openai-charter/",
-      "score": 255,
-      "comments": 104,
-      "text": "",
-      "summary": "Based on its own charter, OpenAI should surrender the race. 점수 255, 반응 104 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
-      "url": "https://xcancel.com/theflow0/status/2030011206040256841",
-      "score": 248,
-      "comments": 95,
-      "text": "",
-      "summary": "I ported Linux to the PS5 and turned it into a Steam Machine. 점수 248, 반응 95 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
-      "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
-      "score": 192,
-      "comments": 30,
-      "text": "",
-      "summary": "LibreOffice: Request to the European Commission to adhere to its own guidances. 점수 192, 반응 30 기준 인기 이슈입니다."
+      "comments": 126,
+      "text": "<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47088813\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47088813</a>",
+      "summary": "LLM Writing Tropes.md. https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47088813 점수 283, 반응 126 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "FrameBook",
       "url": "https://fb.edoo.gg",
-      "score": 187,
+      "score": 271,
+      "comments": 47,
+      "text": "",
+      "summary": "FrameBook.  점수 271, 반응 47 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
+      "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
+      "score": 233,
       "comments": 35,
       "text": "",
-      "summary": "FrameBook.  점수 187, 반응 35 기준 인기 이슈입니다."
+      "summary": "LibreOffice: Request to the European Commission to adhere to its own guidances. 점수 233, 반응 35 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Notes on writing Rust-based Wasm",
       "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-      "score": 153,
-      "comments": 66,
+      "score": 175,
+      "comments": 77,
       "text": "",
-      "summary": "Notes on writing Rust-based Wasm. 점수 153, 반응 66 기준 인기 이슈입니다."
+      "summary": "Notes on writing Rust-based Wasm. 점수 175, 반응 77 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LibreOffice Writer now supports Markdown",
+      "url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
+      "score": 163,
+      "comments": 39,
+      "text": "",
+      "summary": "LibreOffice Writer now supports Markdown. 점수 163, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Please restrict new accounts from posting",
+      "url": "https://news.ycombinator.com/item?id=47300329",
+      "score": 133,
+      "comments": 93,
+      "text": "I don’t know if I’m the only one, but I see lots of clearly AI generated posts recently in HN and mostly coming from new accounts (green), it is more noticeable in the Show HN section.<p>I wish the team can either restrict new accounts from posting or at least offer a default filtering where I can only see posts from accounts with certain criteria.<p>I don’t want to see HN becoming twitter, which is full of bots and noise, as this would be a really sad day.",
+      "summary": "Ask HN: Please restrict new accounts from posting. I don’t know if I’m the only one, but I see lots of clearly AI generated posts recently in HN and mostly coming from new accounts (green), it is more noticeable in the Show HN section. I wish the team can either restrict new accounts from posting or at least offer a default filtering where I can only see posts from accounts with certain criteria. 점수 133, 반응 93 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
       "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
-      "score": 119,
-      "comments": 26,
+      "score": 129,
+      "comments": 28,
       "text": "",
-      "summary": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn. 점수 119, 반응 26 기준 인기 이슈입니다."
+      "summary": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn. 점수 129, 반응 28 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The Lobster Programming Language",
-      "url": "https://strlen.com/lobster/",
-      "score": 107,
-      "comments": 47,
+      "title": "Why can't you tune your guitar? (2019)",
+      "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
+      "score": 128,
+      "comments": 105,
       "text": "",
-      "summary": "The Lobster Programming Language. 점수 107, 반응 47 기준 인기 이슈입니다."
+      "summary": "Why can't you tune your guitar? 점수 128, 반응 105 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: How to be alone?",
+      "url": "https://news.ycombinator.com/item?id=47296547",
+      "score": 102,
+      "comments": 99,
+      "text": "For the first time in my life, at 38, I&#x27;m alone. When I was 18 I basically moved out of my parents&#x27; straight in with my highschool sweetheart, and we were together ever since. That chapter of my life is over now, and I&#x27;m finding the adjustment very difficult.<p>There are a few parts to the difficulty. One is that when I have something to say about my day, there&#x27;s nowhere to say it; no one on HN cares whether I fixed up the blinds or cooked pork steaks. I hang out in an IRC chatroom for that, but sometimes nobody&#x27;s around for hours.<p>Another is that weekends are hard. I used to be in a house filled with life each weekend, and now it&#x27;s me and my dog (and my cat, when he decides to grace me with his presence). Having animals helps somewhat, but it&#x27;s still hard simply being alone with myself for ~60 hours.<p>I&#x27;m also finding it difficult to think of things to do. My default action is to play games, but it feels empty, both because I used to be able to play games alongside someone else and because I have no one to share the cool moments with.<p>I understand that many of you find alone-ness to be natural, and even required. All I can say is that I haven&#x27;t ever lived that way. I sometimes panic when it&#x27;s been too long since I&#x27;ve seen another person.<p>There are the usual suggestions: go to the dog park more often, pick something and build it, read books, hop on dating sites, find a hobby, and so on. But I&#x27;m finding it hard to actually do any of that. I would blame depression, but I have a great psychiatrist who has me on antidepressants, anti-anxiety meds, and mood stabilizers.<p>I work remote, and that&#x27;s currently my main way to gratify social cravings. But it&#x27;s not a consistent way, since the time zone difference is quite large (I&#x27;m -7 hours vs them).<p>Everything feels hollow now. That&#x27;s the main thing that&#x27;s hard to adjust to. I was hoping for some psychological tricks to deal with that, or just to hear stories from other people who have had to undergo similar situations. In many ways it feels like being imprisoned, except at least in prison there are other inmates to socialize with. &quot;Solitary confinement with internet&quot; is probably a better analogy.<p>I was hoping to hear from anyone in the community who&#x27;s transitioned from a family dynamic to being on your own, and to learn from any lessons you&#x27;ve picked up along the way. Or just to hear some stories in general about your experiences. Thanks.",
+      "summary": "Ask HN: How to be alone?. For the first time in my life, at 38, I&#x27;m alone. When I was 18 I basically moved out of my parents&#x27; straight in with my highschool sweetheart, and we were together ever since. 점수 102, 반응 99 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
       "url": "https://arxiv.org/abs/2603.03823",
-      "score": 100,
-      "comments": 35,
+      "score": 102,
+      "comments": 36,
       "text": "",
-      "summary": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI. 점수 100, 반응 35 기준 인기 이슈입니다."
+      "summary": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI. 점수 102, 반응 36 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+      "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
+      "score": 92,
+      "comments": 4,
+      "text": "",
+      "summary": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp. 점수 92, 반응 4 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Living human brain cells play DOOM on a CL1 [video]",
+      "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+      "score": 88,
+      "comments": 83,
+      "text": "",
+      "summary": "Living human brain cells play DOOM on a CL1 [video]. 점수 88, 반응 83 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
+      "keyword": "x27",
+      "count": 19
+    },
+    {
+      "keyword": "but",
+      "count": 7
+    },
+    {
+      "keyword": "x2f",
+      "count": 6
+    },
+    {
       "keyword": "platform",
       "count": 5
+    },
+    {
+      "keyword": "way",
+      "count": 5
+    },
+    {
+      "keyword": "can",
+      "count": 5
+    },
+    {
+      "keyword": "any",
+      "count": 4
     },
     {
       "keyword": "code",
@@ -246,52 +270,28 @@
       "count": 4
     },
     {
+      "keyword": "now",
+      "count": 4
+    },
+    {
+      "keyword": "accounts",
+      "count": 4
+    },
+    {
+      "keyword": "one",
+      "count": 4
+    },
+    {
+      "keyword": "there",
+      "count": 4
+    },
+    {
+      "keyword": "hard",
+      "count": 4
+    },
+    {
       "keyword": "own",
       "count": 3
-    },
-    {
-      "keyword": "agent",
-      "count": 3
-    },
-    {
-      "keyword": "supabase",
-      "count": 3
-    },
-    {
-      "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "lobster",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "capabilities",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
     }
   ],
   "meta": {
