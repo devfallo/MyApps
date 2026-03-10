@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-10T15:10:23.593756+00:00",
+  "updatedAt": "2026-03-10T17:08:00.585971+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,229 +10,241 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 297188,
-      "comments": 12126,
+      "score": 297601,
+      "comments": 12194,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 297188, 반응 12126 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 297601, 반응 12194 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182328,
+      "score": 182330,
       "comments": 350,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182328, 반응 350 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182330, 반응 350 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 178499,
-      "comments": 1417,
+      "score": 178515,
+      "comments": 1419,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 178499, 반응 1417 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 178515, 반응 1419 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 161654,
+      "score": 161653,
       "comments": 2467,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161654, 반응 2467 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161653, 반응 2467 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 151295,
-      "comments": 23,
+      "score": 151303,
+      "comments": 25,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 151295, 반응 23 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 151303, 반응 25 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 131985,
-      "comments": 757,
+      "score": 132028,
+      "comments": 753,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 131985, 반응 757 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 132028, 반응 753 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 129978,
+      "score": 130001,
       "comments": 127,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 129978, 반응 127 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 130001, 반응 127 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 128991,
+      "score": 129005,
       "comments": 463,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 128991, 반응 463 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 129005, 반응 463 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 126553,
-      "comments": 270,
+      "score": 126565,
+      "comments": 274,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 126553, 반응 270 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 126565, 반응 274 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 107782,
+      "score": 107787,
       "comments": 7,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107782, 반응 7 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107787, 반응 7 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 105500,
-      "comments": 3807,
+      "score": 105505,
+      "comments": 3806,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 105500, 반응 3807 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 105505, 반응 3806 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 98866,
-      "comments": 956,
+      "score": 98872,
+      "comments": 951,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98866, 반응 956 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 98872, 반응 951 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Building a Procedural Hex Map with Wave Function Collapse",
-      "url": "https://felixturner.github.io/hex-map-wfc/article/",
-      "score": 540,
-      "comments": 79,
+      "title": "Tony Hoare has died",
+      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+      "score": 553,
+      "comments": 56,
       "text": "",
-      "summary": "Building a Procedural Hex Map with Wave Function Collapse. 점수 540, 반응 79 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-      "score": 529,
-      "comments": 531,
-      "text": "",
-      "summary": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft. 점수 529, 반응 531 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "JSLinux Now Supports x86_64",
-      "url": "https://bellard.org/jslinux/",
-      "score": 357,
-      "comments": 112,
-      "text": "",
-      "summary": "JSLinux Now Supports x86_64. 점수 357, 반응 112 기준 인기 이슈입니다."
+      "summary": "Tony Hoare has died.  점수 553, 반응 56 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
       "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-      "score": 355,
-      "comments": 254,
+      "score": 395,
+      "comments": 283,
       "text": "",
-      "summary": "No, it doesn't cost Anthropic $5k per Claude Code user. 점수 355, 반응 254 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Two Years of Emacs Solo",
-      "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-      "score": 310,
-      "comments": 113,
-      "text": "",
-      "summary": "Two Years of Emacs Solo. 점수 310, 반응 113 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-      "score": 266,
-      "comments": 266,
-      "text": "",
-      "summary": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy. 점수 266, 반응 266 기준 인기 이슈입니다."
+      "summary": "No, it doesn't cost Anthropic $5k per Claude Code user. 점수 395, 반응 283 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
       "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
-      "score": 259,
-      "comments": 139,
+      "score": 349,
+      "comments": 184,
       "text": "",
-      "summary": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round. 점수 259, 반응 139 기준 인기 이슈입니다."
+      "summary": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round. 점수 349, 반응 184 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Two Years of Emacs Solo",
+      "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+      "score": 327,
+      "comments": 122,
+      "text": "",
+      "summary": "Two Years of Emacs Solo. 점수 327, 반응 122 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I put my whole life into a single database",
       "url": "https://howisfelix.today/",
-      "score": 250,
-      "comments": 117,
+      "score": 317,
+      "comments": 148,
       "text": "",
-      "summary": "I put my whole life into a single database. 점수 250, 반응 117 기준 인기 이슈입니다."
+      "summary": "I put my whole life into a single database. 점수 317, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
-      "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
-      "score": 176,
-      "comments": 59,
+      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+      "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+      "score": 289,
+      "comments": 312,
       "text": "",
-      "summary": "The Gervais Principle, or the Office According to \"The Office\" (2009). 점수 176, 반응 59 기준 인기 이슈입니다."
+      "summary": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy. 점수 289, 반응 312 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Online age-verification tools for child safety are surveilling adults",
       "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-      "score": 154,
-      "comments": 72,
+      "score": 284,
+      "comments": 155,
       "text": "",
-      "summary": "Online age-verification tools for child safety are surveilling adults. 점수 154, 반응 72 기준 인기 이슈입니다."
+      "summary": "Online age-verification tools for child safety are surveilling adults. 점수 284, 반응 155 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
+      "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+      "score": 209,
+      "comments": 89,
+      "text": "",
+      "summary": "The Gervais Principle, or the Office According to \"The Office\" (2009). 점수 209, 반응 89 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
+      "url": "https://twitter.com/lukolejnik/status/2031257644724342957",
+      "score": 175,
+      "comments": 115,
+      "text": "",
+      "summary": "Amazon is holding a mandatory meeting about AI breaking its systems. 점수 175, 반응 115 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Lotus 1-2-3 on the PC with DOS",
       "url": "https://stonetools.ghost.io/lotus123-dos/",
-      "score": 149,
-      "comments": 55,
+      "score": 160,
+      "comments": 62,
       "text": "",
-      "summary": "Lotus 1-2-3 on the PC with DOS. 점수 149, 반응 55 기준 인기 이슈입니다."
+      "summary": "Lotus 1-2-3 on the PC with DOS. 점수 160, 반응 62 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Intel Demos Chip to Compute with Encrypted Data",
+      "url": "https://spectrum.ieee.org/fhe-intel",
+      "score": 136,
+      "comments": 44,
+      "text": "",
+      "summary": "Intel Demos Chip to Compute with Encrypted Data. 점수 136, 반응 44 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Optimizing Top K in Postgres",
       "url": "https://www.paradedb.com/blog/optimizing-top-k",
-      "score": 119,
-      "comments": 14,
+      "score": 134,
+      "comments": 17,
       "text": "",
-      "summary": "Optimizing Top K in Postgres. 점수 119, 반응 14 기준 인기 이슈입니다."
+      "summary": "Optimizing Top K in Postgres. 점수 134, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "FreeBSD 14.4-Release Announcement",
-      "url": "https://www.freebsd.org/releases/14.4R/announce/",
-      "score": 109,
-      "comments": 26,
-      "text": "",
-      "summary": "FreeBSD 14.4-Release Announcement. 점수 109, 반응 26 기준 인기 이슈입니다."
+      "title": "Meta acquires Moltbook",
+      "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+      "score": 128,
+      "comments": 86,
+      "text": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260310154640&#x2F;https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;03&#x2F;10&#x2F;meta-facebook-moltbook-agent-social-network\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260310154640&#x2F;https:&#x2F;&#x2F;www.axios...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;igqsh\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;igqsh</a><p><a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;meta-acquires-ai-agent-social-network-moltbook-2026-03-10&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;meta-acquires-ai-agent-soci...</a>",
+      "summary": "Meta acquires Moltbook. https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260310154640&#x2F;https:&#x2F;&#x2F;www.axios... , https:&#x2F;&#x2F;archive.ph&#x2F;igqsh https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;meta-acquires-ai-agent-soci... 점수 128, 반응 86 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 33
+    },
+    {
+      "keyword": "https",
+      "count": 8
+    },
+    {
+      "keyword": "web",
+      "count": 6
+    },
     {
       "keyword": "platform",
       "count": 5
@@ -246,11 +258,15 @@
       "count": 4
     },
     {
-      "keyword": "tools",
-      "count": 3
+      "keyword": "archive",
+      "count": 4
     },
     {
-      "keyword": "building",
+      "keyword": "www",
+      "count": 4
+    },
+    {
+      "keyword": "tools",
       "count": 3
     },
     {
@@ -262,36 +278,20 @@
       "count": 3
     },
     {
-      "keyword": "openclaw",
-      "count": 2
+      "keyword": "href",
+      "count": 3
     },
     {
-      "keyword": "any",
-      "count": 2
+      "keyword": "com",
+      "count": 3
     },
     {
-      "keyword": "autogpt",
-      "count": 2
+      "keyword": "rel",
+      "count": 3
     },
     {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "diffusion",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
+      "keyword": "nofollow",
+      "count": 3
     }
   ],
   "meta": {
