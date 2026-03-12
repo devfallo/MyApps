@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T20:52:13.974652+00:00",
+  "updatedAt": "2026-03-12T22:45:18.025559+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 307489,
-      "comments": 12636,
+      "score": 307553,
+      "comments": 12665,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 307489, 반응 12636 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 307553, 반응 12665 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "score": 182404,
-      "comments": 356,
+      "comments": 355,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182404, 반응 356 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182404, 반응 355 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 178864,
-      "comments": 1415,
+      "score": 178877,
+      "comments": 1416,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 178864, 반응 1415 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 178877, 반응 1416 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,64 +46,64 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 151625,
+      "score": 151642,
       "comments": 27,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 151625, 반응 27 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 151642, 반응 27 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 132526,
-      "comments": 773,
+      "score": 132530,
+      "comments": 775,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 132526, 반응 773 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 132530, 반응 775 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 130468,
+      "score": 130480,
       "comments": 128,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 130468, 반응 128 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 130480, 반응 128 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 129294,
-      "comments": 467,
+      "score": 129297,
+      "comments": 475,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 129294, 반응 467 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 129297, 반응 475 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 126919,
-      "comments": 286,
+      "score": 126924,
+      "comments": 283,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 126919, 반응 286 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 126924, 반응 283 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 107886,
+      "score": 107888,
       "comments": 7,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107886, 반응 7 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 107888, 반응 7 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 105715,
-      "comments": 3810,
+      "score": 105723,
+      "comments": 3809,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 105715, 반응 3810 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 105723, 반응 3809 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -118,136 +118,148 @@
       "source": "Hacker News",
       "title": "Malus – Clean Room as a Service",
       "url": "https://malus.sh",
-      "score": 828,
-      "comments": 324,
-      "text": "<a href=\"https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_source_together_with_this_one_simple_trick&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_...</a>",
-      "summary": "Malus – Clean Room as a Service. https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_... 점수 828, 반응 324 기준 인기 이슈입니다."
+      "score": 929,
+      "comments": 363,
+      "text": "<a href=\"https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_source_together_with_this_one_simple_trick&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_...</a><p><a href=\"https:&#x2F;&#x2F;malus.sh&#x2F;blog.html\" rel=\"nofollow\">https:&#x2F;&#x2F;malus.sh&#x2F;blog.html</a>",
+      "summary": "Malus – Clean Room as a Service. https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_... https:&#x2F;&#x2F;malus.sh&#x2F;blog.html 점수 929, 반응 363 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Shall I implement it? No",
+      "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+      "score": 365,
+      "comments": 144,
+      "text": "",
+      "summary": "Shall I implement it? 점수 365, 반응 144 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Dolphin Progress Release 2603",
       "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
-      "score": 261,
-      "comments": 43,
+      "score": 281,
+      "comments": 47,
       "text": "",
-      "summary": "Dolphin Progress Release 2603. 점수 261, 반응 43 기준 인기 이슈입니다."
+      "summary": "Dolphin Progress Release 2603. 점수 281, 반응 47 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Kotlin creator's new language: talk to LLMs in specs, not English",
-      "url": "https://codespeak.dev/",
-      "score": 249,
-      "comments": 210,
+      "title": "Big data on the cheapest MacBook",
+      "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+      "score": 278,
+      "comments": 241,
       "text": "",
-      "summary": "Kotlin creator's new language: talk to LLMs in specs, not English. 점수 249, 반응 210 기준 인기 이슈입니다."
+      "summary": "Big data on the cheapest MacBook. 점수 278, 반응 241 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
       "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
-      "score": 223,
-      "comments": 272,
+      "score": 276,
+      "comments": 328,
       "text": "",
-      "summary": "ATMs didn't kill bank teller jobs, but the iPhone did. 점수 223, 반응 272 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
-      "url": "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/",
-      "score": 201,
-      "comments": 54,
-      "text": "",
-      "summary": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion. 점수 201, 반응 54 기준 인기 이슈입니다."
+      "summary": "ATMs didn't kill bank teller jobs, but the iPhone did. 점수 276, 반응 328 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bubble Sorted Amen Break",
       "url": "https://parametricavocado.itch.io/amen-sorting",
-      "score": 171,
-      "comments": 60,
+      "score": 224,
+      "comments": 76,
       "text": "",
-      "summary": "Bubble Sorted Amen Break. 점수 171, 반응 60 기준 인기 이슈입니다."
+      "summary": "Bubble Sorted Amen Break. 점수 224, 반응 76 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The Met Releases High-Def 3D Scans of 140 Famous Art Objects",
-      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
-      "score": 148,
-      "comments": 31,
+      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+      "score": 212,
+      "comments": 115,
       "text": "",
-      "summary": "The Met Releases High-Def 3D Scans of 140 Famous Art Objects. 점수 148, 반응 31 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude now creates interactive charts, diagrams and visualizations",
-      "url": "https://claude.com/blog/claude-builds-visuals",
-      "score": 140,
-      "comments": 82,
-      "text": "",
-      "summary": "Claude now creates interactive charts, diagrams and visualizations. 점수 140, 반응 82 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Reversing memory loss via gut-brain communication",
-      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-      "score": 133,
-      "comments": 34,
-      "text": "",
-      "summary": "Reversing memory loss via gut-brain communication. 점수 133, 반응 34 기준 인기 이슈입니다."
+      "summary": "Innocent woman jailed after being misidentified using AI facial recognition. 점수 212, 반응 115 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
       "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
-      "score": 132,
-      "comments": 144,
+      "score": 184,
+      "comments": 307,
       "text": "See also: <a href=\"https:&#x2F;&#x2F;alternativecreditinvestor.com&#x2F;2025&#x2F;10&#x2F;22&#x2F;us-banks-exposure-to-private-credit-hits-300bn&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;alternativecreditinvestor.com&#x2F;2025&#x2F;10&#x2F;22&#x2F;us-banks-ex...</a>",
-      "summary": "US private credit defaults hit record 9.2% in 2025, Fitch says. See also: https:&#x2F;&#x2F;alternativecreditinvestor.com&#x2F;2025&#x2F;10&#x2F;22&#x2F;us-banks-ex... 점수 132, 반응 144 기준 인기 이슈입니다."
+      "summary": "US private credit defaults hit record 9.2% in 2025, Fitch says. See also: https:&#x2F;&#x2F;alternativecreditinvestor.com&#x2F;2025&#x2F;10&#x2F;22&#x2F;us-banks-ex... 점수 184, 반응 307 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
-      "url": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
-      "score": 132,
-      "comments": 73,
+      "title": "The Met releases high-def 3D scans of 140 famous art objects",
+      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+      "score": 183,
+      "comments": 37,
       "text": "",
-      "summary": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks. 점수 132, 반응 73 기준 인기 이슈입니다."
+      "summary": "The Met releases high-def 3D scans of 140 famous art objects. 점수 183, 반응 37 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Rudel – Claude Code Session Analytics",
-      "url": "https://github.com/obsessiondb/rudel",
-      "score": 117,
-      "comments": 72,
-      "text": "We built rudel.ai after realizing we had no visibility into our own Claude Code sessions. We were using it daily but had no idea which sessions were efficient, why some got abandoned, or whether we were actually improving over time.<p>So we built an analytics layer for it. After connecting our own sessions, we ended up with a dataset of 1,573 real Claude Code sessions, 15M+ tokens, 270K+ interactions.<p>Some things we found that surprised us:\n- Skills were only being used in 4% of our sessions\n- 26% of sessions are abandoned, most within the first 60 seconds\n- Session success rate varies significantly by task type (documentation scores highest, refactoring lowest)\n- Error cascade patterns appear in the first 2 minutes and predict abandonment with reasonable accuracy\n- There is no meaningful benchmark for &#x27;good&#x27; agentic session performance, we are building one.<p>The tool is free to use and fully open source, happy to answer questions about the data or how we built it.",
-      "summary": "Show HN: Rudel – Claude Code Session Analytics. We built rudel.ai after realizing we had no visibility into our own Claude Code sessions. We were using it daily but had no idea which sessions were efficient, why some got abandoned, or whether we were actually improving over time. 점수 117, 반응 72 기준 인기 이슈입니다."
+      "title": "Reversing memory loss via gut-brain communication",
+      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+      "score": 177,
+      "comments": 50,
+      "text": "",
+      "summary": "Reversing memory loss via gut-brain communication. 점수 177, 반응 50 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "An old photo of a large BBS (2022)",
+      "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
+      "score": 136,
+      "comments": 94,
+      "text": "",
+      "summary": "An old photo of a large BBS (2022). 점수 136, 반응 94 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
       "url": "https://github.com/jrswab/axe",
-      "score": 104,
-      "comments": 70,
+      "score": 128,
+      "comments": 85,
       "text": "I built Axe because I got tired of every AI tool trying to be a chatbot.<p>Most frameworks want a long-lived session with a massive context window doing everything at once. That&#x27;s expensive, slow, and fragile. Good software is small, focused, and composable... AI agents should be too.<p>Axe treats LLM agents like Unix programs. Each agent is a TOML config with a focused job. Such as code reviewer, log analyzer, commit message writer. You can run them from the CLI, pipe data in, get results out. You can use pipes to chain them together. Or trigger from cron, git hooks, CI.<p>What Axe is:<p>- 12MB binary, two dependencies. no framework, no Python, no Docker (unless you want it)<p>- Stdin piping, something like `git diff | axe run reviewer` just works<p>- Sub-agent delegation. Where agents call other agents via tool use, depth-limited<p>- Persistent memory. If you want, agents can remember across runs without you managing state<p>- MCP support. Axe can connect any MCP server to your agents<p>- Built-in tools. Such as web_search and url_fetch out of the box<p>- Multi-provider. Bring what you love to use.. Anthropic, OpenAI, Ollama, or anything in models.dev format<p>- Path-sandboxed file ops. Keeps agents locked to a working directory<p>Written in Go. No daemon, no GUI.<p>What would you automate first?",
-      "summary": "Show HN: Axe – A 12MB binary that replaces your AI framework. I built Axe because I got tired of every AI tool trying to be a chatbot. Most frameworks want a long-lived session with a massive context window doing everything at once. 점수 104, 반응 70 기준 인기 이슈입니다."
+      "summary": "Show HN: Axe – A 12MB binary that replaces your AI framework. I built Axe because I got tired of every AI tool trying to be a chatbot. Most frameworks want a long-lived session with a massive context window doing everything at once. 점수 128, 반응 85 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+      "url": "https://github.com/onecli/onecli",
+      "score": 107,
+      "comments": 37,
+      "text": "We built OneCLI because AI agents are being given raw API keys. And it&#x27;s going about as well as you&#x27;d expect. We figured the answer isn&#x27;t &quot;don&#x27;t give agents access,&quot; it&#x27;s &quot;give them access without giving them secrets.&quot;<p>OneCLI is an open-source gateway that sits between your AI agents and the services they call. You store your real credentials once in OneCLI&#x27;s encrypted vault, and give your agents placeholder keys. When an agent makes an HTTP call through the proxy, OneCLI matches the request by host&#x2F;path, verifies the agent should have access, swaps the placeholder for the real credential, and forwards the request. The agent never touches the actual secret. It just uses CLI or MCP tools as normal.<p>Try it in one line:\ndocker run --pull always -p 10254:10254 -p 10255:10255 -v onecli-data:&#x2F;app&#x2F;data ghcr.io&#x2F;onecli&#x2F;onecli<p>The proxy is written in Rust, the dashboard is Next.js, and secrets are AES-256-GCM encrypted at rest. Everything runs in a single Docker container with an embedded Postgres (PGlite), no external dependencies. Works with any agent framework (OpenClaw, NanoClaw, IronClaw, or anything that can set an HTTPS_PROXY).<p>We started with what felt most urgent: agents shouldn&#x27;t be holding raw credentials. \nThe next layer is access policies and audit, defining what each agent can call, logging everything, and requiring human approval before sensitive actions go through.<p>It&#x27;s Apache-2.0 licensed. We&#x27;d love feedback on the approach, and we&#x27;re especially curious how people are handling agent auth today.<p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;onecli&#x2F;onecli\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;onecli&#x2F;onecli</a>\nSite: <a href=\"https:&#x2F;&#x2F;onecli.sh\" rel=\"nofollow\">https:&#x2F;&#x2F;onecli.sh</a>",
+      "summary": "Show HN: OneCLI – Vault for AI Agents in Rust. We built OneCLI because AI agents are being given raw API keys. And it&#x27;s going about as well as you&#x27;d expect. 점수 107, 반응 37 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 26
-    },
-    {
-      "keyword": "code",
-      "count": 8
+      "count": 49
     },
     {
       "keyword": "agents",
-      "count": 7
+      "count": 13
     },
     {
-      "keyword": "sessions",
-      "count": 6
+      "keyword": "onecli",
+      "count": 13
+    },
+    {
+      "keyword": "https",
+      "count": 11
+    },
+    {
+      "keyword": "x27",
+      "count": 11
+    },
+    {
+      "keyword": "agent",
+      "count": 9
+    },
+    {
+      "keyword": "can",
+      "count": 7
     },
     {
       "keyword": "axe",
@@ -258,39 +270,27 @@
       "count": 5
     },
     {
+      "keyword": "code",
+      "count": 5
+    },
+    {
+      "keyword": "href",
+      "count": 5
+    },
+    {
+      "keyword": "rel",
+      "count": 5
+    },
+    {
+      "keyword": "nofollow",
+      "count": 5
+    },
+    {
+      "keyword": "any",
+      "count": 4
+    },
+    {
       "keyword": "use",
-      "count": 5
-    },
-    {
-      "keyword": "can",
-      "count": 5
-    },
-    {
-      "keyword": "open",
-      "count": 5
-    },
-    {
-      "keyword": "claude",
-      "count": 5
-    },
-    {
-      "keyword": "our",
-      "count": 4
-    },
-    {
-      "keyword": "prompts",
-      "count": 4
-    },
-    {
-      "keyword": "https",
-      "count": 4
-    },
-    {
-      "keyword": "session",
-      "count": 4
-    },
-    {
-      "keyword": "built",
       "count": 4
     }
   ],
