@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T20:46:55.530174+00:00",
+  "updatedAt": "2026-03-15T22:48:12.423451+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,232 +10,240 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 314787,
-      "comments": 14206,
+      "score": 314880,
+      "comments": 14213,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 314787, 반응 14206 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 314880, 반응 14213 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "score": 182493,
-      "comments": 370,
+      "comments": 371,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182493, 반응 370 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182493, 반응 371 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 179286,
-      "comments": 1436,
+      "score": 179299,
+      "comments": 1438,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 179286, 반응 1436 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 179299, 반응 1438 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 161767,
+      "score": 161769,
       "comments": 2470,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161767, 반응 2470 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161769, 반응 2470 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 152680,
+      "score": 152689,
       "comments": 31,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 152680, 반응 31 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 152689, 반응 31 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 132909,
-      "comments": 777,
+      "score": 132912,
+      "comments": 778,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 132909, 반응 777 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 132912, 반응 778 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 131238,
+      "score": 131253,
       "comments": 128,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 131238, 반응 128 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 131253, 반응 128 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 129599,
-      "comments": 494,
+      "score": 129610,
+      "comments": 495,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 129599, 반응 494 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 129610, 반응 495 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 127308,
-      "comments": 308,
+      "score": 127320,
+      "comments": 287,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 127308, 반응 308 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 127320, 반응 287 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108056,
+      "score": 108060,
       "comments": 7,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108056, 반응 7 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108060, 반응 7 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 105936,
-      "comments": 3835,
+      "score": 105942,
+      "comments": 3832,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 105936, 반응 3835 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 105942, 반응 3832 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 99027,
+      "score": 99029,
       "comments": 941,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99027, 반응 941 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99029, 반응 941 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
       "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "score": 333,
-      "comments": 315,
+      "score": 363,
+      "comments": 331,
       "text": "",
-      "summary": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor. 점수 333, 반응 315 기준 인기 이슈입니다."
+      "summary": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor. 점수 363, 반응 331 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A Visual Introduction to Machine Learning (2015)",
       "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 283,
-      "comments": 26,
+      "score": 300,
+      "comments": 29,
       "text": "",
-      "summary": "A Visual Introduction to Machine Learning (2015). 점수 283, 반응 26 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The 100 hour gap between a vibecoded prototype and a working product",
-      "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
-      "score": 202,
-      "comments": 263,
-      "text": "",
-      "summary": "The 100 hour gap between a vibecoded prototype and a working product. 점수 202, 반응 263 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A most elegant TCP hole punching algorithm",
-      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
-      "score": 198,
-      "comments": 78,
-      "text": "",
-      "summary": "A most elegant TCP hole punching algorithm. 점수 198, 반응 78 기준 인기 이슈입니다."
+      "summary": "A Visual Introduction to Machine Learning (2015). 점수 300, 반응 29 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Office.eu launches as Europe's sovereign office platform",
       "url": "https://office.eu/media/pressrelease-20260304",
-      "score": 161,
-      "comments": 97,
+      "score": 235,
+      "comments": 126,
       "text": "",
-      "summary": "Office.eu launches as Europe's sovereign office platform. 점수 161, 반응 97 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "score": 160,
-      "comments": 217,
-      "text": "",
-      "summary": "Treasure hunter freed from jail after refusing to turn over shipwreck gold. 점수 160, 반응 217 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
-      "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-      "score": 156,
-      "comments": 86,
-      "text": "",
-      "summary": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories. 점수 156, 반응 86 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Separating the Wayland compositor and window manager",
-      "url": "https://isaacfreund.com/blog/river-window-management/",
-      "score": 141,
-      "comments": 58,
-      "text": "",
-      "summary": "Separating the Wayland compositor and window manager. 점수 141, 반응 58 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "What makes Intel Optane stand out (2023)",
-      "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
-      "score": 134,
-      "comments": 98,
-      "text": "",
-      "summary": "What makes Intel Optane stand out (2023). 점수 134, 반응 98 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why Mathematica does not simplify sinh(arccosh(x))",
-      "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
-      "score": 133,
-      "comments": 52,
-      "text": "",
-      "summary": "Why Mathematica does not simplify sinh(arccosh(x)). 점수 133, 반응 52 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Grandparents are glued to their phones, families are worried [video]",
-      "url": "https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried",
-      "score": 127,
-      "comments": 88,
-      "text": "",
-      "summary": "Grandparents are glued to their phones, families are worried [video]. 점수 127, 반응 88 기준 인기 이슈입니다."
+      "summary": "Office.eu launches as Europe's sovereign office platform. 점수 235, 반응 126 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
       "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 100,
-      "comments": 16,
+      "score": 226,
+      "comments": 95,
       "text": "",
-      "summary": "Let your Coding Agent debug the browser session with Chrome DevTools MCP. 점수 100, 반응 16 기준 인기 이슈입니다."
+      "summary": "Let your Coding Agent debug the browser session with Chrome DevTools MCP. 점수 226, 반응 95 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
-      "url": "https://signet.watch",
-      "score": 97,
-      "comments": 27,
-      "text": "I built Signet in Go to see if an autonomous system could handle the wildfire monitoring loop that people currently run by hand - checking satellite feeds, pulling up weather, looking at terrain and fuels, deciding whether a detection is actually a fire worth tracking.<p>All the data already exists: NASA FIRMS thermal detections, GOES-19 imagery, NWS forecasts, LANDFIRE fuel models, USGS elevation, Census population data, OpenStreetMap. The problem is it arrives from different sources on different cadences in different formats.<p>Most of the system is deterministic plumbing - ingestion, spatial indexing, deduplication. I use Gemini to orchestrate 23 tools across weather, terrain, imagery, and incident tracking for the part where clean rules break down: deciding which weak detections are worth investigating, what context to pull next, and how to synthesize noisy evidence into a structured assessment.<p>It also records time-bounded predictions and scores them against later data, so the system is making falsifiable claims instead of narrating after the fact. The current prediction metrics are visible on the site even though the sample is still small.<p>It&#x27;s already opening incidents from raw satellite detections and matching some to official NIFC reporting. But false positives, detection latency, and incident matching can still be rough.<p>I&#x27;d especially welcome criticism on: where should this be more deterministic instead of LLM-driven? And is this kind of autonomous monitoring actually useful, or just noisier than doing it by hand?",
-      "summary": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data. I built Signet in Go to see if an autonomous system could handle the wildfire monitoring loop that people currently run by hand - checking satellite feeds, pulling up weather, looking at terrain and fuels, deciding whether a detection is actually a fire worth tracking. All the data already exists: NASA FIRMS thermal detections, GOES-19 imagery, NWS forecasts, LANDFIRE fuel models, USGS elevation, Census population data, OpenStreetMap. 점수 97, 반응 27 기준 인기 이슈입니다."
+      "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
+      "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+      "score": 190,
+      "comments": 113,
+      "text": "",
+      "summary": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories. 점수 190, 반응 113 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The 49MB Web Page",
+      "url": "https://thatshubham.com/blog/news-audit",
+      "score": 184,
+      "comments": 112,
+      "text": "",
+      "summary": "The 49MB Web Page.  점수 184, 반응 112 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Separating the Wayland compositor and window manager",
+      "url": "https://isaacfreund.com/blog/river-window-management/",
+      "score": 180,
+      "comments": 76,
+      "text": "",
+      "summary": "Separating the Wayland compositor and window manager. 점수 180, 반응 76 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+      "url": "https://news.ycombinator.com/item?id=47388646",
+      "score": 171,
+      "comments": 269,
+      "text": "Comment sections on AI threads tend to split into &quot;we&#x27;re all cooked&quot; and &quot;AI is useless.&quot; I&#x27;d like to cut through the noise and learn what&#x27;s actually working and what isn&#x27;t, from concrete experience.<p>If you&#x27;ve recently used AI tools for professional coding work, tell us about it.<p>What tools did you use? What worked well and why? What challenges did you hit, and how (if at all) did you solve them?<p>Please share enough context (stack, project type, team size, experience level) for others to learn from your experience.<p>The goal is to build a grounded picture of where AI-assisted development actually stands in March 2026, without the hot air.",
+      "summary": "Ask HN: How is AI-assisted coding going for you professionally?. Comment sections on AI threads tend to split into &quot;we&#x27;re all cooked&quot; and &quot;AI is useless.&quot; I&#x27;d like to cut through the noise and learn what&#x27;s actually working and what isn&#x27;t, from concrete experience. If you&#x27;ve recently used AI tools for professional coding work, tell us about it. 점수 171, 반응 269 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Grandparents are glued to their phones, families are worried [video]",
+      "url": "https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried",
+      "score": 170,
+      "comments": 112,
+      "text": "",
+      "summary": "Grandparents are glued to their phones, families are worried [video]. 점수 170, 반응 112 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "What makes Intel Optane stand out (2023)",
+      "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+      "score": 164,
+      "comments": 107,
+      "text": "",
+      "summary": "What makes Intel Optane stand out (2023). 점수 164, 반응 107 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LLM Architecture Gallery",
+      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+      "score": 149,
+      "comments": 6,
+      "text": "",
+      "summary": "LLM Architecture Gallery. 점수 149, 반응 6 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
+      "url": "https://zzk273.github.io/LATENT/",
+      "score": 105,
+      "comments": 19,
+      "text": "",
+      "summary": "Learning athletic humanoid tennis skills from imperfect human motion data. 점수 105, 반응 19 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hollywood Enters Oscars Weekend in Existential Crisis",
+      "url": "https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/",
+      "score": 104,
+      "comments": 335,
+      "text": "",
+      "summary": "Hollywood Enters Oscars Weekend in Existential Crisis. 점수 104, 반응 335 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "platform",
       "count": 6
+    },
+    {
+      "keyword": "x27",
+      "count": 5
+    },
+    {
+      "keyword": "tools",
+      "count": 4
     },
     {
       "keyword": "code",
@@ -246,15 +254,19 @@
       "count": 4
     },
     {
-      "keyword": "system",
+      "keyword": "quot",
       "count": 4
     },
     {
-      "keyword": "data",
-      "count": 4
+      "keyword": "build",
+      "count": 3
     },
     {
-      "keyword": "tools",
+      "keyword": "web",
+      "count": 3
+    },
+    {
+      "keyword": "development",
       "count": 3
     },
     {
@@ -262,36 +274,24 @@
       "count": 3
     },
     {
-      "keyword": "most",
-      "count": 3
-    },
-    {
       "keyword": "supabase",
       "count": 3
     },
     {
-      "keyword": "autonomous",
+      "keyword": "coding",
       "count": 3
     },
     {
-      "keyword": "tracking",
+      "keyword": "experience",
       "count": 3
     },
     {
-      "keyword": "satellite",
+      "keyword": "did",
       "count": 3
     },
     {
-      "keyword": "weather",
-      "count": 3
-    },
-    {
-      "keyword": "detections",
-      "count": 3
-    },
-    {
-      "keyword": "different",
-      "count": 3
+      "keyword": "openclaw",
+      "count": 2
     }
   ],
   "meta": {
