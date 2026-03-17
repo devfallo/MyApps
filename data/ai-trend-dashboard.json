@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-17T03:12:57.789453+00:00",
+  "updatedAt": "2026-03-17T05:36:48.847432+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,235 +10,251 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 317847,
-      "comments": 14596,
+      "score": 318150,
+      "comments": 14420,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 317847, 반응 14596 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 318150, 반응 14420 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182527,
-      "comments": 376,
+      "score": 182530,
+      "comments": 377,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182527, 반응 376 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182530, 반응 377 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 179484,
-      "comments": 1411,
+      "score": 179499,
+      "comments": 1405,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 179484, 반응 1411 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 179499, 반응 1405 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 161818,
+      "score": 161819,
       "comments": 2470,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161818, 반응 2470 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161819, 반응 2470 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 152930,
-      "comments": 33,
+      "score": 152951,
+      "comments": 34,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 152930, 반응 33 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 152951, 반응 34 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 133107,
-      "comments": 778,
+      "score": 133130,
+      "comments": 783,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 133107, 반응 778 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 133130, 반응 783 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 131570,
-      "comments": 128,
+      "score": 131594,
+      "comments": 129,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 131570, 반응 128 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 131594, 반응 129 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 129806,
+      "score": 129824,
       "comments": 503,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 129806, 반응 503 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 129824, 반응 503 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 127476,
+      "score": 127485,
       "comments": 284,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 127476, 반응 284 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 127485, 반응 284 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108130,
+      "score": 108136,
       "comments": 7,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108130, 반응 7 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108136, 반응 7 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 106070,
-      "comments": 3838,
+      "score": 106084,
+      "comments": 3839,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106070, 반응 3838 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106084, 반응 3839 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 99113,
+      "score": 99121,
       "comments": 939,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99113, 반응 939 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99121, 반응 939 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Polymarket gamblers threaten to kill me over Iran missile story",
       "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-      "score": 1374,
-      "comments": 890,
+      "score": 1414,
+      "comments": 913,
       "text": "",
-      "summary": "Polymarket gamblers threaten to kill me over Iran missile story. 점수 1374, 반응 890 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Corruption erodes social trust more in democracies than in autocracies",
-      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-      "score": 674,
-      "comments": 352,
-      "text": "",
-      "summary": "Corruption erodes social trust more in democracies than in autocracies. 점수 674, 반응 352 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why I love FreeBSD",
-      "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
-      "score": 369,
-      "comments": 176,
-      "text": "",
-      "summary": "Why I love FreeBSD.  점수 369, 반응 176 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Meta’s renewed commitment to jemalloc",
-      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 362,
-      "comments": 150,
-      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;jemalloc&#x2F;jemalloc\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jemalloc&#x2F;jemalloc</a>",
-      "summary": "Meta’s renewed commitment to jemalloc. https:&#x2F;&#x2F;github.com&#x2F;jemalloc&#x2F;jemalloc 점수 362, 반응 150 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
-      "score": 335,
-      "comments": 63,
-      "text": "Lean 4 paper (2021): <a href=\"https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37\" rel=\"nofollow\">https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37</a>",
-      "summary": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering. Lean 4 paper (2021): https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37 점수 335, 반응 63 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
-      "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "score": 332,
-      "comments": 99,
-      "text": "",
-      "summary": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025). 점수 332, 반응 99 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The “small web” is bigger than you might think",
-      "url": "https://kevinboone.me/small_web_is_big.html",
-      "score": 330,
-      "comments": 138,
-      "text": "",
-      "summary": "The “small web” is bigger than you might think. 점수 330, 반응 138 기준 인기 이슈입니다."
+      "summary": "Polymarket gamblers threaten to kill me over Iran missile story. 점수 1414, 반응 913 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "US SEC preparing to scrap quarterly reporting requirement",
       "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-      "score": 327,
-      "comments": 163,
+      "score": 464,
+      "comments": 252,
       "text": "",
-      "summary": "US SEC preparing to scrap quarterly reporting requirement. 점수 327, 반응 163 기준 인기 이슈입니다."
+      "summary": "US SEC preparing to scrap quarterly reporting requirement. 점수 464, 반응 252 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta’s renewed commitment to jemalloc",
+      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+      "score": 395,
+      "comments": 172,
+      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;jemalloc&#x2F;jemalloc\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jemalloc&#x2F;jemalloc</a>",
+      "summary": "Meta’s renewed commitment to jemalloc. https:&#x2F;&#x2F;github.com&#x2F;jemalloc&#x2F;jemalloc 점수 395, 반응 172 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+      "url": "https://mistral.ai/news/leanstral",
+      "score": 389,
+      "comments": 81,
+      "text": "Lean 4 paper (2021): <a href=\"https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37\" rel=\"nofollow\">https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37</a>",
+      "summary": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering. Lean 4 paper (2021): https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37 점수 389, 반응 81 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why I love FreeBSD",
+      "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
+      "score": 388,
+      "comments": 192,
+      "text": "",
+      "summary": "Why I love FreeBSD.  점수 388, 반응 192 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The “small web” is bigger than you might think",
+      "url": "https://kevinboone.me/small_web_is_big.html",
+      "score": 363,
+      "comments": 159,
+      "text": "",
+      "summary": "The “small web” is bigger than you might think. 점수 363, 반응 159 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
+      "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
+      "score": 351,
+      "comments": 102,
+      "text": "",
+      "summary": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025). 점수 351, 반응 102 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The American Healthcare Conundrum",
       "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-      "score": 261,
-      "comments": 205,
+      "score": 294,
+      "comments": 260,
       "text": "",
-      "summary": "The American Healthcare Conundrum. 점수 261, 반응 205 기준 인기 이슈입니다."
+      "summary": "The American Healthcare Conundrum. 점수 294, 반응 260 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Home Assistant waters my plants",
       "url": "https://finnian.io/blog/home-assistant-waters-my-plants/",
-      "score": 257,
+      "score": 273,
       "comments": 134,
       "text": "",
-      "summary": "Home Assistant waters my plants. 점수 257, 반응 134 기준 인기 이슈입니다."
+      "summary": "Home Assistant waters my plants. 점수 273, 반응 134 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AirPods Max 2",
       "url": "https://www.apple.com/airpods-max/",
-      "score": 225,
-      "comments": 400,
+      "score": 248,
+      "comments": 435,
       "text": "",
-      "summary": "AirPods Max 2.  점수 225, 반응 400 기준 인기 이슈입니다."
+      "summary": "AirPods Max 2.  점수 248, 반응 435 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Starlink Mini as a failover",
       "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
-      "score": 216,
-      "comments": 168,
+      "score": 232,
+      "comments": 175,
       "text": "",
-      "summary": "Starlink Mini as a failover. 점수 216, 반응 168 기준 인기 이슈입니다."
+      "summary": "Starlink Mini as a failover. 점수 232, 반응 175 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
       "url": "https://www.moment.dev/blog/lies-i-was-told-pt-2",
-      "score": 213,
-      "comments": 103,
+      "score": 228,
+      "comments": 107,
       "text": "",
-      "summary": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs. 점수 213, 반응 103 기준 인기 이슈입니다."
+      "summary": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs. 점수 228, 반응 107 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Claude Code skills that build complete Godot games",
+      "url": "https://github.com/htdt/godogen",
+      "score": 212,
+      "comments": 132,
+      "text": "I’ve been working on this for about a year through four major rewrites. Godogen is a pipeline that takes a text prompt, designs the architecture, generates 2D&#x2F;3D assets, writes the GDScript, and tests it visually. The output is a complete, playable Godot 4 project.<p>Getting LLMs to reliably generate functional games required solving three specific engineering bottlenecks:<p>1. The Training Data Scarcity: LLMs barely know GDScript. It has ~850 classes and a Python-like syntax that will happily let a model hallucinate Python idioms that fail to compile. To fix this, I built a custom reference system: a hand-written language spec, full API docs converted from Godot&#x27;s XML source, and a quirks database for engine behaviors you can&#x27;t learn from docs alone. Because 850 classes blow up the context window, the agent lazy-loads only the specific APIs it needs at runtime.<p>2. The Build-Time vs. Runtime State: Scenes are generated by headless scripts that build the node graph in memory and serialize it to .tscn files. This avoids the fragility of hand-editing Godot&#x27;s serialization format. But it means certain engine features (like `@onready` or signal connections) aren&#x27;t available at build time—they only exist when the game actually runs. Teaching the model which APIs are available at which phase — and that every node needs its owner set correctly or it silently vanishes on save — took careful prompting but paid off.<p>3. The Evaluation Loop: A coding agent is inherently biased toward its own output. To stop it from cheating, a separate Gemini Flash agent acts as visual QA. It sees only the rendered screenshots from the running engine—no code—and compares them against a generated reference image. It catches the visual bugs text analysis misses: z-fighting, floating objects, physics explosions, and grid-like placements that should be organic.<p>Architecturally, it runs as two Claude Code skills: an orchestrator that plans the pipeline, and a task executor that implements each piece in a `context: fork` window so mistakes and state don&#x27;t accumulate.<p>Everything is open source: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;htdt&#x2F;godogen\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;htdt&#x2F;godogen</a><p>Demo video (real games, not cherry-picked screenshots): <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;eUz19GROIpY\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;eUz19GROIpY</a><p>Blog post with the full story (all the wrong turns) coming soon. Happy to answer questions.",
+      "summary": "Show HN: Claude Code skills that build complete Godot games. I’ve been working on this for about a year through four major rewrites. Godogen is a pipeline that takes a text prompt, designs the architecture, generates 2D&#x2F;3D assets, writes the GDScript, and tests it visually. 점수 212, 반응 132 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 18
+      "count": 33
+    },
+    {
+      "keyword": "https",
+      "count": 8
+    },
+    {
+      "keyword": "code",
+      "count": 7
+    },
+    {
+      "keyword": "agent",
+      "count": 6
     },
     {
       "keyword": "platform",
+      "count": 5
+    },
+    {
+      "keyword": "build",
       "count": 5
     },
     {
@@ -246,52 +262,36 @@
       "count": 5
     },
     {
-      "keyword": "code",
-      "count": 4
+      "keyword": "x27",
+      "count": 5
     },
     {
       "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "https",
+      "keyword": "href",
       "count": 4
     },
     {
-      "keyword": "assistant",
-      "count": 3
+      "keyword": "github",
+      "count": 4
     },
     {
-      "keyword": "web",
-      "count": 3
+      "keyword": "com",
+      "count": 4
     },
     {
-      "keyword": "agent",
-      "count": 3
+      "keyword": "rel",
+      "count": 4
     },
     {
-      "keyword": "supabase",
-      "count": 3
+      "keyword": "nofollow",
+      "count": 4
     },
     {
-      "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "use",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
+      "keyword": "godot",
+      "count": 4
     }
   ],
   "meta": {
