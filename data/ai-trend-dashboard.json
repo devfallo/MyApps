@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-17T19:20:40.016030+00:00",
+  "updatedAt": "2026-03-17T20:57:33.396640+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,239 +10,243 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 320015,
-      "comments": 14352,
+      "score": 320110,
+      "comments": 14383,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 320015, 반응 14352 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 320110, 반응 14383 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "score": 182539,
-      "comments": 369,
+      "comments": 366,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182539, 반응 369 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182539, 반응 366 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 179652,
-      "comments": 1427,
+      "score": 179669,
+      "comments": 1433,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 179652, 반응 1427 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 179669, 반응 1433 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 161839,
+      "score": 161841,
       "comments": 2470,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161839, 반응 2470 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161841, 반응 2470 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 153075,
+      "score": 153076,
       "comments": 34,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 153075, 반응 34 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 153076, 반응 34 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 133239,
-      "comments": 787,
+      "score": 133246,
+      "comments": 790,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 133239, 반응 787 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 133246, 반응 790 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 131701,
+      "score": 131710,
       "comments": 129,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 131701, 반응 129 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 131710, 반응 129 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 129942,
+      "score": 129943,
       "comments": 500,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 129942, 반응 500 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 129943, 반응 500 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 127574,
-      "comments": 298,
+      "score": 127580,
+      "comments": 299,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 127574, 반응 298 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 127580, 반응 299 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108161,
+      "score": 108163,
       "comments": 7,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108161, 반응 7 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108163, 반응 7 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 106158,
-      "comments": 3843,
+      "score": 106159,
+      "comments": 3844,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106158, 반응 3843 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106159, 반응 3844 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 99156,
-      "comments": 936,
+      "score": 99161,
+      "comments": 938,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99156, 반응 936 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "score": 1248,
-      "comments": 290,
-      "text": "",
-      "summary": "Kagi Translate now supports LinkedIn Speak as an output language. 점수 1248, 반응 290 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99161, 반응 938 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
       "url": "https://mistral.ai/news/leanstral",
-      "score": 714,
-      "comments": 172,
+      "score": 723,
+      "comments": 176,
       "text": "Lean 4 paper (2021): <a href=\"https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37\" rel=\"nofollow\">https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37</a>",
-      "summary": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering. Lean 4 paper (2021): https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37 점수 714, 반응 172 기준 인기 이슈입니다."
+      "summary": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering. Lean 4 paper (2021): https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37 점수 723, 반응 176 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kagi Small Web",
       "url": "https://kagi.com/smallweb/",
-      "score": 599,
-      "comments": 167,
+      "score": 628,
+      "comments": 177,
       "text": "",
-      "summary": "Kagi Small Web.  점수 599, 반응 167 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Meta’s renewed commitment to jemalloc",
-      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 495,
-      "comments": 226,
-      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;jemalloc&#x2F;jemalloc\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jemalloc&#x2F;jemalloc</a>",
-      "summary": "Meta’s renewed commitment to jemalloc. https:&#x2F;&#x2F;github.com&#x2F;jemalloc&#x2F;jemalloc 점수 495, 반응 226 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The American Healthcare Conundrum",
-      "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-      "score": 493,
-      "comments": 561,
-      "text": "",
-      "summary": "The American Healthcare Conundrum. 점수 493, 반응 561 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Give Django your time and money, not your tokens",
-      "url": "https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/",
-      "score": 352,
-      "comments": 137,
-      "text": "",
-      "summary": "Give Django your time and money, not your tokens. 점수 352, 반응 137 기준 인기 이슈입니다."
+      "summary": "Kagi Small Web.  점수 628, 반응 177 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 294,
-      "comments": 123,
+      "score": 383,
+      "comments": 160,
       "text": "",
-      "summary": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'. 점수 294, 반응 123 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Sci-Fi Short Film “There Is No Antimemetics Division” [video]",
-      "url": "https://www.youtube.com/watch?v=3v8AsTHfAG0",
-      "score": 266,
-      "comments": 82,
-      "text": "",
-      "summary": "Sci-Fi Short Film “There Is No Antimemetics Division” [video]. 점수 266, 반응 82 기준 인기 이슈입니다."
+      "summary": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'. 점수 383, 반응 160 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "FFmpeg 8.1",
       "url": "https://ffmpeg.org/index.html#pr8.1",
-      "score": 255,
-      "comments": 38,
+      "score": 282,
+      "comments": 44,
       "text": "",
-      "summary": "FFmpeg 8.1.  점수 255, 반응 38 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The unlikely story of Teardown Multiplayer",
-      "url": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
-      "score": 202,
-      "comments": 54,
-      "text": "",
-      "summary": "The unlikely story of Teardown Multiplayer. 점수 202, 반응 54 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Building a Shell",
-      "url": "https://healeycodes.com/building-a-shell",
-      "score": 133,
-      "comments": 32,
-      "text": "",
-      "summary": "Building a Shell.  점수 133, 반응 32 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Node.js needs a virtual file system",
-      "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
-      "score": 131,
-      "comments": 113,
-      "text": "",
-      "summary": "Node.js needs a virtual file system. 점수 131, 반응 113 기준 인기 이슈입니다."
+      "summary": "FFmpeg 8.1.  점수 282, 반응 44 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Illinois Introducing Operating System Account Age Bill",
       "url": "https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511",
-      "score": 123,
-      "comments": 139,
+      "score": 181,
+      "comments": 222,
       "text": "",
-      "summary": "Illinois Introducing Operating System Account Age Bill. 점수 123, 반응 139 기준 인기 이슈입니다."
+      "summary": "Illinois Introducing Operating System Account Age Bill. 점수 181, 반응 222 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Decade of Slug",
+      "url": "https://terathon.com/blog/decade-slug.html",
+      "score": 165,
+      "comments": 9,
+      "text": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260317185928&#x2F;https:&#x2F;&#x2F;terathon.com&#x2F;blog&#x2F;decade-slug.html\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260317185928&#x2F;https:&#x2F;&#x2F;terathon....</a>",
+      "summary": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260317185928&#x2F;https:&#x2F;&#x2F;terathon.... 점수 165, 반응 9 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Node.js needs a virtual file system",
+      "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
+      "score": 162,
+      "comments": 141,
+      "text": "",
+      "summary": "Node.js needs a virtual file system. 점수 162, 반응 141 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT‑5.4 Mini and Nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "score": 157,
+      "comments": 95,
+      "text": "",
+      "summary": "GPT‑5.4 Mini and Nano. 점수 157, 반응 95 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Font Smuggler – Copy hidden brand fonts into Google Docs",
+      "url": "https://brianmoore.com/fontsmuggler/",
+      "score": 137,
+      "comments": 69,
+      "text": "",
+      "summary": "Font Smuggler – Copy hidden brand fonts into Google Docs. 점수 137, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
+      "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
+      "score": 137,
+      "comments": 41,
+      "text": "",
+      "summary": "Finding a CPU Design Bug in the Xbox 360 (2018). 점수 137, 반응 41 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Reverse-engineering Viktor and making it open source",
+      "url": "https://matijacniacki.com/blog/openviktor",
+      "score": 131,
+      "comments": 59,
+      "text": "",
+      "summary": "Reverse-engineering Viktor and making it open source. 점수 131, 반응 59 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+      "score": 127,
+      "comments": 81,
+      "text": "",
+      "summary": "Ryugu asteroid samples contain all DNA and RNA building blocks. 점수 127, 반응 81 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenSUSE Kalpa",
+      "url": "https://kalpadesktop.org/",
+      "score": 100,
+      "comments": 65,
+      "text": "",
+      "summary": "OpenSUSE Kalpa.  점수 100, 반응 65 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 18
+      "count": 26
+    },
+    {
+      "keyword": "web",
+      "count": 7
+    },
+    {
+      "keyword": "https",
+      "count": 6
     },
     {
       "keyword": "platform",
-      "count": 5
-    },
-    {
-      "keyword": "jemalloc",
       "count": 5
     },
     {
@@ -254,7 +258,7 @@
       "count": 4
     },
     {
-      "keyword": "https",
+      "keyword": "org",
       "count": 4
     },
     {
@@ -262,7 +266,7 @@
       "count": 3
     },
     {
-      "keyword": "web",
+      "keyword": "open",
       "count": 3
     },
     {
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
       "count": 2
     }
   ],
