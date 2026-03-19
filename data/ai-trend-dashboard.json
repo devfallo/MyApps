@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-19T13:42:46.295043+00:00",
+  "updatedAt": "2026-03-19T15:06:36.003492+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 324534,
-      "comments": 14554,
+      "score": 324688,
+      "comments": 14571,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 324534, 반응 14554 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 324688, 반응 14571 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182604,
-      "comments": 363,
+      "score": 182610,
+      "comments": 366,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182604, 반응 363 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182610, 반응 366 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 179987,
-      "comments": 1428,
+      "score": 179993,
+      "comments": 1430,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 179987, 반응 1428 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 179993, 반응 1430 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,235 +46,211 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 153304,
-      "comments": 31,
+      "score": 153319,
+      "comments": 32,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 153304, 반응 31 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 153319, 반응 32 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 133542,
-      "comments": 805,
+      "score": 133550,
+      "comments": 807,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 133542, 반응 805 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 133550, 반응 807 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 132057,
+      "score": 132100,
       "comments": 133,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 132057, 반응 133 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 132100, 반응 133 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 130201,
-      "comments": 507,
+      "score": 130216,
+      "comments": 506,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 130201, 반응 507 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 130216, 반응 506 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 127851,
+      "score": 127863,
       "comments": 316,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 127851, 반응 316 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 127863, 반응 316 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108246,
+      "score": 108250,
       "comments": 8,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108246, 반응 8 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108250, 반응 8 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 106339,
+      "score": 106344,
       "comments": 3857,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106339, 반응 3857 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106344, 반응 3857 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 99249,
-      "comments": 952,
+      "score": 99255,
+      "comments": 956,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99249, 반응 952 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Austin’s surge of new housing construction drove down rents",
-      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "score": 631,
-      "comments": 735,
-      "text": "",
-      "summary": "Austin’s surge of new housing construction drove down rents. 점수 631, 반응 735 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99255, 반응 956 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenRocket",
       "url": "https://openrocket.info/",
-      "score": 626,
-      "comments": 105,
+      "score": 660,
+      "comments": 113,
       "text": "",
-      "summary": "OpenRocket.  점수 626, 반응 105 기준 인기 이슈입니다."
+      "summary": "OpenRocket.  점수 660, 반응 113 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Austin’s surge of new housing construction drove down rents",
+      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+      "score": 658,
+      "comments": 792,
+      "text": "",
+      "summary": "Austin’s surge of new housing construction drove down rents. 점수 658, 반응 792 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Afroman found not liable in defamation case",
+      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+      "score": 607,
+      "comments": 223,
+      "text": "",
+      "summary": "Afroman found not liable in defamation case. 점수 607, 반응 223 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A sufficiently detailed spec is code",
       "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-      "score": 465,
-      "comments": 242,
+      "score": 492,
+      "comments": 257,
       "text": "",
-      "summary": "A sufficiently detailed spec is code. 점수 465, 반응 242 기준 인기 이슈입니다."
+      "summary": "A sufficiently detailed spec is code. 점수 492, 반응 257 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Warranty Void If Regenerated",
       "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 424,
-      "comments": 247,
+      "score": 446,
+      "comments": 270,
       "text": "As an experiment I started asking Claude to explain things to me with a fiction story and it ended up being really good, so I started seeing how far I could take it and what it would take to polish it enough to share publicly.<p>Over the last couple months, I&#x27;ve been building world bibles, writing and visual style guides, and other documents for this project… think the fiction equivalent of all the markdown files we use for agentic development now. After that, this was about two weeks of additional polish work to cut out a lot of fluff and a lot of the LLM-isms. Happy to answer any questions about the process too if that would be interesting to anybody.",
-      "summary": "Warranty Void If Regenerated. As an experiment I started asking Claude to explain things to me with a fiction story and it ended up being really good, so I started seeing how far I could take it and what it would take to polish it enough to share publicly. Over the last couple months, I&#x27;ve been building world bibles, writing and visual style guides, and other documents for this project… think the fiction equivalent of all the markdown files we use for agentic development now. 점수 424, 반응 247 기준 인기 이슈입니다."
+      "summary": "Warranty Void If Regenerated. As an experiment I started asking Claude to explain things to me with a fiction story and it ended up being really good, so I started seeing how far I could take it and what it would take to polish it enough to share publicly. Over the last couple months, I&#x27;ve been building world bibles, writing and visual style guides, and other documents for this project… think the fiction equivalent of all the markdown files we use for agentic development now. 점수 446, 반응 270 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
       "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "score": 398,
-      "comments": 108,
+      "score": 418,
+      "comments": 115,
       "text": "",
-      "summary": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe. 점수 398, 반응 108 기준 인기 이슈입니다."
+      "summary": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe. 점수 418, 반응 115 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
-      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+      "title": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
       "score": 390,
-      "comments": 90,
+      "comments": 178,
       "text": "",
-      "summary": "Afroman found not liable in defamation case brought by Ohio cops who raided home. 점수 390, 반응 90 기준 인기 이슈입니다."
+      "summary": "Astral to Join OpenAI. 점수 390, 반응 178 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nvidia NemoClaw",
       "url": "https://github.com/NVIDIA/NemoClaw",
-      "score": 339,
-      "comments": 222,
+      "score": 348,
+      "comments": 229,
       "text": "",
-      "summary": "Nvidia NemoClaw.  점수 339, 반응 222 기준 인기 이슈입니다."
+      "summary": "Nvidia NemoClaw.  점수 348, 반응 229 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
       "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
-      "score": 309,
-      "comments": 59,
+      "score": 336,
+      "comments": 63,
       "text": "",
-      "summary": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste. 점수 309, 반응 59 기준 인기 이슈입니다."
+      "summary": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste. 점수 336, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Wander – A tiny, decentralised tool to explore the small web",
       "url": "https://susam.net/wander/",
-      "score": 308,
-      "comments": 76,
+      "score": 318,
+      "comments": 78,
       "text": "",
-      "summary": "Wander – A tiny, decentralised tool to explore the small web. 점수 308, 반응 76 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cook: A simple CLI for orchestrating Claude Code",
-      "url": "https://rjcorwin.github.io/cook/",
-      "score": 248,
-      "comments": 69,
-      "text": "",
-      "summary": "Cook: A simple CLI for orchestrating Claude Code. 점수 248, 반응 69 기준 인기 이슈입니다."
+      "summary": "Wander – A tiny, decentralised tool to explore the small web. 점수 318, 반응 78 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Conway's Game of Life, in real life",
       "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
-      "score": 216,
-      "comments": 54,
+      "score": 247,
+      "comments": 63,
       "text": "",
-      "summary": "Conway's Game of Life, in real life. 점수 216, 반응 54 기준 인기 이슈입니다."
+      "summary": "Conway's Game of Life, in real life. 점수 247, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
-      "url": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
-      "score": 195,
-      "comments": 127,
+      "title": "Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos",
+      "url": "https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html",
+      "score": 190,
+      "comments": 21,
       "text": "",
-      "summary": "Mozilla to launch free built-in VPN in upcoming Firefox 149. 점수 195, 반응 127 기준 인기 이슈입니다."
+      "summary": "Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos. 점수 190, 반응 21 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-      "url": "https://github.com/alainnothere/llm-circuit-finder",
-      "score": 169,
-      "comments": 64,
-      "text": "I replicated David Ng&#x27;s RYS method (<a href=\"https:&#x2F;&#x2F;dnhkng.github.io&#x2F;posts&#x2F;rys&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;dnhkng.github.io&#x2F;posts&#x2F;rys&#x2F;</a>) on consumer AMD GPUs \n(RX 7900 XT + RX 6950 XT) and found something I didn&#x27;t expect.<p>Transformers appear to have discrete &quot;reasoning circuits&quot; — contiguous blocks of 3-4 layers that \nact as indivisible cognitive units. Duplicate the right block and the model runs its reasoning \npipeline twice. No weights change. No training. The model just thinks longer.<p>The results on standard benchmarks (lm-evaluation-harness, n=50):<p>Devstral-24B, layers 12-14 duplicated once:\n- BBH Logical Deduction: 0.22 → 0.76\n- GSM8K (strict): 0.48 → 0.64\n- MBPP (code gen): 0.72 → 0.78\n- Nothing degraded<p>Qwen2.5-Coder-32B, layers 7-9 duplicated once:\n- Reasoning probe: 76% → 94%<p>The weird part: different duplication patterns create different cognitive &quot;modes&quot; from the same \nweights. Double-pass boosts math. Triple-pass boosts emotional reasoning. Interleaved doubling \n(13,13,14,14,15,15,16) creates a pure math specialist. Same model, same VRAM, different routing.<p>The circuit boundaries are sharp — shift by one layer and the effect disappears or inverts. \nSmaller models (24B) have tighter circuits (3 layers) than larger ones (Ng found 7 layers in 72B).<p>Tools to find circuits in any GGUF model and apply arbitrary layer routing are in the repo. \nThe whole thing — sweep, discovery, validation — took one evening.<p>Happy to answer questions.",
-      "summary": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. I replicated David Ng&#x27;s RYS method ( https:&#x2F;&#x2F;dnhkng.github.io&#x2F;posts&#x2F;rys&#x2F; ) on consumer AMD GPUs (RX 7900 XT + RX 6950 XT) and found something I didn&#x27;t expect. Transformers appear to have discrete &quot;reasoning circuits&quot; — contiguous blocks of 3-4 layers that act as indivisible cognitive units. 점수 169, 반응 64 기준 인기 이슈입니다."
+      "title": "Iran war energy shock sparks global push to reduce fossil fuel dependence",
+      "url": "https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/",
+      "score": 189,
+      "comments": 224,
+      "text": "",
+      "summary": "Iran war energy shock sparks global push to reduce fossil fuel dependence. 점수 189, 반응 224 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
-    {
-      "keyword": "x2f",
-      "count": 10
-    },
-    {
-      "keyword": "code",
-      "count": 7
-    },
-    {
-      "keyword": "layers",
-      "count": 6
-    },
     {
       "keyword": "platform",
       "count": 5
     },
     {
-      "keyword": "model",
+      "keyword": "code",
       "count": 5
-    },
-    {
-      "keyword": "any",
-      "count": 4
     },
     {
       "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "same",
-      "count": 4
+      "keyword": "any",
+      "count": 3
     },
     {
-      "keyword": "quot",
-      "count": 4
-    },
-    {
-      "keyword": "reasoning",
-      "count": 4
-    },
-    {
-      "keyword": "tools",
+      "keyword": "use",
       "count": 3
     },
     {
@@ -290,8 +266,32 @@
       "count": 3
     },
     {
-      "keyword": "claude",
+      "keyword": "started",
       "count": 3
+    },
+    {
+      "keyword": "supabase",
+      "count": 3
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "build",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "can",
+      "count": 2
     }
   ],
   "meta": {
