@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-20T19:07:07.155311+00:00",
+  "updatedAt": "2026-03-20T20:49:57.465364+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,10 +10,10 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 326888,
-      "comments": 14718,
+      "score": 326977,
+      "comments": 14660,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 326888, 반응 14718 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 326977, 반응 14660 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -28,10 +28,10 @@
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 180201,
+      "score": 180204,
       "comments": 1446,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 180201, 반응 1446 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 180204, 반응 1446 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,46 +46,46 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 153421,
+      "score": 153429,
       "comments": 35,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 153421, 반응 35 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 153429, 반응 35 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 133732,
-      "comments": 805,
+      "score": 133737,
+      "comments": 806,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 133732, 반응 805 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 133737, 반응 806 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 132382,
+      "score": 132386,
       "comments": 133,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 132382, 반응 133 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 132386, 반응 133 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 130370,
-      "comments": 479,
+      "score": 130375,
+      "comments": 480,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 130370, 반응 479 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 130375, 반응 480 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 128012,
-      "comments": 337,
+      "score": 128020,
+      "comments": 329,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 128012, 반응 337 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 128020, 반응 329 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -100,136 +100,136 @@
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 106452,
+      "score": 106454,
       "comments": 3855,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106452, 반응 3855 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106454, 반응 3855 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 99350,
-      "comments": 952,
+      "score": 99354,
+      "comments": 953,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99350, 반응 952 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99354, 반응 953 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "ArXiv declares independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 643,
-      "comments": 217,
+      "score": 679,
+      "comments": 232,
       "text": "",
-      "summary": "ArXiv declares independence from Cornell. 점수 643, 반응 217 기준 인기 이슈입니다."
+      "summary": "ArXiv declares independence from Cornell. 점수 679, 반응 232 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Chuck Norris has died",
       "url": "https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/",
-      "score": 530,
-      "comments": 333,
+      "score": 630,
+      "comments": 378,
       "text": "",
-      "summary": "Chuck Norris has died. 점수 530, 반응 333 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
-      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
-      "score": 266,
-      "comments": 80,
-      "text": "",
-      "summary": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found. 점수 266, 반응 80 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "HP trialed mandatory 15-minute support call wait times (2025)",
-      "url": "https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/",
-      "score": 249,
-      "comments": 160,
-      "text": "",
-      "summary": "HP trialed mandatory 15-minute support call wait times (2025). 점수 249, 반응 160 기준 인기 이슈입니다."
+      "summary": "Chuck Norris has died. 점수 630, 반응 378 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Delve – Fake Compliance as a Service",
       "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-      "score": 223,
-      "comments": 84,
+      "score": 368,
+      "comments": 126,
       "text": "",
-      "summary": "Delve – Fake Compliance as a Service. 점수 223, 반응 84 기준 인기 이슈입니다."
+      "summary": "Delve – Fake Compliance as a Service. 점수 368, 반응 126 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 218,
-      "comments": 229,
+      "score": 351,
+      "comments": 309,
       "text": "",
-      "summary": "France's aircraft carrier located in real time by Le Monde through fitness app. 점수 218, 반응 229 기준 인기 이슈입니다."
+      "summary": "France's aircraft carrier located in real time by Le Monde through fitness app. 점수 351, 반응 309 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "score": 277,
+      "comments": 88,
+      "text": "",
+      "summary": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found. 점수 277, 반응 88 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "HP trialed mandatory 15-minute support call wait times (2025)",
+      "url": "https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/",
+      "score": 276,
+      "comments": 180,
+      "text": "",
+      "summary": "HP trialed mandatory 15-minute support call wait times (2025). 점수 276, 반응 180 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
+      "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+      "score": 258,
+      "comments": 73,
+      "text": "",
+      "summary": "Drugwars for the TI-82/83/83 Calculators (2011). 점수 258, 반응 73 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot",
       "url": "https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/",
-      "score": 198,
-      "comments": 95,
+      "score": 249,
+      "comments": 115,
       "text": "",
-      "summary": "Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot. 점수 198, 반응 95 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
-      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
-      "score": 191,
-      "comments": 100,
-      "text": "",
-      "summary": "FSF statement on copyright infringement lawsuit Bartz v. 점수 191, 반응 100 기준 인기 이슈입니다."
+      "summary": "Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot. 점수 249, 반응 115 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Los Angeles Aqueduct Is Wild",
       "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
-      "score": 182,
-      "comments": 101,
+      "score": 231,
+      "comments": 126,
       "text": "",
-      "summary": "The Los Angeles Aqueduct Is Wild. 점수 182, 반응 101 기준 인기 이슈입니다."
+      "summary": "The Los Angeles Aqueduct Is Wild. 점수 231, 반응 126 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
+      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+      "score": 222,
+      "comments": 107,
+      "text": "",
+      "summary": "FSF statement on copyright infringement lawsuit Bartz v. 점수 222, 반응 107 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Drawvg Filter for FFmpeg",
       "url": "https://ayosec.github.io/ffmpeg-drawvg/",
-      "score": 156,
-      "comments": 25,
+      "score": 162,
+      "comments": 26,
       "text": "",
-      "summary": "Drawvg Filter for FFmpeg. 점수 156, 반응 25 기준 인기 이슈입니다."
+      "summary": "Drawvg Filter for FFmpeg. 점수 162, 반응 26 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Entso-E final report on Iberian 2025 blackout",
       "url": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
-      "score": 145,
-      "comments": 49,
+      "score": 156,
+      "comments": 57,
       "text": "",
-      "summary": "Entso-E final report on Iberian 2025 blackout. 점수 145, 반응 49 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
-      "url": "https://arxiv.org/abs/2603.09229",
-      "score": 142,
-      "comments": 10,
-      "text": "",
-      "summary": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means. 점수 142, 반응 10 기준 인기 이슈입니다."
+      "summary": "Entso-E final report on Iberian 2025 blackout. 점수 156, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Java is fast, code might not be",
       "url": "https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/",
-      "score": 123,
-      "comments": 115,
+      "score": 152,
+      "comments": 153,
       "text": "",
-      "summary": "Java is fast, code might not be. 점수 123, 반응 115 기준 인기 이슈입니다."
+      "summary": "Java is fast, code might not be. 점수 152, 반응 153 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
