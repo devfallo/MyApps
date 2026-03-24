@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-23T22:51:58.929452+00:00",
+  "updatedAt": "2026-03-24T03:13:38.052110+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,232 +10,244 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 332213,
-      "comments": 15145,
+      "score": 332665,
+      "comments": 15180,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 332213, 반응 15145 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 332665, 반응 15180 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182754,
-      "comments": 370,
+      "score": 182766,
+      "comments": 371,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182754, 반응 370 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182766, 반응 371 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 180701,
-      "comments": 1433,
+      "score": 180741,
+      "comments": 1435,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 180701, 반응 1433 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 180741, 반응 1435 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 161977,
-      "comments": 2469,
+      "score": 161983,
+      "comments": 2470,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161977, 반응 2469 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161983, 반응 2470 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 154013,
+      "score": 154050,
       "comments": 38,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154013, 반응 38 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154050, 반응 38 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 134143,
-      "comments": 805,
+      "score": 134164,
+      "comments": 800,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 134143, 반응 805 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 134164, 반응 800 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 132892,
+      "score": 132925,
       "comments": 137,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 132892, 반응 137 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 132925, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 130767,
-      "comments": 476,
+      "score": 130815,
+      "comments": 477,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 130767, 반응 476 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 130815, 반응 477 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 128405,
+      "score": 128424,
       "comments": 286,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 128405, 반응 286 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 128424, 반응 286 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108416,
+      "score": 108422,
       "comments": 13,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108416, 반응 13 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108422, 반응 13 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 106752,
-      "comments": 3882,
+      "score": 106771,
+      "comments": 3880,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106752, 반응 3882 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106771, 반응 3880 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 99542,
-      "comments": 960,
+      "score": 99550,
+      "comments": 962,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99542, 반응 960 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99550, 반응 962 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Migrating to the EU",
       "url": "https://rz01.org/eu-migration/",
-      "score": 798,
-      "comments": 620,
+      "score": 836,
+      "comments": 640,
       "text": "",
-      "summary": "Migrating to the EU.  점수 798, 반응 620 기준 인기 이슈입니다."
+      "summary": "Migrating to the EU.  점수 836, 반응 640 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 424,
-      "comments": 224,
+      "score": 501,
+      "comments": 246,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;anemll&#x2F;status&#x2F;2035901335984611412\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;anemll&#x2F;status&#x2F;2035901335984611412</a>",
-      "summary": "iPhone 17 Pro Demonstrated Running a 400B LLM. https:&#x2F;&#x2F;xcancel.com&#x2F;anemll&#x2F;status&#x2F;2035901335984611412 점수 424, 반응 224 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Walmart: ChatGPT checkout converted 3x worse than website",
-      "url": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
-      "score": 390,
-      "comments": 256,
-      "text": "",
-      "summary": "Walmart: ChatGPT checkout converted 3x worse than website. 점수 390, 반응 256 기준 인기 이슈입니다."
+      "summary": "iPhone 17 Pro Demonstrated Running a 400B LLM. https:&#x2F;&#x2F;xcancel.com&#x2F;anemll&#x2F;status&#x2F;2035901335984611412 점수 501, 반응 246 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Two pilots dead after plane and ground vehicle collide at LaGuardia",
       "url": "https://www.bbc.com/news/articles/cy01g522ww4o",
-      "score": 286,
-      "comments": 464,
+      "score": 362,
+      "comments": 558,
       "text": "<a href=\"https:&#x2F;&#x2F;avherald.com&#x2F;h?article=536bb98e\" rel=\"nofollow\">https:&#x2F;&#x2F;avherald.com&#x2F;h?article=536bb98e</a>",
-      "summary": "Two pilots dead after plane and ground vehicle collide at LaGuardia. https:&#x2F;&#x2F;avherald.com&#x2F;h?article=536bb98e 점수 286, 반응 464 기준 인기 이슈입니다."
+      "summary": "Two pilots dead after plane and ground vehicle collide at LaGuardia. https:&#x2F;&#x2F;avherald.com&#x2F;h?article=536bb98e 점수 362, 반응 558 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html",
-      "score": 271,
-      "comments": 188,
+      "score": 361,
+      "comments": 264,
       "text": "",
-      "summary": "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects. 점수 271, 반응 188 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "“Collaboration” is bullshit",
-      "url": "https://www.joanwestenberg.com/collaboration-is-bullshit/",
-      "score": 264,
-      "comments": 140,
-      "text": "",
-      "summary": "“Collaboration” is bullshit. 점수 264, 반응 140 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bombadil: Property-based testing for web UIs",
-      "url": "https://github.com/antithesishq/bombadil",
-      "score": 214,
-      "comments": 87,
-      "text": "",
-      "summary": "Bombadil: Property-based testing for web UIs. 점수 214, 반응 87 기준 인기 이슈입니다."
+      "summary": "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects. 점수 361, 반응 264 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Autoresearch on an old research idea",
       "url": "https://ykumar.me/blog/eclip-autoresearch/",
-      "score": 212,
-      "comments": 64,
+      "score": 291,
+      "comments": 67,
       "text": "",
-      "summary": "Autoresearch on an old research idea. 점수 212, 반응 64 기준 인기 이슈입니다."
+      "summary": "Autoresearch on an old research idea. 점수 291, 반응 67 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I built an AI receptionist for a mechanic shop",
       "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
-      "score": 184,
-      "comments": 209,
+      "score": 226,
+      "comments": 255,
       "text": "",
-      "summary": "I built an AI receptionist for a mechanic shop. 점수 184, 반응 209 기준 인기 이슈입니다."
+      "summary": "I built an AI receptionist for a mechanic shop. 점수 226, 반응 255 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bombadil: Property-based testing for web UIs",
+      "url": "https://github.com/antithesishq/bombadil",
+      "score": 224,
+      "comments": 89,
+      "text": "",
+      "summary": "Bombadil: Property-based testing for web UIs. 점수 224, 반응 89 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+      "score": 206,
+      "comments": 139,
+      "text": "<a href=\"https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf</a><p><a href=\"https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-foreign-countries-covered-list\" rel=\"nofollow\">https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-forei...</a><p><a href=\"https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf</a>",
+      "summary": "FCC Updates Covered List to Include Foreign-Made Consumer Routers. https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-forei... https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf 점수 206, 반응 139 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code Cheat Sheet",
+      "url": "https://cc.storyfox.cz",
+      "score": 188,
+      "comments": 69,
+      "text": "",
+      "summary": "Claude Code Cheat Sheet. 점수 188, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Windows 3.1 tiled background .bmp archive",
+      "url": "https://github.com/andreasjansson/win-3.1-backgrounds",
+      "score": 178,
+      "comments": 50,
+      "text": "",
+      "summary": "Windows 3.1 tiled background .bmp archive. 점수 178, 반응 50 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "An unsolicited guide to being a researcher [pdf]",
       "url": "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf",
-      "score": 149,
+      "score": 171,
       "comments": 21,
       "text": "",
-      "summary": "An unsolicited guide to being a researcher [pdf]. 점수 149, 반응 21 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bets on US-Iran ceasefire show signs of insider knowledge, say experts",
-      "url": "https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket",
-      "score": 140,
-      "comments": 120,
-      "text": "",
-      "summary": "Bets on US-Iran ceasefire show signs of insider knowledge, say experts. 점수 140, 반응 120 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-      "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-      "score": 132,
-      "comments": 48,
-      "text": "",
-      "summary": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets. 점수 132, 반응 48 기준 인기 이슈입니다."
+      "summary": "An unsolicited guide to being a researcher [pdf]. 점수 171, 반응 21 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Finding all regex matches has always been O(n²)",
       "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
-      "score": 130,
-      "comments": 29,
+      "score": 169,
+      "comments": 44,
       "text": "",
-      "summary": "Finding all regex matches has always been O(n²). 점수 130, 반응 29 기준 인기 이슈입니다."
+      "summary": "Finding all regex matches has always been O(n²). 점수 169, 반응 44 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+      "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+      "score": 166,
+      "comments": 60,
+      "text": "",
+      "summary": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets. 점수 166, 반응 60 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 16
+      "count": 44
+    },
+    {
+      "keyword": "https",
+      "count": 10
+    },
+    {
+      "keyword": "fcc",
+      "count": 7
+    },
+    {
+      "keyword": "gov",
+      "count": 6
     },
     {
       "keyword": "platform",
@@ -243,14 +255,26 @@
     },
     {
       "keyword": "code",
-      "count": 4
+      "count": 5
+    },
+    {
+      "keyword": "href",
+      "count": 5
+    },
+    {
+      "keyword": "rel",
+      "count": 5
+    },
+    {
+      "keyword": "nofollow",
+      "count": 5
+    },
+    {
+      "keyword": "pdf",
+      "count": 5
     },
     {
       "keyword": "prompts",
-      "count": 4
-    },
-    {
-      "keyword": "https",
       "count": 4
     },
     {
@@ -258,40 +282,16 @@
       "count": 4
     },
     {
-      "keyword": "web",
-      "count": 3
+      "keyword": "docs",
+      "count": 4
     },
     {
-      "keyword": "supabase",
-      "count": 3
+      "keyword": "public",
+      "count": 4
     },
     {
-      "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
+      "keyword": "attachments",
+      "count": 4
     }
   ],
   "meta": {
