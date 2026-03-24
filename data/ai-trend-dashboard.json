@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-24T17:14:28.922753+00:00",
+  "updatedAt": "2026-03-24T19:29:55.758015+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,236 +10,240 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 334094,
-      "comments": 15302,
+      "score": 334196,
+      "comments": 15348,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 334094, 반응 15302 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 334196, 반응 15348 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182781,
-      "comments": 372,
+      "score": 182785,
+      "comments": 373,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182781, 반응 372 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182785, 반응 373 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 180843,
-      "comments": 1439,
+      "score": 180855,
+      "comments": 1432,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 180843, 반응 1439 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 180855, 반응 1432 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 161975,
+      "score": 161977,
       "comments": 2473,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161975, 반응 2473 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161977, 반응 2473 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 154130,
+      "score": 154136,
       "comments": 39,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154130, 반응 39 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154136, 반응 39 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 134263,
-      "comments": 794,
+      "score": 134277,
+      "comments": 793,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 134263, 반응 794 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 134277, 반응 793 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 133040,
-      "comments": 137,
+      "score": 133056,
+      "comments": 138,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133040, 반응 137 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133056, 반응 138 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 130898,
-      "comments": 483,
+      "score": 130908,
+      "comments": 484,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 130898, 반응 483 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 130908, 반응 484 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 128509,
+      "score": 128521,
       "comments": 278,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 128509, 반응 278 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 128521, 반응 278 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108457,
+      "score": 108461,
       "comments": 13,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108457, 반응 13 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108461, 반응 13 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 106826,
+      "score": 106831,
       "comments": 3884,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106826, 반응 3884 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106831, 반응 3884 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 99553,
-      "comments": 958,
+      "score": 99556,
+      "comments": 956,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99553, 반응 958 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99556, 반응 956 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
       "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 734,
-      "comments": 541,
+      "score": 835,
+      "comments": 612,
       "text": "",
-      "summary": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating. 점수 734, 반응 541 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 686,
-      "comments": 310,
-      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;anemll&#x2F;status&#x2F;2035901335984611412\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;anemll&#x2F;status&#x2F;2035901335984611412</a>",
-      "summary": "iPhone 17 Pro Demonstrated Running a 400B LLM. https:&#x2F;&#x2F;xcancel.com&#x2F;anemll&#x2F;status&#x2F;2035901335984611412 점수 686, 반응 310 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "LiteLLM Python package compromised by supply-chain attack",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 574,
-      "comments": 233,
-      "text": "",
-      "summary": "LiteLLM Python package compromised by supply-chain attack. 점수 574, 반응 233 기준 인기 이슈입니다."
+      "summary": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating. 점수 835, 반응 612 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "FCC updates covered list to include foreign-made consumer routers",
       "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-      "score": 434,
-      "comments": 293,
-      "text": "<a href=\"https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf</a><p><a href=\"https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-foreign-countries-covered-list\" rel=\"nofollow\">https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-forei...</a><p><a href=\"https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf</a><p><a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74787w149zo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74787w149zo</a><p><a href=\"https:&#x2F;&#x2F;www.cnet.com&#x2F;home&#x2F;internet&#x2F;fcc-bans-foreign-made-routers-as-national-security-risk&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnet.com&#x2F;home&#x2F;internet&#x2F;fcc-bans-foreign-made-rou...</a>",
-      "summary": "FCC updates covered list to include foreign-made consumer routers. https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-forei... https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74787w149zo https:&#x2F;&#x2F;www.cnet.com&#x2F;home&#x2F;internet&#x2F;fcc-bans-foreign-made-rou... 점수 434, 반응 293 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Autoresearch on an old research idea",
-      "url": "https://ykumar.me/blog/eclip-autoresearch/",
-      "score": 406,
-      "comments": 89,
-      "text": "",
-      "summary": "Autoresearch on an old research idea. 점수 406, 반응 89 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Log File Viewer for the Terminal",
-      "url": "https://lnav.org/",
-      "score": 264,
-      "comments": 41,
-      "text": "",
-      "summary": "Log File Viewer for the Terminal. 점수 264, 반응 41 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
-      "url": "https://burntsushi.net/ripgrep/",
-      "score": 247,
-      "comments": 100,
-      "text": "",
-      "summary": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016). 점수 247, 반응 100 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
-      "url": "https://www.jackhogan.me/blog/box-of-secrets/",
-      "score": 239,
-      "comments": 87,
-      "text": "",
-      "summary": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home. 점수 239, 반응 87 기준 인기 이슈입니다."
+      "score": 456,
+      "comments": 389,
+      "text": "<a href=\"https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf</a><p><a href=\"https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-foreign-countries-covered-list\" rel=\"nofollow\">https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-forei...</a><p><a href=\"https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf</a><p><a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74787w149zo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74787w149zo</a><p><a href=\"https:&#x2F;&#x2F;www.cnet.com&#x2F;home&#x2F;internet&#x2F;fcc-bans-foreign-made-routers-as-national-security-risk&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnet.com&#x2F;home&#x2F;internet&#x2F;fcc-bans-foreign-made-rou...</a><p><a href=\"https:&#x2F;&#x2F;blog.adafruit.com&#x2F;2026&#x2F;03&#x2F;24&#x2F;fcc-just-banned-the-import-of-all-new-foreign-made-routers-heres-what-you-can-do-about-it&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.adafruit.com&#x2F;2026&#x2F;03&#x2F;24&#x2F;fcc-just-banned-the-imp...</a>",
+      "summary": "FCC updates covered list to include foreign-made consumer routers. https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-forei... https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74787w149zo https:&#x2F;&#x2F;www.cnet.com&#x2F;home&#x2F;internet&#x2F;fcc-bans-foreign-made-rou... 점수 456, 반응 389 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "So where are all the AI apps?",
       "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
-      "score": 218,
-      "comments": 240,
+      "score": 323,
+      "comments": 296,
       "text": "",
-      "summary": "So where are all the AI apps?. 점수 218, 반응 240 기준 인기 이슈입니다."
+      "summary": "So where are all the AI apps?. 점수 323, 반응 296 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
-      "url": "https://www.web-rewind.com",
-      "score": 160,
-      "comments": 91,
+      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
+      "url": "https://burntsushi.net/ripgrep/",
+      "score": 280,
+      "comments": 120,
       "text": "",
-      "summary": "Opera: Rewind The Web to 1996 (Opera at 30). 점수 160, 반응 91 기준 인기 이슈입니다."
+      "summary": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016). 점수 280, 반응 120 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
+      "url": "https://www.jackhogan.me/blog/box-of-secrets/",
+      "score": 249,
+      "comments": 107,
+      "text": "",
+      "summary": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home. 점수 249, 반응 107 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
       "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
-      "score": 156,
-      "comments": 115,
+      "score": 240,
+      "comments": 191,
       "text": "",
-      "summary": "LaGuardia pilots raised safety alarms months before deadly runway crash. 점수 156, 반응 115 기준 인기 이슈입니다."
+      "summary": "LaGuardia pilots raised safety alarms months before deadly runway crash. 점수 240, 반응 191 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple Business",
+      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+      "score": 217,
+      "comments": 174,
+      "text": "",
+      "summary": "Apple Business.  점수 217, 반응 174 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
+      "url": "https://www.web-rewind.com",
+      "score": 173,
+      "comments": 107,
+      "text": "",
+      "summary": "Opera: Rewind The Web to 1996 (Opera at 30). 점수 173, 반응 107 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "No Terms. No Conditions",
+      "url": "https://notermsnoconditions.com",
+      "score": 166,
+      "comments": 67,
+      "text": "",
+      "summary": "No Terms. No Conditions.  점수 166, 반응 67 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "score": 162,
+      "comments": 306,
+      "text": "About an hour ago new versions have been deployed to PyPI.<p>I was just setting up a new project, and things behaved weirdly. My laptop ran out of RAM, it looked like a forkbomb was running.<p>I&#x27;ve investigated, and found that a base64 encoded blob has been added to proxy_server.py.<p>It writes and decodes another file which it then runs.<p>I&#x27;m in the process of reporting this upstream, but wanted to give everyone here a headsup.<p>It is also reported in this issue:\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;BerriAI&#x2F;litellm&#x2F;issues&#x2F;24512\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;BerriAI&#x2F;litellm&#x2F;issues&#x2F;24512</a>",
+      "summary": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised. About an hour ago new versions have been deployed to PyPI. I was just setting up a new project, and things behaved weirdly. 점수 162, 반응 306 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Debunking Zswap and Zram Myths",
       "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
-      "score": 121,
-      "comments": 29,
+      "score": 152,
+      "comments": 42,
       "text": "",
-      "summary": "Debunking Zswap and Zram Myths. 점수 121, 반응 29 기준 인기 이슈입니다."
+      "summary": "Debunking Zswap and Zram Myths. 점수 152, 반응 42 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
-      "url": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
-      "score": 116,
-      "comments": 44,
+      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
+      "url": "https://github.com/t8/hypura",
+      "score": 143,
+      "comments": 61,
       "text": "",
-      "summary": "curl > /dev/sda: How I made a Linux distro that runs wget | dd. 점수 116, 반응 44 기준 인기 이슈입니다."
+      "summary": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon. 점수 143, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nanobrew: The fastest macOS package manager compatible with brew",
+      "url": "https://nanobrew.trilok.ai/",
+      "score": 130,
+      "comments": 79,
+      "text": "",
+      "summary": "Nanobrew: The fastest macOS package manager compatible with brew. 점수 130, 반응 79 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 59
+      "count": 74
     },
     {
       "keyword": "https",
-      "count": 12
+      "count": 14
+    },
+    {
+      "keyword": "com",
+      "count": 8
     },
     {
       "keyword": "fcc",
@@ -247,19 +251,15 @@
     },
     {
       "keyword": "href",
-      "count": 6
-    },
-    {
-      "keyword": "com",
-      "count": 6
+      "count": 7
     },
     {
       "keyword": "rel",
-      "count": 6
+      "count": 7
     },
     {
       "keyword": "nofollow",
-      "count": 6
+      "count": 7
     },
     {
       "keyword": "gov",
