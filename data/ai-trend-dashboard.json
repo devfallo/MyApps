@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-24T22:50:19.920455+00:00",
+  "updatedAt": "2026-03-25T03:18:57.779309+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,247 +10,259 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 334329,
-      "comments": 15403,
+      "score": 334640,
+      "comments": 15475,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 334329, 반응 15403 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 334640, 반응 15475 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182786,
-      "comments": 372,
+      "score": 182792,
+      "comments": 369,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182786, 반응 372 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182792, 반응 369 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 180875,
-      "comments": 1429,
+      "score": 180904,
+      "comments": 1430,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 180875, 반응 1429 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 180904, 반응 1430 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 161977,
+      "score": 161984,
       "comments": 2473,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161977, 반응 2473 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 161984, 반응 2473 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 154145,
-      "comments": 37,
+      "score": 154161,
+      "comments": 39,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154145, 반응 37 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154161, 반응 39 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 134285,
-      "comments": 796,
+      "score": 134311,
+      "comments": 794,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 134285, 반응 796 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 134311, 반응 794 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 133064,
+      "score": 133103,
       "comments": 138,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133064, 반응 138 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133103, 반응 138 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 130915,
-      "comments": 484,
+      "score": 130943,
+      "comments": 485,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 130915, 반응 484 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 130943, 반응 485 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 128529,
-      "comments": 265,
+      "score": 128546,
+      "comments": 238,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 128529, 반응 265 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 128546, 반응 238 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108464,
+      "score": 108476,
       "comments": 13,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108464, 반응 13 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108476, 반응 13 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 106838,
-      "comments": 3882,
+      "score": 106863,
+      "comments": 3883,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106838, 반응 3882 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 106863, 반응 3883 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 99564,
-      "comments": 953,
+      "score": 99577,
+      "comments": 960,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99564, 반응 953 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99577, 반응 960 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
       "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-      "score": 496,
-      "comments": 177,
+      "score": 718,
+      "comments": 255,
       "text": "",
-      "summary": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains. 점수 496, 반응 177 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apple Business",
-      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 436,
-      "comments": 289,
-      "text": "",
-      "summary": "Apple Business.  점수 436, 반응 289 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mystery jump in oil trading ahead of Trump post draws scrutiny",
-      "url": "https://www.bbc.com/news/articles/cg547ljepvzo",
-      "score": 402,
-      "comments": 251,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.wsj.com&#x2F;livecoverage&#x2F;stock-market-today-dow-sp-500-nasdaq-03-24-2026&#x2F;card&#x2F;mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wsj.com&#x2F;livecoverage&#x2F;stock-market-today-dow-sp-5...</a>",
-      "summary": "Mystery jump in oil trading ahead of Trump post draws scrutiny. https:&#x2F;&#x2F;www.wsj.com&#x2F;livecoverage&#x2F;stock-market-today-dow-sp-5... 점수 402, 반응 251 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 388,
-      "comments": 348,
-      "text": "About an hour ago new versions have been deployed to PyPI.<p>I was just setting up a new project, and things behaved weirdly. My laptop ran out of RAM, it looked like a forkbomb was running.<p>I&#x27;ve investigated, and found that a base64 encoded blob has been added to proxy_server.py.<p>It writes and decodes another file which it then runs.<p>I&#x27;m in the process of reporting this upstream, but wanted to give everyone here a headsup.<p>It is also reported in this issue:\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;BerriAI&#x2F;litellm&#x2F;issues&#x2F;24512\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;BerriAI&#x2F;litellm&#x2F;issues&#x2F;24512</a>",
-      "summary": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised. About an hour ago new versions have been deployed to PyPI. I was just setting up a new project, and things behaved weirdly. 점수 388, 반응 348 기준 인기 이슈입니다."
+      "summary": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains. 점수 718, 반응 255 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Is anybody else bored of talking about AI?",
       "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-      "score": 358,
-      "comments": 277,
+      "score": 567,
+      "comments": 394,
       "text": "",
-      "summary": "Is anybody else bored of talking about AI?. 점수 358, 반응 277 기준 인기 이슈입니다."
+      "summary": "Is anybody else bored of talking about AI?. 점수 567, 반응 394 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
-      "url": "https://burntsushi.net/ripgrep/",
-      "score": 314,
-      "comments": 135,
+      "title": "Apple Business",
+      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+      "score": 535,
+      "comments": 324,
       "text": "",
-      "summary": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016). 점수 314, 반응 135 기준 인기 이슈입니다."
+      "summary": "Apple Business.  점수 535, 반응 324 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
-      "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
-      "score": 313,
-      "comments": 247,
-      "text": "Related: <i>Two pilots dead after plane and ground vehicle collide at LaGuardia</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47486386\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47486386</a> (667 comments)",
-      "summary": "LaGuardia pilots raised safety alarms months before deadly runway crash. Related: Two pilots dead after plane and ground vehicle collide at LaGuardia - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47486386 (667 comments) 점수 313, 반응 247 기준 인기 이슈입니다."
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "score": 530,
+      "comments": 382,
+      "text": "About an hour ago new versions have been deployed to PyPI.<p>I was just setting up a new project, and things behaved weirdly. My laptop ran out of RAM, it looked like a forkbomb was running.<p>I&#x27;ve investigated, and found that a base64 encoded blob has been added to proxy_server.py.<p>It writes and decodes another file which it then runs.<p>I&#x27;m in the process of reporting this upstream, but wanted to give everyone here a headsup.<p>It is also reported in this issue:\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;BerriAI&#x2F;litellm&#x2F;issues&#x2F;24512\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;BerriAI&#x2F;litellm&#x2F;issues&#x2F;24512</a>",
+      "summary": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised. About an hour ago new versions have been deployed to PyPI. I was just setting up a new project, and things behaved weirdly. 점수 530, 반응 382 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "GitHub is once again down",
-      "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
-      "score": 278,
-      "comments": 144,
+      "title": "Goodbye to Sora",
+      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "score": 440,
+      "comments": 344,
+      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;soraofficialapp&#x2F;status&#x2F;2036532795984715896\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;soraofficialapp&#x2F;status&#x2F;20365327959847158...</a><p><a href=\"https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;business&#x2F;digital&#x2F;openai-shutting-down-sora-ai-video-app-1236546187&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;business&#x2F;digital&#x2F;openai-sh...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;ABkeI\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;ABkeI</a>",
+      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;soraofficialapp&#x2F;status&#x2F;20365327959847158... https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;business&#x2F;digital&#x2F;openai-sh... , https:&#x2F;&#x2F;archive.ph&#x2F;ABkeI 점수 440, 반응 344 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "score": 422,
+      "comments": 618,
       "text": "",
-      "summary": "GitHub is once again down. 점수 278, 반응 144 기준 인기 이슈입니다."
+      "summary": "Epoch confirms GPT5.4 Pro solved a frontier math open problem. 점수 422, 반응 618 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Arm AGI CPU",
       "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-      "score": 227,
-      "comments": 185,
+      "score": 288,
+      "comments": 229,
       "text": "",
-      "summary": "Arm AGI CPU.  점수 227, 반응 185 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Missile defense is NP-complete",
-      "url": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
-      "score": 225,
-      "comments": 257,
-      "text": "",
-      "summary": "Missile defense is NP-complete. 점수 225, 반응 257 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "No Terms. No Conditions",
-      "url": "https://notermsnoconditions.com",
-      "score": 205,
-      "comments": 88,
-      "text": "",
-      "summary": "No Terms. No Conditions.  점수 205, 반응 88 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
-      "url": "https://github.com/ssrajadh/sentrysearch",
-      "score": 202,
-      "comments": 61,
-      "text": "Gemini Embedding 2 can project raw video directly into a 768-dimensional vector space alongside text. No transcription, no frame captioning, no intermediate text. A query like &quot;green car cutting me off&quot; is directly comparable to a 30-second video clip at the vector level.<p>I used this to build a CLI that indexes hours of footage into ChromaDB, then searches it with natural language and auto-trims the matching clip. Demo video on the GitHub README.\nIndexing costs ~$2.50&#x2F;hr of footage. Still-frame detection skips idle chunks, so security camera &#x2F; sentry mode footage is much cheaper.",
-      "summary": "Show HN: Gemini can now natively embed video, so I built sub-second video search. Gemini Embedding 2 can project raw video directly into a 768-dimensional vector space alongside text. No transcription, no frame captioning, no intermediate text. 점수 202, 반응 61 기준 인기 이슈입니다."
+      "summary": "Arm AGI CPU.  점수 288, 반응 229 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Epic Games to cut more than 1k jobs as Fortnite usage falls",
       "url": "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/",
-      "score": 200,
-      "comments": 344,
+      "score": 286,
+      "comments": 448,
       "text": "<a href=\"https:&#x2F;&#x2F;www.epicgames.com&#x2F;site&#x2F;en-US&#x2F;news&#x2F;todays-layoffs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.epicgames.com&#x2F;site&#x2F;en-US&#x2F;news&#x2F;todays-layoffs</a>",
-      "summary": "Epic Games to cut more than 1k jobs as Fortnite usage falls. https:&#x2F;&#x2F;www.epicgames.com&#x2F;site&#x2F;en-US&#x2F;news&#x2F;todays-layoffs 점수 200, 반응 344 기준 인기 이슈입니다."
+      "summary": "Epic Games to cut more than 1k jobs as Fortnite usage falls. https:&#x2F;&#x2F;www.epicgames.com&#x2F;site&#x2F;en-US&#x2F;news&#x2F;todays-layoffs 점수 286, 반응 448 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Missile defense is NP-complete",
+      "url": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
+      "score": 280,
+      "comments": 287,
+      "text": "",
+      "summary": "Missile defense is NP-complete. 점수 280, 반응 287 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+      "url": "https://github.com/ssrajadh/sentrysearch",
+      "score": 273,
+      "comments": 75,
+      "text": "Gemini Embedding 2 can project raw video directly into a 768-dimensional vector space alongside text. No transcription, no frame captioning, no intermediate text. A query like &quot;green car cutting me off&quot; is directly comparable to a 30-second video clip at the vector level.<p>I used this to build a CLI that indexes hours of footage into ChromaDB, then searches it with natural language and auto-trims the matching clip. Demo video on the GitHub README.\nIndexing costs ~$2.50&#x2F;hr of footage. Still-frame detection skips idle chunks, so security camera &#x2F; sentry mode footage is much cheaper.",
+      "summary": "Show HN: Gemini can now natively embed video, so I built sub-second video search. Gemini Embedding 2 can project raw video directly into a 768-dimensional vector space alongside text. No transcription, no frame captioning, no intermediate text. 점수 273, 반응 75 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+      "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+      "score": 238,
+      "comments": 35,
+      "text": "What do you do when private equity buys your old company and fires the maintainers of the popular open source project you started over a decade ago? You reboot it, and bring along some new friends to do it.<p>Video.js is used by billions of people every month, on sites like Amazon.com, Linkedin, and Dropbox, and yet it wasn’t in great shape. A skeleton crew of maintainers were doing their best with a dated architecture, but it needed more. So Sam from Plyr, Rahim from Vidstack, and Wes and Christain from Media Chrome jumped in to help me rebuild it better, faster, and smaller.<p>It’s in beta now. Please give it a try and tell us what breaks.",
+      "summary": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller. What do you do when private equity buys your old company and fires the maintainers of the popular open source project you started over a decade ago? You reboot it, and bring along some new friends to do it. 점수 238, 반응 35 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "No Terms. No Conditions",
+      "url": "https://notermsnoconditions.com",
+      "score": 230,
+      "comments": 102,
+      "text": "",
+      "summary": "No Terms. No Conditions.  점수 230, 반응 102 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
+      "url": "https://www.emailmd.dev/",
+      "score": 229,
+      "comments": 56,
+      "text": "",
+      "summary": "Show HN: Email.md – Markdown to responsive, email-safe HTML. 점수 229, 반응 56 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 42
+      "count": 53
     },
     {
       "keyword": "https",
-      "count": 8
+      "count": 10
     },
     {
       "keyword": "com",
-      "count": 8
+      "count": 9
+    },
+    {
+      "keyword": "video",
+      "count": 7
     },
     {
       "keyword": "platform",
       "count": 5
     },
     {
-      "keyword": "video",
+      "keyword": "href",
+      "count": 5
+    },
+    {
+      "keyword": "rel",
+      "count": 5
+    },
+    {
+      "keyword": "nofollow",
       "count": 5
     },
     {
@@ -262,19 +274,11 @@
       "count": 4
     },
     {
-      "keyword": "href",
+      "keyword": "open",
       "count": 4
     },
     {
       "keyword": "www",
-      "count": 4
-    },
-    {
-      "keyword": "github",
-      "count": 4
-    },
-    {
-      "keyword": "news",
       "count": 4
     },
     {
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "supabase",
-      "count": 3
-    },
-    {
-      "keyword": "rel",
       "count": 3
     }
   ],
