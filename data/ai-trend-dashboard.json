@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T11:12:06.622236+00:00",
+  "updatedAt": "2026-03-26T13:59:00.518028+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 336789,
-      "comments": 15644,
+      "score": 336953,
+      "comments": 15689,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 336789, 반응 15644 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 336953, 반응 15689 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182844,
-      "comments": 373,
+      "score": 182843,
+      "comments": 379,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182844, 반응 373 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182843, 반응 379 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 181152,
-      "comments": 1420,
+      "score": 181169,
+      "comments": 1415,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 181152, 반응 1420 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 181169, 반응 1415 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,190 +46,190 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 154289,
+      "score": 154299,
       "comments": 40,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154289, 반응 40 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154299, 반응 40 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 134560,
-      "comments": 799,
+      "score": 134578,
+      "comments": 805,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 134560, 반응 799 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 134578, 반응 805 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 133301,
+      "score": 133313,
       "comments": 140,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133301, 반응 140 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133313, 반응 140 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 131160,
-      "comments": 501,
+      "score": 131186,
+      "comments": 504,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 131160, 반응 501 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 131186, 반응 504 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 128785,
-      "comments": 244,
+      "score": 128800,
+      "comments": 253,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 128785, 반응 244 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 128800, 반응 253 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108556,
+      "score": 108563,
       "comments": 13,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108556, 반응 13 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108563, 반응 13 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 107001,
-      "comments": 3887,
+      "score": 107014,
+      "comments": 3890,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107001, 반응 3887 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107014, 반응 3890 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 99650,
-      "comments": 971,
+      "score": 99659,
+      "comments": 966,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99650, 반응 971 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99659, 반응 966 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The EU still wants to scan  your private messages and photos",
       "url": "https://fightchatcontrol.eu/?foo=bar",
-      "score": 1210,
-      "comments": 324,
+      "score": 1313,
+      "comments": 351,
       "text": "",
-      "summary": "The EU still wants to scan your private messages and photos. 점수 1210, 반응 324 기준 인기 이슈입니다."
+      "summary": "The EU still wants to scan your private messages and photos. 점수 1313, 반응 351 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Thoughts on slowing the fuck down",
       "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-      "score": 880,
-      "comments": 394,
+      "score": 956,
+      "comments": 424,
       "text": "",
-      "summary": "Thoughts on slowing the fuck down. 점수 880, 반응 394 기준 인기 이슈입니다."
+      "summary": "Thoughts on slowing the fuck down. 점수 956, 반응 424 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 648,
-      "comments": 208,
+      "score": 708,
+      "comments": 233,
       "text": "",
-      "summary": "Running Tesla Model 3's computer on my desk using parts from crashed cars. 점수 648, 반응 208 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "ARC-AGI-3",
-      "url": "https://arcprize.org/arc-agi/3",
-      "score": 410,
-      "comments": 263,
-      "text": "<a href=\"https:&#x2F;&#x2F;arcprize.org&#x2F;media&#x2F;ARC_AGI_3_Technical_Report.pdf\">https:&#x2F;&#x2F;arcprize.org&#x2F;media&#x2F;ARC_AGI_3_Technical_Report.pdf</a>",
-      "summary": "https:&#x2F;&#x2F;arcprize.org&#x2F;media&#x2F;ARC_AGI_3_Technical_Report.pdf 점수 410, 반응 263 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
-      "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
-      "score": 410,
-      "comments": 241,
-      "text": "",
-      "summary": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed. 점수 410, 반응 241 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
-      "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
-      "score": 351,
-      "comments": 277,
-      "text": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;mEgaK\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;mEgaK</a><p><a href=\"https:&#x2F;&#x2F;www.supremecourt.gov&#x2F;opinions&#x2F;25pdf&#x2F;24-171_bq7d.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www.supremecourt.gov&#x2F;opinions&#x2F;25pdf&#x2F;24-171_bq7d.pdf</a><p><a href=\"https:&#x2F;&#x2F;supreme.justia.com&#x2F;cases&#x2F;federal&#x2F;us&#x2F;607&#x2F;24-171&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;supreme.justia.com&#x2F;cases&#x2F;federal&#x2F;us&#x2F;607&#x2F;24-171&#x2F;</a>",
-      "summary": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music. https:&#x2F;&#x2F;archive.is&#x2F;mEgaK https:&#x2F;&#x2F;www.supremecourt.gov&#x2F;opinions&#x2F;25pdf&#x2F;24-171_bq7d.pdf https:&#x2F;&#x2F;supreme.justia.com&#x2F;cases&#x2F;federal&#x2F;us&#x2F;607&#x2F;24-171&#x2F; 점수 351, 반응 277 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
-      "url": "https://www.claudescode.dev/?window=since_launch",
-      "score": 298,
-      "comments": 183,
-      "text": "",
-      "summary": "90% of Claude-linked output going to GitHub repos w <2 stars. 점수 298, 반응 183 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "False claims in a widely-cited paper",
-      "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
-      "score": 289,
-      "comments": 120,
-      "text": "",
-      "summary": "False claims in a widely-cited paper. 점수 289, 반응 120 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Quantization from the Ground Up",
-      "url": "https://ngrok.com/blog/quantization",
-      "score": 263,
-      "comments": 49,
-      "text": "",
-      "summary": "Quantization from the Ground Up. 점수 263, 반응 49 기준 인기 이슈입니다."
+      "summary": "Running Tesla Model 3's computer on my desk using parts from crashed cars. 점수 708, 반응 233 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Personal Encyclopedias",
       "url": "https://whoami.wiki/blog/personal-encyclopedias",
-      "score": 227,
-      "comments": 54,
+      "score": 467,
+      "comments": 89,
       "text": "",
-      "summary": "Personal Encyclopedias. 점수 227, 반응 54 기준 인기 이슈입니다."
+      "summary": "Personal Encyclopedias. 점수 467, 반응 89 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
-      "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
-      "score": 167,
-      "comments": 74,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec0970\" rel=\"nofollow\">https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec0970</a>",
-      "summary": "Earthquake scientists reveal how overplowing weakens soil at experimental farm. https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec0970 점수 167, 반응 74 기준 인기 이슈입니다."
+      "title": "ARC-AGI-3",
+      "url": "https://arcprize.org/arc-agi/3",
+      "score": 438,
+      "comments": 278,
+      "text": "<a href=\"https:&#x2F;&#x2F;arcprize.org&#x2F;media&#x2F;ARC_AGI_3_Technical_Report.pdf\">https:&#x2F;&#x2F;arcprize.org&#x2F;media&#x2F;ARC_AGI_3_Technical_Report.pdf</a>",
+      "summary": "https:&#x2F;&#x2F;arcprize.org&#x2F;media&#x2F;ARC_AGI_3_Technical_Report.pdf 점수 438, 반응 278 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "My DIY FPGA board can run Quake II",
-      "url": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
-      "score": 164,
+      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
+      "score": 374,
+      "comments": 293,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;mEgaK\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;mEgaK</a><p><a href=\"https:&#x2F;&#x2F;www.supremecourt.gov&#x2F;opinions&#x2F;25pdf&#x2F;24-171_bq7d.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www.supremecourt.gov&#x2F;opinions&#x2F;25pdf&#x2F;24-171_bq7d.pdf</a><p><a href=\"https:&#x2F;&#x2F;supreme.justia.com&#x2F;cases&#x2F;federal&#x2F;us&#x2F;607&#x2F;24-171&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;supreme.justia.com&#x2F;cases&#x2F;federal&#x2F;us&#x2F;607&#x2F;24-171&#x2F;</a>",
+      "summary": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music. https:&#x2F;&#x2F;archive.is&#x2F;mEgaK https:&#x2F;&#x2F;www.supremecourt.gov&#x2F;opinions&#x2F;25pdf&#x2F;24-171_bq7d.pdf https:&#x2F;&#x2F;supreme.justia.com&#x2F;cases&#x2F;federal&#x2F;us&#x2F;607&#x2F;24-171&#x2F; 점수 374, 반응 293 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Quantization from the Ground Up",
+      "url": "https://ngrok.com/blog/quantization",
+      "score": 292,
       "comments": 50,
       "text": "",
-      "summary": "My DIY FPGA board can run Quake II. 점수 164, 반응 50 기준 인기 이슈입니다."
+      "summary": "Quantization from the Ground Up. 점수 292, 반응 50 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
+      "url": "https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/",
+      "score": 252,
+      "comments": 111,
+      "text": "",
+      "summary": "Shell Tricks That Make Life Easier (and Save Your Sanity). 점수 252, 반응 111 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "European Parliament decided that Chat Control 1.0 must stop",
+      "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
+      "score": 205,
+      "comments": 59,
+      "text": "",
+      "summary": "European Parliament decided that Chat Control 1.0 must stop. 점수 205, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The truth that haunts the Ramones: 'They sold more T-shirts than records'",
       "url": "https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html",
-      "score": 137,
-      "comments": 75,
+      "score": 188,
+      "comments": 141,
       "text": "",
-      "summary": "The truth that haunts the Ramones: 'They sold more T-shirts than records'. 점수 137, 반응 75 기준 인기 이슈입니다."
+      "summary": "The truth that haunts the Ramones: 'They sold more T-shirts than records'. 점수 188, 반응 141 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "My DIY FPGA board can run Quake II",
+      "url": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
+      "score": 188,
+      "comments": 53,
+      "text": "",
+      "summary": "My DIY FPGA board can run Quake II. 점수 188, 반응 53 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
+      "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
+      "score": 180,
+      "comments": 95,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec0970\" rel=\"nofollow\">https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec0970</a>",
+      "summary": "Earthquake scientists reveal how overplowing weakens soil at experimental farm. https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec0970 점수 180, 반응 95 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Swift 6.3",
+      "url": "https://www.swift.org/blog/swift-6.3-released/",
+      "score": 170,
+      "comments": 87,
+      "text": "",
+      "summary": "Swift 6.3.  점수 170, 반응 87 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
