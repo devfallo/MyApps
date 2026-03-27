@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T22:50:34.397401+00:00",
+  "updatedAt": "2026-03-27T03:29:49.454106+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,232 +10,236 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 337314,
-      "comments": 15813,
+      "score": 337577,
+      "comments": 15848,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 337314, 반응 15813 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 337577, 반응 15848 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182855,
-      "comments": 380,
+      "score": 182862,
+      "comments": 382,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182855, 반응 380 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182862, 반응 382 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 181232,
+      "score": 181264,
       "comments": 1418,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 181232, 반응 1418 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 181264, 반응 1418 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162013,
+      "score": 162019,
       "comments": 2471,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162013, 반응 2471 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162019, 반응 2471 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 154338,
+      "score": 154355,
       "comments": 39,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154338, 반응 39 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154355, 반응 39 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 134608,
-      "comments": 798,
+      "score": 134649,
+      "comments": 800,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 134608, 반응 798 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 134649, 반응 800 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 133354,
+      "score": 133374,
       "comments": 141,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133354, 반응 141 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133374, 반응 141 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 131227,
+      "score": 131254,
       "comments": 510,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 131227, 반응 510 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 131254, 반응 510 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 128848,
-      "comments": 244,
+      "score": 128866,
+      "comments": 235,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 128848, 반응 244 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 128866, 반응 235 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108577,
+      "score": 108585,
       "comments": 13,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108577, 반응 13 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108585, 반응 13 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 107053,
-      "comments": 3894,
+      "score": 107073,
+      "comments": 3897,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107053, 반응 3894 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107073, 반응 3897 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "score": 99687,
+      "score": 99701,
       "comments": 967,
       "text": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99687, 반응 967 기준 인기 이슈입니다."
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. 점수 99701, 반응 967 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 839,
-      "comments": 295,
+      "score": 872,
+      "comments": 300,
       "text": "",
-      "summary": "Running Tesla Model 3's computer on my desk using parts from crashed cars. 점수 839, 반응 295 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Personal Encyclopedias",
-      "url": "https://whoami.wiki/blog/personal-encyclopedias",
-      "score": 785,
-      "comments": 165,
-      "text": "",
-      "summary": "Personal Encyclopedias. 점수 785, 반응 165 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
-      "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
-      "score": 538,
-      "comments": 261,
-      "text": "",
-      "summary": "End of \"Chat Control\": EU parliament stops mass surveillance. 점수 538, 반응 261 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Moving from GitHub to Codeberg, for lazy people",
-      "url": "https://unterwaditzer.net/2025/codeberg.html",
-      "score": 478,
-      "comments": 244,
-      "text": "",
-      "summary": "Moving from GitHub to Codeberg, for lazy people. 점수 478, 반응 244 기준 인기 이슈입니다."
+      "summary": "Running Tesla Model 3's computer on my desk using parts from crashed cars. 점수 872, 반응 300 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Why so many control rooms were seafoam green (2025)",
       "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 452,
-      "comments": 82,
+      "score": 638,
+      "comments": 131,
       "text": "",
-      "summary": "Why so many control rooms were seafoam green (2025). 점수 452, 반응 82 기준 인기 이슈입니다."
+      "summary": "Why so many control rooms were seafoam green (2025). 점수 638, 반응 131 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We haven't seen the worst of what gambling and prediction markets will do",
       "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-      "score": 433,
-      "comments": 305,
+      "score": 605,
+      "comments": 430,
       "text": "",
-      "summary": "We haven't seen the worst of what gambling and prediction markets will do. 점수 433, 반응 305 기준 인기 이슈입니다."
+      "summary": "We haven't seen the worst of what gambling and prediction markets will do. 점수 605, 반응 430 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "From zero to a RAG system: successes and failures",
-      "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-      "score": 266,
-      "comments": 79,
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "url": "https://unterwaditzer.net/2025/codeberg.html",
+      "score": 541,
+      "comments": 270,
       "text": "",
-      "summary": "From zero to a RAG system: successes and failures. 점수 266, 반응 79 기준 인기 이슈입니다."
+      "summary": "Moving from GitHub to Codeberg, for lazy people. 점수 541, 반응 270 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "My minute-by-minute response to the LiteLLM malware attack",
       "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "score": 253,
-      "comments": 115,
+      "score": 310,
+      "comments": 129,
       "text": "Related: <i>Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47501426\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47501426</a> (483 comments)",
-      "summary": "My minute-by-minute response to the LiteLLM malware attack. Related: Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47501426 (483 comments) 점수 253, 반응 115 기준 인기 이슈입니다."
+      "summary": "My minute-by-minute response to the LiteLLM malware attack. Related: Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47501426 (483 comments) 점수 310, 반응 129 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Olympic Committee bars transgender athletes from women’s events",
-      "url": "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html",
-      "score": 207,
-      "comments": 473,
-      "text": "<a href=\"https:&#x2F;&#x2F;sports.yahoo.com&#x2F;olympics&#x2F;breaking-news&#x2F;article&#x2F;transgender-athletes-banned-from-competing-in-womens-category-starting-at-2028-olympics-international-olympic-committee-announces-140151332.html\" rel=\"nofollow\">https:&#x2F;&#x2F;sports.yahoo.com&#x2F;olympics&#x2F;breaking-news&#x2F;article&#x2F;tran...</a>",
-      "summary": "Olympic Committee bars transgender athletes from women’s events. https:&#x2F;&#x2F;sports.yahoo.com&#x2F;olympics&#x2F;breaking-news&#x2F;article&#x2F;tran... 점수 207, 반응 473 기준 인기 이슈입니다."
+      "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "score": 255,
+      "comments": 155,
+      "text": "",
+      "summary": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label. 점수 255, 반응 155 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "John Bradley, author of xv, has died",
       "url": "https://voxday.net/2026/03/25/rip-john-bradley/",
-      "score": 169,
-      "comments": 50,
+      "score": 231,
+      "comments": 70,
       "text": "",
-      "summary": "John Bradley, author of xv, has died. 점수 169, 반응 50 기준 인기 이슈입니다."
+      "summary": "John Bradley, author of xv, has died. 점수 231, 반응 70 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DOOM Over DNS",
       "url": "https://github.com/resumex/doom-over-dns",
-      "score": 165,
-      "comments": 49,
+      "score": 223,
+      "comments": 71,
       "text": "",
-      "summary": "DOOM Over DNS.  점수 165, 반응 49 기준 인기 이슈입니다."
+      "summary": "DOOM Over DNS.  점수 223, 반응 71 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "CERN to host a new phase of Open Research Europe",
       "url": "https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform",
-      "score": 158,
-      "comments": 15,
+      "score": 201,
+      "comments": 17,
       "text": "",
-      "summary": "CERN to host a new phase of Open Research Europe. 점수 158, 반응 15 기준 인기 이슈입니다."
+      "summary": "CERN to host a new phase of Open Research Europe. 점수 201, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-      "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+      "title": "OpenTelemetry profiles enters public alpha",
+      "url": "https://opentelemetry.io/blog/2026/profiles-alpha/",
       "score": 151,
-      "comments": 52,
+      "comments": 20,
       "text": "",
-      "summary": "New York City hospitals drop Palantir as controversial AI firm expands in UK. 점수 151, 반응 52 기준 인기 이슈입니다."
+      "summary": "OpenTelemetry profiles enters public alpha. 점수 151, 반응 20 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple discontinues the Mac Pro",
+      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+      "score": 148,
+      "comments": 134,
+      "text": "",
+      "summary": "Apple discontinues the Mac Pro. 점수 148, 반응 134 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "HyperAgents: Self-referential self-improving agents",
+      "url": "https://github.com/facebookresearch/hyperagents",
+      "score": 143,
+      "comments": 57,
+      "text": "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2603.19461\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2603.19461</a>",
+      "summary": "HyperAgents: Self-referential self-improving agents. https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2603.19461 점수 143, 반응 57 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+      "score": 127,
+      "comments": 49,
+      "text": "The stack: two agents on separate boxes. The public one (nullclaw) is a 678 KB Zig binary using ~1 MB RAM, connected to an Ergo IRC server. Visitors talk to it via a gamja web client embedded in my site. The private one (ironclaw) handles email and scheduling, reachable only over Tailscale via Google&#x27;s A2A protocol.<p>Tiered inference: Haiku 4.5 for conversation (sub-second, cheap), Sonnet 4.6 for tool use (only when needed). Hard cap at $2&#x2F;day.<p>A2A passthrough: the private-side agent borrows the gateway&#x27;s own inference pipeline, so there&#x27;s one API key and one billing relationship regardless of who initiated the request.<p>You can talk to nully at <a href=\"https:&#x2F;&#x2F;georgelarson.me&#x2F;chat&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;georgelarson.me&#x2F;chat&#x2F;</a> or connect with any IRC client to irc.georgelarson.me:6697 (TLS), channel #lobby.",
+      "summary": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer. The stack: two agents on separate boxes. The public one (nullclaw) is a 678 KB Zig binary using ~1 MB RAM, connected to an Ergo IRC server. 점수 127, 반응 49 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 18
+      "count": 23
+    },
+    {
+      "keyword": "https",
+      "count": 6
     },
     {
       "keyword": "platform",
@@ -250,15 +254,35 @@
       "count": 4
     },
     {
-      "keyword": "https",
+      "keyword": "agent",
       "count": 4
     },
     {
-      "keyword": "com",
+      "keyword": "irc",
       "count": 4
+    },
+    {
+      "keyword": "one",
+      "count": 4
+    },
+    {
+      "keyword": "any",
+      "count": 3
+    },
+    {
+      "keyword": "web",
+      "count": 3
+    },
+    {
+      "keyword": "chat",
+      "count": 3
     },
     {
       "keyword": "open",
+      "count": 3
+    },
+    {
+      "keyword": "api",
       "count": 3
     },
     {
@@ -266,32 +290,8 @@
       "count": 3
     },
     {
-      "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "personal",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
+      "keyword": "href",
+      "count": 3
     }
   ],
   "meta": {
