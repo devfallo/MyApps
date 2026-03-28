@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T20:48:51.311101+00:00",
+  "updatedAt": "2026-03-28T22:48:36.713703+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 339379,
-      "comments": 16243,
+      "score": 339421,
+      "comments": 16260,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 339379, 반응 16243 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 339421, 반응 16260 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182912,
+      "score": 182914,
       "comments": 377,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182912, 반응 377 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182914, 반응 377 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 181488,
+      "score": 181496,
       "comments": 1428,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 181488, 반응 1428 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 181496, 반응 1428 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,196 +46,208 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 154472,
+      "score": 154481,
       "comments": 42,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154472, 반응 42 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154481, 반응 42 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 134825,
+      "score": 134830,
       "comments": 808,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 134825, 반응 808 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 134830, 반응 808 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 133540,
+      "score": 133551,
       "comments": 142,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133540, 반응 142 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133551, 반응 142 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 131395,
-      "comments": 504,
+      "score": 131397,
+      "comments": 505,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 131395, 반응 504 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 131397, 반응 505 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 129075,
-      "comments": 269,
+      "score": 129082,
+      "comments": 266,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 129075, 반응 269 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 129082, 반응 266 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108648,
+      "score": 108646,
       "comments": 17,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108648, 반응 17 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108646, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 107188,
+      "score": 107193,
       "comments": 3908,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107188, 반응 3908 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107193, 반응 3908 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 99919,
+      "score": 99963,
       "comments": 239,
       "text": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
-      "summary": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 점수 99919, 반응 239 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 점수 99963, 반응 239 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Spanish legislation as a Git repo",
       "url": "https://github.com/EnriqueLop/legalize-es",
-      "score": 645,
-      "comments": 190,
+      "score": 673,
+      "comments": 206,
       "text": "",
-      "summary": "Spanish legislation as a Git repo. 점수 645, 반응 190 기준 인기 이슈입니다."
+      "summary": "Spanish legislation as a Git repo. 점수 673, 반응 206 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Go hard on agents, not on your filesystem",
       "url": "https://jai.scs.stanford.edu/",
-      "score": 548,
-      "comments": 300,
+      "score": 568,
+      "comments": 304,
       "text": "",
-      "summary": "Go hard on agents, not on your filesystem. 점수 548, 반응 300 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Make macOS consistently bad unironically",
-      "url": "https://lr0.org/blog/p/macos/",
-      "score": 502,
-      "comments": 339,
-      "text": "",
-      "summary": "Make macOS consistently bad unironically. 점수 502, 반응 339 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI overly affirms users asking for personal advice",
-      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 424,
-      "comments": 341,
-      "text": "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.14270\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.14270</a>",
-      "summary": "AI overly affirms users asking for personal advice. https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.14270 점수 424, 반응 341 기준 인기 이슈입니다."
+      "summary": "Go hard on agents, not on your filesystem. 점수 568, 반응 304 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "score": 357,
-      "comments": 73,
+      "score": 530,
+      "comments": 132,
       "text": "",
-      "summary": "Founder of GitLab battles cancer by founding companies. 점수 357, 반응 73 기준 인기 이슈입니다."
+      "summary": "Founder of GitLab battles cancer by founding companies. 점수 530, 반응 132 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "score": 473,
+      "comments": 369,
+      "text": "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.14270\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.14270</a><p><a href=\"https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec8352\" rel=\"nofollow\">https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec8352</a>",
+      "summary": "AI overly affirms users asking for personal advice. https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.14270 https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec8352 점수 473, 반응 369 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I Built an Open-World Engine for the N64 [video]",
       "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "score": 284,
-      "comments": 38,
+      "score": 314,
+      "comments": 49,
       "text": "",
-      "summary": "I Built an Open-World Engine for the N64 [video]. 점수 284, 반응 38 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-      "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "score": 281,
-      "comments": 151,
-      "text": "",
-      "summary": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip. 점수 281, 반응 151 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "score": 267,
-      "comments": 124,
-      "text": "",
-      "summary": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering. 점수 267, 반응 124 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
-      "url": "https://github.com/J-x-Z/cocoa-way",
-      "score": 261,
-      "comments": 86,
-      "text": "",
-      "summary": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly. 점수 261, 반응 86 기준 인기 이슈입니다."
+      "summary": "I Built an Open-World Engine for the N64 [video]. 점수 314, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I decompiled the White House's new app",
       "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
-      "score": 255,
-      "comments": 88,
+      "score": 312,
+      "comments": 113,
       "text": "",
-      "summary": "I decompiled the White House's new app. 점수 255, 반응 88 기준 인기 이슈입니다."
+      "summary": "I decompiled the White House's new app. 점수 312, 반응 113 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-      "score": 242,
-      "comments": 184,
+      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+      "score": 290,
+      "comments": 160,
       "text": "",
-      "summary": "Folk are getting dangerously attached to AI that always tells them they're right. 점수 242, 반응 184 기준 인기 이슈입니다."
+      "summary": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip. 점수 290, 반응 160 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The bee that everyone wants to save",
-      "url": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
-      "score": 242,
-      "comments": 80,
+      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "score": 290,
+      "comments": 128,
       "text": "",
-      "summary": "The bee that everyone wants to save. 점수 242, 반응 80 기준 인기 이슈입니다."
+      "summary": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering. 점수 290, 반응 128 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
-      "url": "https://github.com/dbrll/ATTN-11",
-      "score": 107,
-      "comments": 18,
+      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
+      "url": "https://github.com/J-x-Z/cocoa-way",
+      "score": 284,
+      "comments": 91,
       "text": "",
-      "summary": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer. 점수 107, 반응 18 기준 인기 이슈입니다."
+      "summary": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly. 점수 284, 반응 91 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linux is an interpreter",
+      "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "score": 144,
+      "comments": 23,
+      "text": "",
+      "summary": "Linux is an interpreter. 점수 144, 반응 23 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "score": 115,
+      "comments": 75,
+      "text": "<i>Knuth Claude&#x27;s Cycles note update: problem now fully solved, by LLMs</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47306926\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47306926</a> - March 2026 (2 comments)<p><a href=\"https:&#x2F;&#x2F;chatgpt.com&#x2F;share&#x2F;69aaab4b-888c-8003-9a02-d1df80f9c791\" rel=\"nofollow\">https:&#x2F;&#x2F;chatgpt.com&#x2F;share&#x2F;69aaab4b-888c-8003-9a02-d1df80f9c7...</a><p><i>Claude&#x27;s Cycles [pdf]</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47230710\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47230710</a> - March 2026 (362 comments)",
+      "summary": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem. Knuth Claude&#x27;s Cycles note update: problem now fully solved, by LLMs - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47306926 - March 2026 (2 comments) https:&#x2F;&#x2F;chatgpt.com&#x2F;share&#x2F;69aaab4b-888c-8003-9a02-d1df80f9c7... Claude&#x27;s Cycles [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47230710 - March 2026 (362 comments) 점수 115, 반응 75 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
+      "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
+      "score": 105,
+      "comments": 33,
+      "text": "",
+      "summary": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting. 점수 105, 반응 33 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hacking old hardware by renaming to .zip [video]",
+      "url": "https://www.youtube.com/watch?v=P1kfuCkWo24",
+      "score": 91,
+      "comments": 70,
+      "text": "",
+      "summary": "Hacking old hardware by renaming to .zip [video]. 점수 91, 반응 70 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 8
+      "count": 38
+    },
+    {
+      "keyword": "https",
+      "count": 10
+    },
+    {
+      "keyword": "com",
+      "count": 6
+    },
+    {
+      "keyword": "href",
+      "count": 5
     },
     {
       "keyword": "platform",
@@ -250,48 +262,36 @@
       "count": 4
     },
     {
-      "keyword": "api",
+      "keyword": "claude",
+      "count": 4
+    },
+    {
+      "keyword": "org",
+      "count": 4
+    },
+    {
+      "keyword": "science",
+      "count": 4
+    },
+    {
+      "keyword": "news",
+      "count": 4
+    },
+    {
+      "keyword": "ycombinator",
+      "count": 4
+    },
+    {
+      "keyword": "item",
+      "count": 4
+    },
+    {
+      "keyword": "chatgpt",
       "count": 3
     },
     {
-      "keyword": "data",
+      "keyword": "share",
       "count": 3
-    },
-    {
-      "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "personal",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "everyone",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "native",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
     }
   ],
   "meta": {
