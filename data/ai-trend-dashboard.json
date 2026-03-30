@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T06:06:42.865775+00:00",
+  "updatedAt": "2026-03-30T08:01:25.537363+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 340828,
-      "comments": 16461,
+      "score": 340993,
+      "comments": 16503,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 340828, 반응 16461 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 340993, 반응 16503 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 182933,
-      "comments": 378,
+      "score": 182934,
+      "comments": 380,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182933, 반응 378 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 182934, 반응 380 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 181654,
+      "score": 181666,
       "comments": 1439,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 181654, 반응 1439 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 181666, 반응 1439 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,212 +46,200 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 154692,
+      "score": 154716,
       "comments": 39,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154692, 반응 39 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 154716, 반응 39 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 134938,
-      "comments": 812,
+      "score": 134962,
+      "comments": 799,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 134938, 반응 812 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 134962, 반응 799 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 133660,
+      "score": 133670,
       "comments": 141,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133660, 반응 141 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133670, 반응 141 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 131559,
-      "comments": 497,
+      "score": 131578,
+      "comments": 498,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 131559, 반응 497 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 131578, 반응 498 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 129220,
-      "comments": 277,
+      "score": 129235,
+      "comments": 278,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 129220, 반응 277 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 129235, 반응 278 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108692,
+      "score": 108702,
       "comments": 18,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108692, 반응 18 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108702, 반응 18 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 107263,
+      "score": 107282,
       "comments": 3911,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107263, 반응 3911 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107282, 반응 3911 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 100712,
+      "score": 100781,
       "comments": 237,
       "text": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
-      "summary": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 점수 100712, 반응 237 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "LinkedIn uses 2.4 GB RAM across two tabs",
-      "url": "https://news.ycombinator.com/item?id=47561489",
-      "score": 684,
-      "comments": 394,
-      "text": "<a href=\"https:&#x2F;&#x2F;ibb.co&#x2F;fYQVfMWp\" rel=\"nofollow\">https:&#x2F;&#x2F;ibb.co&#x2F;fYQVfMWp</a>\n<a href=\"https:&#x2F;&#x2F;ibb.co&#x2F;MyTNnrGQ\" rel=\"nofollow\">https:&#x2F;&#x2F;ibb.co&#x2F;MyTNnrGQ</a>",
-      "summary": "LinkedIn uses 2.4 GB RAM across two tabs. https:&#x2F;&#x2F;ibb.co&#x2F;fYQVfMWp https:&#x2F;&#x2F;ibb.co&#x2F;MyTNnrGQ 점수 684, 반응 394 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nitrile and latex gloves may cause overestimation of microplastics",
-      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "score": 535,
-      "comments": 241,
-      "text": "",
-      "summary": "Nitrile and latex gloves may cause overestimation of microplastics. 점수 535, 반응 241 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 점수 100781, 반응 237 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "ChatGPT won't let you type until Cloudflare reads your React state",
       "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "score": 467,
-      "comments": 329,
+      "score": 571,
+      "comments": 367,
       "text": "",
-      "summary": "ChatGPT won't let you type until Cloudflare reads your React state. 점수 467, 반응 329 기준 인기 이슈입니다."
+      "summary": "ChatGPT won't let you type until Cloudflare reads your React state. 점수 571, 반응 367 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "score": 461,
-      "comments": 181,
+      "score": 510,
+      "comments": 193,
       "text": "",
-      "summary": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder. 점수 461, 반응 181 기준 인기 이슈입니다."
+      "summary": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder. 점수 510, 반응 193 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Cognitive Dark Forest",
       "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-      "score": 372,
-      "comments": 173,
+      "score": 406,
+      "comments": 181,
       "text": "",
-      "summary": "The Cognitive Dark Forest. 점수 372, 반응 173 기준 인기 이슈입니다."
+      "summary": "The Cognitive Dark Forest. 점수 406, 반응 181 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Neovim 0.12.0",
-      "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
-      "score": 337,
-      "comments": 188,
+      "title": "Copilot edited an ad into my PR",
+      "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+      "score": 404,
+      "comments": 130,
       "text": "",
-      "summary": "Neovim 0.12.0.  점수 337, 반응 188 기준 인기 이슈입니다."
+      "summary": "Copilot edited an ad into my PR. 점수 404, 반응 130 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Pretext: TypeScript library for multiline text measurement and layout",
       "url": "https://github.com/chenglou/pretext",
-      "score": 259,
-      "comments": 47,
+      "score": 290,
+      "comments": 52,
       "text": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;_chenglou&#x2F;status&#x2F;2037713766205608234\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;_chenglou&#x2F;status&#x2F;2037713766205608234</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;_chenglou&#x2F;status&#x2F;2037713766205608234\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;_chenglou&#x2F;status&#x2F;2037713766205608234</a><p>Demos: <a href=\"https:&#x2F;&#x2F;chenglou.me&#x2F;pretext&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;chenglou.me&#x2F;pretext&#x2F;</a>, <a href=\"https:&#x2F;&#x2F;somnai-dreams.github.io&#x2F;pretext-demos&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;somnai-dreams.github.io&#x2F;pretext-demos&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;kevinho.com&#x2F;experiments&#x2F;biomap&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;kevinho.com&#x2F;experiments&#x2F;biomap&#x2F;</a>",
-      "summary": "Pretext: TypeScript library for multiline text measurement and layout. https:&#x2F;&#x2F;x.com&#x2F;_chenglou&#x2F;status&#x2F;2037713766205608234 , https:&#x2F;&#x2F;xcancel.com&#x2F;_chenglou&#x2F;status&#x2F;2037713766205608234 Demos: https:&#x2F;&#x2F;chenglou.me&#x2F;pretext&#x2F; , https:&#x2F;&#x2F;somnai-dreams.github.io&#x2F;pretext-demos&#x2F; https:&#x2F;&#x2F;kevinho.com&#x2F;experiments&#x2F;biomap&#x2F; 점수 259, 반응 47 기준 인기 이슈입니다."
+      "summary": "Pretext: TypeScript library for multiline text measurement and layout. https:&#x2F;&#x2F;x.com&#x2F;_chenglou&#x2F;status&#x2F;2037713766205608234 , https:&#x2F;&#x2F;xcancel.com&#x2F;_chenglou&#x2F;status&#x2F;2037713766205608234 Demos: https:&#x2F;&#x2F;chenglou.me&#x2F;pretext&#x2F; , https:&#x2F;&#x2F;somnai-dreams.github.io&#x2F;pretext-demos&#x2F; https:&#x2F;&#x2F;kevinho.com&#x2F;experiments&#x2F;biomap&#x2F; 점수 290, 반응 52 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
       "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
-      "score": 210,
-      "comments": 102,
+      "score": 245,
+      "comments": 117,
       "text": "",
-      "summary": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays. 점수 210, 반응 102 기준 인기 이슈입니다."
+      "summary": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays. 점수 245, 반응 117 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "C++26 is done ISO C++ standards meeting, Trip Report",
+      "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+      "url": "https://github.com/anthropics/claude-code/issues/40710",
+      "score": 241,
+      "comments": 170,
+      "text": "",
+      "summary": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins. 점수 241, 반응 170 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "C++26 is done: ISO C++ standards meeting Trip Report",
       "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
-      "score": 201,
-      "comments": 157,
+      "score": 220,
+      "comments": 181,
       "text": "",
-      "summary": "C++26 is done ISO C++ standards meeting, Trip Report. 점수 201, 반응 157 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Copilot Edited an Ad into My PR",
-      "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
-      "score": 169,
-      "comments": 48,
-      "text": "",
-      "summary": "Copilot Edited an Ad into My PR. 점수 169, 반응 48 기준 인기 이슈입니다."
+      "summary": "C++26 is done: ISO C++ standards meeting Trip Report. 점수 220, 반응 181 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Philly courts will ban all smart eyeglasses starting next week",
       "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
-      "score": 168,
-      "comments": 60,
+      "score": 212,
+      "comments": 74,
       "text": "",
-      "summary": "Philly courts will ban all smart eyeglasses starting next week. 점수 168, 반응 60 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Coding Agents Could Make Free Software Matter Again",
-      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-      "score": 141,
-      "comments": 126,
-      "text": "",
-      "summary": "Coding Agents Could Make Free Software Matter Again. 점수 141, 반응 126 기준 인기 이슈입니다."
+      "summary": "Philly courts will ban all smart eyeglasses starting next week. 점수 212, 반응 74 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "My MacBook keyboard is broken and it's insanely expensive to fix",
       "url": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/",
-      "score": 129,
-      "comments": 154,
+      "score": 165,
+      "comments": 190,
       "text": "",
-      "summary": "My MacBook keyboard is broken and it's insanely expensive to fix. 점수 129, 반응 154 기준 인기 이슈입니다."
+      "summary": "My MacBook keyboard is broken and it's insanely expensive to fix. 점수 165, 반응 190 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Coding Agents Could Make Free Software Matter Again",
+      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+      "score": 159,
+      "comments": 142,
+      "text": "",
+      "summary": "Coding Agents Could Make Free Software Matter Again. 점수 159, 반응 142 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "15 Years of Forking",
+      "url": "https://www.waterfox.com/blog/15-years-of-forking/",
+      "score": 145,
+      "comments": 17,
+      "text": "",
+      "summary": "15 Years of Forking.  점수 145, 반응 17 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
+      "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
+      "score": 130,
+      "comments": 36,
+      "text": "",
+      "summary": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub. 점수 130, 반응 36 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 58
+      "count": 46
     },
     {
       "keyword": "https",
-      "count": 14
-    },
-    {
-      "keyword": "href",
-      "count": 7
-    },
-    {
-      "keyword": "rel",
-      "count": 7
-    },
-    {
-      "keyword": "nofollow",
-      "count": 7
+      "count": 10
     },
     {
       "keyword": "com",
@@ -262,11 +250,23 @@
       "count": 6
     },
     {
-      "keyword": "platform",
-      "count": 4
+      "keyword": "code",
+      "count": 5
     },
     {
-      "keyword": "code",
+      "keyword": "href",
+      "count": 5
+    },
+    {
+      "keyword": "rel",
+      "count": 5
+    },
+    {
+      "keyword": "nofollow",
+      "count": 5
+    },
+    {
+      "keyword": "platform",
       "count": 4
     },
     {
@@ -274,12 +274,12 @@
       "count": 4
     },
     {
-      "keyword": "ibb",
+      "keyword": "status",
       "count": 4
     },
     {
-      "keyword": "status",
-      "count": 4
+      "keyword": "free",
+      "count": 3
     },
     {
       "keyword": "api",
@@ -290,8 +290,8 @@
       "count": 3
     },
     {
-      "keyword": "openclaw",
-      "count": 2
+      "keyword": "github",
+      "count": 3
     }
   ],
   "meta": {
