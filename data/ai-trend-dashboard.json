@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T15:42:02.106803+00:00",
+  "updatedAt": "2026-04-01T17:11:32.684356+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 344286,
-      "comments": 16963,
+      "score": 344355,
+      "comments": 16985,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 344286, 반응 16963 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 344355, 반응 16985 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183023,
-      "comments": 389,
+      "score": 183026,
+      "comments": 391,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183023, 반응 389 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183026, 반응 391 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 182014,
-      "comments": 1476,
+      "score": 182028,
+      "comments": 1474,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182014, 반응 1476 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182028, 반응 1474 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,239 +46,219 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 155725,
+      "score": 155785,
       "comments": 38,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 155725, 반응 38 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 155785, 반응 38 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 135350,
-      "comments": 797,
+      "score": 135361,
+      "comments": 796,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 135350, 반응 797 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 135361, 반응 796 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 133987,
+      "score": 133994,
       "comments": 142,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133987, 반응 142 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 133994, 반응 142 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 131929,
+      "score": 131940,
       "comments": 515,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 131929, 반응 515 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 131940, 반응 515 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 129533,
-      "comments": 261,
+      "score": 129543,
+      "comments": 262,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 129533, 반응 261 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 129543, 반응 262 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108797,
+      "score": 108802,
       "comments": 19,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108797, 반응 19 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108802, 반응 19 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 107495,
+      "score": 107502,
       "comments": 3915,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107495, 반응 3915 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107502, 반응 3915 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 102349,
+      "score": 102398,
       "comments": 238,
       "text": "🔥 The Web Data API for AI - Power AI agents with clean web data",
-      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 102349, 반응 238 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 1301,
-      "comments": 527,
-      "text": "Related ongoing thread: <i>Claude Code&#x27;s source code has been leaked via a map file in their NPM registry</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47584540\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47584540</a><p>Also related: <a href=\"https:&#x2F;&#x2F;www.ccleaks.com\" rel=\"nofollow\">https:&#x2F;&#x2F;www.ccleaks.com</a>",
-      "summary": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode. Related ongoing thread: Claude Code&#x27;s source code has been leaked via a map file in their NPM registry - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47584540 Also related: https:&#x2F;&#x2F;www.ccleaks.com 점수 1301, 반응 527 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 102398, 반응 238 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Code Unpacked : A visual guide",
       "url": "https://ccunpacked.dev/",
-      "score": 837,
-      "comments": 303,
+      "score": 899,
+      "comments": 325,
       "text": "Related ongoing threads:<p><i>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47586778\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47586778</a> - March 2026 (406 comments)<p><i>Claude Code&#x27;s source code has been leaked via a map file in their NPM registry</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47584540\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47584540</a> - March 2026 (956 comments)<p>Also related: <a href=\"https:&#x2F;&#x2F;www.ccleaks.com\" rel=\"nofollow\">https:&#x2F;&#x2F;www.ccleaks.com</a>",
-      "summary": "Claude Code Unpacked : A visual guide. Related ongoing threads: The Claude Code Source Leak: fake tools, frustration regexes, undercover mode - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47586778 - March 2026 (406 comments) Claude Code&#x27;s source code has been leaked via a map file in their NPM registry - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47584540 - March 2026 (956 comments) Also related: https:&#x2F;&#x2F;www.ccleaks.com 점수 837, 반응 303 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "score": 493,
-      "comments": 456,
-      "text": "<a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;accelerating-the-next-phase-ai\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;accelerating-the-next-phase-ai</a>",
-      "summary": "OpenAI closes funding round at an $852B valuation. https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;accelerating-the-next-phase-ai 점수 493, 반응 456 기준 인기 이슈입니다."
+      "summary": "Claude Code Unpacked : A visual guide. Related ongoing threads: The Claude Code Source Leak: fake tools, frustration regexes, undercover mode - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47586778 - March 2026 (406 comments) Claude Code&#x27;s source code has been leaked via a map file in their NPM registry - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47584540 - March 2026 (956 comments) Also related: https:&#x2F;&#x2F;www.ccleaks.com 점수 899, 반응 325 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A dot a day keeps the clutter away",
       "url": "https://scottlawsonbc.com/post/dot-system",
-      "score": 445,
-      "comments": 132,
+      "score": 468,
+      "comments": 137,
       "text": "",
-      "summary": "A dot a day keeps the clutter away. 점수 445, 반응 132 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Open source CAD in the browser (Solvespace)",
-      "url": "https://solvespace.com/webver.pl",
-      "score": 357,
-      "comments": 116,
-      "text": "",
-      "summary": "Open source CAD in the browser (Solvespace). 점수 357, 반응 116 기준 인기 이슈입니다."
+      "summary": "A dot a day keeps the clutter away. 점수 468, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
       "url": "https://prismml.com/",
-      "score": 339,
-      "comments": 134,
+      "score": 359,
+      "comments": 137,
       "text": "",
-      "summary": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs. 점수 339, 반응 134 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I Quit. The Clankers Won",
-      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "score": 299,
-      "comments": 306,
-      "text": "",
-      "summary": "I Quit. The Clankers Won.  점수 299, 반응 306 기준 인기 이슈입니다."
+      "summary": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs. 점수 359, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "CERN levels up with new superconducting karts",
       "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 283,
-      "comments": 60,
+      "score": 324,
+      "comments": 71,
       "text": "",
-      "summary": "CERN levels up with new superconducting karts. 점수 283, 반응 60 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Slop is not necessarily the future",
-      "url": "https://www.greptile.com/blog/ai-slopware-future",
-      "score": 282,
-      "comments": 458,
-      "text": "",
-      "summary": "Slop is not necessarily the future. 점수 282, 반응 458 기준 인기 이슈입니다."
+      "summary": "CERN levels up with new superconducting karts. 점수 324, 반응 71 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "MiniStack (replacement for LocalStack)",
       "url": "https://ministack.org/",
-      "score": 277,
-      "comments": 56,
+      "score": 290,
+      "comments": 59,
       "text": "",
-      "summary": "MiniStack (replacement for LocalStack). 점수 277, 반응 56 기준 인기 이슈입니다."
+      "summary": "MiniStack (replacement for LocalStack). 점수 290, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "4D Doom",
       "url": "https://github.com/danieldugas/HYPERHELL",
-      "score": 255,
-      "comments": 63,
+      "score": 263,
+      "comments": 70,
       "text": "",
-      "summary": "4D Doom.  점수 255, 반응 63 기준 인기 이슈입니다."
+      "summary": "4D Doom.  점수 263, 반응 70 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "TinyLoRA – Learning to Reason in 13 Parameters",
       "url": "https://arxiv.org/abs/2602.04118",
-      "score": 216,
-      "comments": 39,
+      "score": 226,
+      "comments": 41,
       "text": "",
-      "summary": "TinyLoRA – Learning to Reason in 13 Parameters. 점수 216, 반응 39 기준 인기 이슈입니다."
+      "summary": "TinyLoRA – Learning to Reason in 13 Parameters. 점수 226, 반응 41 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Neanderthals survived on a knife's edge for 350k years",
-      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
-      "score": 207,
-      "comments": 154,
+      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "score": 184,
+      "comments": 79,
       "text": "",
-      "summary": "Neanderthals survived on a knife's edge for 350k years. 점수 207, 반응 154 기준 인기 이슈입니다."
+      "summary": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747). 점수 184, 반응 79 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "TruffleRuby",
+      "url": "https://chrisseaton.com/truffleruby/",
+      "score": 178,
+      "comments": 24,
+      "text": "",
+      "summary": "TruffleRuby.  점수 178, 반응 24 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Is BGP safe yet?",
+      "url": "https://isbgpsafeyet.com/",
+      "score": 174,
+      "comments": 58,
+      "text": "",
+      "summary": "Is BGP safe yet?.  점수 174, 반응 58 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "url": "https://github.com/yannick-cw/korb",
+      "score": 167,
+      "comments": 68,
+      "text": "I just had the best time learning about the REWE (German supermarket chain) API, how they use mTLS and what the workflows are. Also `mitmproxy2swagger`[1] is a great tool to create OpenAPI spec automatically.<p>And then 2026 feels like the perfect time writing Haskell. The code is handwritten, but whenever I got stuck with the build system or was just not getting the types right, I could fall back to ask AI to unblock me. It was never that smooth before.<p>Finally the best side projects are the ones you actually use and this one will be used for all my future grocery shopping.<p>[1]<a href=\"https:&#x2F;&#x2F;github.com&#x2F;alufers&#x2F;mitmproxy2swagger\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;alufers&#x2F;mitmproxy2swagger</a>",
+      "summary": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell). I just had the best time learning about the REWE (German supermarket chain) API, how they use mTLS and what the workflows are. Also `mitmproxy2swagger`[1] is a great tool to create OpenAPI spec automatically. 점수 167, 반응 68 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Chess in SQL",
+      "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
+      "score": 147,
+      "comments": 30,
+      "text": "",
+      "summary": "Chess in SQL.  점수 147, 반응 30 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+      "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+      "score": 109,
+      "comments": 17,
+      "text": "",
+      "summary": "Bring Back MiniDV with This Raspberry Pi FireWire Hat. 점수 109, 반응 17 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 34
-    },
-    {
-      "keyword": "https",
-      "count": 12
-    },
-    {
-      "keyword": "com",
-      "count": 12
+      "count": 24
     },
     {
       "keyword": "code",
-      "count": 11
+      "count": 9
     },
     {
-      "keyword": "source",
-      "count": 6
+      "keyword": "https",
+      "count": 8
+    },
+    {
+      "keyword": "com",
+      "count": 8
     },
     {
       "keyword": "claude",
-      "count": 6
+      "count": 5
     },
     {
-      "keyword": "href",
-      "count": 6
-    },
-    {
-      "keyword": "news",
-      "count": 6
-    },
-    {
-      "keyword": "ycombinator",
-      "count": 6
-    },
-    {
-      "keyword": "item",
-      "count": 6
+      "keyword": "api",
+      "count": 5
     },
     {
       "keyword": "platform",
-      "count": 4
-    },
-    {
-      "keyword": "tools",
       "count": 4
     },
     {
@@ -286,12 +266,32 @@
       "count": 4
     },
     {
-      "keyword": "openai",
+      "keyword": "href",
       "count": 4
     },
     {
-      "keyword": "related",
+      "keyword": "news",
       "count": 4
+    },
+    {
+      "keyword": "ycombinator",
+      "count": 4
+    },
+    {
+      "keyword": "item",
+      "count": 4
+    },
+    {
+      "keyword": "use",
+      "count": 3
+    },
+    {
+      "keyword": "tools",
+      "count": 3
+    },
+    {
+      "keyword": "web",
+      "count": 3
     }
   ],
   "meta": {
