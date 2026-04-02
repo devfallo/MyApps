@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T15:16:37.008966+00:00",
+  "updatedAt": "2026-04-02T17:09:42.388290+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,233 +10,229 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 345699,
-      "comments": 17141,
+      "score": 345816,
+      "comments": 17170,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 345699, 반응 17141 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 345816, 반응 17170 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183062,
-      "comments": 393,
+      "score": 183068,
+      "comments": 388,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183062, 반응 393 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183068, 반응 388 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 182168,
-      "comments": 1464,
+      "score": 182188,
+      "comments": 1463,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182168, 반응 1464 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182188, 반응 1463 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162087,
-      "comments": 2473,
+      "score": 162095,
+      "comments": 2474,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162087, 반응 2473 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162095, 반응 2474 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 156671,
+      "score": 156697,
       "comments": 38,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 156671, 반응 38 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 156697, 반응 38 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 135502,
-      "comments": 817,
+      "score": 135511,
+      "comments": 818,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 135502, 반응 817 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 135511, 반응 818 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 134106,
+      "score": 134122,
       "comments": 143,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134106, 반응 143 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134122, 반응 143 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 132095,
-      "comments": 522,
+      "score": 132118,
+      "comments": 521,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 132095, 반응 522 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 132118, 반응 521 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 129654,
+      "score": 129673,
       "comments": 259,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 129654, 반응 259 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 129673, 반응 259 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108843,
+      "score": 108850,
       "comments": 19,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108843, 반응 19 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108850, 반응 19 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 107588,
-      "comments": 3916,
+      "score": 107604,
+      "comments": 3919,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107588, 반응 3916 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107604, 반응 3919 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 102907,
+      "score": 102966,
       "comments": 243,
       "text": "🔥 The Web Data API for AI - Power AI agents with clean web data",
-      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 102907, 반응 243 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Artemis II Launch Day Updates",
-      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "score": 1011,
-      "comments": 883,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;live&#x2F;Tf_UjBMIzNo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;live&#x2F;Tf_UjBMIzNo</a>",
-      "summary": "Artemis II Launch Day Updates. https:&#x2F;&#x2F;www.youtube.com&#x2F;live&#x2F;Tf_UjBMIzNo 점수 1011, 반응 883 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
-      "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 634,
-      "comments": 471,
-      "text": "",
-      "summary": "EmDash – A spiritual successor to WordPress that solves plugin security. 점수 634, 반응 471 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 102966, 반응 243 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "LinkedIn Is Illegally Searching Your Computer",
       "url": "https://browsergate.eu/",
-      "score": 622,
-      "comments": 289,
+      "score": 1014,
+      "comments": 470,
       "text": "",
-      "summary": "LinkedIn Is Illegally Searching Your Computer. 점수 622, 반응 289 기준 인기 이슈입니다."
+      "summary": "LinkedIn Is Illegally Searching Your Computer. 점수 1014, 반응 470 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "score": 650,
+      "comments": 481,
+      "text": "",
+      "summary": "EmDash – A spiritual successor to WordPress that solves plugin security. 점수 650, 반응 481 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Steam on Linux Use Skyrocketed Above 5% in March",
       "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-      "score": 583,
-      "comments": 269,
+      "score": 641,
+      "comments": 299,
       "text": "",
-      "summary": "Steam on Linux Use Skyrocketed Above 5% in March. 점수 583, 반응 269 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DRAM pricing is killing the hobbyist SBC market",
-      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-      "score": 562,
-      "comments": 489,
-      "text": "",
-      "summary": "DRAM pricing is killing the hobbyist SBC market. 점수 562, 반응 489 기준 인기 이슈입니다."
+      "summary": "Steam on Linux Use Skyrocketed Above 5% in March. 점수 641, 반응 299 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Sweden goes back to basics, swapping screens for books in the classroom",
       "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-      "score": 382,
-      "comments": 206,
+      "score": 521,
+      "comments": 270,
       "text": "",
-      "summary": "Sweden goes back to basics, swapping screens for books in the classroom. 점수 382, 반응 206 기준 인기 이슈입니다."
+      "summary": "Sweden goes back to basics, swapping screens for books in the classroom. 점수 521, 반응 270 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Email obfuscation: What works in 2026?",
       "url": "https://spencermortensen.com/articles/email-obfuscation/",
-      "score": 248,
-      "comments": 74,
+      "score": 278,
+      "comments": 86,
       "text": "",
-      "summary": "Email obfuscation: What works in 2026?. 점수 248, 반응 74 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Subscription bombing and how to mitigate it",
-      "url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
-      "score": 238,
-      "comments": 152,
-      "text": "",
-      "summary": "Subscription bombing and how to mitigate it. 점수 238, 반응 152 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Quantum computing bombshells that are not April Fools",
-      "url": "https://scottaaronson.blog/?p=9665",
-      "score": 228,
-      "comments": 72,
-      "text": "",
-      "summary": "Quantum computing bombshells that are not April Fools. 점수 228, 반응 72 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A new C++ back end for ocamlc",
-      "url": "https://github.com/ocaml/ocaml/pull/14701",
-      "score": 219,
-      "comments": 19,
-      "text": "",
-      "summary": "A new C++ back end for ocamlc. 점수 219, 반응 19 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Fast and Gorgeous Erosion Filter",
-      "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
-      "score": 209,
-      "comments": 20,
-      "text": "",
-      "summary": "Fast and Gorgeous Erosion Filter. 점수 209, 반응 20 기준 인기 이슈입니다."
+      "summary": "Email obfuscation: What works in 2026?. 점수 278, 반응 86 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
       "url": "https://lemonade-server.ai",
-      "score": 190,
-      "comments": 52,
+      "score": 265,
+      "comments": 61,
       "text": "",
-      "summary": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU. 점수 190, 반응 52 기준 인기 이슈입니다."
+      "summary": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU. 점수 265, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "score": 247,
+      "comments": 50,
+      "text": "",
+      "summary": "Google releases Gemma 4 open models. 점수 247, 반응 50 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Quantum computing bombshells that are not April Fools",
+      "url": "https://scottaaronson.blog/?p=9665",
+      "score": 245,
+      "comments": 83,
+      "text": "",
+      "summary": "Quantum computing bombshells that are not April Fools. 점수 245, 반응 83 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "IBM Announces Strategic Collaboration with Arm",
       "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-      "score": 189,
-      "comments": 117,
+      "score": 218,
+      "comments": 132,
       "text": "",
-      "summary": "IBM Announces Strategic Collaboration with Arm. 점수 189, 반응 117 기준 인기 이슈입니다."
+      "summary": "IBM Announces Strategic Collaboration with Arm. 점수 218, 반응 132 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Significant Raise of Reports",
+      "url": "https://lwn.net/Articles/1065620/",
+      "score": 195,
+      "comments": 81,
+      "text": "",
+      "summary": "Significant Raise of Reports. 점수 195, 반응 81 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Qwen3.6-Plus: Towards Real World Agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "score": 192,
+      "comments": 70,
+      "text": "",
+      "summary": "Qwen3.6-Plus: Towards Real World Agents. 점수 192, 반응 70 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Inside Nepal's Fake Rescue Racket",
+      "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+      "score": 170,
+      "comments": 68,
+      "text": "",
+      "summary": "Inside Nepal's Fake Rescue Racket. 점수 170, 반응 68 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bringing Clojure programming to Enterprise (2021)",
+      "url": "https://blogit.michelin.io/clojure-programming/",
+      "score": 142,
+      "comments": 90,
+      "text": "",
+      "summary": "Bringing Clojure programming to Enterprise (2021). 점수 142, 반응 90 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
-    {
-      "keyword": "x2f",
-      "count": 8
-    },
     {
       "keyword": "platform",
       "count": 4
@@ -250,11 +246,11 @@
       "count": 4
     },
     {
-      "keyword": "web",
-      "count": 3
+      "keyword": "open",
+      "count": 4
     },
     {
-      "keyword": "open",
+      "keyword": "web",
       "count": 3
     },
     {
@@ -291,6 +287,10 @@
     },
     {
       "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "diffusion",
       "count": 2
     }
   ],
