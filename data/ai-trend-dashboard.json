@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T16:52:54.782811+00:00",
+  "updatedAt": "2026-04-04T19:01:29.977114+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,10 +10,10 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 347924,
-      "comments": 17065,
+      "score": 347990,
+      "comments": 17097,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 347924, 반응 17065 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 347990, 반응 17097 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -28,10 +28,10 @@
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 182423,
-      "comments": 1475,
+      "score": 182435,
+      "comments": 1477,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182423, 반응 1475 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182435, 반응 1477 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,200 +46,196 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 157424,
+      "score": 157430,
       "comments": 42,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 157424, 반응 42 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 157430, 반응 42 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 135794,
+      "score": 135845,
       "comments": 836,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 135794, 반응 836 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 135845, 반응 836 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 134321,
+      "score": 134323,
       "comments": 143,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134321, 반응 143 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134323, 반응 143 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 132342,
-      "comments": 519,
+      "score": 132354,
+      "comments": 520,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 132342, 반응 519 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 132354, 반응 520 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 130009,
-      "comments": 274,
+      "score": 130027,
+      "comments": 273,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 130009, 반응 274 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 130027, 반응 273 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108913,
+      "score": 108916,
       "comments": 20,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108913, 반응 20 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108916, 반응 20 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 107757,
-      "comments": 3921,
+      "score": 107761,
+      "comments": 3923,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107757, 반응 3921 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107761, 반응 3923 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 103988,
-      "comments": 249,
+      "score": 104026,
+      "comments": 251,
       "text": "🔥 The Web Data API for AI - Power AI agents with clean web data",
-      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 103988, 반응 249 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 104026, 반응 251 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Artemis II crew take “spectacular” image of Earth",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 918,
-      "comments": 318,
+      "score": 967,
+      "comments": 326,
       "text": "<a href=\"https:&#x2F;&#x2F;www.nasa.gov&#x2F;image-detail&#x2F;fd02_for-pao&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nasa.gov&#x2F;image-detail&#x2F;fd02_for-pao&#x2F;</a>",
-      "summary": "Artemis II crew take “spectacular” image of Earth. https:&#x2F;&#x2F;www.nasa.gov&#x2F;image-detail&#x2F;fd02_for-pao&#x2F; 점수 918, 반응 318 기준 인기 이슈입니다."
+      "summary": "Artemis II crew take “spectacular” image of Earth. https:&#x2F;&#x2F;www.nasa.gov&#x2F;image-detail&#x2F;fd02_for-pao&#x2F; 점수 967, 반응 326 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
       "url": "https://news.ycombinator.com/item?id=47633396",
-      "score": 914,
-      "comments": 708,
+      "score": 954,
+      "comments": 731,
       "text": "Received the following email from Anthropic:<p>Hi,<p>Starting April 4 at 12pm PT &#x2F; 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription.<p>Your subscription still covers all Claude products, including Claude Code and Claude Cowork. To keep using third-party harnesses with your Claude login, turn on extra usage for your account. This will be enforced April 4 starting with OpenClaw, but this policy applies to all third-party harnesses and will be rolled out to more shortly (read more).<p>To make the transition easier, we’re offering a one-time credit for extra usage equal to your monthly subscription price. Redeem your credit by April 17. We’re also introducing discounts when you pre-purchase bundles of extra usage (up to 30%).<p>We’ve been working to manage demand across the board, but these tools put an outsized strain on our systems. Capacity is a resource we manage carefully and we need to prioritize our customers using our core products. You will receive another email from us tomorrow where you’ll have the ability to refund your subscription if you prefer.",
-      "summary": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw. Received the following email from Anthropic: Hi, Starting April 4 at 12pm PT &#x2F; 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription. 점수 914, 반응 708 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "F-15E jet shot down over Iran",
-      "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-      "score": 569,
-      "comments": 1273,
-      "text": "<a href=\"https:&#x2F;&#x2F;theaviationist.com&#x2F;2026&#x2F;04&#x2F;03&#x2F;iran-f-15e-debris&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;theaviationist.com&#x2F;2026&#x2F;04&#x2F;03&#x2F;iran-f-15e-debris&#x2F;</a>",
-      "summary": "F-15E jet shot down over Iran. https:&#x2F;&#x2F;theaviationist.com&#x2F;2026&#x2F;04&#x2F;03&#x2F;iran-f-15e-debris&#x2F; 점수 569, 반응 1273 기준 인기 이슈입니다."
+      "summary": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw. Received the following email from Anthropic: Hi, Starting April 4 at 12pm PT &#x2F; 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription. 점수 954, 반응 731 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "score": 493,
-      "comments": 117,
+      "score": 501,
+      "comments": 121,
       "text": "",
-      "summary": "iNaturalist.  점수 493, 반응 117 기준 인기 이슈입니다."
+      "summary": "iNaturalist.  점수 501, 반응 121 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenClaw privilege escalation vulnerability",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-      "score": 476,
-      "comments": 221,
+      "score": 488,
+      "comments": 226,
       "text": "<a href=\"https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1sbdw29&#x2F;if_youre_running_openclaw_you_probably_got_hacked&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1sbdw29&#x2F;if_youre_...</a><p><a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260403174514&#x2F;https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1sbdw29&#x2F;if_youre_running_openclaw_you_probably_got_hacked&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260403174514&#x2F;https:&#x2F;&#x2F;old.reddi...</a>",
-      "summary": "OpenClaw privilege escalation vulnerability. https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1sbdw29&#x2F;if_youre_... https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260403174514&#x2F;https:&#x2F;&#x2F;old.reddi... 점수 476, 반응 221 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "score": 366,
-      "comments": 141,
-      "text": "",
-      "summary": "We replaced RAG with a virtual filesystem for our AI documentation assistant. 점수 366, 반응 141 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Simple self-distillation improves code generation",
-      "url": "https://arxiv.org/abs/2604.01193",
-      "score": 327,
-      "comments": 98,
-      "text": "",
-      "summary": "Simple self-distillation improves code generation. 점수 327, 반응 98 기준 인기 이슈입니다."
+      "summary": "OpenClaw privilege escalation vulnerability. https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1sbdw29&#x2F;if_youre_... https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260403174514&#x2F;https:&#x2F;&#x2F;old.reddi... 점수 488, 반응 226 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
       "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-      "score": 247,
-      "comments": 176,
+      "score": 437,
+      "comments": 286,
       "text": "",
-      "summary": "Author of \"Careless People\" banned from saying anything negative about Meta. 점수 247, 반응 176 기준 인기 이슈입니다."
+      "summary": "Author of \"Careless People\" banned from saying anything negative about Meta. 점수 437, 반응 286 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Simple self-distillation improves code generation",
+      "url": "https://arxiv.org/abs/2604.01193",
+      "score": 391,
+      "comments": 118,
+      "text": "",
+      "summary": "Simple self-distillation improves code generation. 점수 391, 반응 118 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
       "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "score": 265,
+      "comments": 166,
+      "text": "",
+      "summary": "Claude Code Found a Linux Vulnerability Hidden for 23 Years. 점수 265, 반응 166 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "German men 18-45 need military permit for extended stays abroad",
+      "url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677",
       "score": 214,
-      "comments": 130,
+      "comments": 341,
       "text": "",
-      "summary": "Claude Code Found a Linux Vulnerability Hidden for 23 Years. 점수 214, 반응 130 기준 인기 이슈입니다."
+      "summary": "German men 18-45 need military permit for extended stays abroad. 점수 214, 반응 341 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "What changes when you turn a Linux box into a router",
-      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
-      "score": 201,
-      "comments": 55,
+      "title": "Some Unusual Trees",
+      "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
+      "score": 193,
+      "comments": 53,
       "text": "",
-      "summary": "What changes when you turn a Linux box into a router. 점수 201, 반응 55 기준 인기 이슈입니다."
+      "summary": "Some Unusual Trees.  점수 193, 반응 53 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Build your own Dial-up ISP with a Raspberry Pi",
-      "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
-      "score": 192,
-      "comments": 33,
-      "text": "",
-      "summary": "Build your own Dial-up ISP with a Raspberry Pi. 점수 192, 반응 33 기준 인기 이슈입니다."
+      "title": "Show HN: A game where you build a GPU",
+      "url": "https://jaso1024.com/mvidia/",
+      "score": 182,
+      "comments": 39,
+      "text": "Thought the resources for GPU arch were lacking, so here we are",
+      "summary": "Show HN: A game where you build a GPU. Thought the resources for GPU arch were lacking, so here we are 점수 182, 반응 39 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Go on Embedded Systems and WebAssembly",
-      "url": "https://tinygo.org/",
-      "score": 188,
-      "comments": 26,
+      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+      "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+      "score": 125,
+      "comments": 48,
       "text": "",
-      "summary": "Go on Embedded Systems and WebAssembly. 점수 188, 반응 26 기준 인기 이슈입니다."
+      "summary": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs. 점수 125, 반응 48 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Run Linux containers on Android, no root required",
-      "url": "https://github.com/ExTV/Podroid",
-      "score": 187,
-      "comments": 68,
+      "title": "12k AI-generated blog posts added in a single commit",
+      "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+      "score": 116,
+      "comments": 103,
       "text": "",
-      "summary": "Run Linux containers on Android, no root required. 점수 187, 반응 68 기준 인기 이슈입니다."
+      "summary": "12k AI-generated blog posts added in a single commit. 점수 116, 반응 103 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+      "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
+      "score": 111,
+      "comments": 47,
+      "text": "",
+      "summary": "The Cathedral, the Bazaar, and the Winchester Mystery House. 점수 111, 반응 47 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 60
-    },
-    {
-      "keyword": "https",
-      "count": 10
+      "count": 46
     },
     {
       "keyword": "claude",
@@ -254,19 +250,15 @@
       "count": 8
     },
     {
+      "keyword": "https",
+      "count": 8
+    },
+    {
       "keyword": "web",
       "count": 7
     },
     {
-      "keyword": "our",
-      "count": 5
-    },
-    {
       "keyword": "subscription",
-      "count": 5
-    },
-    {
-      "keyword": "com",
       "count": 5
     },
     {
@@ -278,20 +270,28 @@
       "count": 4
     },
     {
+      "keyword": "our",
+      "count": 4
+    },
+    {
       "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "href",
+      "keyword": "extra",
       "count": 4
     },
     {
-      "keyword": "rel",
+      "keyword": "usage",
       "count": 4
     },
     {
-      "keyword": "nofollow",
+      "keyword": "old",
       "count": 4
+    },
+    {
+      "keyword": "tools",
+      "count": 3
     }
   ],
   "meta": {
