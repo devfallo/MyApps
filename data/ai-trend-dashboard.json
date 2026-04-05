@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T16:54:09.676077+00:00",
+  "updatedAt": "2026-04-05T19:03:49.279129+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 348792,
-      "comments": 16945,
+      "score": 348869,
+      "comments": 16971,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 348792, 반응 16945 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 348869, 반응 16971 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183154,
+      "score": 183158,
       "comments": 382,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183154, 반응 382 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183158, 반응 382 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 182551,
-      "comments": 1479,
+      "score": 182568,
+      "comments": 1481,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182551, 반응 1479 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182568, 반응 1481 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,203 +46,199 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 157530,
-      "comments": 42,
+      "score": 157540,
+      "comments": 43,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 157530, 반응 42 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 157540, 반응 43 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 136158,
+      "score": 136196,
       "comments": 845,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 136158, 반응 845 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 136196, 반응 845 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 134446,
+      "score": 134453,
       "comments": 143,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134446, 반응 143 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134453, 반응 143 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 132441,
+      "score": 132448,
       "comments": 517,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 132441, 반응 517 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 132448, 반응 517 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 130151,
-      "comments": 290,
+      "score": 130169,
+      "comments": 289,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 130151, 반응 290 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 130169, 반응 289 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108945,
+      "score": 108946,
       "comments": 20,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108945, 반응 20 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108946, 반응 20 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 107839,
-      "comments": 3930,
+      "score": 107846,
+      "comments": 3931,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107839, 반응 3930 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107846, 반응 3931 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 104446,
-      "comments": 252,
+      "score": 104485,
+      "comments": 253,
       "text": "🔥 The Web Data API for AI - Power AI agents with clean web data",
-      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 104446, 반응 252 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: A game where you build a GPU",
-      "url": "https://jaso1024.com/mvidia/",
-      "score": 865,
-      "comments": 171,
-      "text": "Thought the resources for GPU arch were lacking, so here we are",
-      "summary": "Show HN: A game where you build a GPU. Thought the resources for GPU arch were lacking, so here we are 점수 865, 반응 171 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 104485, 반응 253 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The threat is comfortable drift toward not understanding what you're doing",
       "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-      "score": 569,
-      "comments": 401,
+      "score": 660,
+      "comments": 452,
       "text": "",
-      "summary": "The threat is comfortable drift toward not understanding what you're doing. 점수 569, 반응 401 기준 인기 이슈입니다."
+      "summary": "The threat is comfortable drift toward not understanding what you're doing. 점수 660, 반응 452 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Caveman: Why use many token when few token do trick",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "score": 509,
+      "comments": 262,
+      "text": "",
+      "summary": "Caveman: Why use many token when few token do trick. 점수 509, 반응 262 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "German implementation of eIDAS will require an Apple/Google account to function",
       "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "score": 467,
-      "comments": 426,
+      "score": 501,
+      "comments": 478,
       "text": "",
-      "summary": "German implementation of eIDAS will require an Apple/Google account to function. 점수 467, 반응 426 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenScreen is an open-source alternative to Screen Studio",
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "score": 396,
-      "comments": 68,
-      "text": "",
-      "summary": "OpenScreen is an open-source alternative to Screen Studio. 점수 396, 반응 68 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 391,
-      "comments": 232,
-      "text": "",
-      "summary": "A Claude Code skill that makes Claude talk like a caveman, cutting token use. 점수 391, 반응 232 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Someone at BrowserStack Is Leaking Users' Email Address",
-      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
-      "score": 289,
-      "comments": 77,
-      "text": "",
-      "summary": "Someone at BrowserStack Is Leaking Users' Email Address. 점수 289, 반응 77 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "LLM Wiki – example of an \"idea file\"",
-      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "score": 257,
-      "comments": 77,
-      "text": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;karpathy&#x2F;status&#x2F;2040470801506541998\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;karpathy&#x2F;status&#x2F;2040470801506541998</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2040470801506541998\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2040470801506541998</a>",
-      "summary": "LLM Wiki – example of an \"idea file\". https:&#x2F;&#x2F;x.com&#x2F;karpathy&#x2F;status&#x2F;2040470801506541998 https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2040470801506541998 점수 257, 반응 77 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "My Google Workspace account suspension",
-      "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
-      "score": 205,
-      "comments": 97,
-      "text": "",
-      "summary": "My Google Workspace account suspension. 점수 205, 반응 97 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Introduction to Computer Music (2009) [pdf]",
-      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "score": 201,
-      "comments": 61,
-      "text": "",
-      "summary": "Introduction to Computer Music (2009) [pdf]. 점수 201, 반응 61 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Lisette a little language inspired by Rust that compiles to Go",
-      "url": "https://lisette.run/",
-      "score": 196,
-      "comments": 97,
-      "text": "",
-      "summary": "Lisette a little language inspired by Rust that compiles to Go. 점수 196, 반응 97 기준 인기 이슈입니다."
+      "summary": "German implementation of eIDAS will require an Apple/Google account to function. 점수 501, 반응 478 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Eight years of wanting, three months of building with AI",
       "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "score": 191,
-      "comments": 35,
+      "score": 350,
+      "comments": 104,
       "text": "",
-      "summary": "Eight years of wanting, three months of building with AI. 점수 191, 반응 35 기준 인기 이슈입니다."
+      "summary": "Eight years of wanting, three months of building with AI. 점수 350, 반응 104 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
-      "score": 166,
-      "comments": 92,
+      "title": "Someone at BrowserStack is leaking users' email addresses",
+      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+      "score": 332,
+      "comments": 88,
       "text": "",
-      "summary": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses. 점수 166, 반응 92 기준 인기 이슈입니다."
+      "summary": "Someone at BrowserStack is leaking users' email addresses. 점수 332, 반응 88 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "My Google Workspace account suspension",
+      "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
+      "score": 267,
+      "comments": 137,
+      "text": "",
+      "summary": "My Google Workspace account suspension. 점수 267, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Artemis II crew see first glimpse of far side of Moon [video]",
       "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-      "score": 132,
-      "comments": 87,
+      "score": 261,
+      "comments": 180,
       "text": "",
-      "summary": "Artemis II crew see first glimpse of far side of Moon [video]. 점수 132, 반응 87 기준 인기 이슈입니다."
+      "summary": "Artemis II crew see first glimpse of far side of Moon [video]. 점수 261, 반응 180 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
+      "score": 226,
+      "comments": 141,
+      "text": "",
+      "summary": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses. 점수 226, 반응 141 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Lisette a little language inspired by Rust that compiles to Go",
+      "url": "https://lisette.run/",
+      "score": 215,
+      "comments": 115,
+      "text": "",
+      "summary": "Lisette a little language inspired by Rust that compiles to Go. 점수 215, 반응 115 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Introduction to Computer Music (2009) [pdf]",
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "score": 211,
+      "comments": 70,
+      "text": "",
+      "summary": "Introduction to Computer Music (2009) [pdf]. 점수 211, 반응 70 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Codex pricing to align with API token usage, instead of per-message",
+      "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+      "score": 167,
+      "comments": 114,
+      "text": "",
+      "summary": "Codex pricing to align with API token usage, instead of per-message. 점수 167, 반응 114 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Japanese, French and Omani vessels cross Strait of Hormuz",
+      "url": "https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz",
+      "score": 105,
+      "comments": 132,
+      "text": "",
+      "summary": "Japanese, French and Omani vessels cross Strait of Hormuz. 점수 105, 반응 132 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Aegis – open-source FPGA silicon",
+      "url": "https://github.com/MidstallSoftware/aegis",
+      "score": 104,
+      "comments": 13,
+      "text": "",
+      "summary": "Aegis – open-source FPGA silicon. 점수 104, 반응 13 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "x2f",
-      "count": 20
+      "keyword": "platform",
+      "count": 4
     },
     {
       "keyword": "code",
-      "count": 5
-    },
-    {
-      "keyword": "platform",
       "count": 4
     },
     {
@@ -250,19 +246,7 @@
       "count": 4
     },
     {
-      "keyword": "https",
-      "count": 4
-    },
-    {
-      "keyword": "com",
-      "count": 4
-    },
-    {
-      "keyword": "karpathy",
-      "count": 4
-    },
-    {
-      "keyword": "status",
+      "keyword": "api",
       "count": 4
     },
     {
@@ -274,11 +258,7 @@
       "count": 3
     },
     {
-      "keyword": "claude",
-      "count": 3
-    },
-    {
-      "keyword": "api",
+      "keyword": "token",
       "count": 3
     },
     {
@@ -291,6 +271,26 @@
     },
     {
       "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "use",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "diffusion",
       "count": 2
     }
   ],
