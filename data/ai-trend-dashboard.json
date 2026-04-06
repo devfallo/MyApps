@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-05T22:51:33.031202+00:00",
+  "updatedAt": "2026-04-06T03:41:39.778322+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,10 +10,10 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 348996,
-      "comments": 17008,
+      "score": 349141,
+      "comments": 17069,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 348996, 반응 17008 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 349141, 반응 17069 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -28,211 +28,215 @@
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 182595,
-      "comments": 1483,
+      "score": 182614,
+      "comments": 1484,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182595, 반응 1483 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182614, 반응 1484 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162144,
-      "comments": 2473,
+      "score": 162148,
+      "comments": 2474,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162144, 반응 2473 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162148, 반응 2474 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 157558,
+      "score": 157588,
       "comments": 44,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 157558, 반응 44 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 157588, 반응 44 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 136230,
-      "comments": 845,
+      "score": 136262,
+      "comments": 855,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 136230, 반응 845 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 136262, 반응 855 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 134466,
+      "score": 134484,
       "comments": 143,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134466, 반응 143 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134484, 반응 143 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 132456,
-      "comments": 516,
+      "score": 132468,
+      "comments": 518,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 132456, 반응 516 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 132468, 반응 518 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 130193,
+      "score": 130221,
       "comments": 289,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 130193, 반응 289 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 130221, 반응 289 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 108948,
+      "score": 108961,
       "comments": 20,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108948, 반응 20 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 108961, 반응 20 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 107856,
-      "comments": 3931,
+      "score": 107861,
+      "comments": 3932,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107856, 반응 3931 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107861, 반응 3932 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 104556,
-      "comments": 253,
+      "score": 104643,
+      "comments": 255,
       "text": "🔥 The Web Data API for AI - Power AI agents with clean web data",
-      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 104556, 반응 253 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The threat is comfortable drift toward not understanding what you're doing",
-      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-      "score": 780,
-      "comments": 520,
-      "text": "",
-      "summary": "The threat is comfortable drift toward not understanding what you're doing. 점수 780, 반응 520 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 104643, 반응 255 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Caveman: Why use many token when few token do trick",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 640,
-      "comments": 300,
+      "score": 718,
+      "comments": 313,
       "text": "",
-      "summary": "Caveman: Why use many token when few token do trick. 점수 640, 반응 300 기준 인기 이슈입니다."
+      "summary": "Caveman: Why use many token when few token do trick. 점수 718, 반응 313 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Eight years of wanting, three months of building with AI",
       "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "score": 530,
-      "comments": 165,
+      "score": 667,
+      "comments": 208,
       "text": "",
-      "summary": "Eight years of wanting, three months of building with AI. 점수 530, 반응 165 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
-      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-      "score": 370,
-      "comments": 282,
-      "text": "",
-      "summary": "Artemis II crew see first glimpse of far side of Moon [video]. 점수 370, 반응 282 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
-      "score": 295,
-      "comments": 197,
-      "text": "",
-      "summary": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses. 점수 295, 반응 197 기준 인기 이슈입니다."
+      "summary": "Eight years of wanting, three months of building with AI. 점수 667, 반응 208 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Gemma 4 on iPhone",
       "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "score": 280,
-      "comments": 75,
+      "score": 470,
+      "comments": 127,
       "text": "",
-      "summary": "Gemma 4 on iPhone.  점수 280, 반응 75 기준 인기 이슈입니다."
+      "summary": "Gemma 4 on iPhone.  점수 470, 반응 127 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Lisette a little language inspired by Rust that compiles to Go",
-      "url": "https://lisette.run/",
-      "score": 247,
-      "comments": 129,
+      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+      "score": 437,
+      "comments": 335,
       "text": "",
-      "summary": "Lisette a little language inspired by Rust that compiles to Go. 점수 247, 반응 129 기준 인기 이슈입니다."
+      "summary": "Artemis II crew see first glimpse of far side of Moon [video]. 점수 437, 반응 335 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "LibreOffice – Let's put an end to the speculation",
-      "url": "https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/",
-      "score": 137,
-      "comments": 77,
+      "title": "Why Switzerland has 25 Gbit internet and America doesn't",
+      "url": "https://sschueller.github.io/posts/the-free-market-lie/",
+      "score": 283,
+      "comments": 227,
       "text": "",
-      "summary": "LibreOffice – Let's put an end to the speculation. 점수 137, 반응 77 기준 인기 이슈입니다."
+      "summary": "Why Switzerland has 25 Gbit internet and America doesn't. 점수 283, 반응 227 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "score": 257,
+      "comments": 142,
+      "text": "See also <a href=\"https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542</a> (<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542</a>)",
+      "summary": "Microsoft hasn't had a coherent GUI strategy since Petzold. See also https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542 ( https:&#x2F;&#x2F;xcancel.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542 ) 점수 257, 반응 142 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "LÖVE: 2D Game Framework for Lua",
       "url": "https://github.com/love2d/love",
-      "score": 134,
-      "comments": 48,
+      "score": 229,
+      "comments": 91,
       "text": "",
-      "summary": "LÖVE: 2D Game Framework for Lua. 점수 134, 반응 48 기준 인기 이슈입니다."
+      "summary": "LÖVE: 2D Game Framework for Lua. 점수 229, 반응 91 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
       "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-      "score": 131,
-      "comments": 34,
+      "score": 212,
+      "comments": 55,
       "text": "",
-      "summary": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code. 점수 131, 반응 34 기준 인기 이슈입니다."
+      "summary": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code. 점수 212, 반응 55 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
       "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
-      "score": 127,
-      "comments": 22,
+      "score": 170,
+      "comments": 24,
       "text": "",
-      "summary": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs. 점수 127, 반응 22 기준 인기 이슈입니다."
+      "summary": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs. 점수 170, 반응 24 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Friendica – A Decentralized Social Network",
       "url": "https://friendi.ca/",
-      "score": 113,
-      "comments": 45,
+      "score": 138,
+      "comments": 50,
       "text": "",
-      "summary": "Friendica – A Decentralized Social Network. 점수 113, 반응 45 기준 인기 이슈입니다."
+      "summary": "Friendica – A Decentralized Social Network. 점수 138, 반응 50 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "score": 137,
+      "comments": 151,
+      "text": "",
+      "summary": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants. 점수 137, 반응 151 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A tail-call interpreter in (nightly) Rust",
       "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
-      "score": 113,
-      "comments": 13,
+      "score": 135,
+      "comments": 22,
       "text": "",
-      "summary": "A tail-call interpreter in (nightly) Rust. 점수 113, 반응 13 기준 인기 이슈입니다."
+      "summary": "A tail-call interpreter in (nightly) Rust. 점수 135, 반응 22 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "url": "https://github.com/arman-bd/guppylm",
+      "score": 124,
+      "comments": 9,
+      "text": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.<p>Fork it and swap the personality for your own character.",
+      "summary": "Show HN: I built a tiny LLM to demystify how language models work. Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. 점수 124, 반응 9 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 20
+    },
     {
       "keyword": "code",
       "count": 6
@@ -243,6 +247,22 @@
     },
     {
       "keyword": "prompts",
+      "count": 4
+    },
+    {
+      "keyword": "https",
+      "count": 4
+    },
+    {
+      "keyword": "com",
+      "count": 4
+    },
+    {
+      "keyword": "stevesi",
+      "count": 4
+    },
+    {
+      "keyword": "status",
       "count": 4
     },
     {
@@ -266,31 +286,11 @@
       "count": 2
     },
     {
+      "keyword": "own",
+      "count": 2
+    },
+    {
       "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "use",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "can",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
       "count": 2
     }
   ],
