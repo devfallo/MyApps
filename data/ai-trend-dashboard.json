@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T14:00:58.946614+00:00",
+  "updatedAt": "2026-04-07T15:43:35.317947+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 350883,
-      "comments": 17325,
+      "score": 350968,
+      "comments": 17361,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 350883, 반응 17325 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 350968, 반응 17361 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183209,
+      "score": 183213,
       "comments": 381,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183209, 반응 381 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183213, 반응 381 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 182800,
+      "score": 182810,
       "comments": 1493,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182800, 반응 1493 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182810, 반응 1493 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,227 +46,199 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 157792,
+      "score": 157808,
       "comments": 41,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 157792, 반응 41 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 157808, 반응 41 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 136567,
-      "comments": 875,
+      "score": 136582,
+      "comments": 876,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 136567, 반응 875 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 136582, 반응 876 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 134627,
+      "score": 134639,
       "comments": 143,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134627, 반응 143 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134639, 반응 143 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 132641,
-      "comments": 496,
+      "score": 132656,
+      "comments": 497,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 132641, 반응 496 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 132656, 반응 497 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 130461,
+      "score": 130479,
       "comments": 310,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 130461, 반응 310 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 130479, 반응 310 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 109020,
+      "score": 109024,
       "comments": 21,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109020, 반응 21 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109024, 반응 21 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 107992,
-      "comments": 3937,
+      "score": 108003,
+      "comments": 3939,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 107992, 반응 3937 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108003, 반응 3939 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 105320,
-      "comments": 255,
+      "score": 105373,
+      "comments": 254,
       "text": "🔥 The Web Data API for AI - Power AI agents with clean web data",
-      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 105320, 반응 255 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 105373, 반응 254 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Sam Altman may control our future – can he be trusted?",
       "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-      "score": 1617,
-      "comments": 663,
+      "score": 1754,
+      "comments": 718,
       "text": "",
-      "summary": "Sam Altman may control our future – can he be trusted?. 점수 1617, 반응 663 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "score": 1210,
-      "comments": 651,
-      "text": "",
-      "summary": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates. 점수 1210, 반응 651 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A cryptography engineer's perspective on quantum computing timelines",
-      "url": "https://words.filippo.io/crqc-timeline/",
-      "score": 517,
-      "comments": 210,
-      "text": "",
-      "summary": "A cryptography engineer's perspective on quantum computing timelines. 점수 517, 반응 210 기준 인기 이슈입니다."
+      "summary": "Sam Altman may control our future – can he be trusted?. 점수 1754, 반응 718 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
       "url": "https://github.com/matthartman/ghost-pepper",
-      "score": 419,
-      "comments": 185,
+      "score": 427,
+      "comments": 189,
       "text": "I built this because I wanted to see how far I could get with a voice-to-text app that used 100% local models so no data left my computer. I&#x27;ve been using a ton for coding and emails. Experimenting with using it as a voice interface for my other agents too. 100% open-source MIT license, would love feedback, PRs, and ideas on where to take it.",
-      "summary": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS. I built this because I wanted to see how far I could get with a voice-to-text app that used 100% local models so no data left my computer. I&#x27;ve been using a ton for coding and emails. 점수 419, 반응 185 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-      "url": "https://www.freestyle.sh/",
-      "score": 295,
-      "comments": 151,
-      "text": "We’re Ben and Jacob, cofounders of Freestyle (<a href=\"https:&#x2F;&#x2F;freestyle.sh\">https:&#x2F;&#x2F;freestyle.sh</a>). We’re building a cloud for  Coding Agents.<p>For the first generation of agents it looked like workflows with minimal tools. 2 years ago we published a package to let AI work in SQL, at that time GPT-4 could write simple scripts. Soon after the first AI App Builders started using AI to make whole websites; we supported that with a serverless deploy system.<p>But the current generation is going much further, instead of minimal tools and basic serverless apps AI can utilize the full power of a computer (“sandbox”). We’re building sandboxes that are interchangeable with EC2s from your agents perspective, with bonus features:<p>1. We’ve figured out how to fork a sandbox horizontally without more than a 400ms pause in it. That&#x27;s not forking the filesystem, we mean forking the whole memory of it. If you’re half way down a browser page with animations running, they’ll be in the same place in all the forks. If you’re running a minecraft server every block and player will be in the same place on the forks. If you’re running a local environment and an error comes up in process that error will be there in all the forks. This works for snapshotting as well, you can save your place and come back weeks later.<p>2. Our sandboxes start in ~500ms.<p>Demo: <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;8b3d294d515442f296aecde1f42f5524\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;8b3d294d515442f296aecde1f42f5524</a><p>Compared with other sandboxes, our goal is to be the most powerful. We support full Linux + hardware-virtualization, eBPF, Fuse, etc. We run full Debian with multiple users and we use a systemd init instead of runc. Whatever your AI expects to work on debian should work on these vms, and if it doesn’t send a bug report.<p>In order to make this possible, we’ve moved to our own bare metal racks. Early in our testing we realized that moving VMs across cloud nodes would not have acceptable performance properties. We asked Google Cloud and AWS for a quote on their bare metal nodes and found that the monthly cost was equivalent to the total cost of the hardware so we did that.<p>Our goal is to build the necessary infrastructure to replicate the human devloop on the massively multi-tenant scale of AI, so these VMs should be as powerful as the ones you’re used to, while also being available to provision in seconds.",
-      "summary": "Launch HN: Freestyle – Sandboxes for Coding Agents. We’re Ben and Jacob, cofounders of Freestyle ( https:&#x2F;&#x2F;freestyle.sh ). We’re building a cloud for Coding Agents. 점수 295, 반응 151 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "My Experience as a Rice Farmer",
-      "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
-      "score": 233,
-      "comments": 107,
-      "text": "",
-      "summary": "My Experience as a Rice Farmer. 점수 233, 반응 107 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Every GPU That Mattered",
-      "url": "https://sheets.works/data-viz/every-gpu",
-      "score": 167,
-      "comments": 90,
-      "text": "",
-      "summary": "Every GPU That Mattered. 점수 167, 반응 90 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
-      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-      "score": 158,
-      "comments": 85,
-      "text": "",
-      "summary": "We found an undocumented bug in the Apollo 11 guidance computer code. 점수 158, 반응 85 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Solod – A subset of Go that translates to C",
-      "url": "https://github.com/solod-dev/solod",
-      "score": 154,
-      "comments": 36,
-      "text": "",
-      "summary": "Solod – A subset of Go that translates to C. 점수 154, 반응 36 기준 인기 이슈입니다."
+      "summary": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS. I built this because I wanted to see how far I could get with a voice-to-text app that used 100% local models so no data left my computer. I&#x27;ve been using a ton for coding and emails. 점수 427, 반응 189 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
       "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 118,
-      "comments": 43,
+      "score": 321,
+      "comments": 133,
       "text": "",
-      "summary": "Show HN: Brutalist Concrete Laptop Stand (2024). 점수 118, 반응 43 기준 인기 이슈입니다."
+      "summary": "Show HN: Brutalist Concrete Laptop Stand (2024). 점수 321, 반응 133 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "My Experience as a Rice Farmer",
+      "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
+      "score": 276,
+      "comments": 128,
+      "text": "",
+      "summary": "My Experience as a Rice Farmer. 점수 276, 반응 128 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+      "score": 255,
+      "comments": 129,
+      "text": "",
+      "summary": "We found an undocumented bug in the Apollo 11 guidance computer code. 점수 255, 반응 129 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Every GPU That Mattered",
+      "url": "https://sheets.works/data-viz/every-gpu",
+      "score": 225,
+      "comments": 122,
+      "text": "",
+      "summary": "Every GPU That Mattered. 점수 225, 반응 122 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dropping Cloudflare for Bunny.net",
+      "url": "https://jola.dev/posts/dropping-cloudflare",
+      "score": 194,
+      "comments": 89,
+      "text": "",
+      "summary": "Dropping Cloudflare for Bunny.net. 점수 194, 반응 89 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
+      "url": "https://locker.dev",
+      "score": 167,
+      "comments": 135,
+      "text": "Last week SWYX nerd-sniped me into building an Open-source Dropbox.<p>Here is Locker: the ultimate open-source Google Drive&#x2F;box&#x2F;Dropbox alternative \n- Provider agnostic (S3, R2, vercel blob, local)\n- BYOB (Bring your own bucket)\n- Virtual file system\n- QMD Search plugin",
+      "summary": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead. Last week SWYX nerd-sniped me into building an Open-source Dropbox. Here is Locker: the ultimate open-source Google Drive&#x2F;box&#x2F;Dropbox alternative - Provider agnostic (S3, R2, vercel blob, local) - BYOB (Bring your own bucket) - Virtual file system - QMD Search plugin 점수 167, 반응 135 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI may be making us think and write more alike",
       "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
-      "score": 104,
-      "comments": 91,
+      "score": 158,
+      "comments": 153,
       "text": "",
-      "summary": "AI may be making us think and write more alike. 점수 104, 반응 91 기준 인기 이슈입니다."
+      "summary": "AI may be making us think and write more alike. 점수 158, 반응 153 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Identify a London Underground Line just by listening to it",
       "url": "https://tubesoundquiz.com/",
-      "score": 92,
-      "comments": 26,
+      "score": 124,
+      "comments": 36,
       "text": "",
-      "summary": "Identify a London Underground Line just by listening to it. 점수 92, 반응 26 기준 인기 이슈입니다."
+      "summary": "Identify a London Underground Line just by listening to it. 점수 124, 반응 36 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Blackholing My Email",
       "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
-      "score": 90,
-      "comments": 3,
+      "score": 118,
+      "comments": 11,
       "text": "",
-      "summary": "Blackholing My Email. 점수 90, 반응 3 기준 인기 이슈입니다."
+      "summary": "Blackholing My Email. 점수 118, 반응 11 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Running Out of Disk Space in Production",
+      "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+      "score": 101,
+      "comments": 45,
+      "text": "",
+      "summary": "Running Out of Disk Space in Production. 점수 101, 반응 45 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Three hundred synths, 3 hardware projects, and one app",
+      "url": "https://midi.guide/blog/three-hunded-synths-one-app/",
+      "score": 98,
+      "comments": 13,
+      "text": "",
+      "summary": "Three hundred synths, 3 hardware projects, and one app. 점수 98, 반응 13 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "x2f",
-      "count": 12
-    },
-    {
-      "keyword": "our",
-      "count": 7
-    },
-    {
       "keyword": "code",
-      "count": 6
-    },
-    {
-      "keyword": "agents",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "platform",
-      "count": 4
-    },
-    {
-      "keyword": "tools",
-      "count": 4
-    },
-    {
-      "keyword": "can",
-      "count": 4
-    },
-    {
-      "keyword": "building",
-      "count": 4
-    },
-    {
-      "keyword": "cloud",
       "count": 4
     },
     {
@@ -274,24 +246,52 @@
       "count": 4
     },
     {
-      "keyword": "full",
-      "count": 4
+      "keyword": "own",
+      "count": 3
     },
     {
-      "keyword": "freestyle",
-      "count": 4
-    },
-    {
-      "keyword": "sandboxes",
-      "count": 4
-    },
-    {
-      "keyword": "https",
-      "count": 4
+      "keyword": "building",
+      "count": 3
     },
     {
       "keyword": "web",
       "count": 3
+    },
+    {
+      "keyword": "app",
+      "count": 3
+    },
+    {
+      "keyword": "interface",
+      "count": 3
+    },
+    {
+      "keyword": "api",
+      "count": 3
+    },
+    {
+      "keyword": "data",
+      "count": 3
+    },
+    {
+      "keyword": "show",
+      "count": 3
+    },
+    {
+      "keyword": "local",
+      "count": 3
+    },
+    {
+      "keyword": "open-source",
+      "count": 3
+    },
+    {
+      "keyword": "dropbox",
+      "count": 3
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
     }
   ],
   "meta": {
