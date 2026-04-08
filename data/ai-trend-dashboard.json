@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T14:02:41.519749+00:00",
+  "updatedAt": "2026-04-08T15:45:04.283151+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 351944,
-      "comments": 17655,
+      "score": 352043,
+      "comments": 17694,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 351944, 반응 17655 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 352043, 반응 17694 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183242,
-      "comments": 384,
+      "score": 183247,
+      "comments": 387,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183242, 반응 384 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183247, 반응 387 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 182983,
-      "comments": 1500,
+      "score": 183001,
+      "comments": 1478,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 182983, 반응 1500 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 183001, 반응 1478 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,190 +46,190 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 157985,
+      "score": 158058,
       "comments": 41,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 157985, 반응 41 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 158058, 반응 41 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 136742,
-      "comments": 873,
+      "score": 136752,
+      "comments": 879,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 136742, 반응 873 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 136752, 반응 879 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 134724,
+      "score": 134738,
       "comments": 144,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134724, 반응 144 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134738, 반응 144 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 132799,
-      "comments": 506,
+      "score": 132807,
+      "comments": 505,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 132799, 반응 506 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 132807, 반응 505 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 130661,
-      "comments": 318,
+      "score": 130683,
+      "comments": 319,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 130661, 반응 318 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 130683, 반응 319 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 109062,
+      "score": 109064,
       "comments": 22,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109062, 반응 22 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109064, 반응 22 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 108121,
+      "score": 108125,
       "comments": 3940,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108121, 반응 3940 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108125, 반응 3940 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 105829,
+      "score": 105882,
       "comments": 260,
       "text": "🔥 The Web Data API for AI - Power AI agents with clean web data",
-      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 105829, 반응 260 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 105882, 반응 260 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "score": 1378,
-      "comments": 707,
+      "score": 1426,
+      "comments": 739,
       "text": "Related: <i>Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155</a><p><i>System Card: Claude Mythos Preview [pdf]</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258</a><p>Also: <i>Anthropic&#x27;s Project Glasswing sounds necessary to me</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47681241\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47681241</a>",
-      "summary": "Project Glasswing: Securing critical software for the AI era. Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155 System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258 Also: Anthropic&#x27;s Project Glasswing sounds necessary to me - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47681241 점수 1378, 반응 707 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Lunar Flyby",
-      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "score": 824,
-      "comments": 202,
-      "text": "",
-      "summary": "Lunar Flyby.  점수 824, 반응 202 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "System Card: Claude Mythos Preview [pdf]",
-      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "score": 761,
-      "comments": 553,
-      "text": "Related: <i>Project Glasswing: Securing critical software for the AI era</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679121\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679121</a><p><i>Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155</a>",
-      "summary": "System Card: Claude Mythos Preview [pdf]. Related: Project Glasswing: Securing critical software for the AI era - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679121 Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155 점수 761, 반응 553 기준 인기 이슈입니다."
+      "summary": "Project Glasswing: Securing critical software for the AI era. Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155 System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258 Also: Anthropic&#x27;s Project Glasswing sounds necessary to me - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47681241 점수 1426, 반응 739 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Git commands I run before reading any code",
       "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "score": 620,
-      "comments": 138,
+      "score": 949,
+      "comments": 198,
       "text": "",
-      "summary": "Git commands I run before reading any code. 점수 620, 반응 138 기준 인기 이슈입니다."
+      "summary": "Git commands I run before reading any code. 점수 949, 반응 198 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Lunar Flyby",
+      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+      "score": 872,
+      "comments": 210,
+      "text": "",
+      "summary": "Lunar Flyby.  점수 872, 반응 210 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "score": 780,
+      "comments": 578,
+      "text": "Related: <i>Project Glasswing: Securing critical software for the AI era</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679121\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679121</a><p><i>Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155</a>",
+      "summary": "System Card: Claude Mythos Preview [pdf]. Related: Project Glasswing: Securing critical software for the AI era - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679121 Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155 점수 780, 반응 578 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Veracrypt project update",
       "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "score": 590,
-      "comments": 190,
+      "score": 721,
+      "comments": 249,
       "text": "",
-      "summary": "Veracrypt project update. 점수 590, 반응 190 기준 인기 이슈입니다."
+      "summary": "Veracrypt project update. 점수 721, 반응 249 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
       "url": "https://z.ai/blog/glm-5.1",
-      "score": 569,
-      "comments": 229,
+      "score": 583,
+      "comments": 239,
       "text": "",
-      "summary": "GLM-5.1: Towards Long-Horizon Tasks. 점수 569, 반응 229 기준 인기 이슈입니다."
+      "summary": "GLM-5.1: Towards Long-Horizon Tasks. 점수 583, 반응 239 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
       "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
-      "score": 435,
-      "comments": 102,
+      "score": 454,
+      "comments": 107,
       "text": "",
-      "summary": "Cambodia unveils statue to honour famous landmine-sniffing rat. 점수 435, 반응 102 기준 인기 이슈입니다."
+      "summary": "Cambodia unveils statue to honour famous landmine-sniffing rat. 점수 454, 반응 107 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How to get better at guitar",
       "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
-      "score": 397,
-      "comments": 201,
+      "score": 423,
+      "comments": 217,
       "text": "",
-      "summary": "How to get better at guitar. 점수 397, 반응 201 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A truck driver spent 20 years making a scale model of every building in NYC",
-      "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-      "score": 368,
-      "comments": 62,
-      "text": "",
-      "summary": "A truck driver spent 20 years making a scale model of every building in NYC. 점수 368, 반응 62 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cloudflare targets 2029 for full post-quantum security",
-      "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
-      "score": 365,
-      "comments": 112,
-      "text": "",
-      "summary": "Cloudflare targets 2029 for full post-quantum security. 점수 365, 반응 112 기준 인기 이슈입니다."
+      "summary": "How to get better at guitar. 점수 423, 반응 217 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "S3 Files",
       "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
-      "score": 335,
-      "comments": 97,
+      "score": 352,
+      "comments": 105,
       "text": "<a href=\"https:&#x2F;&#x2F;aws.amazon.com&#x2F;blogs&#x2F;aws&#x2F;launching-s3-files-making-s3-buckets-accessible-as-file-systems&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;aws.amazon.com&#x2F;blogs&#x2F;aws&#x2F;launching-s3-files-making-s...</a>",
-      "summary": "https:&#x2F;&#x2F;aws.amazon.com&#x2F;blogs&#x2F;aws&#x2F;launching-s3-files-making-s... 점수 335, 반응 97 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;aws.amazon.com&#x2F;blogs&#x2F;aws&#x2F;launching-s3-files-making-s... 점수 352, 반응 105 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+      "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+      "score": 284,
+      "comments": 364,
+      "text": "",
+      "summary": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones. 점수 284, 반응 364 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "US cities are axing Flock Safety surveillance technology",
+      "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
+      "score": 275,
+      "comments": 125,
+      "text": "",
+      "summary": "US cities are axing Flock Safety surveillance technology. 점수 275, 반응 125 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Revision Demoparty 2026: Razor1911 [video]",
       "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "score": 244,
-      "comments": 83,
+      "score": 272,
+      "comments": 92,
       "text": "",
-      "summary": "Revision Demoparty 2026: Razor1911 [video]. 점수 244, 반응 83 기준 인기 이슈입니다."
+      "summary": "Revision Demoparty 2026: Razor1911 [video]. 점수 272, 반응 92 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: An interactive map of Tolkien's Middle-earth",
-      "url": "https://middle-earth-interactive-map.web.app/",
-      "score": 244,
-      "comments": 48,
-      "text": "An interactive map of Tolkien’s Middle-earth, with events from across the legendarium plotted as markers.<p>I have been commuting a fair bit between the East and West coast, and thanks to American Airlines&#x27; free onboard WiFi, I was able to vibe-code a full interactive map of Middle-earth right from my economy seat at the back of the bus.<p>It&#x27;s rather amazing how much an LLM knows about Tolkien&#x27;s work, and it was fun to delve into many of the nooks and crannies of Tolkien&#x27;s lore.<p>Some features:\n- Plot on the map the journey of the main characters in both The Hobbit and The Lord of the Rings.\n- Follow a list of events in the chronological Timeline\n- Zoom in on the high-def map and explore many of the off-the-main-plotline places\n- Use the &#x27;measure distances&#x27; feature to see how far apart things are.<p>I also had a lot of fun learning about tiling to allow for efficient zooming.<p>If you are anything like me, this should provide a fun companion to reading the books or watching the movies (note that on this site, I followed the book narrative, and did not include Peter Jackson&#x27;s many departures)<p>If you get the chance to check it out, I would love more feedback, and if there is demand, I might do the same for Game of Thrones.",
-      "summary": "Show HN: An interactive map of Tolkien's Middle-earth. An interactive map of Tolkien’s Middle-earth, with events from across the legendarium plotted as markers. I have been commuting a fair bit between the East and West coast, and thanks to American Airlines&#x27; free onboard WiFi, I was able to vibe-code a full interactive map of Middle-earth right from my economy seat at the back of the bus. 점수 244, 반응 48 기준 인기 이슈입니다."
+      "title": "Protect your shed",
+      "url": "https://dylanbutler.dev/blog/protect-your-shed/",
+      "score": 247,
+      "comments": 64,
+      "text": "",
+      "summary": "Protect your shed.  점수 247, 반응 64 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -244,10 +244,6 @@
     {
       "keyword": "com",
       "count": 12
-    },
-    {
-      "keyword": "x27",
-      "count": 10
     },
     {
       "keyword": "news",
@@ -274,10 +270,6 @@
       "count": 5
     },
     {
-      "keyword": "map",
-      "count": 5
-    },
-    {
       "keyword": "platform",
       "count": 4
     },
@@ -291,6 +283,14 @@
     },
     {
       "keyword": "mythos",
+      "count": 4
+    },
+    {
+      "keyword": "preview",
+      "count": 4
+    },
+    {
+      "keyword": "aws",
       "count": 4
     }
   ],
