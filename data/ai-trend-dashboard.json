@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T13:50:11.546001+00:00",
+  "updatedAt": "2026-04-10T15:06:48.734916+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 353912,
-      "comments": 18076,
+      "score": 353962,
+      "comments": 18085,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 353912, 반응 18076 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 353962, 반응 18085 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 183404,
-      "comments": 1453,
+      "score": 183418,
+      "comments": 1457,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 183404, 반응 1453 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 183418, 반응 1457 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "score": 183298,
-      "comments": 392,
+      "comments": 391,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183298, 반응 392 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183298, 반응 391 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162283,
+      "score": 162285,
       "comments": 2476,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162283, 반응 2476 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162285, 반응 2476 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 159070,
+      "score": 159083,
       "comments": 41,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 159070, 반응 41 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 159083, 반응 41 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 137093,
-      "comments": 901,
+      "score": 137102,
+      "comments": 903,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 137093, 반응 901 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 137102, 반응 903 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,166 +73,174 @@
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 133048,
+      "score": 133053,
       "comments": 514,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 133048, 반응 514 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 133053, 반응 514 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 131097,
+      "score": 131105,
       "comments": 335,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 131097, 반응 335 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 131105, 반응 335 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 109158,
+      "score": 109159,
       "comments": 23,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109158, 반응 23 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109159, 반응 23 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 108339,
-      "comments": 3955,
+      "score": 108350,
+      "comments": 3954,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108339, 반응 3955 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108350, 반응 3954 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 106845,
-      "comments": 262,
+      "score": 106885,
+      "comments": 263,
       "text": "🔥 The Web Data API for AI - Power AI agents with clean web data",
-      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 106845, 반응 262 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
-      "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
-      "score": 685,
-      "comments": 316,
-      "text": "",
-      "summary": "France Launches Government Linux Desktop Plan as Windows Exit Begins. 점수 685, 반응 316 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 106885, 반응 263 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Native Instant Space Switching on macOS",
       "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "score": 564,
-      "comments": 273,
+      "score": 579,
+      "comments": 281,
       "text": "",
-      "summary": "Native Instant Space Switching on macOS. 점수 564, 반응 273 기준 인기 이슈입니다."
+      "summary": "Native Instant Space Switching on macOS. 점수 579, 반응 281 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How NASA built Artemis II’s fault-tolerant computer",
       "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "score": 468,
-      "comments": 179,
+      "score": 506,
+      "comments": 191,
       "text": "",
-      "summary": "How NASA built Artemis II’s fault-tolerant computer. 점수 468, 반응 179 기준 인기 이슈입니다."
+      "summary": "How NASA built Artemis II’s fault-tolerant computer. 점수 506, 반응 191 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Old laptops in a colo as low cost servers",
       "url": "https://colaptop.pages.dev/",
-      "score": 338,
-      "comments": 190,
+      "score": 352,
+      "comments": 207,
       "text": "",
-      "summary": "Old laptops in a colo as low cost servers. 점수 338, 반응 190 기준 인기 이슈입니다."
+      "summary": "Old laptops in a colo as low cost servers. 점수 352, 반응 207 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
       "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
-      "score": 303,
-      "comments": 105,
+      "score": 324,
+      "comments": 113,
       "text": "",
-      "summary": "RAM Has a Design Flaw from 1966. I Bypassed It [video]. 점수 303, 반응 105 기준 인기 이슈입니다."
+      "summary": "RAM Has a Design Flaw from 1966. I Bypassed It [video]. 점수 324, 반응 113 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I still prefer MCP over skills",
       "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
-      "score": 289,
-      "comments": 243,
+      "score": 322,
+      "comments": 272,
       "text": "",
-      "summary": "I still prefer MCP over skills. 점수 289, 반응 243 기준 인기 이슈입니다."
+      "summary": "I still prefer MCP over skills. 점수 322, 반응 272 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "score": 318,
+      "comments": 219,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.md&#x2F;WzwBY\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.md&#x2F;WzwBY</a>",
+      "summary": "OpenAI backs Illinois bill that would limit when AI labs can be held liable. https:&#x2F;&#x2F;archive.md&#x2F;WzwBY 점수 318, 반응 219 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
       "url": "https://www.unfolder.app/",
-      "score": 271,
-      "comments": 52,
+      "score": 285,
+      "comments": 55,
       "text": "",
-      "summary": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft. 점수 271, 반응 52 기준 인기 이슈입니다."
+      "summary": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft. 점수 285, 반응 55 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Charcuterie – Visual similarity Unicode explorer",
       "url": "https://charcuterie.elastiq.ch/",
-      "score": 267,
-      "comments": 59,
+      "score": 278,
+      "comments": 64,
       "text": "",
-      "summary": "Charcuterie – Visual similarity Unicode explorer. 점수 267, 반응 59 기준 인기 이슈입니다."
+      "summary": "Charcuterie – Visual similarity Unicode explorer. 점수 278, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "PicoZ80 – Drop-In Z80 Replacement",
-      "url": "https://eaw.app/picoz80/",
-      "score": 209,
-      "comments": 32,
+      "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+      "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+      "score": 264,
+      "comments": 114,
       "text": "",
-      "summary": "PicoZ80 – Drop-In Z80 Replacement. 점수 209, 반응 32 기준 인기 이슈입니다."
+      "summary": "FBI used iPhone notification data to retrieve deleted Signal messages. 점수 264, 반응 114 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We've raised $17M to build what comes after Git",
       "url": "https://blog.gitbutler.com/series-a",
-      "score": 206,
-      "comments": 439,
+      "score": 228,
+      "comments": 490,
       "text": "",
-      "summary": "We've raised $17M to build what comes after Git. 점수 206, 반응 439 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Research-Driven Agents: When an agent reads before it codes",
-      "url": "https://blog.skypilot.co/research-driven-agents/",
-      "score": 193,
-      "comments": 51,
-      "text": "",
-      "summary": "Research-Driven Agents: When an agent reads before it codes. 점수 193, 반응 51 기준 인기 이슈입니다."
+      "summary": "We've raised $17M to build what comes after Git. 점수 228, 반응 490 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Generative art over the years",
       "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
-      "score": 191,
-      "comments": 48,
+      "score": 201,
+      "comments": 50,
       "text": "",
-      "summary": "Generative art over the years. 점수 191, 반응 48 기준 인기 이슈입니다."
+      "summary": "Generative art over the years. 점수 201, 반응 50 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A new trick brings stability to quantum operations",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+      "score": 190,
+      "comments": 45,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-10285-1\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-10285-1</a><p><a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2507.22112\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2507.22112</a>",
+      "summary": "A new trick brings stability to quantum operations. https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-10285-1 https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2507.22112 점수 190, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Instant 1.0, a backend for AI-coded apps",
       "url": "https://www.instantdb.com/essays/architecture",
-      "score": 180,
-      "comments": 89,
+      "score": 186,
+      "comments": 95,
       "text": "",
-      "summary": "Instant 1.0, a backend for AI-coded apps. 점수 180, 반응 89 기준 인기 이슈입니다."
+      "summary": "Instant 1.0, a backend for AI-coded apps. 점수 186, 반응 95 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 22
+    },
+    {
+      "keyword": "https",
+      "count": 6
+    },
     {
       "keyword": "platform",
       "count": 4
@@ -250,11 +258,23 @@
       "count": 3
     },
     {
-      "keyword": "agent",
+      "keyword": "api",
       "count": 3
     },
     {
-      "keyword": "api",
+      "keyword": "data",
+      "count": 3
+    },
+    {
+      "keyword": "href",
+      "count": 3
+    },
+    {
+      "keyword": "rel",
+      "count": 3
+    },
+    {
+      "keyword": "nofollow",
       "count": 3
     },
     {
@@ -271,26 +291,6 @@
     },
     {
       "keyword": "native",
-      "count": 2
-    },
-    {
-      "keyword": "visual",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
       "count": 2
     }
   ],
