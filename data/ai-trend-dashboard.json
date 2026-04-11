@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T05:40:10.428609+00:00",
+  "updatedAt": "2026-04-11T07:17:12.044065+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 354330,
-      "comments": 18106,
+      "score": 354367,
+      "comments": 18127,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 354330, 반응 18106 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 354367, 반응 18127 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 183503,
+      "score": 183510,
       "comments": 1457,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 183503, 반응 1457 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 183510, 반응 1457 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "score": 183303,
-      "comments": 393,
+      "comments": 394,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183303, 반응 393 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183303, 반응 394 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,190 +46,190 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 159199,
+      "score": 159211,
       "comments": 41,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 159199, 반응 41 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 159211, 반응 41 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 137175,
+      "score": 137189,
       "comments": 911,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 137175, 반응 911 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 137189, 반응 911 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 134906,
+      "score": 134911,
       "comments": 143,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134906, 반응 143 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 134911, 반응 143 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 133109,
-      "comments": 513,
+      "score": 133118,
+      "comments": 514,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 133109, 반응 513 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 133118, 반응 514 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 131190,
-      "comments": 344,
+      "score": 131203,
+      "comments": 346,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 131190, 반응 344 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 131203, 반응 346 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 109177,
+      "score": 109181,
       "comments": 23,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109177, 반응 23 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109181, 반응 23 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 108390,
+      "score": 108391,
       "comments": 3955,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108390, 반응 3955 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108391, 반응 3955 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 107154,
-      "comments": 266,
+      "score": 107185,
+      "comments": 267,
       "text": "🔥 The Web Data API for AI - Power AI agents with clean web data",
-      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 107154, 반응 266 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 741,
-      "comments": 133,
-      "text": "",
-      "summary": "1D Chess.  점수 741, 반응 133 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 107185, 반응 267 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Artemis II safely splashes down",
       "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "score": 672,
-      "comments": 248,
+      "score": 787,
+      "comments": 259,
       "text": "",
-      "summary": "Artemis II safely splashes down. 점수 672, 반응 248 기준 인기 이슈입니다."
+      "summary": "Artemis II safely splashes down. 점수 787, 반응 259 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "score": 768,
+      "comments": 138,
+      "text": "",
+      "summary": "1D Chess.  점수 768, 반응 138 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Filing the corners off my MacBooks",
       "url": "https://kentwalters.com/posts/corners/",
-      "score": 582,
-      "comments": 309,
+      "score": 660,
+      "comments": 345,
       "text": "",
-      "summary": "Filing the corners off my MacBooks. 점수 582, 반응 309 기준 인기 이슈입니다."
+      "summary": "Filing the corners off my MacBooks. 점수 660, 반응 345 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "WireGuard makes new Windows release following Microsoft signing resolution",
       "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-      "score": 432,
-      "comments": 117,
+      "score": 451,
+      "comments": 127,
       "text": "Recent and related: <i>Microsoft terminated the account VeraCrypt used to sign Windows drivers</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47686549\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47686549</a>",
-      "summary": "WireGuard makes new Windows release following Microsoft signing resolution. Recent and related: Microsoft terminated the account VeraCrypt used to sign Windows drivers - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47686549 점수 432, 반응 117 기준 인기 이슈입니다."
+      "summary": "WireGuard makes new Windows release following Microsoft signing resolution. Recent and related: Microsoft terminated the account VeraCrypt used to sign Windows drivers - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47686549 점수 451, 반응 127 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Industrial design files for Keychron keyboards and mice",
       "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-      "score": 340,
-      "comments": 107,
+      "score": 351,
+      "comments": 109,
       "text": "",
-      "summary": "Industrial design files for Keychron keyboards and mice. 점수 340, 반응 107 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "CPU-Z and HWMonitor compromised",
-      "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
-      "score": 293,
-      "comments": 85,
-      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;vxunderground&#x2F;status&#x2F;2042483067655262461\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;vxunderground&#x2F;status&#x2F;2042483067655262461</a><p><a href=\"https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;pcmasterrace&#x2F;comments&#x2F;1sh4e5l&#x2F;warning_hwmonitor_163_download_on_the_official&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;pcmasterrace&#x2F;comments&#x2F;1sh4e5l&#x2F;warni...</a><p><a href=\"https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;supply-chain-...</a>",
-      "summary": "CPU-Z and HWMonitor compromised. https:&#x2F;&#x2F;xcancel.com&#x2F;vxunderground&#x2F;status&#x2F;2042483067655262461 https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;pcmasterrace&#x2F;comments&#x2F;1sh4e5l&#x2F;warni... https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;supply-chain-... 점수 293, 반응 85 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "score": 286,
-      "comments": 145,
-      "text": "",
-      "summary": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers. 점수 286, 반응 145 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Helium is hard to replace",
-      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
-      "score": 280,
-      "comments": 192,
-      "text": "",
-      "summary": "Helium is hard to replace. 점수 280, 반응 192 기준 인기 이슈입니다."
+      "summary": "Industrial design files for Keychron keyboards and mice. 점수 351, 반응 109 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Installing every* Firefox extension",
       "url": "https://jack.cab/blog/every-firefox-extension",
-      "score": 260,
-      "comments": 27,
+      "score": 313,
+      "comments": 32,
       "text": "",
-      "summary": "Installing every* Firefox extension. 점수 260, 반응 27 기준 인기 이슈입니다."
+      "summary": "Installing every* Firefox extension. 점수 313, 반응 32 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Sam Altman's response to Molotov cocktail incident",
-      "url": "https://blog.samaltman.com/2279512",
-      "score": 254,
-      "comments": 545,
+      "title": "CPU-Z and HWMonitor compromised",
+      "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
+      "score": 307,
+      "comments": 88,
+      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;vxunderground&#x2F;status&#x2F;2042483067655262461\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;vxunderground&#x2F;status&#x2F;2042483067655262461</a><p><a href=\"https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;pcmasterrace&#x2F;comments&#x2F;1sh4e5l&#x2F;warning_hwmonitor_163_download_on_the_official&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;pcmasterrace&#x2F;comments&#x2F;1sh4e5l&#x2F;warni...</a><p><a href=\"https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;supply-chain-...</a>",
+      "summary": "CPU-Z and HWMonitor compromised. https:&#x2F;&#x2F;xcancel.com&#x2F;vxunderground&#x2F;status&#x2F;2042483067655262461 https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;pcmasterrace&#x2F;comments&#x2F;1sh4e5l&#x2F;warni... https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;supply-chain-... 점수 307, 반응 88 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "score": 304,
+      "comments": 169,
       "text": "",
-      "summary": "Sam Altman's response to Molotov cocktail incident. 점수 254, 반응 545 기준 인기 이슈입니다."
+      "summary": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers. 점수 304, 반응 169 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Helium is hard to replace",
+      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "score": 295,
+      "comments": 205,
+      "text": "",
+      "summary": "Helium is hard to replace. 점수 295, 반응 205 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI assistance when contributing to the Linux kernel",
       "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-      "score": 244,
-      "comments": 160,
+      "score": 271,
+      "comments": 178,
       "text": "",
-      "summary": "AI assistance when contributing to the Linux kernel. 점수 244, 반응 160 기준 인기 이슈입니다."
+      "summary": "AI assistance when contributing to the Linux kernel. 점수 271, 반응 178 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A compelling title that is cryptic enough to get you to take action on it",
       "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
-      "score": 190,
-      "comments": 108,
+      "score": 210,
+      "comments": 116,
       "text": "",
-      "summary": "A compelling title that is cryptic enough to get you to take action on it. 점수 190, 반응 108 기준 인기 이슈입니다."
+      "summary": "A compelling title that is cryptic enough to get you to take action on it. 점수 210, 반응 116 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "JSON formatter Chrome plugin now closed and injecting adware",
       "url": "https://github.com/callumlocke/json-formatter",
-      "score": 184,
-      "comments": 101,
+      "score": 198,
+      "comments": 109,
       "text": "",
-      "summary": "JSON formatter Chrome plugin now closed and injecting adware. 점수 184, 반응 101 기준 인기 이슈입니다."
+      "summary": "JSON formatter Chrome plugin now closed and injecting adware. 점수 198, 반응 109 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nowhere is safe",
+      "url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
+      "score": 175,
+      "comments": 216,
+      "text": "",
+      "summary": "Nowhere is safe.  점수 175, 반응 216 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
