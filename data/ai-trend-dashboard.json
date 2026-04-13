@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T11:40:56.833376+00:00",
+  "updatedAt": "2026-04-13T14:07:50.424716+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,232 +10,236 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 356143,
-      "comments": 18357,
+      "score": 356260,
+      "comments": 18378,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 356143, 반응 18357 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 356260, 반응 18378 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 183816,
-      "comments": 1472,
+      "score": 183834,
+      "comments": 1473,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 183816, 반응 1472 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 183834, 반응 1473 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183367,
-      "comments": 405,
+      "score": 183378,
+      "comments": 406,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183367, 반응 405 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183378, 반응 406 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162337,
-      "comments": 2478,
+      "score": 162342,
+      "comments": 2479,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162337, 반응 2478 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162342, 반응 2479 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 159552,
+      "score": 159568,
       "comments": 44,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 159552, 반응 44 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 159568, 반응 44 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 137546,
-      "comments": 905,
+      "score": 137567,
+      "comments": 904,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 137546, 반응 905 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 137567, 반응 904 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 135060,
+      "score": 135064,
       "comments": 145,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135060, 반응 145 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135064, 반응 145 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 133382,
+      "score": 133398,
       "comments": 512,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 133382, 반응 512 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 133398, 반응 512 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 131558,
-      "comments": 288,
+      "score": 131582,
+      "comments": 297,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 131558, 반응 288 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 131582, 반응 297 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 109277,
+      "score": 109283,
       "comments": 23,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109277, 반응 23 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109283, 반응 23 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 108616,
+      "score": 108633,
       "comments": 3967,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108616, 반응 3967 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108633, 반응 3967 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 108391,
+      "score": 108450,
       "comments": 274,
       "text": "🔥 The Web Data API for AI - Power AI agents with clean web data",
-      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 108391, 반응 274 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 108450, 반응 274 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
       "url": "https://news.ycombinator.com/item?id=47738883",
-      "score": 948,
-      "comments": 350,
+      "score": 1020,
+      "comments": 375,
       "text": "I just spent 1h+ debugging why my locally-hosted gitlab runner would fail to create pipelines. The gitlab job output would just display weird TLS errors when trying to pull a docker images. After debugging gitlab and the runner, I realized after a while I could not even run &quot;docker pull &lt;image&gt;&quot; on my machine as root:<p>&gt; error pulling image configuration: download failed after attempts=6: tls: failed to verify certificate: x509: certificate is not valid for any names, but wanted to match docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com<p>First blaming tailscale, dns configuration and all other stuff. Until I just copied that above URL into my browser on my laptop, and received a website banner:<p>&gt; El acceso a la presente dirección IP ha sido bloqueado en cumplimiento de lo dispuesto en la Sentencia de 18 de diciembre de 2024, dictada por el Juzgado de lo Mercantil nº 6 de Barcelona en el marco del procedimiento ordinario (Materia mercantil art. 249.1.4)-1005&#x2F;2024-H instado por la Liga Nacional de Fútbol Profesional y por Telefónica Audiovisual Digital, S.L.U.\nhttps:&#x2F;&#x2F;www.laliga.com&#x2F;noticias&#x2F;nota-informativa-en-relacion-con-el-bloqueo-de-ips-durante-las-ultimas-jornadas-de-laliga-ea-sports-vinculadas-a-las-practicas-ilegales-de-cloudflare<p>For those non-spanish speakers: It means there is football match on, and during that time that specific host is blocked. This is just plain madness. I guess that means my gitlab pipelines will not run when football is on. Thank you, Spain.",
-      "summary": "Tell HN: Docker pull fails in Spain due to football Cloudflare block. I just spent 1h+ debugging why my locally-hosted gitlab runner would fail to create pipelines. The gitlab job output would just display weird TLS errors when trying to pull a docker images. 점수 948, 반응 350 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-      "url": "https://github.com/anthropics/claude-code/issues/45756",
-      "score": 672,
-      "comments": 589,
-      "text": "",
-      "summary": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage. 점수 672, 반응 589 기준 인기 이슈입니다."
+      "summary": "Tell HN: Docker pull fails in Spain due to football Cloudflare block. I just spent 1h+ debugging why my locally-hosted gitlab runner would fail to create pipelines. The gitlab job output would just display weird TLS errors when trying to pull a docker images. 점수 1020, 반응 375 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
       "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "score": 592,
-      "comments": 371,
+      "score": 615,
+      "comments": 410,
       "text": "",
-      "summary": "Seven countries now generate nearly all their electricity from renewables (2024). 점수 592, 반응 371 기준 인기 이슈입니다."
+      "summary": "Seven countries now generate nearly all their electricity from renewables (2024). 점수 615, 반응 410 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bring Back Idiomatic Design (2023)",
       "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 571,
-      "comments": 328,
+      "score": 601,
+      "comments": 345,
       "text": "",
-      "summary": "Bring Back Idiomatic Design (2023). 점수 571, 반응 328 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Exploiting the most prominent AI agent benchmarks",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 534,
-      "comments": 133,
-      "text": "",
-      "summary": "Exploiting the most prominent AI agent benchmarks. 점수 534, 반응 133 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DIY Soft Drinks",
-      "url": "https://blinry.org/diy-soft-drinks/",
-      "score": 495,
-      "comments": 143,
-      "text": "",
-      "summary": "DIY Soft Drinks.  점수 495, 반응 143 기준 인기 이슈입니다."
+      "summary": "Bring Back Idiomatic Design (2023). 점수 601, 반응 345 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "All elementary functions from a single binary operator",
       "url": "https://arxiv.org/abs/2603.21852",
-      "score": 476,
-      "comments": 124,
+      "score": 596,
+      "comments": 158,
       "text": "",
-      "summary": "All elementary functions from a single binary operator. 점수 476, 반응 124 기준 인기 이슈입니다."
+      "summary": "All elementary functions from a single binary operator. 점수 596, 반응 158 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
-      "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-      "score": 469,
-      "comments": 240,
+      "title": "DIY Soft Drinks",
+      "url": "https://blinry.org/diy-soft-drinks/",
+      "score": 561,
+      "comments": 167,
       "text": "",
-      "summary": "Google removes \"Doki Doki Literature Club\" from Google Play. 점수 469, 반응 240 기준 인기 이슈입니다."
+      "summary": "DIY Soft Drinks.  점수 561, 반응 167 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The peril of laziness lost",
-      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
-      "score": 407,
-      "comments": 135,
+      "title": "Exploiting the most prominent AI agent benchmarks",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "score": 548,
+      "comments": 134,
       "text": "",
-      "summary": "The peril of laziness lost. 점수 407, 반응 135 기준 인기 이슈입니다."
+      "summary": "Exploiting the most prominent AI agent benchmarks. 점수 548, 반응 134 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
       "url": "https://boringbar.app/",
-      "score": 391,
-      "comments": 212,
+      "score": 425,
+      "comments": 239,
       "text": "Hi HN!<p>I recently switched from a Fedora&#x2F;GNOME laptop to a MacBook Air. My old setup served me well as a portable workstation, but I’ve started traveling more while working remotely and needed something with similar performance but better battery life. The main thing I missed was a simple taskbar that shows the windows in the current workspace instead of a Dock that mixes everything together.<p>I built boringBar so I would not have to use the Dock. It shows only the windows in the current Space, lets you switch Spaces by scrolling on the bar, and adds a desktop switcher so you can jump directly to any Space. You can also hide the system Dock, pin apps, preview windows with thumbnails, and launch apps from a searchable menu (I keep Spotlight disabled because for some reason it uses a lot of system resources on my machine).<p>I’ve been dogfooding it for a few months now, and it finally felt polished enough to share.<p>It’s for people who like macOS but want window management to feel a bit more like GNOME, Windows, or a traditional taskbar. It’s also for people like me who wanted an easier transition to macOS, especially now that Windows feels increasingly user-hostile.<p>I’d love feedback on the UX, bugs, and whether this solves the same Dock&#x2F;Spaces pain for anyone else.<p>P.S. It might also appeal to people who feel nostalgic for the GNOME 2 desktop of yore. I started my Linux journey with it, and boringBar brings back some of that feeling for me.",
-      "summary": "Show HN: boringBar – a taskbar-style dock replacement for macOS. I recently switched from a Fedora&#x2F;GNOME laptop to a MacBook Air. My old setup served me well as a portable workstation, but I’ve started traveling more while working remotely and needed something with similar performance but better battery life. 점수 391, 반응 212 기준 인기 이슈입니다."
+      "summary": "Show HN: boringBar – a taskbar-style dock replacement for macOS. I recently switched from a Fedora&#x2F;GNOME laptop to a MacBook Air. My old setup served me well as a portable workstation, but I’ve started traveling more while working remotely and needed something with similar performance but better battery life. 점수 425, 반응 239 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Most people can't juggle one ball",
       "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
-      "score": 384,
-      "comments": 125,
+      "score": 424,
+      "comments": 141,
       "text": "",
-      "summary": "Most people can't juggle one ball. 점수 384, 반응 125 기준 인기 이슈입니다."
+      "summary": "Most people can't juggle one ball. 점수 424, 반응 141 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I gave every train in New York an instrument",
       "url": "https://www.trainjazz.com/",
-      "score": 296,
-      "comments": 58,
+      "score": 330,
+      "comments": 65,
       "text": "",
-      "summary": "I gave every train in New York an instrument. 점수 296, 반응 58 기준 인기 이슈입니다."
+      "summary": "I gave every train in New York an instrument. 점수 330, 반응 65 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "score": 300,
+      "comments": 273,
+      "text": "",
+      "summary": "Apple's accidental moat: How the \"AI Loser\" may end up winning. 점수 300, 반응 273 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We have a 99% email reputation, but Gmail disagrees",
       "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-      "score": 269,
-      "comments": 241,
+      "score": 296,
+      "comments": 263,
       "text": "",
-      "summary": "We have a 99% email reputation, but Gmail disagrees. 점수 269, 반응 241 기준 인기 이슈입니다."
+      "summary": "We have a 99% email reputation, but Gmail disagrees. 점수 296, 반응 263 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The economics of software teams: Why most engineering orgs are flying blind",
+      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+      "score": 267,
+      "comments": 140,
+      "text": "",
+      "summary": "The economics of software teams: Why most engineering orgs are flying blind. 점수 267, 반응 140 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: What Are You Working On? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47741527",
+      "score": 264,
+      "comments": 859,
+      "text": "What are you working on?  Any new ideas that you&#x27;re thinking about?",
+      "summary": "Ask HN: What Are You Working On? What are you working on? Any new ideas that you&#x27;re thinking about? 점수 264, 반응 859 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
       "count": 7
+    },
+    {
+      "keyword": "any",
+      "count": 5
     },
     {
       "keyword": "but",
@@ -248,10 +252,6 @@
     {
       "keyword": "windows",
       "count": 5
-    },
-    {
-      "keyword": "any",
-      "count": 4
     },
     {
       "keyword": "platform",
@@ -267,6 +267,10 @@
     },
     {
       "keyword": "prompts",
+      "count": 4
+    },
+    {
+      "keyword": "most",
       "count": 4
     },
     {
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "web",
-      "count": 3
-    },
-    {
-      "keyword": "agent",
       "count": 3
     }
   ],
