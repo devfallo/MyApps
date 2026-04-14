@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T14:13:19.665185+00:00",
+  "updatedAt": "2026-04-14T15:41:27.757413+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,240 +10,244 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 357106,
-      "comments": 18543,
+      "score": 357165,
+      "comments": 18572,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 357106, 반응 18543 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 357165, 반응 18572 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 183994,
-      "comments": 1458,
+      "score": 184008,
+      "comments": 1459,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 183994, 반응 1458 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 184008, 반응 1459 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183422,
-      "comments": 403,
+      "score": 183424,
+      "comments": 401,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183422, 반응 403 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183424, 반응 401 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162363,
+      "score": 162365,
       "comments": 2479,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162363, 반응 2479 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162365, 반응 2479 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 159679,
+      "score": 159687,
       "comments": 45,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 159679, 반응 45 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 159687, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 137733,
-      "comments": 916,
+      "score": 137742,
+      "comments": 923,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 137733, 반응 916 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 137742, 반응 923 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 135155,
+      "score": 135161,
       "comments": 145,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135155, 반응 145 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135161, 반응 145 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 133528,
-      "comments": 527,
+      "score": 133533,
+      "comments": 528,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 133528, 반응 527 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 133533, 반응 528 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 131796,
-      "comments": 258,
+      "score": 131806,
+      "comments": 260,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 131796, 반응 258 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 131806, 반응 260 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 109328,
+      "score": 109329,
       "comments": 23,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109328, 반응 23 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109329, 반응 23 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 108900,
+      "score": 108924,
       "comments": 276,
       "text": "🔥 The Web Data API for AI - Power AI agents with clean web data",
-      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 108900, 반응 276 기준 인기 이슈입니다."
+      "summary": "🔥 The Web Data API for AI - Power AI agents with clean web data 점수 108924, 반응 276 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 108752,
-      "comments": 3974,
+      "score": 108764,
+      "comments": 3975,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108752, 반응 3974 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108764, 반응 3975 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 1055,
-      "comments": 300,
+      "score": 1083,
+      "comments": 305,
       "text": "",
-      "summary": "Someone bought 30 WordPress plugins and planted a backdoor in all of them. 점수 1055, 반응 300 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GitHub Stacked PRs",
-      "url": "https://github.github.com/gh-stack/",
-      "score": 793,
-      "comments": 429,
-      "text": "",
-      "summary": "GitHub Stacked PRs.  점수 793, 반응 429 기준 인기 이슈입니다."
+      "summary": "Someone bought 30 WordPress plugins and planted a backdoor in all of them. 점수 1083, 반응 305 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DaVinci Resolve – Photo",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 773,
-      "comments": 203,
+      "score": 851,
+      "comments": 220,
       "text": "",
-      "summary": "DaVinci Resolve – Photo. 점수 773, 반응 203 기준 인기 이슈입니다."
+      "summary": "DaVinci Resolve – Photo. 점수 851, 반응 220 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GitHub Stacked PRs",
+      "url": "https://github.github.com/gh-stack/",
+      "score": 822,
+      "comments": 452,
+      "text": "",
+      "summary": "GitHub Stacked PRs.  점수 822, 반응 452 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A new spam policy for “back button hijacking”",
       "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "score": 543,
-      "comments": 324,
+      "score": 616,
+      "comments": 359,
       "text": "",
-      "summary": "A new spam policy for “back button hijacking”. 점수 543, 반응 324 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 450,
-      "comments": 246,
-      "text": "",
-      "summary": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets. 점수 450, 반응 246 기준 인기 이슈입니다."
+      "summary": "A new spam policy for “back button hijacking”. 점수 616, 반응 359 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Backblaze has stopped backing up your data",
       "url": "https://rareese.com/posts/backblaze/",
-      "score": 425,
-      "comments": 273,
+      "score": 543,
+      "comments": 340,
       "text": "",
-      "summary": "Backblaze has stopped backing up your data. 점수 425, 반응 273 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-      "score": 420,
-      "comments": 284,
-      "text": "",
-      "summary": "US appeals court declares 158-year-old home distilling ban unconstitutional. 점수 420, 반응 284 기준 인기 이슈입니다."
+      "summary": "Backblaze has stopped backing up your data. 점수 543, 반응 340 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Make tmux pretty and usable (2024)",
       "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "score": 408,
-      "comments": 251,
+      "score": 417,
+      "comments": 254,
       "text": "",
-      "summary": "Make tmux pretty and usable (2024). 점수 408, 반응 251 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Android now stops you sharing your location in photos",
-      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-      "score": 399,
-      "comments": 309,
-      "text": "",
-      "summary": "Android now stops you sharing your location in photos. 점수 399, 반응 309 기준 인기 이슈입니다."
+      "summary": "Make tmux pretty and usable (2024). 점수 417, 반응 254 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Lean proved this program correct; then I found a bug",
       "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "score": 308,
-      "comments": 144,
+      "score": 325,
+      "comments": 152,
       "text": "",
-      "summary": "Lean proved this program correct; then I found a bug. 점수 308, 반응 144 기준 인기 이슈입니다."
+      "summary": "Lean proved this program correct; then I found a bug. 점수 325, 반응 152 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What is jj and why should I care?",
       "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
-      "score": 199,
-      "comments": 115,
+      "score": 306,
+      "comments": 240,
       "text": "",
-      "summary": "What is jj and why should I care?. 점수 199, 반응 115 기준 인기 이슈입니다."
+      "summary": "What is jj and why should I care?. 점수 306, 반응 240 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "WiiFin – Jellyfin Client for Nintendo Wii",
       "url": "https://github.com/fabienmillet/WiiFin",
-      "score": 199,
-      "comments": 91,
+      "score": 209,
+      "comments": 95,
       "text": "",
-      "summary": "WiiFin – Jellyfin Client for Nintendo Wii. 점수 199, 반응 91 기준 인기 이슈입니다."
+      "summary": "WiiFin – Jellyfin Client for Nintendo Wii. 점수 209, 반응 95 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Design and implementation of DuckDB internals",
       "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-      "score": 153,
+      "score": 158,
       "comments": 11,
       "text": "",
-      "summary": "Design and implementation of DuckDB internals. 점수 153, 반응 11 기준 인기 이슈입니다."
+      "summary": "Design and implementation of DuckDB internals. 점수 158, 반응 11 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Introspective Diffusion Language Models",
+      "url": "https://introspective-diffusion.github.io/",
+      "score": 143,
+      "comments": 34,
+      "text": "",
+      "summary": "Introspective Diffusion Language Models. 점수 143, 반응 34 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Write less code, be more responsible",
+      "url": "https://blog.orhun.dev/code-responsibly/",
+      "score": 137,
+      "comments": 87,
+      "text": "",
+      "summary": "Write less code, be more responsible. 점수 137, 반응 87 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Distributed DuckDB Instance",
+      "url": "https://github.com/citguru/openduck",
+      "score": 115,
+      "comments": 26,
+      "text": "",
+      "summary": "Distributed DuckDB Instance. 점수 115, 반응 26 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "code",
+      "count": 5
+    },
     {
       "keyword": "platform",
       "count": 4
     },
     {
-      "keyword": "code",
+      "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "prompts",
-      "count": 4
+      "keyword": "diffusion",
+      "count": 3
     },
     {
       "keyword": "web",
@@ -283,10 +287,6 @@
     },
     {
       "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "diffusion",
       "count": 2
     },
     {
