@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T11:16:33.909239+00:00",
+  "updatedAt": "2026-04-15T14:05:10.548580+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,82 +10,91 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 357808,
-      "comments": 18780,
+      "score": 357909,
+      "comments": 18839,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 357808, 반응 18780 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 357909, 반응 18839 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 184141,
-      "comments": 1459,
+      "score": 184167,
+      "comments": 1464,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 184141, 반응 1459 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 184167, 반응 1464 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183449,
-      "comments": 407,
+      "score": 183458,
+      "comments": 403,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183449, 반응 407 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183458, 반응 403 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162372,
+      "score": 162374,
       "comments": 2479,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162372, 반응 2479 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162374, 반응 2479 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 159774,
+      "score": 159789,
       "comments": 45,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 159774, 반응 45 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 159789, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 137847,
-      "comments": 933,
+      "score": 137861,
+      "comments": 935,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 137847, 반응 933 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 137861, 반응 935 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 135219,
+      "score": 135226,
       "comments": 145,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135219, 반응 145 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135226, 반응 145 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 133633,
+      "score": 133649,
       "comments": 529,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 133633, 반응 529 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 133649, 반응 529 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 131971,
-      "comments": 257,
+      "score": 131995,
+      "comments": 259,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 131971, 반응 257 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 131995, 반응 259 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 109421,
+      "comments": 280,
+      "text": "🔥 The API to search, scrape, and interact with the web for AI",
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 109421, 반응 280 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -98,147 +107,134 @@
     },
     {
       "source": "GitHub Repos",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "score": 109364,
-      "comments": 279,
-      "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 109364, 반응 279 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 108850,
-      "comments": 3978,
+      "score": 108871,
+      "comments": 3979,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108850, 반응 3978 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 108871, 반응 3979 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Stop Flock",
       "url": "https://stopflock.com",
-      "score": 708,
-      "comments": 184,
+      "score": 822,
+      "comments": 211,
       "text": "",
-      "summary": "Stop Flock.  점수 708, 반응 184 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tell HN: Fiverr left customer files public and searchable",
-      "url": "https://news.ycombinator.com/item?id=47769796",
-      "score": 687,
-      "comments": 173,
-      "text": "Fiverr (gig work&#x2F;task platform, competitor to Upwork) uses a service called Cloudinary to process PDF&#x2F;images in messaging, including work products from the worker to client.<p>Besides the PDF processing value add, Cloudinary effectively acts like S3 here, serving assets directly to the web client. Like S3, it has support for signed&#x2F;expiring URLs. However, Fiverr opted to use public URLs, not signed ones, for sensitive client-worker communication.<p>Moreover, it seems like they may be serving public HTML somewhere that links to these files. As a result, hundreds are in Google search results, many containing PII.<p>Example query: site:fiverr-res.cloudinary.com form 1040<p>In fact, Fiverr actively buys Google Ads for keywords like &quot;form 1234 filing&quot; despite knowing that it does not adequately secure the resulting work product, causing the preparer to violate the GLBA&#x2F;FTC Safeguards Rule.<p>Responsible Disclosure Note -- 40 days have passed since this was notified to the designated vulnerability email (security@fiverr.com). The security team did not reply. Therefore, this is being made public as it doesn&#x27;t seem eligible for CVE&#x2F;CERT processing as it is not really a code vulnerability, and I don&#x27;t know anyone else who would care about it.",
-      "summary": "Tell HN: Fiverr left customer files public and searchable. Fiverr (gig work&#x2F;task platform, competitor to Upwork) uses a service called Cloudinary to process PDF&#x2F;images in messaging, including work products from the worker to client. Besides the PDF processing value add, Cloudinary effectively acts like S3 here, serving assets directly to the web client. 점수 687, 반응 173 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Rare concert recordings are landing on the Internet Archive",
-      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "score": 656,
-      "comments": 189,
-      "text": "",
-      "summary": "Rare concert recordings are landing on the Internet Archive. 점수 656, 반응 189 기준 인기 이슈입니다."
+      "summary": "Stop Flock.  점수 822, 반응 211 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Code Routines",
       "url": "https://code.claude.com/docs/en/routines",
-      "score": 631,
-      "comments": 361,
+      "score": 673,
+      "comments": 377,
       "text": "",
-      "summary": "Claude Code Routines. 점수 631, 반응 361 기준 인기 이슈입니다."
+      "summary": "Claude Code Routines. 점수 673, 반응 377 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The dangers of California's legislation to censor 3D printing",
-      "url": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
-      "score": 414,
-      "comments": 372,
+      "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+      "url": "https://prog21.dadgum.com/30.html",
+      "score": 234,
+      "comments": 68,
       "text": "",
-      "summary": "The dangers of California's legislation to censor 3D printing. 점수 414, 반응 372 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Orange Pi 6 Plus",
-      "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
-      "score": 197,
-      "comments": 166,
-      "text": "",
-      "summary": "The Orange Pi 6 Plus. 점수 197, 반응 166 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Let's talk space toilets",
-      "url": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
-      "score": 188,
-      "comments": 52,
-      "text": "",
-      "summary": "Let's talk space toilets. 점수 188, 반응 52 기준 인기 이슈입니다."
+      "summary": "Want to Write a Compiler? Just Read These Two Papers (2008). 점수 234, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A communist Apple II and fourteen years of not knowing what you're testing",
       "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
-      "score": 182,
-      "comments": 76,
+      "score": 206,
+      "comments": 92,
       "text": "",
-      "summary": "A communist Apple II and fourteen years of not knowing what you're testing. 점수 182, 반응 76 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "5NF and Database Design",
-      "url": "https://kb.databasedesignbook.com/posts/5nf/",
-      "score": 171,
-      "comments": 63,
-      "text": "",
-      "summary": "5NF and Database Design. 점수 171, 반응 63 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-      "score": 168,
-      "comments": 84,
-      "text": "",
-      "summary": "Turn your best AI prompts into one-click tools in Chrome. 점수 168, 반응 84 기준 인기 이슈입니다."
+      "summary": "A communist Apple II and fourteen years of not knowing what you're testing. 점수 206, 반응 92 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Fixing a 20-year-old bug in Enlightenment E16",
       "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
-      "score": 158,
-      "comments": 56,
+      "score": 199,
+      "comments": 88,
       "text": "",
-      "summary": "Fixing a 20-year-old bug in Enlightenment E16. 점수 158, 반응 56 기준 인기 이슈입니다."
+      "summary": "Fixing a 20-year-old bug in Enlightenment E16. 점수 199, 반응 88 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "5NF and Database Design",
+      "url": "https://kb.databasedesignbook.com/posts/5nf/",
+      "score": 182,
+      "comments": 69,
+      "text": "",
+      "summary": "5NF and Database Design. 점수 182, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "score": 181,
+      "comments": 100,
+      "text": "",
+      "summary": "Turn your best AI prompts into one-click tools in Chrome. 점수 181, 반응 100 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Picasso’s Guernica (Gigapixel)",
       "url": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
-      "score": 147,
-      "comments": 48,
+      "score": 174,
+      "comments": 64,
       "text": "",
-      "summary": "Picasso’s Guernica (Gigapixel). 점수 147, 반응 48 기준 인기 이슈입니다."
+      "summary": "Picasso’s Guernica (Gigapixel). 점수 174, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Dependency cooldowns turn you into a free-rider",
-      "url": "https://calpaterson.com/deps.html",
-      "score": 125,
-      "comments": 85,
+      "title": "Good Sleep, Good Learning (2012)",
+      "url": "https://super-memory.com/articles/sleep.htm",
+      "score": 169,
+      "comments": 75,
       "text": "",
-      "summary": "Dependency cooldowns turn you into a free-rider. 점수 125, 반응 85 기준 인기 이슈입니다."
+      "summary": "Good Sleep, Good Learning (2012). 점수 169, 반응 75 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Wacli – WhatsApp CLI: sync, search, send",
+      "url": "https://github.com/steipete/wacli",
+      "score": 155,
+      "comments": 113,
+      "text": "",
+      "summary": "Wacli – WhatsApp CLI: sync, search, send. 점수 155, 반응 113 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+      "score": 132,
+      "comments": 92,
+      "text": "",
+      "summary": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference. 점수 132, 반응 92 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
+      "url": "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows",
+      "score": 114,
+      "comments": 65,
+      "text": "",
+      "summary": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared. 점수 114, 반응 65 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
+      "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
+      "score": 73,
+      "comments": 27,
+      "text": "",
+      "summary": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis. 점수 73, 반응 27 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "code",
-      "count": 6
-    },
-    {
-      "keyword": "platform",
       "count": 5
     },
     {
@@ -246,43 +242,15 @@
       "count": 5
     },
     {
-      "keyword": "fiverr",
-      "count": 5
-    },
-    {
-      "keyword": "x2f",
-      "count": 5
-    },
-    {
-      "keyword": "not",
-      "count": 5
-    },
-    {
-      "keyword": "public",
+      "keyword": "platform",
       "count": 4
     },
     {
-      "keyword": "like",
+      "keyword": "api",
       "count": 4
     },
     {
       "keyword": "tools",
-      "count": 3
-    },
-    {
-      "keyword": "web",
-      "count": 3
-    },
-    {
-      "keyword": "api",
-      "count": 3
-    },
-    {
-      "keyword": "work",
-      "count": 3
-    },
-    {
-      "keyword": "cloudinary",
       "count": 3
     },
     {
@@ -291,6 +259,38 @@
     },
     {
       "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "building",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "diffusion",
+      "count": 2
+    },
+    {
+      "keyword": "web",
+      "count": 2
+    },
+    {
+      "keyword": "open",
+      "count": 2
+    },
+    {
+      "keyword": "full",
       "count": 2
     }
   ],
