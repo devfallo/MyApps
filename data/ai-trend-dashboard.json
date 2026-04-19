@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T16:57:50.123315+00:00",
+  "updatedAt": "2026-04-19T19:09:05.350423+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,232 +10,236 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 360446,
-      "comments": 19249,
+      "score": 360505,
+      "comments": 19284,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 360446, 반응 19249 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 360505, 반응 19284 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 184705,
-      "comments": 1518,
+      "score": 184722,
+      "comments": 1519,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 184705, 반응 1518 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 184722, 반응 1519 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183558,
+      "score": 183566,
       "comments": 395,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183558, 반응 395 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183566, 반응 395 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162467,
+      "score": 162469,
       "comments": 2481,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162467, 반응 2481 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162469, 반응 2481 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 160101,
+      "score": 160110,
       "comments": 45,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160101, 반응 45 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160110, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 138312,
+      "score": 138320,
       "comments": 898,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 138312, 반응 898 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 138320, 반응 898 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 135537,
+      "score": 135538,
       "comments": 146,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135537, 반응 146 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135538, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 134065,
-      "comments": 537,
+      "score": 134073,
+      "comments": 534,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134065, 반응 537 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134073, 반응 534 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 132654,
+      "score": 132668,
       "comments": 233,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 132654, 반응 233 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 132668, 반응 233 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 110769,
+      "score": 110789,
       "comments": 281,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 110769, 반응 281 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 110789, 반응 281 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 109513,
+      "score": 109517,
       "comments": 26,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109513, 반응 26 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109517, 반응 26 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 109272,
+      "score": 109279,
       "comments": 4007,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109272, 반응 4007 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109279, 반응 4007 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
       "url": "https://tokens.billchambers.me/leaderboard",
-      "score": 582,
-      "comments": 547,
+      "score": 589,
+      "comments": 554,
       "text": "",
-      "summary": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7. 점수 582, 반응 547 기준 인기 이슈입니다."
+      "summary": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7. 점수 589, 반응 554 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Why Japan has such good railways",
       "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "score": 490,
-      "comments": 457,
+      "score": 513,
+      "comments": 477,
       "text": "",
-      "summary": "Why Japan has such good railways. 점수 490, 반응 457 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "College instructor turns to typewriters to curb AI-written work",
-      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "score": 387,
-      "comments": 355,
-      "text": "",
-      "summary": "College instructor turns to typewriters to curb AI-written work. 점수 387, 반응 355 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "score": 386,
-      "comments": 99,
-      "text": "",
-      "summary": "The electromechanical angle computer inside the B-52 bomber's star tracker. 점수 386, 반응 99 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "NIST scientists create 'any wavelength' lasers",
-      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "score": 380,
-      "comments": 160,
-      "text": "",
-      "summary": "NIST scientists create 'any wavelength' lasers. 점수 380, 반응 160 기준 인기 이슈입니다."
+      "summary": "Why Japan has such good railways. 점수 513, 반응 477 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Archive of Byte magazine, starting with issue #1 in 1975",
       "url": "https://archive.org/details/byte-magazine-1975-09",
-      "score": 366,
-      "comments": 93,
+      "score": 447,
+      "comments": 111,
       "text": "",
-      "summary": "Archive of Byte magazine, starting with issue #1 in 1975. 점수 366, 반응 93 기준 인기 이슈입니다."
+      "summary": "Archive of Byte magazine, starting with issue #1 in 1975. 점수 447, 반응 111 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "score": 419,
+      "comments": 377,
+      "text": "",
+      "summary": "College instructor turns to typewriters to curb AI-written work. 점수 419, 반응 377 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+      "score": 395,
+      "comments": 100,
+      "text": "",
+      "summary": "The electromechanical angle computer inside the B-52 bomber's star tracker. 점수 395, 반응 100 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "NIST scientists create 'any wavelength' lasers",
+      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+      "score": 389,
+      "comments": 173,
+      "text": "",
+      "summary": "NIST scientists create 'any wavelength' lasers. 점수 389, 반응 173 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Game devs explain the tricks involved with letting you pause a game",
       "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "score": 293,
-      "comments": 171,
+      "score": 347,
+      "comments": 191,
       "text": "",
-      "summary": "Game devs explain the tricks involved with letting you pause a game. 점수 293, 반응 171 기준 인기 이슈입니다."
+      "summary": "Game devs explain the tricks involved with letting you pause a game. 점수 347, 반응 191 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Vercel Says Internal Systems Hit in Breach",
+      "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
+      "score": 297,
+      "comments": 66,
+      "text": "",
+      "summary": "Vercel Says Internal Systems Hit in Breach. 점수 297, 반응 66 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What are skiplists good for?",
       "url": "https://antithesis.com/blog/2026/skiptrees/",
-      "score": 202,
-      "comments": 40,
+      "score": 227,
+      "comments": 47,
       "text": "",
-      "summary": "What are skiplists good for?. 점수 202, 반응 40 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Vercel April 2026 security incident",
-      "url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
-      "score": 191,
-      "comments": 72,
-      "text": "",
-      "summary": "Vercel April 2026 security incident. 점수 191, 반응 72 기준 인기 이슈입니다."
+      "summary": "What are skiplists good for?. 점수 227, 반응 47 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
       "url": "https://news.ycombinator.com/item?id=47822940",
-      "score": 166,
-      "comments": 72,
+      "score": 204,
+      "comments": 94,
       "text": "I’ve spent roughly the last decade and some change as a software engineer, and recently decided to start a solo consultancy.<p>I’m focused on helping SMEs sort out the messy back-office parts of the business: spreadsheet glue, brittle internal workflows, poor reporting, awkward integrations, backend&#x2F;platform problems, and AI workflows that need to do real work rather than just look good in a demo.<p>I’m not really interested in becoming a generic agency. I’d rather work with businesses that already feel operational pain and need someone technical to help untangle it properly.<p>For those of you who’ve made this jump:<p>* how did you get your first real project?\n* what kind of outreach actually worked?\n* did your first few clients come from network, content, cold outreach, partnerships, subcontracting, or somewhere else?<p>Also, if anyone knows SMEs or operators dealing with this sort of mess, I’d be glad to chat.<p>As a gesture of goodwill, I’m offering the first 5 clients 10 hours free to help get an initial project moving.<p>You can find me over at https:&#x2F;&#x2F;crescita.cc",
-      "summary": "Ask HN: How did you land your first projects as a solo engineer/consultant?. I’ve spent roughly the last decade and some change as a software engineer, and recently decided to start a solo consultancy. I’m focused on helping SMEs sort out the messy back-office parts of the business: spreadsheet glue, brittle internal workflows, poor reporting, awkward integrations, backend&#x2F;platform problems, and AI workflows that need to do real work rather than just look good in a demo. 점수 166, 반응 72 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
-      "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
-      "score": 163,
-      "comments": 102,
-      "text": "",
-      "summary": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group. 점수 163, 반응 102 기준 인기 이슈입니다."
+      "summary": "Ask HN: How did you land your first projects as a solo engineer/consultant?. I’ve spent roughly the last decade and some change as a software engineer, and recently decided to start a solo consultancy. I’m focused on helping SMEs sort out the messy back-office parts of the business: spreadsheet glue, brittle internal workflows, poor reporting, awkward integrations, backend&#x2F;platform problems, and AI workflows that need to do real work rather than just look good in a demo. 점수 204, 반응 94 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The seven programming ur-languages (2022)",
       "url": "https://madhadron.com/programming/seven_ur_languages.html",
-      "score": 157,
-      "comments": 52,
+      "score": 202,
+      "comments": 80,
       "text": "",
-      "summary": "The seven programming ur-languages (2022). 점수 157, 반응 52 기준 인기 이슈입니다."
+      "summary": "The seven programming ur-languages (2022). 점수 202, 반응 80 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Notion leaks email addresses of all editors of any public page",
+      "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+      "score": 180,
+      "comments": 53,
+      "text": "",
+      "summary": "Notion leaks email addresses of all editors of any public page. 점수 180, 반응 53 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The world in which IPv6 was a good design (2017)",
       "url": "https://apenwarr.ca/log/20170810",
-      "score": 151,
-      "comments": 48,
+      "score": 168,
+      "comments": 65,
       "text": "",
-      "summary": "The world in which IPv6 was a good design (2017). 점수 151, 반응 48 기준 인기 이슈입니다."
+      "summary": "The world in which IPv6 was a good design (2017). 점수 168, 반응 65 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "platform",
       "count": 5
+    },
+    {
+      "keyword": "any",
+      "count": 4
     },
     {
       "keyword": "code",
@@ -254,7 +258,7 @@
       "count": 4
     },
     {
-      "keyword": "any",
+      "keyword": "internal",
       "count": 3
     },
     {
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
       "count": 2
     }
   ],
