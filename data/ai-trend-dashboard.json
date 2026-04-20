@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T11:42:08.485787+00:00",
+  "updatedAt": "2026-04-20T14:12:46.802093+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,240 +10,232 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 360919,
-      "comments": 19216,
+      "score": 360996,
+      "comments": 19246,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 360919, 반응 19216 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 360996, 반응 19246 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 184817,
-      "comments": 1512,
+      "score": 184831,
+      "comments": 1531,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 184817, 반응 1512 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 184831, 반응 1531 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183592,
-      "comments": 396,
+      "score": 183602,
+      "comments": 395,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183592, 반응 396 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183602, 반응 395 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162489,
-      "comments": 2482,
+      "score": 162491,
+      "comments": 2484,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162489, 반응 2482 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162491, 반응 2484 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 160175,
+      "score": 160189,
       "comments": 41,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160175, 반응 41 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160189, 반응 41 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 138444,
-      "comments": 888,
+      "score": 138465,
+      "comments": 884,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 138444, 반응 888 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 138465, 반응 884 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 135598,
+      "score": 135618,
       "comments": 146,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135598, 반응 146 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135618, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 134163,
-      "comments": 535,
+      "score": 134178,
+      "comments": 536,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134163, 반응 535 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134178, 반응 536 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 132775,
-      "comments": 223,
+      "score": 132796,
+      "comments": 224,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 132775, 반응 223 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 132796, 반응 224 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 110987,
-      "comments": 281,
+      "score": 111019,
+      "comments": 282,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 110987, 반응 281 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 111019, 반응 282 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 109540,
-      "comments": 23,
+      "score": 109543,
+      "comments": 21,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109540, 반응 23 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109543, 반응 21 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 109357,
-      "comments": 3998,
+      "score": 109373,
+      "comments": 3999,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109357, 반응 3998 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109373, 반응 3999 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Vercel April 2026 security incident",
       "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "score": 764,
-      "comments": 436,
+      "score": 806,
+      "comments": 463,
       "text": "<a href=\"https:&#x2F;&#x2F;vercel.com&#x2F;kb&#x2F;bulletin&#x2F;vercel-april-2026-security-incident\" rel=\"nofollow\">https:&#x2F;&#x2F;vercel.com&#x2F;kb&#x2F;bulletin&#x2F;vercel-april-2026-security-in...</a>",
-      "summary": "Vercel April 2026 security incident. https:&#x2F;&#x2F;vercel.com&#x2F;kb&#x2F;bulletin&#x2F;vercel-april-2026-security-in... 점수 764, 반응 436 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-      "score": 332,
-      "comments": 185,
-      "text": "",
-      "summary": "Changes in the system prompt between Claude Opus 4.6 and 4.7. 점수 332, 반응 185 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Stop trying to engineer your way out of listening to people",
-      "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-      "score": 261,
-      "comments": 116,
-      "text": "",
-      "summary": "Stop trying to engineer your way out of listening to people. 점수 261, 반응 116 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
-      "score": 252,
-      "comments": 221,
-      "text": "",
-      "summary": "Turtle WoW classic server announces shutdown after Blizzard wins injunction. 점수 252, 반응 221 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "2,100 Swiss municipalities showing which provider handles their official email",
-      "url": "https://mxmap.ch/",
-      "score": 203,
-      "comments": 61,
-      "text": "Related ongoing thread: <i>Swiss authorities want to reduce dependency on Microsoft</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47827383\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47827383</a>",
-      "summary": "2,100 Swiss municipalities showing which provider handles their official email. Related ongoing thread: Swiss authorities want to reduce dependency on Microsoft - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47827383 점수 203, 반응 61 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Bromine Chokepoint",
-      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-      "score": 201,
-      "comments": 116,
-      "text": "",
-      "summary": "The Bromine Chokepoint. 점수 201, 반응 116 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Brief History of Fish Sauce",
-      "url": "https://www.legalnomads.com/fish-sauce/",
-      "score": 188,
-      "comments": 78,
-      "text": "",
-      "summary": "A Brief History of Fish Sauce. 점수 188, 반응 78 기준 인기 이슈입니다."
+      "summary": "Vercel April 2026 security incident. https:&#x2F;&#x2F;vercel.com&#x2F;kb&#x2F;bulletin&#x2F;vercel-april-2026-security-in... 점수 806, 반응 463 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GitHub's Fake Star Economy",
       "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "score": 182,
-      "comments": 111,
+      "score": 364,
+      "comments": 224,
       "text": "",
-      "summary": "GitHub's Fake Star Economy. 점수 182, 반응 111 기준 인기 이슈입니다."
+      "summary": "GitHub's Fake Star Economy. 점수 364, 반응 224 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
-      "url": "https://github.com/shivampkumar/trellis-mac",
-      "score": 173,
-      "comments": 29,
-      "text": "I ported Microsoft&#x27;s TRELLIS.2 (4B parameter image-to-3D model) to run on Apple Silicon via PyTorch MPS. The original requires CUDA with flash_attn, nvdiffrast, and custom sparse convolution kernels:  none of which work on Mac.<p>I replaced the CUDA-specific ops with pure-PyTorch alternatives: a gather-scatter sparse 3D convolution, SDPA attention for sparse transformers, and a Python-based mesh extraction replacing CUDA hashmap operations. Total changes are a few hundred lines across 9 files.<p>Generates ~400K vertex meshes from single photos in about 3.5 minutes on M4 Pro (24GB). Not as fast as H100 (where it takes seconds), but it works offline with no cloud dependency.<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;shivampkumar&#x2F;trellis-mac\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;shivampkumar&#x2F;trellis-mac</a>",
-      "summary": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon. I ported Microsoft&#x27;s TRELLIS.2 (4B parameter image-to-3D model) to run on Apple Silicon via PyTorch MPS. The original requires CUDA with flash_attn, nvdiffrast, and custom sparse convolution kernels: none of which work on Mac. 점수 173, 반응 29 기준 인기 이슈입니다."
+      "title": "Stop trying to engineer your way out of listening to people",
+      "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+      "score": 317,
+      "comments": 162,
+      "text": "",
+      "summary": "Stop trying to engineer your way out of listening to people. 점수 317, 반응 162 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+      "score": 276,
+      "comments": 243,
+      "text": "",
+      "summary": "Turtle WoW classic server announces shutdown after Blizzard wins injunction. 점수 276, 반응 243 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Bromine Chokepoint",
+      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+      "score": 209,
+      "comments": 123,
+      "text": "",
+      "summary": "The Bromine Chokepoint. 점수 209, 반응 123 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "NSA is using Anthropic's Mythos despite blacklist",
+      "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
+      "score": 208,
+      "comments": 165,
+      "text": "",
+      "summary": "NSA is using Anthropic's Mythos despite blacklist. 점수 208, 반응 165 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Brief History of Fish Sauce",
+      "url": "https://www.legalnomads.com/fish-sauce/",
+      "score": 197,
+      "comments": 84,
+      "text": "",
+      "summary": "A Brief History of Fish Sauce. 점수 197, 반응 84 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mechanical Keyboard Sounds – A listening Museum",
       "url": "https://sheets.works/data-viz/keyboard-sounds",
-      "score": 141,
-      "comments": 41,
+      "score": 164,
+      "comments": 49,
       "text": "",
-      "summary": "Mechanical Keyboard Sounds – A listening Museum. 점수 141, 반응 41 기준 인기 이슈입니다."
+      "summary": "Mechanical Keyboard Sounds – A listening Museum. 점수 164, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Token Counter, now with model comparisons",
       "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-      "score": 128,
-      "comments": 48,
+      "score": 161,
+      "comments": 62,
       "text": "",
-      "summary": "Claude Token Counter, now with model comparisons. 점수 128, 반응 48 기준 인기 이슈입니다."
+      "summary": "Claude Token Counter, now with model comparisons. 점수 161, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Scientific datasets are riddled with copy-paste errors",
-      "url": "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/",
+      "title": "I Made the \"Next-Level\" Camera and I love it",
+      "url": "https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/",
+      "score": 125,
+      "comments": 25,
+      "text": "",
+      "summary": "I Made the \"Next-Level\" Camera and I love it. 점수 125, 반응 25 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "IEA: Solar overtakes all energy sources in a major global first",
+      "url": "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/",
+      "score": 120,
+      "comments": 80,
+      "text": "",
+      "summary": "IEA: Solar overtakes all energy sources in a major global first. 점수 120, 반응 80 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+      "score": 119,
+      "comments": 51,
+      "text": "",
+      "summary": "M 7.4 earthquake – 100 km ENE of Miyako, Japan. 점수 119, 반응 51 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "SDF Public Access Unix System",
+      "url": "https://sdf.org/?ssh",
       "score": 118,
-      "comments": 28,
+      "comments": 52,
       "text": "",
-      "summary": "Scientific datasets are riddled with copy-paste errors. 점수 118, 반응 28 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-      "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
-      "score": 116,
-      "comments": 114,
-      "text": "",
-      "summary": "OpenClaw isn't fooling me. 점수 116, 반응 114 기준 인기 이슈입니다."
+      "summary": "SDF Public Access Unix System. 점수 118, 반응 52 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 24
-    },
-    {
-      "keyword": "https",
-      "count": 6
-    },
-    {
-      "keyword": "com",
-      "count": 6
+      "count": 10
     },
     {
       "keyword": "platform",
@@ -258,23 +250,7 @@
       "count": 4
     },
     {
-      "keyword": "openclaw",
-      "count": 3
-    },
-    {
-      "keyword": "claude",
-      "count": 3
-    },
-    {
       "keyword": "api",
-      "count": 3
-    },
-    {
-      "keyword": "microsoft",
-      "count": 3
-    },
-    {
-      "keyword": "model",
       "count": 3
     },
     {
@@ -282,16 +258,40 @@
       "count": 3
     },
     {
-      "keyword": "href",
-      "count": 3
+      "keyword": "openclaw",
+      "count": 2
     },
     {
-      "keyword": "github",
-      "count": 3
+      "keyword": "any",
+      "count": 2
     },
     {
-      "keyword": "sparse",
-      "count": 3
+      "keyword": "way",
+      "count": 2
+    },
+    {
+      "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "building",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "diffusion",
+      "count": 2
     }
   ],
   "meta": {
