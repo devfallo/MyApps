@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T14:08:16.706550+00:00",
+  "updatedAt": "2026-04-21T15:42:53.059348+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 361665,
-      "comments": 19214,
+      "score": 361713,
+      "comments": 19232,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 361665, 반응 19214 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 361713, 반응 19232 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 184969,
-      "comments": 1535,
+      "score": 184982,
+      "comments": 1542,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 184969, 반응 1535 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 184982, 반응 1542 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183630,
-      "comments": 395,
+      "score": 183634,
+      "comments": 396,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183630, 반응 395 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183634, 반응 396 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,193 +46,197 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 160283,
+      "score": 160293,
       "comments": 41,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160283, 반응 41 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160293, 반응 41 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 138627,
-      "comments": 862,
+      "score": 138636,
+      "comments": 863,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 138627, 반응 862 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 138636, 반응 863 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 135697,
-      "comments": 146,
+      "score": 135702,
+      "comments": 137,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135697, 반응 146 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135702, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 134349,
-      "comments": 538,
+      "score": 134355,
+      "comments": 537,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134349, 반응 538 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134355, 반응 537 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 132969,
-      "comments": 233,
+      "score": 132997,
+      "comments": 242,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 132969, 반응 233 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 132997, 반응 242 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 111267,
+      "score": 111289,
       "comments": 284,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 111267, 반응 284 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 111289, 반응 284 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 109599,
+      "score": 109602,
       "comments": 0,
       "text": "21 Lessons, Get Started Building with Generative AI ",
-      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109599, 반응 0 기준 인기 이슈입니다."
+      "summary": "microsoft/generative-ai-for-beginners. 21 Lessons, Get Started Building with Generative AI 점수 109602, 반응 0 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 109497,
-      "comments": 3987,
+      "score": 109507,
+      "comments": 3986,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109497, 반응 3987 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109507, 반응 3986 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "John Ternus to become Apple CEO",
       "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "score": 2018,
-      "comments": 1132,
+      "score": 2078,
+      "comments": 1176,
       "text": "",
-      "summary": "John Ternus to become Apple CEO. 점수 2018, 반응 1132 기준 인기 이슈입니다."
+      "summary": "John Ternus to become Apple CEO. 점수 2078, 반응 1176 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "score": 655,
-      "comments": 351,
+      "score": 667,
+      "comments": 359,
       "text": "",
-      "summary": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving. 점수 655, 반응 351 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "ggsql: A Grammar of Graphics for SQL",
-      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "score": 434,
-      "comments": 80,
-      "text": "",
-      "summary": "ggsql: A Grammar of Graphics for SQL. 점수 434, 반응 80 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "url": "https://docs.openclaw.ai/providers/anthropic",
-      "score": 307,
-      "comments": 190,
-      "text": "",
-      "summary": "Anthropic says OpenClaw-style Claude CLI usage is allowed again. 점수 307, 반응 190 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kimi vendor verifier – verify accuracy of inference providers",
-      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
-      "score": 284,
-      "comments": 26,
-      "text": "",
-      "summary": "Kimi vendor verifier – verify accuracy of inference providers. 점수 284, 반응 26 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
-      "url": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
-      "score": 271,
-      "comments": 173,
-      "text": "",
-      "summary": "Brussels launched an age checking app. Hackers took 2 minutes to break it. 점수 271, 반응 173 기준 인기 이슈입니다."
+      "summary": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving. 점수 667, 반응 359 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Laws of Software Engineering",
       "url": "https://lawsofsoftwareengineering.com",
-      "score": 238,
-      "comments": 99,
+      "score": 396,
+      "comments": 197,
       "text": "",
-      "summary": "Laws of Software Engineering. 점수 238, 반응 99 기준 인기 이슈입니다."
+      "summary": "Laws of Software Engineering. 점수 396, 반응 197 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "url": "https://docs.openclaw.ai/providers/anthropic",
+      "score": 356,
+      "comments": 210,
+      "text": "",
+      "summary": "Anthropic says OpenClaw-style Claude CLI usage is allowed again. 점수 356, 반응 210 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
       "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "score": 227,
-      "comments": 123,
+      "score": 251,
+      "comments": 139,
       "text": "",
-      "summary": "A Roblox cheat and one AI tool brought down Vercel's platform. 점수 227, 반응 123 기준 인기 이슈입니다."
+      "summary": "A Roblox cheat and one AI tool brought down Vercel's platform. 점수 251, 반응 139 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How to make a fast dynamic language interpreter",
       "url": "https://zef-lang.dev/implementation",
-      "score": 210,
-      "comments": 39,
+      "score": 223,
+      "comments": 41,
       "text": "",
-      "summary": "How to make a fast dynamic language interpreter. 점수 210, 반응 39 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "url": "https://prismml.com/news/ternary-bonsai",
-      "score": 193,
-      "comments": 52,
-      "text": "",
-      "summary": "Ternary Bonsai: Top Intelligence at 1.58 Bits. 점수 193, 반응 52 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Air is full of DNA",
-      "url": "https://www.nature.com/articles/d41586-026-01099-2",
-      "score": 136,
-      "comments": 44,
-      "text": "",
-      "summary": "Air is full of DNA.  점수 136, 반응 44 기준 인기 이슈입니다."
+      "summary": "How to make a fast dynamic language interpreter. 점수 223, 반응 41 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
       "url": "http://mnt.stanleylieber.com/reform/",
-      "score": 133,
-      "comments": 54,
+      "score": 169,
+      "comments": 68,
       "text": "",
-      "summary": "MNT Reform is an open hardware laptop, designed and assembled in Germany. 점수 133, 반응 54 기준 인기 이슈입니다."
+      "summary": "MNT Reform is an open hardware laptop, designed and assembled in Germany. 점수 169, 반응 68 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
+      "url": "https://fsfe.org/news/2026/news-20260420-01.html",
+      "score": 158,
+      "comments": 28,
+      "text": "",
+      "summary": "Apple ignores DMA interoperability requests and contradicts own documentation. 점수 158, 반응 28 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Air is full of DNA",
+      "url": "https://www.nature.com/articles/d41586-026-01099-2",
+      "score": 153,
+      "comments": 49,
+      "text": "",
+      "summary": "Air is full of DNA.  점수 153, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Beauty of Bonsai Styles",
       "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "score": 133,
-      "comments": 24,
+      "score": 151,
+      "comments": 27,
       "text": "",
-      "summary": "The Beauty of Bonsai Styles. 점수 133, 반응 24 기준 인기 이슈입니다."
+      "summary": "The Beauty of Bonsai Styles. 점수 151, 반응 27 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "url": "https://vidstudio.app/video-editor",
+      "score": 139,
+      "comments": 54,
+      "text": "Hi HN,\nI built VidStudio, a privacy focused video editor that runs in the browser. I tried to keep it as frictionless as possible, so there are no accounts and no uploads. Everything is persisted on your\nmachine.<p>Some of the features: multi-track timeline, frame accurate seek, MP4 export, audio, video, image, and text tracks, and a WebGL backed canvas where available. It also works on mobile.<p>Under the hood, WebCodecs handles frame decode for timeline playback and scrubbing, which is what makes seeking responsive since decode runs on the hardware decoder when the browser supports it.\nFFmpeg compiled to WebAssembly handles final encode, format conversion, and anything WebCodecs does not cover. Rendering goes through Pixi.js on a WebGL canvas, with a software fallback when WebGL is\nnot available. Projects live in IndexedDB and the heavy work runs in Web Workers so the UI stays responsive during exports.<p>Happy to answer technical questions about the tradeoffs involved in keeping the whole pipeline client-side. Any feedback welcome.<p>Link: <a href=\"https:&#x2F;&#x2F;vidstudio.app&#x2F;video-editor\" rel=\"nofollow\">https:&#x2F;&#x2F;vidstudio.app&#x2F;video-editor</a>",
+      "summary": "Show HN: VidStudio, a browser based video editor that doesn't upload your files. Hi HN, I built VidStudio, a privacy focused video editor that runs in the browser. I tried to keep it as frictionless as possible, so there are no accounts and no uploads. 점수 139, 반응 54 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tim Cook's Impeccable Timing",
+      "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
+      "score": 118,
+      "comments": 162,
+      "text": "",
+      "summary": "Tim Cook's Impeccable Timing. 점수 118, 반응 162 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "score": 101,
+      "comments": 101,
+      "text": "",
+      "summary": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return. 점수 101, 반응 101 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 6
+    },
     {
       "keyword": "platform",
       "count": 5
@@ -246,7 +250,23 @@
       "count": 4
     },
     {
+      "keyword": "vidstudio",
+      "count": 4
+    },
+    {
+      "keyword": "any",
+      "count": 3
+    },
+    {
+      "keyword": "web",
+      "count": 3
+    },
+    {
       "keyword": "open",
+      "count": 3
+    },
+    {
+      "keyword": "app",
       "count": 3
     },
     {
@@ -254,43 +274,23 @@
       "count": 3
     },
     {
+      "keyword": "browser",
+      "count": 3
+    },
+    {
+      "keyword": "video",
+      "count": 3
+    },
+    {
+      "keyword": "runs",
+      "count": 3
+    },
+    {
+      "keyword": "webgl",
+      "count": 3
+    },
+    {
       "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "diffusion",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "full",
       "count": 2
     }
   ],
