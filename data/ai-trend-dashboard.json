@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T19:40:47.855834+00:00",
+  "updatedAt": "2026-04-23T21:07:22.327121+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 362885,
+      "score": 362909,
       "comments": 19143,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 362885, 반응 19143 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 362909, 반응 19143 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 185315,
-      "comments": 1554,
+      "score": 185326,
+      "comments": 1561,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185315, 반응 1554 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185326, 반응 1561 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183689,
-      "comments": 395,
+      "score": 183693,
+      "comments": 397,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183689, 반응 395 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183693, 반응 397 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,197 +46,193 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 160473,
+      "score": 160476,
       "comments": 40,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160473, 반응 40 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160476, 반응 40 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 138908,
+      "score": 138912,
       "comments": 873,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 138908, 반응 873 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 138912, 반응 873 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 135872,
+      "score": 135878,
       "comments": 138,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135872, 반응 138 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135878, 반응 138 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 134662,
-      "comments": 548,
+      "score": 134667,
+      "comments": 545,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134662, 반응 548 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134667, 반응 545 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 133670,
-      "comments": 312,
+      "score": 133687,
+      "comments": 314,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 133670, 반응 312 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 133687, 반응 314 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 112894,
-      "comments": 6496,
+      "score": 112978,
+      "comments": 6512,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 112894, 반응 6496 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 112978, 반응 6512 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 111803,
-      "comments": 290,
+      "score": 111810,
+      "comments": 289,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 111803, 반응 290 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 111810, 반응 289 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 109813,
+      "score": 109817,
       "comments": 3977,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109813, 반응 3977 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109817, 반응 3977 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 2080,
-      "comments": 712,
+      "score": 2102,
+      "comments": 719,
       "text": "",
-      "summary": "Alberta startup sells no-tech tractors for half price. 점수 2080, 반응 712 기준 인기 이슈입니다."
+      "summary": "Alberta startup sells no-tech tractors for half price. 점수 2102, 반응 719 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 882,
-      "comments": 443,
+      "score": 919,
+      "comments": 456,
       "text": "",
-      "summary": "I am building a cloud. 점수 882, 반응 443 기준 인기 이슈입니다."
+      "summary": "I am building a cloud. 점수 919, 반응 456 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
       "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 874,
-      "comments": 263,
+      "score": 887,
+      "comments": 268,
       "text": "",
-      "summary": "We found a stable Firefox identifier linking all your private Tor identities. 점수 874, 반응 263 기준 인기 이슈입니다."
+      "summary": "We found a stable Firefox identifier linking all your private Tor identities. 점수 887, 반응 268 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 805,
-      "comments": 179,
+      "score": 820,
+      "comments": 181,
       "text": "",
-      "summary": "Apple fixes bug that cops used to extract deleted chat messages from iPhones. 점수 805, 반응 179 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "5x5 Pixel font for tiny screens",
-      "url": "https://maurycyz.com/projects/mcufont/",
-      "score": 782,
-      "comments": 152,
-      "text": "",
-      "summary": "5x5 Pixel font for tiny screens. 점수 782, 반응 152 기준 인기 이슈입니다."
+      "summary": "Apple fixes bug that cops used to extract deleted chat messages from iPhones. 점수 820, 반응 181 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 529,
-      "comments": 207,
+      "score": 762,
+      "comments": 387,
       "text": "",
-      "summary": "GPT-5.5.  점수 529, 반응 207 기준 인기 이슈입니다."
+      "summary": "GPT-5.5.  점수 762, 반응 387 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 447,
-      "comments": 217,
+      "score": 498,
+      "comments": 232,
       "text": "",
-      "summary": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign. 점수 447, 반응 217 기준 인기 이슈입니다."
+      "summary": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign. 점수 498, 반응 232 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Your hex editor should color-code bytes",
       "url": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "score": 420,
-      "comments": 122,
+      "score": 440,
+      "comments": 128,
       "text": "",
-      "summary": "Your hex editor should color-code bytes. 점수 420, 반응 122 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
-      "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-      "score": 348,
-      "comments": 121,
-      "text": "<a href=\"https:&#x2F;&#x2F;citizenlab.ca&#x2F;research&#x2F;uncovering-global-telecom-exploitation-by-covert-surveillance-actors&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;citizenlab.ca&#x2F;research&#x2F;uncovering-global-telecom-exp...</a>",
-      "summary": "Investigation uncovers two sophisticated telecom surveillance campaigns. https:&#x2F;&#x2F;citizenlab.ca&#x2F;research&#x2F;uncovering-global-telecom-exp... 점수 348, 반응 121 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "French government agency confirms breach as hacker offers to sell data",
-      "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
-      "score": 306,
-      "comments": 104,
-      "text": "",
-      "summary": "French government agency confirms breach as hacker offers to sell data. 점수 306, 반응 104 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 286,
-      "comments": 163,
-      "text": "",
-      "summary": "An update on recent Claude Code quality reports. 점수 286, 반응 163 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
-      "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
-      "score": 257,
-      "comments": 90,
-      "text": "",
-      "summary": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image. 점수 257, 반응 90 기준 인기 이슈입니다."
+      "summary": "Your hex editor should color-code bytes. 점수 440, 반응 128 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Palantir employees are starting to wonder if they're the bad guys",
       "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
-      "score": 231,
-      "comments": 162,
+      "score": 413,
+      "comments": 294,
       "text": "",
-      "summary": "Palantir employees are starting to wonder if they're the bad guys. 점수 231, 반응 162 기준 인기 이슈입니다."
+      "summary": "Palantir employees are starting to wonder if they're the bad guys. 점수 413, 반응 294 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "score": 399,
+      "comments": 284,
+      "text": "",
+      "summary": "An update on recent Claude Code quality reports. 점수 399, 반응 284 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "French government agency confirms breach as hacker offers to sell data",
+      "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+      "score": 323,
+      "comments": 113,
+      "text": "",
+      "summary": "French government agency confirms breach as hacker offers to sell data. 점수 323, 반응 113 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "If America's so rich, how'd it get so sad?",
+      "url": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
+      "score": 313,
+      "comments": 565,
+      "text": "",
+      "summary": "If America's so rich, how'd it get so sad?. 점수 313, 반응 565 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta to cut 10% of jobs",
+      "url": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
+      "score": 298,
+      "comments": 219,
+      "text": "",
+      "summary": "Meta to cut 10% of jobs. 점수 298, 반응 219 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
+      "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
+      "score": 276,
+      "comments": 95,
+      "text": "",
+      "summary": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image. 점수 276, 반응 95 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
-    {
-      "keyword": "x2f",
-      "count": 9
-    },
     {
       "keyword": "code",
       "count": 5
@@ -291,6 +287,10 @@
     },
     {
       "keyword": "stable",
+      "count": 2
+    },
+    {
+      "keyword": "diffusion",
       "count": 2
     }
   ],
