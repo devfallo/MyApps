@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T17:46:02.416277+00:00",
+  "updatedAt": "2026-04-23T19:40:47.855834+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,19 +10,19 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 362842,
-      "comments": 19151,
+      "score": 362885,
+      "comments": 19143,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 362842, 반응 19151 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 362885, 반응 19143 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 185301,
-      "comments": 1549,
+      "score": 185315,
+      "comments": 1554,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185301, 반응 1549 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185315, 반응 1554 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -37,209 +37,205 @@
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162562,
+      "score": 162564,
       "comments": 2481,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162562, 반응 2481 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162564, 반응 2481 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 160471,
-      "comments": 42,
+      "score": 160473,
+      "comments": 40,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160471, 반응 42 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160473, 반응 40 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 138903,
-      "comments": 872,
+      "score": 138908,
+      "comments": 873,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 138903, 반응 872 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 138908, 반응 873 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 135868,
+      "score": 135872,
       "comments": 138,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135868, 반응 138 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 135872, 반응 138 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 134654,
+      "score": 134662,
       "comments": 548,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134654, 반응 548 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134662, 반응 548 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 133657,
-      "comments": 310,
+      "score": 133670,
+      "comments": 312,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 133657, 반응 310 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 133670, 반응 312 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 112799,
-      "comments": 6469,
+      "score": 112894,
+      "comments": 6496,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 112799, 반응 6469 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 112894, 반응 6496 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 111785,
-      "comments": 288,
+      "score": 111803,
+      "comments": 290,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 111785, 반응 288 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 111803, 반응 290 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 109809,
-      "comments": 3980,
+      "score": 109813,
+      "comments": 3977,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109809, 반응 3980 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109813, 반응 3977 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 2051,
-      "comments": 701,
+      "score": 2080,
+      "comments": 712,
       "text": "",
-      "summary": "Alberta startup sells no-tech tractors for half price. 점수 2051, 반응 701 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "We found a stable Firefox identifier linking all your private Tor identities",
-      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 855,
-      "comments": 256,
-      "text": "",
-      "summary": "We found a stable Firefox identifier linking all your private Tor identities. 점수 855, 반응 256 기준 인기 이슈입니다."
+      "summary": "Alberta startup sells no-tech tractors for half price. 점수 2080, 반응 712 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 825,
-      "comments": 423,
+      "score": 882,
+      "comments": 443,
       "text": "",
-      "summary": "I am building a cloud. 점수 825, 반응 423 기준 인기 이슈입니다."
+      "summary": "I am building a cloud. 점수 882, 반응 443 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "We found a stable Firefox identifier linking all your private Tor identities",
+      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+      "score": 874,
+      "comments": 263,
+      "text": "",
+      "summary": "We found a stable Firefox identifier linking all your private Tor identities. 점수 874, 반응 263 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 784,
-      "comments": 177,
+      "score": 805,
+      "comments": 179,
       "text": "",
-      "summary": "Apple fixes bug that cops used to extract deleted chat messages from iPhones. 점수 784, 반응 177 기준 인기 이슈입니다."
+      "summary": "Apple fixes bug that cops used to extract deleted chat messages from iPhones. 점수 805, 반응 179 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
-      "score": 758,
-      "comments": 151,
+      "score": 782,
+      "comments": 152,
       "text": "",
-      "summary": "5x5 Pixel font for tiny screens. 점수 758, 반응 151 기준 인기 이슈입니다."
+      "summary": "5x5 Pixel font for tiny screens. 점수 782, 반응 152 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Over-editing refers to a model modifying code beyond what is necessary",
-      "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "score": 405,
-      "comments": 234,
+      "title": "GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "score": 529,
+      "comments": 207,
       "text": "",
-      "summary": "Over-editing refers to a model modifying code beyond what is necessary. 점수 405, 반응 234 기준 인기 이슈입니다."
+      "summary": "GPT-5.5.  점수 529, 반응 207 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Website streamed live directly from a model",
-      "url": "https://flipbook.page/",
-      "score": 396,
-      "comments": 103,
-      "text": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;zan2434&#x2F;status&#x2F;2046982383430496444\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;zan2434&#x2F;status&#x2F;2046982383430496444</a> (<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;zan2434&#x2F;status&#x2F;2046982383430496444\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;zan2434&#x2F;status&#x2F;2046982383430496444</a>)",
-      "summary": "Website streamed live directly from a model. https:&#x2F;&#x2F;x.com&#x2F;zan2434&#x2F;status&#x2F;2046982383430496444 ( https:&#x2F;&#x2F;xcancel.com&#x2F;zan2434&#x2F;status&#x2F;2046982383430496444 ) 점수 396, 반응 103 기준 인기 이슈입니다."
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "score": 447,
+      "comments": 217,
+      "text": "",
+      "summary": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign. 점수 447, 반응 217 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Your hex editor should color-code bytes",
       "url": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "score": 389,
-      "comments": 114,
+      "score": 420,
+      "comments": 122,
       "text": "",
-      "summary": "Your hex editor should color-code bytes. 점수 389, 반응 114 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 327,
-      "comments": 159,
-      "text": "",
-      "summary": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign. 점수 327, 반응 159 기준 인기 이슈입니다."
+      "summary": "Your hex editor should color-code bytes. 점수 420, 반응 122 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
       "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-      "score": 318,
-      "comments": 111,
+      "score": 348,
+      "comments": 121,
       "text": "<a href=\"https:&#x2F;&#x2F;citizenlab.ca&#x2F;research&#x2F;uncovering-global-telecom-exploitation-by-covert-surveillance-actors&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;citizenlab.ca&#x2F;research&#x2F;uncovering-global-telecom-exp...</a>",
-      "summary": "Investigation uncovers two sophisticated telecom surveillance campaigns. https:&#x2F;&#x2F;citizenlab.ca&#x2F;research&#x2F;uncovering-global-telecom-exp... 점수 318, 반응 111 기준 인기 이슈입니다."
+      "summary": "Investigation uncovers two sophisticated telecom surveillance campaigns. https:&#x2F;&#x2F;citizenlab.ca&#x2F;research&#x2F;uncovering-global-telecom-exp... 점수 348, 반응 121 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "France confirms data breach at government agency that manages citizens' IDs",
-      "url": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
-      "score": 234,
-      "comments": 78,
+      "title": "French government agency confirms breach as hacker offers to sell data",
+      "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+      "score": 306,
+      "comments": 104,
       "text": "",
-      "summary": "France confirms data breach at government agency that manages citizens' IDs. 점수 234, 반응 78 기준 인기 이슈입니다."
+      "summary": "French government agency confirms breach as hacker offers to sell data. 점수 306, 반응 104 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "score": 286,
+      "comments": 163,
+      "text": "",
+      "summary": "An update on recent Claude Code quality reports. 점수 286, 반응 163 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
       "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
-      "score": 221,
-      "comments": 76,
+      "score": 257,
+      "comments": 90,
       "text": "",
-      "summary": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image. 점수 221, 반응 76 기준 인기 이슈입니다."
+      "summary": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image. 점수 257, 반응 90 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
-      "url": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
-      "score": 163,
-      "comments": 35,
+      "title": "Palantir employees are starting to wonder if they're the bad guys",
+      "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+      "score": 231,
+      "comments": 162,
       "text": "",
-      "summary": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?. 점수 163, 반응 35 기준 인기 이슈입니다."
+      "summary": "Palantir employees are starting to wonder if they're the bad guys. 점수 231, 반응 162 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 29
-    },
-    {
-      "keyword": "https",
-      "count": 6
+      "count": 9
     },
     {
       "keyword": "code",
@@ -254,18 +250,6 @@
       "count": 4
     },
     {
-      "keyword": "com",
-      "count": 4
-    },
-    {
-      "keyword": "zan2434",
-      "count": 4
-    },
-    {
-      "keyword": "status",
-      "count": 4
-    },
-    {
       "keyword": "agent",
       "count": 3
     },
@@ -274,23 +258,39 @@
       "count": 3
     },
     {
-      "keyword": "model",
-      "count": 3
-    },
-    {
-      "keyword": "href",
-      "count": 3
-    },
-    {
-      "keyword": "rel",
-      "count": 3
-    },
-    {
-      "keyword": "nofollow",
-      "count": 3
-    },
-    {
       "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "building",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "cloud",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "stable",
       "count": 2
     }
   ],
