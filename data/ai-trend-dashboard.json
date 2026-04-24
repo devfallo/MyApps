@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T21:05:53.811531+00:00",
+  "updatedAt": "2026-04-24T22:58:48.608195+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 363413,
-      "comments": 18099,
+      "score": 363439,
+      "comments": 17499,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 363413, 반응 18099 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 363439, 반응 17499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 185455,
-      "comments": 1566,
+      "score": 185466,
+      "comments": 1568,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185455, 반응 1566 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185466, 반응 1568 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183731,
+      "score": 183734,
       "comments": 400,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183731, 반응 400 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183734, 반응 400 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,190 +46,190 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 160556,
+      "score": 160557,
       "comments": 42,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160556, 반응 42 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160557, 반응 42 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 139059,
+      "score": 139066,
       "comments": 860,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 139059, 반응 860 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 139066, 반응 860 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136003,
+      "score": 136009,
       "comments": 137,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136003, 반응 137 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136009, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 134791,
+      "score": 134793,
       "comments": 548,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134791, 반응 548 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134793, 반응 548 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 133909,
-      "comments": 247,
+      "score": 133919,
+      "comments": 249,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 133909, 반응 247 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 133919, 반응 249 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 115021,
-      "comments": 6786,
+      "score": 115098,
+      "comments": 6784,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 115021, 반응 6786 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 115098, 반응 6784 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 112034,
+      "score": 112044,
       "comments": 293,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 112034, 반응 293 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 112044, 반응 293 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 109944,
+      "score": 109948,
       "comments": 3978,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109944, 반응 3978 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109948, 반응 3978 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/",
-      "score": 1736,
-      "comments": 1347,
+      "score": 1768,
+      "comments": 1360,
       "text": "<a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main&#x2F;DeepSeek_V4.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main...</a>",
-      "summary": "https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main... 점수 1736, 반응 1347 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main... 점수 1768, 반응 1360 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 1515,
-      "comments": 1012,
-      "text": "",
-      "summary": "GPT-5.5.  점수 1515, 반응 1012 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
+      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
       "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "score": 630,
-      "comments": 377,
+      "score": 722,
+      "comments": 424,
       "text": "",
-      "summary": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support. 점수 630, 반응 377 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Norway set to become latest country to ban social media for under 16s",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
-      "score": 343,
-      "comments": 353,
-      "text": "",
-      "summary": "Norway set to become latest country to ban social media for under 16s. 점수 343, 반응 353 기준 인기 이슈입니다."
+      "summary": "I cancelled Claude: Token issues, declining quality, and poor support. 점수 722, 반응 424 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 301,
-      "comments": 72,
+      "score": 336,
+      "comments": 82,
       "text": "",
-      "summary": "Sabotaging projects by overthinking, scope creep, and structural diffing. 점수 301, 반응 72 기준 인기 이슈입니다."
+      "summary": "Sabotaging projects by overthinking, scope creep, and structural diffing. 점수 336, 반응 82 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Spinel: Ruby AOT Native Compiler",
       "url": "https://github.com/matz/spinel",
-      "score": 280,
-      "comments": 78,
+      "score": 294,
+      "comments": 80,
       "text": "",
-      "summary": "Spinel: Ruby AOT Native Compiler. 점수 280, 반응 78 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why I Write (1946)",
-      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-      "score": 260,
-      "comments": 70,
-      "text": "",
-      "summary": "Why I Write (1946).  점수 260, 반응 70 기준 인기 이슈입니다."
+      "summary": "Spinel: Ruby AOT Native Compiler. 점수 294, 반응 80 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
       "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "score": 251,
-      "comments": 256,
+      "score": 283,
+      "comments": 277,
       "text": "",
-      "summary": "How to be anti-social – a guide to incoherent and isolating social experiences. 점수 251, 반응 256 기준 인기 이슈입니다."
+      "summary": "How to be anti-social – a guide to incoherent and isolating social experiences. 점수 283, 반응 277 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "SDL Now Supports DOS",
       "url": "https://github.com/libsdl-org/SDL/pull/15377",
-      "score": 184,
-      "comments": 64,
+      "score": 202,
+      "comments": 70,
       "text": "",
-      "summary": "SDL Now Supports DOS. 점수 184, 반응 64 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hear your agent suffer through your code",
-      "url": "https://github.com/AndrewVos/endless-toil",
-      "score": 165,
-      "comments": 78,
-      "text": "",
-      "summary": "Hear your agent suffer through your code. 점수 165, 반응 78 기준 인기 이슈입니다."
+      "summary": "SDL Now Supports DOS. 점수 202, 반응 70 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
       "url": "https://developers.openai.com/api/docs/changelog",
-      "score": 146,
-      "comments": 85,
+      "score": 178,
+      "comments": 105,
       "text": "<i>GPT-5.5</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47879092\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47879092</a> - April 2026 (1010 comments)",
-      "summary": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API. GPT-5.5 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47879092 - April 2026 (1010 comments) 점수 146, 반응 85 기준 인기 이슈입니다."
+      "summary": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API. GPT-5.5 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47879092 - April 2026 (1010 comments) 점수 178, 반응 105 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "score": 127,
-      "comments": 73,
+      "title": "MacBook Neo and how the iPad should be",
+      "url": "https://craigmod.com/essays/ipad_neo/",
+      "score": 169,
+      "comments": 98,
       "text": "",
-      "summary": "Google to invest up to $40B in Anthropic in cash and compute. 점수 127, 반응 73 기준 인기 이슈입니다."
+      "summary": "MacBook Neo and how the iPad should be. 점수 169, 반응 98 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google Plans to Invest Up to $40B in Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "score": 154,
+      "comments": 239,
+      "text": "",
+      "summary": "Google Plans to Invest Up to $40B in Anthropic. 점수 154, 반응 239 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I'm done making desktop applications (2009)",
       "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-      "score": 120,
-      "comments": 135,
+      "score": 132,
+      "comments": 151,
       "text": "",
-      "summary": "I'm done making desktop applications (2009). 점수 120, 반응 135 기준 인기 이슈입니다."
+      "summary": "I'm done making desktop applications (2009). 점수 132, 반응 151 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Classic American Diner",
+      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "score": 114,
+      "comments": 58,
+      "text": "",
+      "summary": "The Classic American Diner. 점수 114, 반응 58 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "SFO Quiet Airport (2025)",
+      "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
+      "score": 109,
+      "comments": 56,
+      "text": "",
+      "summary": "SFO Quiet Airport (2025). 점수 109, 반응 56 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "My audio interface has SSH enabled by default",
+      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "score": 109,
+      "comments": 19,
+      "text": "",
+      "summary": "My audio interface has SSH enabled by default. 점수 109, 반응 19 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -238,19 +238,15 @@
       "count": 19
     },
     {
-      "keyword": "code",
-      "count": 5
-    },
-    {
       "keyword": "platform",
       "count": 4
     },
     {
-      "keyword": "prompts",
+      "keyword": "code",
       "count": 4
     },
     {
-      "keyword": "agent",
+      "keyword": "prompts",
       "count": 4
     },
     {
@@ -262,8 +258,16 @@
       "count": 4
     },
     {
+      "keyword": "agent",
+      "count": 3
+    },
+    {
+      "keyword": "interface",
+      "count": 3
+    },
+    {
       "keyword": "gpt-5",
-      "count": 4
+      "count": 3
     },
     {
       "keyword": "openclaw",
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
       "count": 2
     }
   ],
