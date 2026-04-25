@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T07:45:45.439679+00:00",
+  "updatedAt": "2026-04-25T09:10:09.306705+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,19 +10,19 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 363590,
-      "comments": 14630,
+      "score": 363615,
+      "comments": 14028,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 363590, 반응 14630 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 363615, 반응 14028 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 185506,
+      "score": 185520,
       "comments": 1569,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185506, 반응 1569 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185520, 반응 1569 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -37,199 +37,199 @@
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162594,
+      "score": 162596,
       "comments": 2482,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162594, 반응 2482 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162596, 반응 2482 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 160580,
+      "score": 160584,
       "comments": 42,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160580, 반응 42 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160584, 반응 42 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 139087,
+      "score": 139094,
       "comments": 865,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 139087, 반응 865 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 139094, 반응 865 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136034,
+      "score": 136039,
       "comments": 137,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136034, 반응 137 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136039, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 134823,
-      "comments": 549,
+      "score": 134829,
+      "comments": 550,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134823, 반응 549 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134829, 반응 550 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 133970,
-      "comments": 253,
+      "score": 133978,
+      "comments": 245,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 133970, 반응 253 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 133978, 반응 245 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 115660,
-      "comments": 6879,
+      "score": 115772,
+      "comments": 6903,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 115660, 반응 6879 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 115772, 반응 6903 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 112098,
+      "score": 112106,
       "comments": 293,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 112098, 반응 293 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 112106, 반응 293 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 109996,
+      "score": 110004,
       "comments": 3980,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 109996, 반응 3980 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110004, 반응 3980 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
-      "score": 1883,
-      "comments": 1468,
+      "score": 1901,
+      "comments": 1476,
       "text": "<a href=\"https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main&#x2F;DeepSeek_V4.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main...</a>",
-      "summary": "https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F; https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main... 점수 1883, 반응 1468 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F; https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main... 점수 1901, 반응 1476 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 539,
-      "comments": 528,
+      "score": 570,
+      "comments": 552,
       "text": "",
-      "summary": "Google plans to invest up to $40B in Anthropic. 점수 539, 반응 528 기준 인기 이슈입니다."
+      "summary": "Google plans to invest up to $40B in Anthropic. 점수 570, 반응 552 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 412,
-      "comments": 106,
+      "score": 427,
+      "comments": 107,
       "text": "",
-      "summary": "Sabotaging projects by overthinking, scope creep, and structural diffing. 점수 412, 반응 106 기준 인기 이슈입니다."
+      "summary": "Sabotaging projects by overthinking, scope creep, and structural diffing. 점수 427, 반응 107 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "MacBook Neo and how the iPad should be",
       "url": "https://craigmod.com/essays/ipad_neo/",
-      "score": 257,
-      "comments": 142,
+      "score": 268,
+      "comments": 153,
       "text": "",
-      "summary": "MacBook Neo and how the iPad should be. 점수 257, 반응 142 기준 인기 이슈입니다."
+      "summary": "MacBook Neo and how the iPad should be. 점수 268, 반응 153 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "My audio interface has SSH enabled by default",
       "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "score": 227,
-      "comments": 76,
+      "score": 240,
+      "comments": 78,
       "text": "",
-      "summary": "My audio interface has SSH enabled by default. 점수 227, 반응 76 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Classic American Diner",
-      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "score": 206,
-      "comments": 126,
-      "text": "",
-      "summary": "The Classic American Diner. 점수 206, 반응 126 기준 인기 이슈입니다."
+      "summary": "My audio interface has SSH enabled by default. 점수 240, 반응 78 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "There Will Be a Scientific Theory of Deep Learning",
       "url": "https://arxiv.org/abs/2604.21691",
-      "score": 205,
-      "comments": 84,
+      "score": 226,
+      "comments": 98,
       "text": "",
-      "summary": "There Will Be a Scientific Theory of Deep Learning. 점수 205, 반응 84 기준 인기 이슈입니다."
+      "summary": "There Will Be a Scientific Theory of Deep Learning. 점수 226, 반응 98 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Classic American Diner",
+      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "score": 218,
+      "comments": 133,
+      "text": "",
+      "summary": "The Classic American Diner. 점수 218, 반응 133 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Firefox Has Integrated Brave's Adblock Engine",
       "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "score": 177,
-      "comments": 80,
+      "score": 213,
+      "comments": 104,
       "text": "",
-      "summary": "Firefox Has Integrated Brave's Adblock Engine. 점수 177, 반응 80 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Email could have been X.400 times better",
-      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "score": 165,
-      "comments": 148,
-      "text": "",
-      "summary": "Email could have been X.400 times better. 점수 165, 반응 148 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Iliad fragment found in Roman-era mummy",
-      "url": "https://www.thehistoryblog.com/archives/75877",
-      "score": 162,
-      "comments": 47,
-      "text": "",
-      "summary": "Iliad fragment found in Roman-era mummy. 점수 162, 반응 47 기준 인기 이슈입니다."
+      "summary": "Firefox Has Integrated Brave's Adblock Engine. 점수 213, 반응 104 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Paraloid B-72",
       "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "score": 156,
-      "comments": 23,
+      "score": 176,
+      "comments": 34,
       "text": "",
-      "summary": "Paraloid B-72.  점수 156, 반응 23 기준 인기 이슈입니다."
+      "summary": "Paraloid B-72.  점수 176, 반응 34 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Iliad fragment found in Roman-era mummy",
+      "url": "https://www.thehistoryblog.com/archives/75877",
+      "score": 171,
+      "comments": 50,
+      "text": "",
+      "summary": "Iliad fragment found in Roman-era mummy. 점수 171, 반응 50 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Email could have been X.400 times better",
+      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+      "score": 170,
+      "comments": 148,
+      "text": "",
+      "summary": "Email could have been X.400 times better. 점수 170, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Work with the garage door up (2024)",
       "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
-      "score": 153,
-      "comments": 113,
+      "score": 155,
+      "comments": 114,
       "text": "",
-      "summary": "Work with the garage door up (2024). 점수 153, 반응 113 기준 인기 이슈입니다."
+      "summary": "Work with the garage door up (2024). 점수 155, 반응 114 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Replace IBM Quantum back end with /dev/urandom",
       "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 128,
-      "comments": 16,
+      "score": 147,
+      "comments": 17,
       "text": "",
-      "summary": "Replace IBM Quantum back end with /dev/urandom. 점수 128, 반응 16 기준 인기 이슈입니다."
+      "summary": "Replace IBM Quantum back end with /dev/urandom. 점수 147, 반응 17 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
