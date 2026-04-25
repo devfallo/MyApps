@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T15:00:42.634254+00:00",
+  "updatedAt": "2026-04-25T17:01:43.227692+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,235 +10,275 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 363764,
-      "comments": 11567,
+      "score": 363820,
+      "comments": 11085,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 363764, 반응 11567 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 363820, 반응 11085 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 185547,
+      "score": 185555,
       "comments": 1570,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185547, 반응 1570 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185555, 반응 1570 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183752,
+      "score": 183753,
       "comments": 401,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183752, 반응 401 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183753, 반응 401 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162602,
+      "score": 162604,
       "comments": 2482,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162602, 반응 2482 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162604, 반응 2482 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 160628,
+      "score": 160641,
       "comments": 42,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160628, 반응 42 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160641, 반응 42 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 139120,
-      "comments": 863,
+      "score": 139128,
+      "comments": 856,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 139120, 반응 863 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 139128, 반응 856 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136063,
+      "score": 136068,
       "comments": 137,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136063, 반응 137 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136068, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 134871,
+      "score": 134883,
       "comments": 550,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134871, 반응 550 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 134883, 반응 550 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 134028,
-      "comments": 253,
+      "score": 134061,
+      "comments": 255,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 134028, 반응 253 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 134061, 반응 255 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 116252,
-      "comments": 6946,
+      "score": 116433,
+      "comments": 6964,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 116252, 반응 6946 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 116433, 반응 6964 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 112146,
+      "score": 112167,
       "comments": 294,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 112146, 반응 294 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 112167, 반응 294 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 110036,
+      "score": 110047,
       "comments": 3980,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110036, 반응 3980 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110047, 반응 3980 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 687,
-      "comments": 678,
+      "score": 723,
+      "comments": 706,
       "text": "",
-      "summary": "Google plans to invest up to $40B in Anthropic. 점수 687, 반응 678 기준 인기 이슈입니다."
+      "summary": "Google plans to invest up to $40B in Anthropic. 점수 723, 반응 706 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 478,
-      "comments": 115,
+      "score": 488,
+      "comments": 120,
       "text": "",
-      "summary": "Sabotaging projects by overthinking, scope creep, and structural diffing. 점수 478, 반응 115 기준 인기 이슈입니다."
+      "summary": "Sabotaging projects by overthinking, scope creep, and structural diffing. 점수 488, 반응 120 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 360,
-      "comments": 205,
+      "score": 411,
+      "comments": 241,
       "text": "",
-      "summary": "New 10 GbE USB adapters are cooler, smaller, cheaper. 점수 360, 반응 205 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "There Will Be a Scientific Theory of Deep Learning",
-      "url": "https://arxiv.org/abs/2604.21691",
-      "score": 297,
-      "comments": 128,
-      "text": "",
-      "summary": "There Will Be a Scientific Theory of Deep Learning. 점수 297, 반응 128 기준 인기 이슈입니다."
+      "summary": "New 10 GbE USB adapters are cooler, smaller, cheaper. 점수 411, 반응 241 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "My audio interface has SSH enabled by default",
       "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "score": 281,
-      "comments": 84,
+      "score": 286,
+      "comments": 86,
       "text": "",
-      "summary": "My audio interface has SSH enabled by default. 점수 281, 반응 84 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Paraloid B-72",
-      "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "score": 239,
-      "comments": 45,
-      "text": "",
-      "summary": "Paraloid B-72.  점수 239, 반응 45 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Replace IBM Quantum back end with /dev/urandom",
-      "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 231,
-      "comments": 34,
-      "text": "",
-      "summary": "Replace IBM Quantum back end with /dev/urandom. 점수 231, 반응 34 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Iliad fragment found in Roman-era mummy",
-      "url": "https://www.thehistoryblog.com/archives/75877",
-      "score": 218,
-      "comments": 70,
-      "text": "",
-      "summary": "Iliad fragment found in Roman-era mummy. 점수 218, 반응 70 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Email could have been X.400 times better",
-      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "score": 214,
-      "comments": 175,
-      "text": "",
-      "summary": "Email could have been X.400 times better. 점수 214, 반응 175 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Plain text has been around for decades and it’s here to stay",
-      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "score": 183,
-      "comments": 80,
-      "text": "",
-      "summary": "Plain text has been around for decades and it’s here to stay. 점수 183, 반응 80 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Work with the garage door up (2024)",
-      "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
-      "score": 174,
-      "comments": 121,
-      "text": "",
-      "summary": "Work with the garage door up (2024). 점수 174, 반응 121 기준 인기 이슈입니다."
+      "summary": "My audio interface has SSH enabled by default. 점수 286, 반응 86 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
       "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "score": 170,
-      "comments": 24,
+      "score": 273,
+      "comments": 53,
       "text": "",
-      "summary": "1-Bit Hokusai's \"The Great Wave\" (2023). 점수 170, 반응 24 기준 인기 이슈입니다."
+      "summary": "1-Bit Hokusai's \"The Great Wave\" (2023). 점수 273, 반응 53 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Replace IBM Quantum back end with /dev/urandom",
+      "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "score": 261,
+      "comments": 40,
+      "text": "",
+      "summary": "Replace IBM Quantum back end with /dev/urandom. 점수 261, 반응 40 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Paraloid B-72",
+      "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+      "score": 250,
+      "comments": 46,
+      "text": "",
+      "summary": "Paraloid B-72.  점수 250, 반응 46 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Iliad fragment found in Roman-era mummy",
+      "url": "https://www.thehistoryblog.com/archives/75877",
+      "score": 225,
+      "comments": 75,
+      "text": "",
+      "summary": "Iliad fragment found in Roman-era mummy. 점수 225, 반응 75 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Plain text has been around for decades and it’s here to stay",
+      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "score": 205,
+      "comments": 94,
+      "text": "",
+      "summary": "Plain text has been around for decades and it’s here to stay. 점수 205, 반응 94 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Humpback whales are forming super-groups",
       "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-      "score": 161,
-      "comments": 80,
+      "score": 172,
+      "comments": 89,
       "text": "",
-      "summary": "Humpback whales are forming super-groups. 점수 161, 반응 80 기준 인기 이슈입니다."
+      "summary": "Humpback whales are forming super-groups. 점수 172, 반응 89 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "url": "https://github.com/nex-crm/wuphf",
+      "score": 167,
+      "comments": 85,
+      "text": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet.<p>It runs locally in ~&#x2F;.wuphf&#x2F;wiki&#x2F; and you can git clone it out if you want to take your knowledge with you.<p>The shape is the one Karpathy has been circling for a while: an LLM-native knowledge substrate that agents both read from and write into, so context compounds across sessions rather than getting re-pasted every morning. Most implementations of that idea land on Postgres, pgvector, Neo4j, Kafka, and a dashboard.<p>I wanted to go back to the basics and see how far markdown + git could go before I added anything heavier.<p>What it does:\n-&gt; Each agent gets a private notebook at agents&#x2F;{slug}&#x2F;notebook&#x2F;.md, plus access to a shared team wiki at team&#x2F;.<p>-&gt; Draft-to-wiki promotion flow. Notebook entries are reviewed (agent or human) and promoted to the canonical wiki with a back-link. A small state machine drives expiry and auto-archive.<p>-&gt; Per-entity fact log: append-only JSONL at team&#x2F;entities&#x2F;{kind}-{slug}.facts.jsonl. A synthesis worker rebuilds the entity brief every N facts. Commits land under a distinct &quot;Pam the Archivist&quot; git identity so provenance is visible in git log.<p>-&gt; [[Wikilinks]] with broken-link detection rendered in red.<p>-&gt; Daily lint cron for contradictions, stale entries, and broken wikilinks.<p>-&gt; &#x2F;lookup slash command plus an MCP tool for cited retrieval. A heuristic classifier routes short lookups to BM25 and narrative queries to a cited-answer loop.<p>Substrate choices:\nMarkdown for durability. The wiki outlives the runtime, and a user can walk away with every byte. Bleve for BM25. SQLite for structured metadata (facts, entities, edges, redirects, and supersedes). No vectors yet. The current benchmark (500 artifacts, 50 queries) clears 85% recall@20 on BM25 alone, which is the internal ship gate. sqlite-vec is the pre-committed fallback if a query class drops below that.<p>Canonical IDs are first-class. Fact IDs are deterministic and include sentence offset. Canonical slugs are assigned once, merged via redirect stubs, and never renamed. A rebuild is logically identical, not byte-identical.<p>Known limits:\n-&gt; Recall tuning is ongoing. 85% on the benchmark is not a universal guarantee.<p>-&gt; Synthesis quality is bounded by agent observation quality. Garbage facts in, garbage briefs out. The lint pass helps. It is not a judgment engine.<p>-&gt; Single-office scope today. No cross-office federation.<p>Demo. 5-minute terminal walkthrough that records five facts, fires synthesis, shells out to the user&#x27;s LLM CLI, and commits the result under Pam&#x27;s identity: <a href=\"https:&#x2F;&#x2F;asciinema.org&#x2F;a&#x2F;vUvjJsB5vtUQQ4Eb\" rel=\"nofollow\">https:&#x2F;&#x2F;asciinema.org&#x2F;a&#x2F;vUvjJsB5vtUQQ4Eb</a><p>Script lives at .&#x2F;scripts&#x2F;demo-entity-synthesis.sh.<p>Context. The wiki ships as part of WUPHF, an open source collaborative office for AI agents like Claude Code, Codex, OpenClaw, and local LLMs via OpenCode. MIT, self-hosted, bring-your-own keys. You do not have to use the full office to use the wiki layer. If you already have an agent setup, point WUPHF at it and the wiki attaches.<p>Source: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;nex-crm&#x2F;wuphf\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;nex-crm&#x2F;wuphf</a><p>Install: npx wuphf@latest<p>Happy to go deep on the substrate tradeoffs, the promotion-flow state machine, the BM25-first retrieval bet, or the canonical-ID stability rules. Also happy to take &quot;why not an Obsidian vault with a plugin&quot; as a fair question.",
+      "summary": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git). I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet. 점수 167, 반응 85 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "url": "https://alash3al.github.io/stash?_v01",
+      "score": 133,
+      "comments": 56,
+      "text": "",
+      "summary": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do. 점수 133, 반응 56 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A 3D Body from Eight Questions – No Photo, No GPU",
+      "url": "https://clad.you/blog/posts/questionnaire-mlp/",
+      "score": 119,
+      "comments": 21,
+      "text": "",
+      "summary": "A 3D Body from Eight Questions – No Photo, No GPU. 점수 119, 반응 21 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 28
+    },
+    {
+      "keyword": "wiki",
+      "count": 9
+    },
+    {
+      "keyword": "agent",
+      "count": 8
+    },
+    {
+      "keyword": "git",
+      "count": 6
+    },
+    {
+      "keyword": "wuphf",
+      "count": 6
+    },
+    {
+      "keyword": "code",
+      "count": 5
+    },
+    {
+      "keyword": "source",
+      "count": 5
+    },
+    {
+      "keyword": "agents",
+      "count": 5
+    },
+    {
+      "keyword": "facts",
+      "count": 5
+    },
+    {
+      "keyword": "not",
+      "count": 5
+    },
     {
       "keyword": "platform",
       "count": 4
     },
     {
-      "keyword": "code",
+      "keyword": "can",
       "count": 4
     },
     {
@@ -246,52 +286,12 @@
       "count": 4
     },
     {
-      "keyword": "dev",
-      "count": 3
+      "keyword": "open",
+      "count": 4
     },
     {
-      "keyword": "agent",
-      "count": 3
-    },
-    {
-      "keyword": "interface",
-      "count": 3
-    },
-    {
-      "keyword": "api",
-      "count": 3
-    },
-    {
-      "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "diffusion",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
+      "keyword": "markdown",
+      "count": 4
     }
   ],
   "meta": {
