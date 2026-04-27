@@ -1,296 +1,206 @@
 {
-  "updatedAt": "2026-04-27T14:27:10.263369+00:00",
+  "updatedAt": "2026-04-27T17:42:05.403477+00:00",
   "status": "ok",
-  "count": 25,
+  "count": 15,
   "errors": [
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
-      "source": "GitHub Repos",
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "score": 365200,
-      "comments": 6963,
-      "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 365200, 반응 6963 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 185800,
-      "comments": 1571,
-      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185800, 반응 1571 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183814,
-      "comments": 399,
-      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183814, 반응 399 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162638,
-      "comments": 2482,
-      "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162638, 반응 2482 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 160885,
-      "comments": 40,
-      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160885, 반응 40 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 139339,
-      "comments": 842,
-      "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 139339, 반응 842 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136208,
-      "comments": 135,
-      "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136208, 반응 135 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langchain-ai/langchain",
-      "url": "https://github.com/langchain-ai/langchain",
-      "score": 135104,
-      "comments": 553,
-      "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135104, 반응 553 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 134426,
-      "comments": 280,
-      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 134426, 반응 280 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 119925,
-      "comments": 6788,
-      "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 119925, 반응 6788 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "score": 112596,
-      "comments": 294,
-      "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 112596, 반응 294 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 110297,
-      "comments": 3997,
-      "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110297, 반응 3997 기준 인기 이슈입니다."
-    },
-    {
       "source": "Hacker News",
       "title": "I bought Friendster for $30k – Here's what I'm doing with it",
       "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "score": 952,
-      "comments": 483,
+      "score": 1027,
+      "comments": 542,
       "text": "",
-      "summary": "I bought Friendster for $30k – Here's what I'm doing with it. 점수 952, 반응 483 기준 인기 이슈입니다."
+      "summary": "I bought Friendster for $30k – Here's what I'm doing with it. 점수 1027, 반응 542 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI should elevate your thinking, not replace it",
       "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "score": 675,
-      "comments": 482,
+      "score": 761,
+      "comments": 541,
       "text": "",
-      "summary": "AI should elevate your thinking, not replace it. 점수 675, 반응 482 기준 인기 이슈입니다."
+      "summary": "AI should elevate your thinking, not replace it. 점수 761, 반응 541 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Flipdiscs",
       "url": "https://flipdisc.io",
-      "score": 397,
-      "comments": 68,
+      "score": 475,
+      "comments": 79,
       "text": "",
-      "summary": "Flipdiscs.  점수 397, 반응 68 기준 인기 이슈입니다."
+      "summary": "Flipdiscs.  점수 475, 반응 79 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Self-updating screenshots",
-      "url": "https://interblah.net/self-updating-screenshots",
-      "score": 385,
-      "comments": 61,
-      "text": "",
-      "summary": "Self-updating screenshots. 점수 385, 반응 61 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "score": 331,
-      "comments": 172,
-      "text": "",
-      "summary": "SWE-bench Verified no longer measures frontier coding capabilities. 점수 331, 반응 172 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "score": 297,
-      "comments": 73,
-      "text": "",
-      "summary": "Fast16: High-precision software sabotage 5 years before Stuxnet. 점수 297, 반응 73 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Three constraints before I build anything",
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "score": 274,
-      "comments": 44,
-      "text": "",
-      "summary": "Three constraints before I build anything. 점수 274, 반응 44 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "TurboQuant: A first-principles walkthrough",
-      "url": "https://arkaung.github.io/interactive-turboquant/",
-      "score": 233,
-      "comments": 50,
-      "text": "",
-      "summary": "TurboQuant: A first-principles walkthrough. 점수 233, 반응 50 기준 인기 이슈입니다."
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "score": 363,
+      "comments": 307,
+      "text": "Gift Article: <a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzI5NjE3MiwiZXhwIjoxNzc3OTAwOTcyLCJhcnRpY2xlSWQiOiJURTVMT0lLSzNOWUkwMCIsImJjb25uZWN0SWQiOiJDN0U3REM1Q0MxRTQ0NzM0QkY2MzYxQjY5QzgxN0UzMyJ9.mkOwEicK1kMLb-h6ZjkN4u-DsF55439rrFad0m1lqZM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft...</a><p><a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership...</a>",
+      "summary": "Microsoft and OpenAI end their exclusive and revenue-sharing deal. Gift Article: https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft... https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership... 점수 363, 반응 307 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Pgbackrest is no longer being maintained",
       "url": "https://github.com/pgbackrest/pgbackrest",
-      "score": 232,
-      "comments": 103,
+      "score": 340,
+      "comments": 171,
       "text": "",
-      "summary": "Pgbackrest is no longer being maintained. 점수 232, 반응 103 기준 인기 이슈입니다."
+      "summary": "Pgbackrest is no longer being maintained. 점수 340, 반응 171 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The Prompt API",
-      "url": "https://developer.chrome.com/docs/ai/prompt-api",
-      "score": 199,
-      "comments": 105,
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "url": "https://app.oravys.com/blog/mercor-breach-2026",
+      "score": 268,
+      "comments": 110,
       "text": "",
-      "summary": "The Prompt API.  점수 199, 반응 105 기준 인기 이슈입니다."
+      "summary": "4TB of voice samples just stolen from 40k AI contractors at Mercor. 점수 268, 반응 110 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Box to save memory in Rust",
-      "url": "https://dystroy.org/blog/box-to-save-memory/",
+      "title": "TurboQuant: A first-principles walkthrough",
+      "url": "https://arkaung.github.io/interactive-turboquant/",
+      "score": 265,
+      "comments": 54,
+      "text": "",
+      "summary": "TurboQuant: A first-principles walkthrough. 점수 265, 반응 54 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Men who stare at walls",
+      "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+      "score": 235,
+      "comments": 131,
+      "text": "",
+      "summary": "Men who stare at walls. 점수 235, 반응 131 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "url": "https://github.com/dirac-run/dirac",
+      "score": 207,
+      "comments": 73,
+      "text": "Scored 65.2% vs google&#x27;s official 47.8%, and the existing top closed source model Junie CLI&#x27;s 64.3%.<p>Since there are a lot of reports of deliberate cheating on TerminalBench 2.0 lately (<a href=\"https:&#x2F;&#x2F;debugml.github.io&#x2F;cheating-agents&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;debugml.github.io&#x2F;cheating-agents&#x2F;</a>), I would like to also clarify a few things<p>1. Absolutely no {agents&#x2F;skills}.md files were inserted at any point. No cheating mechanisms whatsoever<p>2. The cli agent was run in leaderboard compliant way (no modification of resources or timeouts)<p>3. The full terminal bench run was done using the fully open source version of the agent, no difference between what is on github and what was run.<p>I was originally going to wait for it to land on the leaderboard, but it has been 8 days and the maintainers do not respond unfortunately (there is a large backlog of the pull requests on their HF) so I decided to post anyways.<p>HF PR: <a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;datasets&#x2F;harborframework&#x2F;terminal-bench-2-leaderboard&#x2F;discussions&#x2F;145\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;datasets&#x2F;harborframework&#x2F;terminal-ben...</a><p>It is astounding how much the harness matters, based on this and other experiments I have done.",
+      "summary": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview. Scored 65.2% vs google&#x27;s official 47.8%, and the existing top closed source model Junie CLI&#x27;s 64.3%. Since there are a lot of reports of deliberate cheating on TerminalBench 2.0 lately ( https:&#x2F;&#x2F;debugml.github.io&#x2F;cheating-agents&#x2F; ), I would like to also clarify a few things 1. 점수 207, 반응 73 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+      "url": "https://github.com/WeebLabs/DSPi",
+      "score": 196,
+      "comments": 39,
+      "text": "",
+      "summary": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico. 점수 196, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "score": 182,
+      "comments": 125,
+      "text": "",
+      "summary": "GitHub Copilot is moving to usage-based billing. 점수 182, 반응 125 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Quarkdown – Markdown with Superpowers",
+      "url": "https://quarkdown.com/",
+      "score": 158,
+      "comments": 38,
+      "text": "",
+      "summary": "Quarkdown – Markdown with Superpowers. 점수 158, 반응 38 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
+      "url": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
       "score": 157,
-      "comments": 47,
+      "comments": 48,
       "text": "",
-      "summary": "Box to save memory in Rust. 점수 157, 반응 47 기준 인기 이슈입니다."
+      "summary": "Dutch central bank ditches AWS and chooses Lidl for European Cloud. 점수 157, 반응 48 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "It's OK to abandon your side-project (2024)",
-      "url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
-      "score": 143,
-      "comments": 65,
+      "title": "\"Why not just use Lean?\"",
+      "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+      "score": 144,
+      "comments": 69,
       "text": "",
-      "summary": "It's OK to abandon your side-project (2024). 점수 143, 반응 65 기준 인기 이슈입니다."
+      "summary": "\"Why not just use Lean?\". 점수 144, 반응 69 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "France's Mistral Built a $14B AI Empire by Not Being American",
-      "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
-      "score": 131,
-      "comments": 78,
+      "title": "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+      "score": 139,
+      "comments": 50,
       "text": "",
-      "summary": "France's Mistral Built a $14B AI Empire by Not Being American. 점수 131, 반응 78 기준 인기 이슈입니다."
+      "summary": "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss. 점수 139, 반응 50 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "platform",
+      "keyword": "x2f",
+      "count": 42
+    },
+    {
+      "keyword": "https",
+      "count": 8
+    },
+    {
+      "keyword": "href",
       "count": 4
     },
     {
-      "keyword": "code",
+      "keyword": "com",
       "count": 4
     },
     {
-      "keyword": "prompts",
+      "keyword": "rel",
       "count": 4
     },
     {
-      "keyword": "api",
+      "keyword": "nofollow",
       "count": 4
+    },
+    {
+      "keyword": "github",
+      "count": 4
+    },
+    {
+      "keyword": "not",
+      "count": 3
+    },
+    {
+      "keyword": "openai",
+      "count": 3
     },
     {
       "keyword": "agent",
       "count": 3
     },
     {
-      "keyword": "openclaw",
+      "keyword": "run",
+      "count": 3
+    },
+    {
+      "keyword": "microsoft",
       "count": 2
     },
     {
-      "keyword": "any",
+      "keyword": "their",
       "count": 2
     },
     {
-      "keyword": "workflow",
+      "keyword": "www",
       "count": 2
     },
     {
-      "keyword": "capabilities",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "diffusion",
-      "count": 2
-    },
-    {
-      "keyword": "web",
+      "keyword": "bloomberg",
       "count": 2
     }
   ],
