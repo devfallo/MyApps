@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T10:25:42.269877+00:00",
+  "updatedAt": "2026-04-28T17:56:27.667801+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,247 +10,235 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 365597,
-      "comments": 6993,
+      "score": 365803,
+      "comments": 6940,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 365597, 반응 6993 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 365803, 반응 6940 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 185927,
+      "score": 185965,
       "comments": 1539,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185927, 반응 1539 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 185965, 반응 1539 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183847,
-      "comments": 398,
+      "score": 183855,
+      "comments": 397,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183847, 반응 398 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183855, 반응 397 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162650,
-      "comments": 2482,
+      "score": 162655,
+      "comments": 2483,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162650, 반응 2482 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162655, 반응 2483 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 160987,
-      "comments": 40,
+      "score": 161036,
+      "comments": 42,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 160987, 반응 40 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161036, 반응 42 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 139468,
-      "comments": 833,
+      "score": 139509,
+      "comments": 826,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 139468, 반응 833 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 139509, 반응 826 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136259,
+      "score": 136287,
       "comments": 135,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136259, 반응 135 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136287, 반응 135 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 135207,
-      "comments": 556,
+      "score": 135246,
+      "comments": 557,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135207, 반응 556 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135246, 반응 557 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 134567,
-      "comments": 287,
+      "score": 134618,
+      "comments": 292,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 134567, 반응 287 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 134618, 반응 292 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 121770,
-      "comments": 6871,
+      "score": 122512,
+      "comments": 6902,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 121770, 반응 6871 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 122512, 반응 6902 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 112767,
-      "comments": 293,
+      "score": 112835,
+      "comments": 294,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 112767, 반응 293 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 112835, 반응 294 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 110404,
-      "comments": 3999,
+      "score": 110450,
+      "comments": 4007,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110404, 반응 3999 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 884,
-      "comments": 760,
-      "text": "Gift Article: <a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzI5NjE3MiwiZXhwIjoxNzc3OTAwOTcyLCJhcnRpY2xlSWQiOiJURTVMT0lLSzNOWUkwMCIsImJjb25uZWN0SWQiOiJDN0U3REM1Q0MxRTQ0NzM0QkY2MzYxQjY5QzgxN0UzMyJ9.mkOwEicK1kMLb-h6ZjkN4u-DsF55439rrFad0m1lqZM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft...</a><p><a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership...</a><p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;ajassy&#x2F;status&#x2F;2048806022253609115\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;ajassy&#x2F;status&#x2F;2048806022253609115</a>",
-      "summary": "Microsoft and OpenAI end their exclusive and revenue-sharing deal. Gift Article: https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft... https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership... 점수 884, 반응 760 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GitHub Copilot is moving to usage-based billing",
-      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "score": 671,
-      "comments": 493,
-      "text": "",
-      "summary": "GitHub Copilot is moving to usage-based billing. 점수 671, 반응 493 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Men who stare at walls",
-      "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "score": 586,
-      "comments": 265,
-      "text": "",
-      "summary": "Men who stare at walls. 점수 586, 반응 265 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Is my blue your blue?",
-      "url": "https://ismy.blue/",
-      "score": 546,
-      "comments": 374,
-      "text": "",
-      "summary": "Is my blue your blue?. 점수 546, 반응 374 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "url": "https://app.oravys.com/blog/mercor-breach-2026",
-      "score": 535,
-      "comments": 203,
-      "text": "",
-      "summary": "4TB of voice samples just stolen from 40k AI contractors at Mercor. 점수 535, 반응 203 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pgbackrest is no longer being maintained",
-      "url": "https://github.com/pgbackrest/pgbackrest",
-      "score": 428,
-      "comments": 221,
-      "text": "",
-      "summary": "Pgbackrest is no longer being maintained. 점수 428, 반응 221 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110450, 반응 4007 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Talkie: a 13B vintage language model from 1930",
       "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 372,
-      "comments": 128,
+      "score": 565,
+      "comments": 232,
       "text": "",
-      "summary": "Talkie: a 13B vintage language model from 1930. 점수 372, 반응 128 기준 인기 이슈입니다."
+      "summary": "Talkie: a 13B vintage language model from 1930. 점수 565, 반응 232 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Quarkdown – Markdown with Superpowers",
-      "url": "https://quarkdown.com/",
-      "score": 312,
-      "comments": 122,
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "score": 536,
+      "comments": 183,
       "text": "",
-      "summary": "Quarkdown – Markdown with Superpowers. 점수 312, 반응 122 기준 인기 이슈입니다."
+      "summary": "Localsend: An open-source cross-platform alternative to AirDrop. 점수 536, 반응 183 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-      "url": "https://github.com/WeebLabs/DSPi",
-      "score": 294,
-      "comments": 82,
+      "title": "Your phone is about to stop being yours",
+      "url": "https://keepandroidopen.org/en/",
+      "score": 389,
+      "comments": 195,
       "text": "",
-      "summary": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico. 점수 294, 반응 82 기준 인기 이슈입니다."
+      "summary": "Your phone is about to stop being yours. 점수 389, 반응 195 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
-      "score": 244,
-      "comments": 91,
+      "title": "Period tracking app has been selling data to Meta",
+      "url": "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been",
+      "score": 260,
+      "comments": 167,
       "text": "",
-      "summary": "FDA approves first gene therapy for treatment of genetic hearing loss. 점수 244, 반응 91 기준 인기 이슈입니다."
+      "summary": "Period tracking app has been selling data to Meta. 점수 260, 반응 167 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Networking changes coming in macOS 27",
-      "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
-      "score": 229,
-      "comments": 207,
+      "title": "UAE Leaves OPEC and OPEC+",
+      "url": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
+      "score": 258,
+      "comments": 127,
       "text": "",
-      "summary": "Networking changes coming in macOS 27. 점수 229, 반응 207 기준 인기 이슈입니다."
+      "summary": "UAE Leaves OPEC and OPEC+. 점수 258, 반응 127 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The woes of sanitizing SVGs",
-      "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
-      "score": 219,
-      "comments": 90,
+      "title": "ASML became the chokepoint for cutting-edge chips",
+      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+      "score": 251,
+      "comments": 146,
       "text": "",
-      "summary": "The woes of sanitizing SVGs. 점수 219, 반응 90 기준 인기 이슈입니다."
+      "summary": "ASML became the chokepoint for cutting-edge chips. 점수 251, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Easyduino: Open Source PCB Devboards for KiCad",
-      "url": "https://github.com/Hanqaqa/Easyduino",
-      "score": 219,
-      "comments": 34,
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "score": 230,
+      "comments": 143,
       "text": "",
-      "summary": "Easyduino: Open Source PCB Devboards for KiCad. 점수 219, 반응 34 기준 인기 이슈입니다."
+      "summary": "Microsoft VibeVoice: Open-Source Frontier Voice AI. 점수 230, 반응 143 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic Joins the Blender Development Fund as Corporate Patron",
+      "url": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
+      "score": 165,
+      "comments": 135,
+      "text": "",
+      "summary": "Anthropic Joins the Blender Development Fund as Corporate Patron. 점수 165, 반응 135 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+      "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+      "score": 154,
+      "comments": 113,
+      "text": "",
+      "summary": "GitHub Copilot code review will start consuming GitHub Actions minutes. 점수 154, 반응 113 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "score": 153,
+      "comments": 131,
+      "text": "",
+      "summary": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI. 점수 153, 반응 131 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Can You Find the Comet?",
+      "url": "https://apod.nasa.gov/apod/ap260427.html",
+      "score": 117,
+      "comments": 74,
+      "text": "",
+      "summary": "Can You Find the Comet?. 점수 117, 반응 74 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI uncovers 38 vulnerabilities in largest open source medical record software",
+      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+      "score": 104,
+      "comments": 69,
+      "text": "",
+      "summary": "AI uncovers 38 vulnerabilities in largest open source medical record software. 점수 104, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GitHub Actions is the weakest link",
+      "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
+      "score": 101,
+      "comments": 21,
+      "text": "",
+      "summary": "GitHub Actions is the weakest link. 점수 101, 반응 21 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "x2f",
-      "count": 31
-    },
-    {
-      "keyword": "https",
-      "count": 6
-    },
-    {
-      "keyword": "com",
-      "count": 6
+      "keyword": "code",
+      "count": 5
     },
     {
       "keyword": "platform",
-      "count": 4
-    },
-    {
-      "keyword": "code",
       "count": 4
     },
     {
@@ -258,8 +246,8 @@
       "count": 4
     },
     {
-      "keyword": "openai",
-      "count": 4
+      "keyword": "any",
+      "count": 3
     },
     {
       "keyword": "open",
@@ -274,15 +262,7 @@
       "count": 3
     },
     {
-      "keyword": "href",
-      "count": 3
-    },
-    {
-      "keyword": "rel",
-      "count": 3
-    },
-    {
-      "keyword": "nofollow",
+      "keyword": "github",
       "count": 3
     },
     {
@@ -290,7 +270,27 @@
       "count": 2
     },
     {
-      "keyword": "any",
+      "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "use",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "can",
       "count": 2
     }
   ],
