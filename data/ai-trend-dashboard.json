@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T10:19:20.645877+00:00",
+  "updatedAt": "2026-04-29T14:30:46.740832+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,267 +10,251 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 366128,
-      "comments": 6962,
+      "score": 366237,
+      "comments": 6917,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 366128, 반응 6962 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 366237, 반응 6917 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 186054,
-      "comments": 1559,
+      "score": 186080,
+      "comments": 1566,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186054, 반응 1559 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186080, 반응 1566 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183869,
-      "comments": 397,
+      "score": 183874,
+      "comments": 396,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183869, 반응 397 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183874, 반응 396 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162662,
+      "score": 162663,
       "comments": 2483,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162662, 반응 2483 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162663, 반응 2483 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 161106,
-      "comments": 43,
+      "score": 161123,
+      "comments": 44,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161106, 반응 43 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161123, 반응 44 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 139602,
-      "comments": 821,
+      "score": 139620,
+      "comments": 823,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 139602, 반응 821 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 139620, 반응 823 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136352,
+      "score": 136362,
       "comments": 137,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136352, 반응 137 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136362, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 135329,
-      "comments": 555,
+      "score": 135349,
+      "comments": 556,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135329, 반응 555 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135349, 반응 556 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 134742,
-      "comments": 307,
+      "score": 134777,
+      "comments": 309,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 134742, 반응 307 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 134777, 반응 309 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 124030,
-      "comments": 7065,
+      "score": 124395,
+      "comments": 7086,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 124030, 반응 7065 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 124395, 반응 7086 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 112977,
+      "score": 113017,
       "comments": 298,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 112977, 반응 298 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 113017, 반응 298 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 110552,
-      "comments": 4009,
+      "score": 110582,
+      "comments": 4006,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110552, 반응 4009 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110582, 반응 4006 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 2630,
-      "comments": 771,
+      "score": 2971,
+      "comments": 892,
       "text": "",
-      "summary": "Ghostty is leaving GitHub. 점수 2630, 반응 771 기준 인기 이슈입니다."
+      "summary": "Ghostty is leaving GitHub. 점수 2971, 반응 892 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Your phone is about to stop being yours",
       "url": "https://keepandroidopen.org/en/",
-      "score": 1387,
-      "comments": 629,
+      "score": 1524,
+      "comments": 743,
       "text": "",
-      "summary": "Your phone is about to stop being yours. 점수 1387, 반응 629 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "url": "https://github.com/localsend/localsend",
-      "score": 851,
-      "comments": 251,
-      "text": "",
-      "summary": "Localsend: An open-source cross-platform alternative to AirDrop. 점수 851, 반응 251 기준 인기 이슈입니다."
+      "summary": "Your phone is about to stop being yours. 점수 1524, 반응 743 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Talkie: a 13B vintage language model from 1930",
       "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 710,
-      "comments": 283,
+      "score": 719,
+      "comments": 309,
       "text": "",
-      "summary": "Talkie: a 13B vintage language model from 1930. 점수 710, 반응 283 기준 인기 이슈입니다."
+      "summary": "Talkie: a 13B vintage language model from 1930. 점수 719, 반응 309 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Before GitHub",
       "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 476,
-      "comments": 149,
+      "score": 559,
+      "comments": 180,
       "text": "",
-      "summary": "Before GitHub.  점수 476, 반응 149 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "UAE to leave OPEC",
-      "url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
-      "score": 433,
-      "comments": 561,
-      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;d956y\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;d956y</a><p><a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;markets&#x2F;commodities&#x2F;uae-says-it-quits-opec-opec-statement-2026-04-28&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;markets&#x2F;commodities&#x2F;uae-says-it-quit...</a>",
-      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;d956y https:&#x2F;&#x2F;www.reuters.com&#x2F;markets&#x2F;commodities&#x2F;uae-says-it-quit... 점수 433, 반응 561 기준 인기 이슈입니다."
+      "summary": "Before GitHub.  점수 559, 반응 180 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Who owns the code Claude Code wrote?",
       "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-      "score": 410,
-      "comments": 382,
+      "score": 465,
+      "comments": 438,
       "text": "",
-      "summary": "Who owns the code Claude Code wrote?. 점수 410, 반응 382 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-      "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-      "score": 363,
-      "comments": 76,
-      "text": "",
-      "summary": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown. 점수 363, 반응 76 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How ChatGPT serves ads",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "score": 346,
-      "comments": 235,
-      "text": "",
-      "summary": "How ChatGPT serves ads. 점수 346, 반응 235 기준 인기 이슈입니다."
+      "summary": "Who owns the code Claude Code wrote?. 점수 465, 반응 438 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bugs Rust won't catch",
       "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 304,
-      "comments": 129,
+      "score": 438,
+      "comments": 237,
       "text": "",
-      "summary": "Bugs Rust won't catch. 점수 304, 반응 129 기준 인기 이슈입니다."
+      "summary": "Bugs Rust won't catch. 점수 438, 반응 237 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How ChatGPT serves ads",
+      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "score": 414,
+      "comments": 280,
+      "text": "",
+      "summary": "How ChatGPT serves ads. 점수 414, 반응 280 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "score": 404,
+      "comments": 86,
+      "text": "",
+      "summary": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown. 점수 404, 반응 86 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Soft launch of open-source code platform for government",
+      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "score": 339,
+      "comments": 101,
+      "text": "",
+      "summary": "Soft launch of open-source code platform for government. 점수 339, 반응 101 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Warp is now open-source",
       "url": "https://www.warp.dev/blog/warp-is-now-open-source",
-      "score": 276,
-      "comments": 75,
+      "score": 324,
+      "comments": 97,
       "text": "",
-      "summary": "Warp is now open-source. 점수 276, 반응 75 기준 인기 이슈입니다."
+      "summary": "Warp is now open-source. 점수 324, 반응 97 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
       "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "score": 274,
-      "comments": 89,
+      "score": 297,
+      "comments": 97,
       "text": "<a href=\"https:&#x2F;&#x2F;aws.amazon.com&#x2F;bedrock&#x2F;openai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;aws.amazon.com&#x2F;bedrock&#x2F;openai&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;bedrock-openai-models\" rel=\"nofollow\">https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;bedrock-openai-models</a><p><a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-on-aws&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-on-aws&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;amazon&#x2F;status&#x2F;2049178618639839427\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;amazon&#x2F;status&#x2F;2049178618639839427</a>",
-      "summary": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs. https:&#x2F;&#x2F;aws.amazon.com&#x2F;bedrock&#x2F;openai&#x2F; https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;bedrock-openai-models https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-on-aws&#x2F; https:&#x2F;&#x2F;x.com&#x2F;amazon&#x2F;status&#x2F;2049178618639839427 점수 274, 반응 89 기준 인기 이슈입니다."
+      "summary": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs. https:&#x2F;&#x2F;aws.amazon.com&#x2F;bedrock&#x2F;openai&#x2F; https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;bedrock-openai-models https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-on-aws&#x2F; https:&#x2F;&#x2F;x.com&#x2F;amazon&#x2F;status&#x2F;2049178618639839427 점수 297, 반응 97 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Regression: malware reminder on every read still causes subagent refusals",
-      "url": "https://github.com/anthropics/claude-code/issues/49363",
-      "score": 218,
-      "comments": 111,
-      "text": "Not sure if anybody else has experienced this, but for my job I&#x27;ve been playing around with Claude Managed Agents to run code generation tasks in our repo. Every read operation in the managed agent is appended with a system prompt instructing Claude to scan the file for malware; Claude then wastes a bunch of time and tokens (money) performing the analysis; then, once the agent has confirmed that it is <i>not</i> malware, it still interprets the appended prompt to mean that it is disallowed to augment or write <i>any</i> code, and quits. And we&#x27;re charged for every session that this happens in. Posting here because apparently they only addressed the issue in the past because of a Hacker News discussion. So here&#x27;s hoping they&#x27;ll see this and prioritize fixing it again so we can stop losing money.",
-      "summary": "Regression: malware reminder on every read still causes subagent refusals. Not sure if anybody else has experienced this, but for my job I&#x27;ve been playing around with Claude Managed Agents to run code generation tasks in our repo. Every read operation in the managed agent is appended with a system prompt instructing Claude to scan the file for malware; Claude then wastes a bunch of time and tokens (money) performing the analysis; then, once the agent has confirmed that it is not malware, it still interprets the appended prompt to mean that it is disallowed to augment or write any code, and quits. 점수 218, 반응 111 기준 인기 이슈입니다."
+      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+      "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
+      "score": 287,
+      "comments": 148,
+      "text": "",
+      "summary": "HashiCorp co-founder says GitHub 'no longer a place for serious work'. 점수 287, 반응 148 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I won a championship that doesn't exist",
+      "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+      "score": 209,
+      "comments": 113,
+      "text": "",
+      "summary": "I won a championship that doesn't exist. 점수 209, 반응 113 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 57
+      "count": 40
     },
     {
       "keyword": "https",
-      "count": 12
+      "count": 8
     },
     {
       "keyword": "com",
-      "count": 10
+      "count": 8
     },
     {
       "keyword": "code",
-      "count": 8
+      "count": 7
     },
     {
       "keyword": "openai",
       "count": 7
     },
     {
-      "keyword": "href",
-      "count": 6
-    },
-    {
-      "keyword": "rel",
-      "count": 6
-    },
-    {
-      "keyword": "nofollow",
-      "count": 6
-    },
-    {
-      "keyword": "claude",
-      "count": 5
-    },
-    {
-      "keyword": "agent",
+      "keyword": "platform",
       "count": 5
     },
     {
@@ -282,16 +266,32 @@
       "count": 5
     },
     {
-      "keyword": "platform",
-      "count": 4
-    },
-    {
       "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "www",
+      "keyword": "github",
       "count": 4
+    },
+    {
+      "keyword": "href",
+      "count": 4
+    },
+    {
+      "keyword": "rel",
+      "count": 4
+    },
+    {
+      "keyword": "nofollow",
+      "count": 4
+    },
+    {
+      "keyword": "agent",
+      "count": 3
+    },
+    {
+      "keyword": "api",
+      "count": 3
     }
   ],
   "meta": {
