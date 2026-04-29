@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T17:50:08.578649+00:00",
+  "updatedAt": "2026-04-29T19:53:52.986468+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 366314,
-      "comments": 6943,
+      "score": 366324,
+      "comments": 6949,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 366314, 반응 6943 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 366324, 반응 6949 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 186108,
-      "comments": 1565,
+      "score": 186116,
+      "comments": 1569,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186108, 반응 1565 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186116, 반응 1569 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183880,
-      "comments": 392,
+      "score": 183879,
+      "comments": 393,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183880, 반응 392 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183879, 반응 393 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,19 +46,19 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 161138,
+      "score": 161146,
       "comments": 45,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161138, 반응 45 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161146, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 139632,
-      "comments": 820,
+      "score": 139640,
+      "comments": 822,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 139632, 반응 820 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 139640, 반응 822 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,225 +73,225 @@
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 135367,
+      "score": 135378,
       "comments": 556,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135367, 반응 556 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135378, 반응 556 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 134804,
-      "comments": 312,
+      "score": 134811,
+      "comments": 314,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 134804, 반응 312 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 134811, 반응 314 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 124654,
-      "comments": 7134,
+      "score": 124776,
+      "comments": 7143,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 124654, 반응 7134 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 124776, 반응 7143 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 113054,
+      "score": 113071,
       "comments": 298,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 113054, 반응 298 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 113071, 반응 298 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 110608,
-      "comments": 4006,
+      "score": 110617,
+      "comments": 4005,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110608, 반응 4006 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110617, 반응 4005 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 3207,
-      "comments": 946,
+      "score": 3262,
+      "comments": 963,
       "text": "",
-      "summary": "Ghostty is leaving GitHub. 점수 3207, 반응 946 기준 인기 이슈입니다."
+      "summary": "Ghostty is leaving GitHub. 점수 3262, 반응 963 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 781,
-      "comments": 274,
+      "score": 1133,
+      "comments": 363,
       "text": "",
-      "summary": "Zed 1.0.  점수 781, 반응 274 기준 인기 이슈입니다."
+      "summary": "Zed 1.0.  점수 1133, 반응 363 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Before GitHub",
       "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 609,
-      "comments": 200,
+      "score": 630,
+      "comments": 205,
       "text": "",
-      "summary": "Before GitHub.  점수 609, 반응 200 기준 인기 이슈입니다."
+      "summary": "Before GitHub.  점수 630, 반응 205 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bugs Rust won't catch",
       "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 540,
-      "comments": 309,
+      "score": 589,
+      "comments": 320,
       "text": "",
-      "summary": "Bugs Rust won't catch. 점수 540, 반응 309 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How ChatGPT serves ads",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "score": 459,
-      "comments": 315,
-      "text": "",
-      "summary": "How ChatGPT serves ads. 점수 459, 반응 315 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Soft launch of open-source code platform for government",
-      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "score": 428,
-      "comments": 108,
-      "text": "",
-      "summary": "Soft launch of open-source code platform for government. 점수 428, 반응 108 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "We need a federation of forges",
-      "url": "https://blog.tangled.org/federation/",
-      "score": 352,
-      "comments": 185,
-      "text": "",
-      "summary": "We need a federation of forges. 점수 352, 반응 185 기준 인기 이슈입니다."
+      "summary": "Bugs Rust won't catch. 점수 589, 반응 320 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Online age verification is the hill to die on",
       "url": "https://x.com/GlennMeder/status/2049088498163216560",
-      "score": 245,
-      "comments": 154,
+      "score": 488,
+      "comments": 306,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;GlennMeder&#x2F;status&#x2F;2049088498163216560\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;GlennMeder&#x2F;status&#x2F;2049088498163216560</a>",
-      "summary": "Online age verification is the hill to die on. https:&#x2F;&#x2F;xcancel.com&#x2F;GlennMeder&#x2F;status&#x2F;2049088498163216560 점수 245, 반응 154 기준 인기 이슈입니다."
+      "summary": "Online age verification is the hill to die on. https:&#x2F;&#x2F;xcancel.com&#x2F;GlennMeder&#x2F;status&#x2F;2049088498163216560 점수 488, 반응 306 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Why AI companies want you to be afraid of them",
-      "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
-      "score": 222,
-      "comments": 165,
+      "title": "How ChatGPT serves ads",
+      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "score": 471,
+      "comments": 330,
       "text": "",
-      "summary": "Why AI companies want you to be afraid of them. 점수 222, 반응 165 기준 인기 이슈입니다."
+      "summary": "How ChatGPT serves ads. 점수 471, 반응 330 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
-      "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
-      "score": 216,
-      "comments": 68,
+      "title": "Soft launch of open-source code platform for government",
+      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "score": 467,
+      "comments": 111,
       "text": "",
-      "summary": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU. 점수 216, 반응 68 기준 인기 이슈입니다."
+      "summary": "Soft launch of open-source code platform for government. 점수 467, 반응 111 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "We need a federation of forges",
+      "url": "https://blog.tangled.org/federation/",
+      "score": 434,
+      "comments": 262,
+      "text": "",
+      "summary": "We need a federation of forges. 점수 434, 반응 262 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "score": 346,
+      "comments": 113,
+      "text": "",
+      "summary": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund. 점수 346, 반응 113 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mistral Medium 3.5",
       "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "score": 203,
-      "comments": 113,
+      "score": 302,
+      "comments": 163,
       "text": "",
-      "summary": "Mistral Medium 3.5.  점수 203, 반응 113 기준 인기 이슈입니다."
+      "summary": "Mistral Medium 3.5.  점수 302, 반응 163 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "HardenedBSD Is Now Officially on Radicle",
-      "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "score": 144,
-      "comments": 27,
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
+      "score": 243,
+      "comments": 33,
       "text": "",
-      "summary": "HardenedBSD Is Now Officially on Radicle. 점수 144, 반응 27 기준 인기 이슈입니다."
+      "summary": "Cursor Camp.  점수 243, 반응 33 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-      "url": "https://github.com/rocky-data/rocky",
-      "score": 107,
-      "comments": 39,
-      "text": "Hi HN, I&#x27;m Hugo. I&#x27;ve been building Rocky over the past month, shipping fast in the open. The binary is on GitHub Releases, `dagster-rocky` on PyPI, and the VS Code extension on the Marketplace. I held off on a broader announcement until the trust-system surface was coherent enough to talk about as one thing. The governance waveplan — column classification, per-env masking, 8-field audit trail on every run, `rocky compliance` rollup, role-graph reconciliation, retention policies — landed end-to-end last week in engine-v1.16.0 and rounded out in v1.17.4 (tagged 2026-04-26). That&#x27;s the milestone I&#x27;d been waiting for.<p>The pitch: keep Databricks or Snowflake. Bring Rocky for the DAG. Rocky is a Rust-based control plane for warehouse pipelines. Storage and compute stay with your warehouse. Rocky owns the graph — dependencies, compile-time types, drift, incremental logic, cost, lineage, governance. The things your current stack can&#x27;t give you because it doesn&#x27;t own the DAG.<p>A few things I think are interesting:<p>- Branches + replay. `rocky branch create stg` gives you a logical copy of a pipeline&#x27;s tables (schema-prefix today; native Delta SHALLOW CLONE and Snowflake zero-copy are next). `rocky replay &lt;run_id&gt;` reconstructs which SQL ran against which inputs. Git-grade workflow on a warehouse.<p>- Column-level lineage from the compiler, not a post-hoc graph crawl. The type checker traces columns through joins, CTEs, and windows. VS Code surfaces it inline via LSP.<p>- Governance as a first-class surface. Column classification tags plus per-env masking policies, applied to the warehouse via Unity Catalog (Databricks) or masking policies (Snowflake). 8-field audit trail on every run. `rocky compliance` rollup that CI can gate on. Role-graph reconciliation via SCIM + per-catalog GRANT. Retention policies with a warehouse-side drift probe.<p>- Cost attribution. Every run produces per-model cost (bytes, duration). `[budget]` blocks in `rocky.toml`; breaches fire a `budget_breach` hook event.<p>- Compile-time portability + blast radius. Dialect-divergence lint across Databricks &#x2F; Snowflake &#x2F; BigQuery &#x2F; DuckDB (12 constructs). `SELECT *` downstream-impact lint.<p>- Schema-grounded AI. Generated SQL goes through the compiler — AI suggestions type-check before they can land.<p>What Rocky isn&#x27;t:<p>- Not a warehouse — it&#x27;s the control plane on top.<p>- Not a Fivetran replacement. `rocky load` handles files (CSV&#x2F;Parquet&#x2F;JSONL); for SaaS sources use Fivetran, Airbyte, or warehouse-native CDC.<p>- Not dbt Cloud — no hosted UI, no managed scheduler. First-class Dagster integration if you need orchestration.<p>Adapters: Databricks (GA), Snowflake (Beta), BigQuery (Beta), DuckDB (local dev &#x2F; playground). Apache 2.0.<p>I&#x27;d love feedback on the trust-system framing, the governance surface (particularly classification-to-masking resolution in `rocky compile` and the `rocky compliance` CI gate), the branches&#x2F;replay design, the cost-attribution primitives, or anything else that catches your eye. Happy to go deep in the thread.",
-      "summary": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage. Hi HN, I&#x27;m Hugo. I&#x27;ve been building Rocky over the past month, shipping fast in the open. 점수 107, 반응 39 기준 인기 이슈입니다."
+      "title": "Copy Fail – CVE-2026-31431",
+      "url": "https://copy.fail/",
+      "score": 174,
+      "comments": 87,
+      "text": "",
+      "summary": "Copy Fail – CVE-2026-31431. 점수 174, 반응 87 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "score": 141,
+      "comments": 34,
+      "text": "",
+      "summary": "FastCGI: 30 years old and still the better protocol for reverse proxies. 점수 141, 반응 34 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 17
-    },
-    {
-      "keyword": "rocky",
-      "count": 14
-    },
-    {
-      "keyword": "x27",
       "count": 10
-    },
-    {
-      "keyword": "code",
-      "count": 7
     },
     {
       "keyword": "platform",
       "count": 5
     },
     {
-      "keyword": "snowflake",
+      "keyword": "code",
       "count": 5
-    },
-    {
-      "keyword": "warehouse",
-      "count": 5
-    },
-    {
-      "keyword": "can",
-      "count": 4
     },
     {
       "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "replay",
-      "count": 4
+      "keyword": "agent",
+      "count": 3
     },
     {
-      "keyword": "governance",
-      "count": 4
+      "keyword": "api",
+      "count": 3
     },
     {
-      "keyword": "run",
-      "count": 4
+      "keyword": "openclaw",
+      "count": 2
     },
     {
-      "keyword": "policies",
-      "count": 4
+      "keyword": "any",
+      "count": 2
     },
     {
-      "keyword": "databricks",
-      "count": 4
+      "keyword": "workflow",
+      "count": 2
     },
     {
-      "keyword": "not",
-      "count": 4
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "diffusion",
+      "count": 2
+    },
+    {
+      "keyword": "web",
+      "count": 2
+    },
+    {
+      "keyword": "chatgpt",
+      "count": 2
     }
   ],
   "meta": {
