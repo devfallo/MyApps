@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T19:50:20.978828+00:00",
+  "updatedAt": "2026-04-30T21:15:08.529084+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 366758,
-      "comments": 6797,
+      "score": 366771,
+      "comments": 6782,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 366758, 반응 6797 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 366771, 반응 6782 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 186258,
+      "score": 186263,
       "comments": 1560,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186258, 반응 1560 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186263, 반응 1560 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183904,
-      "comments": 400,
+      "score": 183905,
+      "comments": 403,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183904, 반응 400 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183905, 반응 403 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,190 +46,190 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 161246,
+      "score": 161247,
       "comments": 45,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161246, 반응 45 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161247, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 139761,
+      "score": 139760,
       "comments": 827,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 139761, 반응 827 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 139760, 반응 827 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136452,
+      "score": 136454,
       "comments": 137,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136452, 반응 137 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136454, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 135496,
-      "comments": 557,
+      "score": 135501,
+      "comments": 558,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135496, 반응 557 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135501, 반응 558 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 134970,
+      "score": 134979,
       "comments": 318,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 134970, 반응 318 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 134979, 반응 318 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 126563,
-      "comments": 7348,
+      "score": 126626,
+      "comments": 7359,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 126563, 반응 7348 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 126626, 반응 7359 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 113363,
+      "score": 113392,
       "comments": 301,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 113363, 반응 301 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 113392, 반응 301 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 110801,
+      "score": 110810,
       "comments": 4009,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110801, 반응 4009 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Where the goblins came from",
-      "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 987,
-      "comments": 590,
-      "text": "",
-      "summary": "Where the goblins came from. 점수 987, 반응 590 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 642,
-      "comments": 564,
-      "text": "",
-      "summary": "Belgium stops decommissioning nuclear power plants. 점수 642, 반응 564 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110810, 반응 4009 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 624,
-      "comments": 377,
+      "score": 743,
+      "comments": 433,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;theo&#x2F;status&#x2F;2049645973350363168\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;theo&#x2F;status&#x2F;2049645973350363168</a>",
-      "summary": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\". https:&#x2F;&#x2F;xcancel.com&#x2F;theo&#x2F;status&#x2F;2049645973350363168 점수 624, 반응 377 기준 인기 이슈입니다."
+      "summary": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\". https:&#x2F;&#x2F;xcancel.com&#x2F;theo&#x2F;status&#x2F;2049645973350363168 점수 743, 반응 433 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 604,
-      "comments": 393,
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "score": 681,
+      "comments": 598,
       "text": "",
-      "summary": "The Zig project's rationale for their anti-AI contribution policy. 점수 604, 반응 393 기준 인기 이슈입니다."
+      "summary": "Belgium stops decommissioning nuclear power plants. 점수 681, 반응 598 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mozilla's opposition to Chrome's Prompt API",
-      "url": "https://github.com/mozilla/standards-positions/issues/1213",
-      "score": 477,
-      "comments": 190,
+      "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
+      "score": 516,
+      "comments": 199,
       "text": "",
-      "summary": "Mozilla's opposition to Chrome's Prompt API. 점수 477, 반응 190 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Noctua releases official 3D CAD models for its cooling fans",
-      "url": "https://www.noctua.at/en/3d-cad-models",
-      "score": 467,
-      "comments": 99,
-      "text": "",
-      "summary": "Noctua releases official 3D CAD models for its cooling fans. 점수 467, 반응 99 기준 인기 이슈입니다."
+      "summary": "Mozilla's opposition to Chrome's Prompt API. 점수 516, 반응 199 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Spain's parliament will act against massive IP blockages by LaLiga",
       "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "score": 296,
-      "comments": 127,
+      "score": 332,
+      "comments": 154,
       "text": "",
-      "summary": "Spain's parliament will act against massive IP blockages by LaLiga. 점수 296, 반응 127 기준 인기 이슈입니다."
+      "summary": "Spain's parliament will act against massive IP blockages by LaLiga. 점수 332, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 261,
-      "comments": 59,
+      "score": 328,
+      "comments": 92,
       "text": "",
-      "summary": "How Mark Klein told the EFF about Room 641A [book excerpt]. 점수 261, 반응 59 기준 인기 이슈입니다."
+      "summary": "How Mark Klein told the EFF about Room 641A [book excerpt]. 점수 328, 반응 92 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
       "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "score": 247,
-      "comments": 157,
+      "score": 259,
+      "comments": 163,
       "text": "",
-      "summary": "Granite 4.1: IBM's 8B Model Matching 32B MoE. 점수 247, 반응 157 기준 인기 이슈입니다."
+      "summary": "Granite 4.1: IBM's 8B Model Matching 32B MoE. 점수 259, 반응 163 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How an oil refinery works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 232,
-      "comments": 54,
+      "score": 257,
+      "comments": 65,
       "text": "",
-      "summary": "How an oil refinery works. 점수 232, 반응 54 기준 인기 이슈입니다."
+      "summary": "How an oil refinery works. 점수 257, 반응 65 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "CopyFail was not disclosed to Gentoo developer",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "score": 256,
+      "comments": 172,
+      "text": "Recent: <i>Copy Fail</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181</a> - April 2026 (466 comments)",
+      "summary": "CopyFail was not disclosed to Gentoo developer. Recent: Copy Fail - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181 - April 2026 (466 comments) 점수 256, 반응 172 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 208,
-      "comments": 59,
+      "score": 252,
+      "comments": 80,
       "text": "",
-      "summary": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library. 점수 208, 반응 59 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "CopyFail was not disclosed to distros",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 200,
-      "comments": 115,
-      "text": "Recent: <i>Copy Fail</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181</a> - April 2026 (466 comments)",
-      "summary": "CopyFail was not disclosed to distros. Recent: Copy Fail - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181 - April 2026 (466 comments) 점수 200, 반응 115 기준 인기 이슈입니다."
+      "summary": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library. 점수 252, 반응 80 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I aggregated 28 US Government auction sites into one search",
       "url": "https://bidprowl.com",
-      "score": 195,
-      "comments": 59,
+      "score": 204,
+      "comments": 62,
       "text": "",
-      "summary": "I aggregated 28 US Government auction sites into one search. 점수 195, 반응 59 기준 인기 이슈입니다."
+      "summary": "I aggregated 28 US Government auction sites into one search. 점수 204, 반응 62 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "You can beat the binary search",
+      "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
+      "score": 193,
+      "comments": 96,
+      "text": "",
+      "summary": "You can beat the binary search. 점수 193, 반응 96 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
+      "url": "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd",
+      "score": 156,
+      "comments": 53,
+      "text": "",
+      "summary": "Senators Vote to Ban Themselves from Trading on Prediction Markets. 점수 156, 반응 53 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I built a Game Boy emulator in F#",
+      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "score": 135,
+      "comments": 34,
+      "text": "",
+      "summary": "I built a Game Boy emulator in F#. 점수 135, 반응 34 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -270,6 +270,10 @@
       "count": 3
     },
     {
+      "keyword": "search",
+      "count": 3
+    },
+    {
       "keyword": "any",
       "count": 2
     },
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "diffusion",
       "count": 2
     }
   ],
