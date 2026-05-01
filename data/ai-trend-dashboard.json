@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T08:24:31.232524+00:00",
+  "updatedAt": "2026-05-01T11:32:58.396712+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,235 +10,263 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 366915,
+      "score": 366974,
       "comments": 6815,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 366915, 반응 6815 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 366974, 반응 6815 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 186321,
-      "comments": 1563,
+      "score": 186342,
+      "comments": 1560,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186321, 반응 1563 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186342, 반응 1560 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183921,
-      "comments": 405,
+      "score": 183924,
+      "comments": 396,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183921, 반응 405 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183924, 반응 396 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162676,
+      "score": 162677,
       "comments": 2482,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162676, 반응 2482 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162677, 반응 2482 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 161282,
+      "score": 161288,
       "comments": 46,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161282, 반응 46 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161288, 반응 46 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 139784,
-      "comments": 828,
+      "score": 139794,
+      "comments": 827,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 139784, 반응 828 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 139794, 반응 827 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136477,
+      "score": 136487,
       "comments": 137,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136477, 반응 137 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136487, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 135544,
-      "comments": 559,
+      "score": 135557,
+      "comments": 571,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135544, 반응 559 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135557, 반응 571 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 135028,
-      "comments": 337,
+      "score": 135043,
+      "comments": 338,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 135028, 반응 337 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 135043, 반응 338 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 127215,
-      "comments": 7389,
+      "score": 127410,
+      "comments": 7427,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 127215, 반응 7389 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 127410, 반응 7427 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 113579,
+      "score": 113633,
       "comments": 301,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 113579, 반응 301 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 113633, 반응 301 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 110863,
-      "comments": 4011,
+      "score": 110875,
+      "comments": 4012,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110863, 반응 4011 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 110875, 반응 4012 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 1131,
-      "comments": 615,
+      "score": 1184,
+      "comments": 653,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;theo&#x2F;status&#x2F;2049645973350363168\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;theo&#x2F;status&#x2F;2049645973350363168</a>",
-      "summary": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\". https:&#x2F;&#x2F;xcancel.com&#x2F;theo&#x2F;status&#x2F;2049645973350363168 점수 1131, 반응 615 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 805,
-      "comments": 809,
-      "text": "",
-      "summary": "Belgium stops decommissioning nuclear power plants. 점수 805, 반응 809 기준 인기 이슈입니다."
+      "summary": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\". https:&#x2F;&#x2F;xcancel.com&#x2F;theo&#x2F;status&#x2F;2049645973350363168 점수 1184, 반응 653 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Can I disable all data collection from my vehicle?",
       "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 613,
-      "comments": 246,
+      "score": 639,
+      "comments": 265,
       "text": "",
-      "summary": "Can I disable all data collection from my vehicle?. 점수 613, 반응 246 기준 인기 이슈입니다."
+      "summary": "Can I disable all data collection from my vehicle?. 점수 639, 반응 265 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 574,
-      "comments": 187,
+      "score": 612,
+      "comments": 207,
       "text": "",
-      "summary": "How Mark Klein told the EFF about Room 641A [book excerpt]. 점수 574, 반응 187 기준 인기 이슈입니다."
+      "summary": "How Mark Klein told the EFF about Room 641A [book excerpt]. 점수 612, 반응 207 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 474,
-      "comments": 362,
+      "score": 515,
+      "comments": 400,
       "text": "Recent: <i>Copy Fail</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181</a> - April 2026 (466 comments)",
-      "summary": "For Linux kernel vulnerabilities, there is no heads-up to distributions. Recent: Copy Fail - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181 - April 2026 (466 comments) 점수 474, 반응 362 기준 인기 이슈입니다."
+      "summary": "For Linux kernel vulnerabilities, there is no heads-up to distributions. Recent: Copy Fail - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181 - April 2026 (466 comments) 점수 515, 반응 400 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How an oil refinery works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 408,
-      "comments": 124,
+      "score": 434,
+      "comments": 136,
       "text": "",
-      "summary": "How an oil refinery works. 점수 408, 반응 124 기준 인기 이슈입니다."
+      "summary": "How an oil refinery works. 점수 434, 반응 136 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 389,
-      "comments": 133,
+      "score": 403,
+      "comments": 146,
       "text": "",
-      "summary": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library. 점수 389, 반응 133 기준 인기 이슈입니다."
+      "summary": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library. 점수 403, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Opus 4.7 knows the real Kelsey",
       "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 331,
-      "comments": 169,
+      "score": 362,
+      "comments": 190,
       "text": "",
-      "summary": "Opus 4.7 knows the real Kelsey. 점수 331, 반응 169 기준 인기 이슈입니다."
+      "summary": "Opus 4.7 knows the real Kelsey. 점수 362, 반응 190 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "You can beat the binary search",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 309,
-      "comments": 141,
+      "score": 326,
+      "comments": 143,
       "text": "",
-      "summary": "You can beat the binary search. 점수 309, 반응 141 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I aggregated 28 US Government auction sites into one search",
-      "url": "https://bidprowl.com",
-      "score": 277,
-      "comments": 77,
-      "text": "",
-      "summary": "I aggregated 28 US Government auction sites into one search. 점수 277, 반응 77 기준 인기 이슈입니다."
+      "summary": "You can beat the binary search. 점수 326, 반응 143 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I built a Game Boy emulator in F#",
       "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 270,
-      "comments": 61,
+      "score": 286,
+      "comments": 66,
       "text": "",
-      "summary": "I built a Game Boy emulator in F#. 점수 270, 반응 61 기준 인기 이슈입니다."
+      "summary": "I built a Game Boy emulator in F#. 점수 286, 반응 66 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Honker – Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
-      "url": "https://honker.dev/",
-      "score": 212,
-      "comments": 53,
-      "text": "",
-      "summary": "Honker – Durable queues, streams, pub/sub, and cron scheduler in a SQLite file. 점수 212, 반응 53 기준 인기 이슈입니다."
+      "title": "Reverse Engineering SimTower",
+      "url": "https://phulin.me/blog/simtower",
+      "score": 207,
+      "comments": 46,
+      "text": "This is the story of building <a href=\"https:&#x2F;&#x2F;towers.world\" rel=\"nofollow\">https:&#x2F;&#x2F;towers.world</a>, a ~perfect, tick-for-tick reproduction of 1993 game SimTower.<p>I spent weeks reverse-engineering the original EXE and writing up a detailed spec of how the simulation actually works under the hood — population flow, elevator AI, the whole star-rating system. The specs are all on GitHub if you want to read them: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;phulin&#x2F;tower-together&#x2F;tree&#x2F;main&#x2F;specs\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;phulin&#x2F;tower-together&#x2F;tree&#x2F;main&#x2F;specs</a><p>It&#x27;s also collaborative. Multiple players can connect to the same tower, the simulation keeps running as long as anyone&#x27;s connected, and build actions sync across clients in real time.<p>Because I rebuilt the UI, I could add features like shift-click to build grids of rooms - instead of painstakingly clicking to build rows of offices and hotels, shift-click allows a 10-floor grid to be built all at once.<p>The game runs on Cloudflare Durable Objects, one of my favorite web primitives.<p>Everything is open source: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;phulin&#x2F;tower-together\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;phulin&#x2F;tower-together</a>",
+      "summary": "Reverse Engineering SimTower. This is the story of building https:&#x2F;&#x2F;towers.world , a ~perfect, tick-for-tick reproduction of 1993 game SimTower. I spent weeks reverse-engineering the original EXE and writing up a detailed spec of how the simulation actually works under the hood — population flow, elevator AI, the whole star-rating system. 점수 207, 반응 46 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "10Gb/s Ethernet: what I did to get it working in my home",
-      "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
-      "score": 197,
-      "comments": 137,
+      "title": "New mechanical panoramic film camera from Jeff Bridges",
+      "url": "https://wideluxx.com",
+      "score": 151,
+      "comments": 69,
       "text": "",
-      "summary": "10Gb/s Ethernet: what I did to get it working in my home. 점수 197, 반응 137 기준 인기 이슈입니다."
+      "summary": "New mechanical panoramic film camera from Jeff Bridges. 점수 151, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Full-Text Search with DuckDB",
+      "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+      "score": 146,
+      "comments": 31,
+      "text": "",
+      "summary": "Full-Text Search with DuckDB. 점수 146, 반응 31 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "score": 118,
+      "comments": 35,
+      "text": "USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer.<p>WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc.<p>Built in Swift&#x2F;SwiftUI. Open source, free, no tracking.<p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;darrylmorley&#x2F;whatcable\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;darrylmorley&#x2F;whatcable</a>",
+      "summary": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables. USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer. 점수 118, 반응 35 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 16
+      "count": 51
+    },
+    {
+      "keyword": "https",
+      "count": 12
+    },
+    {
+      "keyword": "com",
+      "count": 10
+    },
+    {
+      "keyword": "github",
+      "count": 8
+    },
+    {
+      "keyword": "can",
+      "count": 6
+    },
+    {
+      "keyword": "href",
+      "count": 6
     },
     {
       "keyword": "code",
+      "count": 5
+    },
+    {
+      "keyword": "rel",
+      "count": 5
+    },
+    {
+      "keyword": "nofollow",
       "count": 5
     },
     {
@@ -246,52 +274,24 @@
       "count": 4
     },
     {
+      "keyword": "build",
+      "count": 4
+    },
+    {
       "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "https",
+      "keyword": "open",
       "count": 4
     },
     {
-      "keyword": "com",
+      "keyword": "phulin",
       "count": 4
     },
     {
-      "keyword": "openclaw",
-      "count": 3
-    },
-    {
-      "keyword": "can",
-      "count": 3
-    },
-    {
-      "keyword": "agent",
-      "count": 3
-    },
-    {
-      "keyword": "api",
-      "count": 3
-    },
-    {
-      "keyword": "search",
-      "count": 3
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
+      "keyword": "tower-together",
+      "count": 4
     }
   ],
   "meta": {
