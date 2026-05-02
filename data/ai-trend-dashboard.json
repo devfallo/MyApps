@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T17:06:50.536017+00:00",
+  "updatedAt": "2026-05-02T19:17:41.645152+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,236 +10,232 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 367487,
-      "comments": 6597,
+      "score": 367525,
+      "comments": 6619,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 367487, 반응 6597 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 367525, 반응 6619 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 186464,
-      "comments": 1573,
+      "score": 186474,
+      "comments": 1574,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186464, 반응 1573 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186474, 반응 1574 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183939,
-      "comments": 392,
+      "score": 183941,
+      "comments": 394,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183939, 반응 392 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183941, 반응 394 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162688,
+      "score": 162687,
       "comments": 2482,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162688, 반응 2482 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162687, 반응 2482 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 161385,
-      "comments": 44,
+      "score": 161391,
+      "comments": 45,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161385, 반응 44 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161391, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 139872,
-      "comments": 803,
+      "score": 139874,
+      "comments": 802,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 139872, 반응 803 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 139874, 반응 802 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136549,
+      "score": 136557,
       "comments": 136,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136549, 반응 136 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136557, 반응 136 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 135630,
+      "score": 135634,
       "comments": 555,
       "text": "The agent engineering platform",
-      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135630, 반응 555 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform 점수 135634, 반응 555 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 135210,
-      "comments": 343,
+      "score": 135223,
+      "comments": 345,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 135210, 반응 343 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 135223, 반응 345 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 129389,
-      "comments": 7789,
+      "score": 129525,
+      "comments": 7825,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 129389, 반응 7789 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 129525, 반응 7825 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 114121,
+      "score": 114163,
       "comments": 304,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 114121, 반응 304 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 114163, 반응 304 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 111055,
-      "comments": 4013,
+      "score": 111065,
+      "comments": 4014,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111055, 반응 4013 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111065, 반응 4014 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Why does it take so long to release black fan versions?",
       "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "score": 537,
-      "comments": 240,
+      "score": 620,
+      "comments": 261,
       "text": "",
-      "summary": "Why does it take so long to release black fan versions?. 점수 537, 반응 240 기준 인기 이슈입니다."
+      "summary": "Why does it take so long to release black fan versions?. 점수 620, 반응 261 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ti-84 Evo",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 531,
-      "comments": 431,
+      "score": 551,
+      "comments": 447,
       "text": "",
-      "summary": "Ti-84 Evo.  점수 531, 반응 431 기준 인기 이슈입니다."
+      "summary": "Ti-84 Evo.  점수 551, 반응 447 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 407,
-      "comments": 240,
+      "score": 425,
+      "comments": 247,
       "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;6wKhx\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;6wKhx</a>",
-      "summary": "New research suggests people can communicate and practice skills while dreaming. https:&#x2F;&#x2F;archive.ph&#x2F;6wKhx 점수 407, 반응 240 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask.com has closed",
-      "url": "https://www.ask.com/",
-      "score": 386,
-      "comments": 199,
-      "text": "",
-      "summary": "Ask.com has closed.  점수 386, 반응 199 기준 인기 이슈입니다."
+      "summary": "New research suggests people can communicate and practice skills while dreaming. https:&#x2F;&#x2F;archive.ph&#x2F;6wKhx 점수 425, 반응 247 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek V4–almost on the frontier, a fraction of the price",
       "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-      "score": 350,
-      "comments": 213,
+      "score": 410,
+      "comments": 261,
       "text": "",
-      "summary": "DeepSeek V4–almost on the frontier, a fraction of the price. 점수 350, 반응 213 기준 인기 이슈입니다."
+      "summary": "DeepSeek V4–almost on the frontier, a fraction of the price. 점수 410, 반응 261 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Artemis II Photo Timeline",
       "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "score": 297,
-      "comments": 24,
+      "score": 316,
+      "comments": 26,
       "text": "",
-      "summary": "Artemis II Photo Timeline. 점수 297, 반응 24 기준 인기 이슈입니다."
+      "summary": "Artemis II Photo Timeline. 점수 316, 반응 26 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
+      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
       "url": "https://arxiv.org/abs/2509.00462",
-      "score": 207,
-      "comments": 89,
+      "score": 303,
+      "comments": 157,
       "text": "",
-      "summary": "LLMs consistently pick resumes they generate over ones by humans or other models. 점수 207, 반응 89 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "url": "https://news.ycombinator.com/item?id=47975676",
-      "score": 182,
-      "comments": 232,
-      "text": "I&#x27;ll be here for the next 6 hours. As usual, there are lots of possible topics and I&#x27;ll be guided by whatever you&#x27;re interested in. Please remember that I can&#x27;t provide legal advice on specific cases because I won&#x27;t have access to all the facts. Please try to stick to a factual discussion in your questions and comments and I&#x27;ll try to do the same in my answers!<p>Previous threads we&#x27;ve done: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;submitted?id=proberts\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;submitted?id=proberts</a>.",
-      "summary": "I'm Peter Roberts, immigration attorney who does work for YC and startups. I&#x27;ll be here for the next 6 hours. As usual, there are lots of possible topics and I&#x27;ll be guided by whatever you&#x27;re interested in. 점수 182, 반응 232 기준 인기 이슈입니다."
+      "summary": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights. 점수 303, 반응 157 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How fast is a macOS VM, and how small could it be?",
       "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "score": 163,
-      "comments": 57,
+      "score": 193,
+      "comments": 72,
       "text": "",
-      "summary": "How fast is a macOS VM, and how small could it be?. 점수 163, 반응 57 기준 인기 이슈입니다."
+      "summary": "How fast is a macOS VM, and how small could it be?. 점수 193, 반응 72 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "NetHack 5.0.0",
+      "url": "https://nethack.org/v500/release.html",
+      "score": 173,
+      "comments": 25,
+      "text": "",
+      "summary": "NetHack 5.0.0.  점수 173, 반응 25 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Why are there both TMP and TEMP environment variables? (2015)",
       "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
-      "score": 136,
-      "comments": 70,
+      "score": 168,
+      "comments": 80,
       "text": "",
-      "summary": "Why are there both TMP and TEMP environment variables? 점수 136, 반응 70 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "To Restore an Island Paradise, Add Fungi",
-      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-      "score": 113,
-      "comments": 30,
-      "text": "",
-      "summary": "To Restore an Island Paradise, Add Fungi. 점수 113, 반응 30 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Dotcl: Common Lisp Implementation on .NET",
-      "url": "https://github.com/dotcl/dotcl",
-      "score": 108,
-      "comments": 17,
-      "text": "",
-      "summary": "Dotcl: Common Lisp Implementation on .NET. 점수 108, 반응 17 기준 인기 이슈입니다."
+      "summary": "Why are there both TMP and TEMP environment variables? 점수 168, 반응 80 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Open Design: Use Your Coding Agent as a Design Engine",
       "url": "https://github.com/nexu-io/open-design",
-      "score": 105,
-      "comments": 68,
+      "score": 137,
+      "comments": 77,
       "text": "",
-      "summary": "Open Design: Use Your Coding Agent as a Design Engine. 점수 105, 반응 68 기준 인기 이슈입니다."
+      "summary": "Open Design: Use Your Coding Agent as a Design Engine. 점수 137, 반응 77 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dotcl: Common Lisp Implementation on .NET",
+      "url": "https://github.com/dotcl/dotcl",
+      "score": 131,
+      "comments": 28,
+      "text": "",
+      "summary": "Dotcl: Common Lisp Implementation on .NET. 점수 131, 반응 28 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "To Restore an Island Paradise, Add Fungi",
+      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+      "score": 127,
+      "comments": 32,
+      "text": "",
+      "summary": "To Restore an Island Paradise, Add Fungi. 점수 127, 반응 32 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "America's Expanding Domestic Surveillance",
+      "url": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187",
+      "score": 121,
+      "comments": 69,
+      "text": "",
+      "summary": "America's Expanding Domestic Surveillance. 점수 121, 반응 69 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 12
-    },
-    {
-      "keyword": "x27",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "platform",
@@ -258,23 +254,11 @@
       "count": 4
     },
     {
-      "keyword": "https",
-      "count": 4
-    },
-    {
-      "keyword": "can",
-      "count": 3
-    },
-    {
       "keyword": "open",
       "count": 3
     },
     {
       "keyword": "api",
-      "count": 3
-    },
-    {
-      "keyword": "com",
       "count": 3
     },
     {
@@ -291,6 +275,22 @@
     },
     {
       "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "use",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "can",
       "count": 2
     }
   ],
