@@ -1,297 +1,208 @@
 {
-  "updatedAt": "2026-05-04T19:55:25.126293+00:00",
+  "updatedAt": "2026-05-04T21:19:50.852028+00:00",
   "status": "ok",
-  "count": 25,
+  "count": 15,
   "errors": [
+    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
-      "source": "GitHub Repos",
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "score": 368243,
-      "comments": 6865,
-      "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 368243, 반응 6865 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 186681,
-      "comments": 1456,
-      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186681, 반응 1456 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183985,
-      "comments": 398,
-      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183985, 반응 398 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162720,
-      "comments": 2482,
-      "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162720, 반응 2482 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 161538,
-      "comments": 44,
-      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161538, 반응 44 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 140067,
-      "comments": 772,
-      "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 140067, 반응 772 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136674,
-      "comments": 136,
-      "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136674, 반응 136 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langchain-ai/langchain",
-      "url": "https://github.com/langchain-ai/langchain",
-      "score": 135757,
-      "comments": 555,
-      "text": "The agent engineering platform. Available in TypeScript!",
-      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 135757, 반응 555 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 135489,
-      "comments": 335,
-      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 135489, 반응 335 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 132517,
-      "comments": 8148,
-      "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 132517, 반응 8148 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "score": 115044,
-      "comments": 305,
-      "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 115044, 반응 305 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 111322,
-      "comments": 4010,
-      "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111322, 반응 4010 기준 인기 이슈입니다."
-    },
-    {
       "source": "Hacker News",
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 829,
-      "comments": 414,
+      "score": 918,
+      "comments": 458,
       "text": "",
-      "summary": "Talking to strangers at the gym. 점수 829, 반응 414 기준 인기 이슈입니다."
+      "summary": "Talking to strangers at the gym. 점수 918, 반응 458 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GameStop makes $55.5B takeover offer for eBay",
       "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 541,
-      "comments": 470,
+      "score": 579,
+      "comments": 511,
       "text": "",
-      "summary": "GameStop makes $55.5B takeover offer for eBay. 점수 541, 반응 470 기준 인기 이슈입니다."
+      "summary": "GameStop makes $55.5B takeover offer for eBay. 점수 579, 반응 511 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
       "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "score": 456,
-      "comments": 147,
+      "score": 464,
+      "comments": 149,
       "text": "",
-      "summary": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth. 점수 456, 반응 147 기준 인기 이슈입니다."
+      "summary": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth. 점수 464, 반응 149 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Using “underdrawings” for accurate text and numbers",
       "url": "https://samcollins.blog/underdrawings/",
-      "score": 344,
+      "score": 350,
       "comments": 126,
       "text": "",
-      "summary": "Using “underdrawings” for accurate text and numbers. 점수 344, 반응 126 기준 인기 이슈입니다."
+      "summary": "Using “underdrawings” for accurate text and numbers. 점수 350, 반응 126 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
       "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-      "score": 288,
-      "comments": 90,
+      "score": 334,
+      "comments": 116,
       "text": "",
-      "summary": "US healthcare marketplaces shared citizenship and race data with ad tech giants. 점수 288, 반응 90 기준 인기 이슈입니다."
+      "summary": "US healthcare marketplaces shared citizenship and race data with ad tech giants. 점수 334, 반응 116 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I am worried about Bun",
       "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 201,
-      "comments": 115,
+      "score": 284,
+      "comments": 181,
       "text": "",
-      "summary": "I am worried about Bun. 점수 201, 반응 115 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How Monero's proof of work works",
-      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
-      "score": 173,
-      "comments": 139,
-      "text": "",
-      "summary": "How Monero's proof of work works. 점수 173, 반응 139 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Redis array: short story of a long development process",
-      "url": "https://antirez.com/news/164",
-      "score": 169,
-      "comments": 63,
-      "text": "",
-      "summary": "Redis array: short story of a long development process. 점수 169, 반응 63 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Texico: Learn the principles of programming without even touching a computer",
-      "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-      "score": 167,
-      "comments": 13,
-      "text": "",
-      "summary": "Texico: Learn the principles of programming without even touching a computer. 점수 167, 반응 13 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Stop big tech from making users behave in ways they don't want to",
-      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
-      "score": 141,
-      "comments": 79,
-      "text": "",
-      "summary": "Stop big tech from making users behave in ways they don't want to. 점수 141, 반응 79 기준 인기 이슈입니다."
+      "summary": "I am worried about Bun. 점수 284, 반응 181 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
       "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "score": 127,
-      "comments": 59,
+      "score": 242,
+      "comments": 95,
       "text": "",
-      "summary": "Microsoft Edge stores all passwords in memory in clear text, even when unused. 점수 127, 반응 59 기준 인기 이슈입니다."
+      "summary": "Microsoft Edge stores all passwords in memory in clear text, even when unused. 점수 242, 반응 95 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Monero’s proof of work works",
+      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+      "score": 197,
+      "comments": 159,
+      "text": "",
+      "summary": "How Monero’s proof of work works. 점수 197, 반응 159 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Redis array: short story of a long development process",
+      "url": "https://antirez.com/news/164",
+      "score": 187,
+      "comments": 68,
+      "text": "",
+      "summary": "Redis array: short story of a long development process. 점수 187, 반응 68 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Stop big tech from making users behave in ways they don't want to",
+      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+      "score": 168,
+      "comments": 109,
+      "text": "",
+      "summary": "Stop big tech from making users behave in ways they don't want to. 점수 168, 반응 109 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Heat pump sales rise across Europe",
+      "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
+      "score": 149,
+      "comments": 68,
+      "text": "",
+      "summary": "Heat pump sales rise across Europe. 점수 149, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
       "url": "https://www.nber.org/papers/w35117",
-      "score": 123,
-      "comments": 99,
+      "score": 138,
+      "comments": 129,
       "text": "",
-      "summary": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks. 점수 123, 반응 99 기준 인기 이슈입니다."
+      "summary": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks. 점수 138, 반응 129 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "UK Fuel Price Intelligence",
+      "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
       "url": "https://www.fuelinsight.co.uk",
-      "score": 119,
-      "comments": 49,
+      "score": 134,
+      "comments": 67,
       "text": "",
-      "summary": "UK Fuel Price Intelligence. 점수 119, 반응 49 기준 인기 이슈입니다."
+      "summary": "UK Fuel Price Intelligence – Market analytics from reporting stations. 점수 134, 반응 67 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 133,
+      "comments": 53,
+      "text": "",
+      "summary": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability. 점수 133, 반응 53 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Newton's law of gravity passes its biggest test",
+      "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
+      "score": 112,
+      "comments": 98,
+      "text": "",
+      "summary": "Newton's law of gravity passes its biggest test. 점수 112, 반응 98 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "platform",
-      "count": 4
-    },
-    {
-      "keyword": "code",
-      "count": 4
-    },
-    {
-      "keyword": "prompts",
-      "count": 4
-    },
-    {
-      "keyword": "agent",
-      "count": 3
-    },
-    {
-      "keyword": "api",
-      "count": 3
-    },
-    {
-      "keyword": "openclaw",
+      "keyword": "text",
       "count": 2
     },
     {
-      "keyword": "any",
+      "keyword": "tech",
       "count": 2
     },
     {
-      "keyword": "workflow",
+      "keyword": "market",
       "count": 2
     },
     {
-      "keyword": "self-host",
-      "count": 2
+      "keyword": "talking",
+      "count": 1
     },
     {
-      "keyword": "autogpt",
-      "count": 2
+      "keyword": "strangers",
+      "count": 1
     },
     {
-      "keyword": "tools",
-      "count": 2
+      "keyword": "gym",
+      "count": 1
     },
     {
-      "keyword": "diffusion",
-      "count": 2
+      "keyword": "gamestop",
+      "count": 1
     },
     {
-      "keyword": "web",
-      "count": 2
+      "keyword": "makes",
+      "count": 1
     },
     {
-      "keyword": "open",
-      "count": 2
+      "keyword": "takeover",
+      "count": 1
     },
     {
-      "keyword": "development",
-      "count": 2
+      "keyword": "offer",
+      "count": 1
+    },
+    {
+      "keyword": "ebay",
+      "count": 1
+    },
+    {
+      "keyword": "byomesh",
+      "count": 1
+    },
+    {
+      "keyword": "lora",
+      "count": 1
+    },
+    {
+      "keyword": "mesh",
+      "count": 1
+    },
+    {
+      "keyword": "radio",
+      "count": 1
     }
   ],
   "meta": {
