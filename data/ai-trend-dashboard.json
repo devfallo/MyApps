@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T11:40:10.132177+00:00",
+  "updatedAt": "2026-05-05T14:24:38.211912+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 368483,
-      "comments": 6914,
+      "score": 368530,
+      "comments": 6950,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 368483, 반응 6914 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 368530, 반응 6950 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 186742,
-      "comments": 1442,
+      "score": 186757,
+      "comments": 1441,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186742, 반응 1442 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186757, 반응 1441 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 183996,
-      "comments": 398,
+      "score": 183995,
+      "comments": 399,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183996, 반응 398 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 183995, 반응 399 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,190 +46,190 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 161583,
+      "score": 161596,
       "comments": 45,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161583, 반응 45 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161596, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 140136,
-      "comments": 770,
+      "score": 140149,
+      "comments": 771,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 140136, 반응 770 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 140149, 반응 771 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136707,
+      "score": 136716,
       "comments": 136,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136707, 반응 136 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136716, 반응 136 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 135817,
+      "score": 135835,
       "comments": 557,
       "text": "The agent engineering platform. Available in TypeScript!",
-      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 135817, 반응 557 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 135835, 반응 557 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 135581,
-      "comments": 332,
+      "score": 135596,
+      "comments": 338,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 135581, 반응 332 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 135596, 반응 338 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 133427,
-      "comments": 8336,
+      "score": 133640,
+      "comments": 8317,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 133427, 반응 8336 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 133640, 반응 8317 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 115312,
-      "comments": 307,
+      "score": 115376,
+      "comments": 306,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 115312, 반응 307 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 115376, 반응 306 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 111418,
-      "comments": 4003,
+      "score": 111435,
+      "comments": 3997,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111418, 반응 4003 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111435, 반응 3997 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1387,
-      "comments": 659,
+      "score": 1430,
+      "comments": 697,
       "text": "",
-      "summary": "Talking to strangers at the gym. 점수 1387, 반응 659 기준 인기 이슈입니다."
+      "summary": "Talking to strangers at the gym. 점수 1430, 반응 697 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bun is being ported from Zig to Rust",
       "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 561,
-      "comments": 395,
+      "score": 633,
+      "comments": 446,
       "text": "",
-      "summary": "Bun is being ported from Zig to Rust. 점수 561, 반응 395 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 417,
-      "comments": 130,
-      "text": "",
-      "summary": "How OpenAI delivers low-latency voice AI at scale. 점수 417, 반응 130 기준 인기 이슈입니다."
+      "summary": "Bun is being ported from Zig to Rust. 점수 633, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 331,
-      "comments": 343,
+      "score": 546,
+      "comments": 473,
       "text": "",
-      "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent. 점수 331, 반응 343 기준 인기 이슈입니다."
+      "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent. 점수 546, 반응 473 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-      "url": "https://www.nber.org/papers/w35117",
-      "score": 305,
-      "comments": 288,
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "score": 445,
+      "comments": 135,
       "text": "",
-      "summary": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks. 점수 305, 반응 288 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Redis array: short story of a long development process",
-      "url": "https://antirez.com/news/164",
-      "score": 288,
-      "comments": 103,
-      "text": "",
-      "summary": "Redis array: short story of a long development process. 점수 288, 반응 103 기준 인기 이슈입니다."
+      "summary": "How OpenAI delivers low-latency voice AI at scale. 점수 445, 반응 135 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Train Your Own LLM from Scratch",
       "url": "https://github.com/angelos-p/llm-from-scratch",
-      "score": 284,
-      "comments": 29,
+      "score": 338,
+      "comments": 42,
       "text": "",
-      "summary": "Train Your Own LLM from Scratch. 점수 284, 반응 29 기준 인기 이슈입니다."
+      "summary": "Train Your Own LLM from Scratch. 점수 338, 반응 42 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "score": 321,
+      "comments": 323,
+      "text": "",
+      "summary": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks. 점수 321, 반응 323 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Agent Skills",
       "url": "https://addyosmani.com/blog/agent-skills/",
-      "score": 275,
-      "comments": 134,
+      "score": 306,
+      "comments": 154,
       "text": "",
-      "summary": "Agent Skills.  점수 275, 반응 134 기준 인기 이슈입니다."
+      "summary": "Agent Skills.  점수 306, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Async Rust never left the MVP state",
       "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "score": 204,
-      "comments": 95,
+      "score": 301,
+      "comments": 152,
       "text": "",
-      "summary": "Async Rust never left the MVP state. 점수 204, 반응 95 기준 인기 이슈입니다."
+      "summary": "Async Rust never left the MVP state. 점수 301, 반응 152 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 200,
-      "comments": 82,
+      "title": "Redis array: short story of a long development process",
+      "url": "https://antirez.com/news/164",
+      "score": 301,
+      "comments": 108,
       "text": "",
-      "summary": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability. 점수 200, 반응 82 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Formatting a 25M-line codebase overnight",
-      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-      "score": 175,
-      "comments": 89,
-      "text": "",
-      "summary": "Formatting a 25M-line codebase overnight. 점수 175, 반응 89 기준 인기 이슈입니다."
+      "summary": "Redis array: short story of a long development process. 점수 301, 반응 108 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
       "url": "https://walzr.com/empty-screenings",
-      "score": 173,
-      "comments": 136,
+      "score": 218,
+      "comments": 181,
       "text": "",
-      "summary": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold. 점수 173, 반응 136 기준 인기 이슈입니다."
+      "summary": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold. 점수 218, 반응 181 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
-      "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
-      "score": 173,
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 208,
+      "comments": 95,
+      "text": "",
+      "summary": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability. 점수 208, 반응 95 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kids bypass age verification with fake moustaches",
+      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+      "score": 185,
       "comments": 132,
       "text": "",
-      "summary": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'. 점수 173, 반응 132 기준 인기 이슈입니다."
+      "summary": "Kids bypass age verification with fake moustaches. 점수 185, 반응 132 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "score": 163,
+      "comments": 135,
+      "text": "",
+      "summary": "Should I Run Plain Docker Compose in Production in 2026?. 점수 163, 반응 135 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
