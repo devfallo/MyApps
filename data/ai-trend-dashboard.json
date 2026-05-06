@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T23:11:41.525084+00:00",
+  "updatedAt": "2026-05-06T04:05:43.566230+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,229 +10,233 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 368630,
-      "comments": 7090,
+      "score": 368734,
+      "comments": 7147,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 368630, 반응 7090 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 368734, 반응 7147 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 186793,
-      "comments": 1446,
+      "score": 186808,
+      "comments": 1448,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186793, 반응 1446 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186808, 반응 1448 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184009,
-      "comments": 400,
+      "score": 184007,
+      "comments": 402,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184009, 반응 400 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184007, 반응 402 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162734,
+      "score": 162733,
       "comments": 2483,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162734, 반응 2483 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162733, 반응 2483 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 161613,
+      "score": 161640,
       "comments": 45,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161613, 반응 45 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161640, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 140178,
-      "comments": 768,
+      "score": 140204,
+      "comments": 773,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 140178, 반응 768 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 140204, 반응 773 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136748,
+      "score": 136768,
       "comments": 136,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136748, 반응 136 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136768, 반응 136 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 135861,
+      "score": 135879,
       "comments": 557,
       "text": "The agent engineering platform. Available in TypeScript!",
-      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 135861, 반응 557 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 135879, 반응 557 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 135646,
+      "score": 135661,
       "comments": 345,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 135646, 반응 345 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 135661, 반응 345 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 134090,
-      "comments": 8309,
+      "score": 134457,
+      "comments": 8361,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 134090, 반응 8309 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 134457, 반응 8361 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 115535,
+      "score": 115602,
       "comments": 305,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 115535, 반응 305 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 115602, 반응 305 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 111470,
-      "comments": 3982,
+      "score": 111510,
+      "comments": 3979,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111470, 반응 3982 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111510, 반응 3979 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 1165,
-      "comments": 795,
+      "score": 1310,
+      "comments": 884,
       "text": "",
-      "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent. 점수 1165, 반응 795 기준 인기 이슈입니다."
+      "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent. 점수 1310, 반응 884 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": ".de TLD offline due to DNSSEC?",
       "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 449,
-      "comments": 178,
+      "score": 564,
+      "comments": 275,
       "text": "",
-      "summary": ".de TLD offline due to DNSSEC?. 점수 449, 반응 178 기준 인기 이슈입니다."
+      "summary": ".de TLD offline due to DNSSEC?. 점수 564, 반응 275 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 397,
-      "comments": 176,
+      "score": 488,
+      "comments": 215,
       "text": "",
-      "summary": "Accelerating Gemma 4: faster inference with multi-token prediction drafters. 점수 397, 반응 176 기준 인기 이슈입니다."
+      "summary": "Accelerating Gemma 4: faster inference with multi-token prediction drafters. 점수 488, 반응 215 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
       "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "score": 367,
-      "comments": 280,
+      "score": 393,
+      "comments": 294,
       "text": "",
-      "summary": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet. 점수 367, 반응 280 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Should I Run Plain Docker Compose in Production in 2026?",
-      "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 331,
-      "comments": 250,
-      "text": "",
-      "summary": "Should I Run Plain Docker Compose in Production in 2026?. 점수 331, 반응 250 기준 인기 이슈입니다."
+      "summary": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet. 점수 393, 반응 294 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Three Inverse Laws of AI",
       "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 328,
-      "comments": 225,
+      "score": 388,
+      "comments": 261,
       "text": "",
-      "summary": "Three Inverse Laws of AI. 점수 328, 반응 225 기준 인기 이슈입니다."
+      "summary": "Three Inverse Laws of AI. 점수 388, 반응 261 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "When everyone has AI and the company still learns nothing",
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "score": 295,
-      "comments": 205,
+      "title": "Should I run plain Docker Compose in production in 2026?",
+      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "score": 369,
+      "comments": 266,
       "text": "",
-      "summary": "When everyone has AI and the company still learns nothing. 점수 295, 반응 205 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
-      "score": 272,
-      "comments": 160,
-      "text": "",
-      "summary": "IBM didn't want Microsoft to use the Tab key to move between dialog fields. 점수 272, 반응 160 기준 인기 이슈입니다."
+      "summary": "Should I run plain Docker Compose in production in 2026?. 점수 369, 반응 266 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Computer Use is 45x more expensive than structured APIs",
       "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 262,
-      "comments": 131,
+      "score": 348,
+      "comments": 202,
       "text": "",
-      "summary": "Computer Use is 45x more expensive than structured APIs. 점수 262, 반응 131 기준 인기 이슈입니다."
+      "summary": "Computer Use is 45x more expensive than structured APIs. 점수 348, 반응 202 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "score": 219,
-      "comments": 279,
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "score": 331,
+      "comments": 224,
       "text": "",
-      "summary": "California farmers to destroy 420k peach trees following Del Monte bankruptcy. 점수 219, 반응 279 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
-      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-      "score": 211,
-      "comments": 232,
-      "text": "",
-      "summary": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%. 점수 211, 반응 232 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "EEVblog: The 555 Timer is 55 years old [video]",
-      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "score": 194,
-      "comments": 43,
-      "text": "",
-      "summary": "EEVblog: The 555 Timer is 55 years old [video]. 점수 194, 반응 43 기준 인기 이슈입니다."
+      "summary": "When everyone has AI and the company still learns nothing. 점수 331, 반응 224 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
       "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-      "score": 181,
-      "comments": 129,
+      "score": 301,
+      "comments": 280,
+      "text": "<a href=\"https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32\" rel=\"nofollow\">https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;meta-mark-zuckerberg-ai-publisher...</a>",
+      "summary": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement. https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;meta-mark-zuckerberg-ai-publisher... 점수 301, 반응 280 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+      "score": 293,
+      "comments": 349,
       "text": "",
-      "summary": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement. 점수 181, 반응 129 기준 인기 이슈입니다."
+      "summary": "California farmers to destroy 420k peach trees following Del Monte bankruptcy. 점수 293, 반응 349 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
+      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+      "score": 291,
+      "comments": 435,
+      "text": "",
+      "summary": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%. 점수 291, 반응 435 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "EEVblog: The 555 Timer is 55 years old [video]",
+      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+      "score": 250,
+      "comments": 64,
+      "text": "",
+      "summary": "EEVblog: The 555 Timer is 55 years old [video]. 점수 250, 반응 64 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Agents for financial services and insurance",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "score": 215,
+      "comments": 164,
+      "text": "",
+      "summary": "Agents for financial services and insurance. 점수 215, 반응 164 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 8
+    },
     {
       "keyword": "platform",
       "count": 4
@@ -244,10 +248,6 @@
     {
       "keyword": "prompts",
       "count": 4
-    },
-    {
-      "keyword": "use",
-      "count": 3
     },
     {
       "keyword": "agent",
@@ -282,15 +282,15 @@
       "count": 2
     },
     {
+      "keyword": "use",
+      "count": 2
+    },
+    {
       "keyword": "tools",
       "count": 2
     },
     {
       "keyword": "diffusion",
-      "count": 2
-    },
-    {
-      "keyword": "web",
       "count": 2
     }
   ],
