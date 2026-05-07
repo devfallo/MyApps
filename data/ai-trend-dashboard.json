@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T10:34:42.822127+00:00",
+  "updatedAt": "2026-05-07T14:50:18.573311+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,226 +10,226 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 369249,
-      "comments": 7382,
+      "score": 369332,
+      "comments": 7399,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 369249, 반응 7382 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 369332, 반응 7399 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 186934,
-      "comments": 1431,
+      "score": 186970,
+      "comments": 1434,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186934, 반응 1431 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186970, 반응 1434 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184044,
-      "comments": 401,
+      "score": 184057,
+      "comments": 403,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184044, 반응 401 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184057, 반응 403 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162755,
-      "comments": 2484,
+      "score": 162760,
+      "comments": 2483,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162755, 반응 2484 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162760, 반응 2483 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 161754,
+      "score": 161764,
       "comments": 46,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161754, 반응 46 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161764, 반응 46 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 140453,
-      "comments": 789,
+      "score": 140483,
+      "comments": 795,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 140453, 반응 789 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136851,
-      "comments": 139,
-      "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136851, 반응 139 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 140483, 반응 795 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 136770,
-      "comments": 8769,
+      "score": 137087,
+      "comments": 8587,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 136770, 반응 8769 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 137087, 반응 8587 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "score": 136858,
+      "comments": 140,
+      "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136858, 반응 140 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 136013,
-      "comments": 563,
+      "score": 136037,
+      "comments": 568,
       "text": "The agent engineering platform. Available in TypeScript!",
-      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 136013, 반응 563 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 136037, 반응 568 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 135878,
-      "comments": 358,
+      "score": 135911,
+      "comments": 359,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 135878, 반응 358 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 135911, 반응 359 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 116271,
-      "comments": 305,
+      "score": 116356,
+      "comments": 306,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 116271, 반응 305 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 116356, 반응 306 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 111736,
-      "comments": 3995,
+      "score": 111776,
+      "comments": 3994,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111736, 반응 3995 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111776, 반응 3994 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1447,
-      "comments": 466,
+      "score": 1607,
+      "comments": 529,
       "text": "",
-      "summary": "Valve releases Steam Controller CAD files under Creative Commons license. 점수 1447, 반응 466 기준 인기 이슈입니다."
+      "summary": "Valve releases Steam Controller CAD files under Creative Commons license. 점수 1607, 반응 529 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1191,
-      "comments": 455,
+      "score": 1402,
+      "comments": 557,
       "text": "",
-      "summary": "Appearing productive in the workplace. 점수 1191, 반응 455 기준 인기 이슈입니다."
+      "summary": "Appearing productive in the workplace. 점수 1402, 반응 557 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 615,
-      "comments": 665,
+      "score": 684,
+      "comments": 765,
       "text": "",
-      "summary": "Vibe coding and agentic engineering are getting closer than I'd like. 점수 615, 반응 665 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "score": 310,
-      "comments": 316,
-      "text": "",
-      "summary": "Google Cloud fraud defense, the next evolution of reCAPTCHA. 점수 310, 반응 316 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "From Supabase to Clerk to Better Auth",
-      "url": "https://blog.val.town/better-auth",
-      "score": 260,
-      "comments": 191,
-      "text": "",
-      "summary": "From Supabase to Clerk to Better Auth. 점수 260, 반응 191 기준 인기 이슈입니다."
+      "summary": "Vibe coding and agentic engineering are getting closer than I'd like. 점수 684, 반응 765 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "url": "https://sqlite.org/locrsf.html",
-      "score": 260,
-      "comments": 70,
+      "score": 442,
+      "comments": 136,
       "text": "",
-      "summary": "SQLite Is a Library of Congress Recommended Storage Format. 점수 260, 반응 70 기준 인기 이슈입니다."
+      "summary": "SQLite Is a Library of Congress Recommended Storage Format. 점수 442, 반응 136 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Hallucinopedia",
-      "url": "http://halupedia.com/",
-      "score": 232,
-      "comments": 208,
+      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+      "score": 354,
+      "comments": 367,
       "text": "",
-      "summary": "Show HN: Hallucinopedia. 점수 232, 반응 208 기준 인기 이슈입니다."
+      "summary": "Google Cloud fraud defense, the next evolution of reCAPTCHA. 점수 354, 반응 367 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "A Theory of Deep Learning",
-      "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
-      "score": 200,
-      "comments": 46,
+      "title": "From Supabase to Clerk to Better Auth",
+      "url": "https://blog.val.town/better-auth",
+      "score": 276,
+      "comments": 210,
       "text": "",
-      "summary": "A Theory of Deep Learning. 점수 200, 반응 46 기준 인기 이슈입니다."
+      "summary": "From Supabase to Clerk to Better Auth. 점수 276, 반응 210 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-      "url": "https://tilde.run/",
-      "score": 166,
-      "comments": 118,
+      "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
+      "url": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
+      "score": 251,
+      "comments": 167,
       "text": "",
-      "summary": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem. 점수 166, 반응 118 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Vatican's Website in Latin",
-      "url": "https://www.vatican.va/latin/latin_index.html",
-      "score": 153,
-      "comments": 89,
-      "text": "",
-      "summary": "The Vatican's Website in Latin. 점수 153, 반응 89 기준 인기 이슈입니다."
+      "summary": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense. 점수 251, 반응 167 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Permacomputing Principles",
       "url": "https://permacomputing.net/principles/",
-      "score": 147,
-      "comments": 67,
+      "score": 205,
+      "comments": 121,
       "text": "",
-      "summary": "Permacomputing Principles. 점수 147, 반응 67 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Learning the Integral of a Diffusion Model",
-      "url": "https://sander.ai/2026/05/06/flow-maps.html",
-      "score": 137,
-      "comments": 21,
-      "text": "",
-      "summary": "Learning the Integral of a Diffusion Model. 점수 137, 반응 21 기준 인기 이슈입니다."
+      "summary": "Permacomputing Principles. 점수 205, 반응 121 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RSS feeds send me more traffic than Google",
       "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-      "score": 118,
-      "comments": 24,
+      "score": 189,
+      "comments": 40,
       "text": "",
-      "summary": "RSS feeds send me more traffic than Google. 점수 118, 반응 24 기준 인기 이슈입니다."
+      "summary": "RSS feeds send me more traffic than Google. 점수 189, 반응 40 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "url": "https://aniket.foo/posts/20260505-netboot/",
+      "score": 138,
+      "comments": 78,
+      "text": "",
+      "summary": "Diskless Linux boot using ZFS, iSCSI and PXE. 점수 138, 반응 78 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
+      "url": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
+      "score": 124,
+      "comments": 61,
+      "text": "",
+      "summary": "LinkedIn profile visitor lists belong to the people, says Noyb. 점수 124, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+      "score": 104,
+      "comments": 44,
+      "text": "",
+      "summary": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004). 점수 104, 반응 44 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Chevrolet Performance eCrate package (400v/200hp)",
+      "url": "https://www.chevrolet.com/performance-parts/crate-engines/ecrate",
+      "score": 101,
+      "comments": 77,
+      "text": "",
+      "summary": "Chevrolet Performance eCrate package (400v/200hp). 점수 101, 반응 77 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -247,10 +247,6 @@
     },
     {
       "keyword": "agent",
-      "count": 4
-    },
-    {
-      "keyword": "diffusion",
       "count": 3
     },
     {
@@ -282,15 +278,19 @@
       "count": 2
     },
     {
+      "keyword": "our",
+      "count": 2
+    },
+    {
       "keyword": "tools",
       "count": 2
     },
     {
-      "keyword": "web",
+      "keyword": "diffusion",
       "count": 2
     },
     {
-      "keyword": "open",
+      "keyword": "web",
       "count": 2
     }
   ],
