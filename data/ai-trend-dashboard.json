@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T23:11:14.104343+00:00",
+  "updatedAt": "2026-05-08T03:53:38.842495+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,232 +10,240 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 369451,
-      "comments": 7469,
+      "score": 369519,
+      "comments": 7501,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 369451, 반응 7469 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 369519, 반응 7501 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 186996,
-      "comments": 1440,
+      "score": 187017,
+      "comments": 1438,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 186996, 반응 1440 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 187017, 반응 1438 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184061,
-      "comments": 403,
+      "score": 184065,
+      "comments": 392,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184061, 반응 403 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184065, 반응 392 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162760,
+      "score": 162764,
       "comments": 2483,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162760, 반응 2483 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162764, 반응 2483 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 161778,
+      "score": 161788,
       "comments": 46,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161778, 반응 46 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161788, 반응 46 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 140505,
-      "comments": 798,
+      "score": 140529,
+      "comments": 787,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 140505, 반응 798 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 140529, 반응 787 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 137494,
-      "comments": 8728,
+      "score": 137825,
+      "comments": 8808,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 137494, 반응 8728 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 137825, 반응 8808 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136872,
+      "score": 136884,
       "comments": 139,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136872, 반응 139 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136884, 반응 139 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 136058,
-      "comments": 562,
+      "score": 136079,
+      "comments": 563,
       "text": "The agent engineering platform. Available in TypeScript!",
-      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 136058, 반응 562 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 136079, 반응 563 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 135969,
+      "score": 136010,
       "comments": 362,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 135969, 반응 362 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 136010, 반응 362 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 116547,
+      "score": 116639,
       "comments": 305,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 116547, 반응 305 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 116639, 반응 305 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 111817,
-      "comments": 3997,
+      "score": 111849,
+      "comments": 3995,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111817, 반응 3997 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111849, 반응 3995 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The Burning Man MOOP Map",
+      "title": "The map that keeps Burning Man honest",
       "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 502,
-      "comments": 269,
+      "score": 565,
+      "comments": 293,
       "text": "",
-      "summary": "The Burning Man MOOP Map. 점수 502, 반응 269 기준 인기 이슈입니다."
+      "summary": "The map that keeps Burning Man honest. 점수 565, 반응 293 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-      "score": 404,
-      "comments": 154,
+      "title": "Programming Still Sucks",
+      "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
+      "score": 502,
+      "comments": 278,
       "text": "",
-      "summary": "Chrome removes claim of On-device Al not sending data to Google Servers. 점수 404, 반응 154 기준 인기 이슈입니다."
+      "summary": "Programming Still Sucks. 점수 502, 반응 278 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI slop is killing online communities",
       "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "score": 349,
-      "comments": 327,
+      "score": 498,
+      "comments": 468,
       "text": "",
-      "summary": "AI slop is killing online communities. 점수 349, 반응 327 기준 인기 이슈입니다."
+      "summary": "AI slop is killing online communities. 점수 498, 반응 468 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Child marriages plunged when girls stayed in school in Nigeria",
-      "url": "https://www.nature.com/articles/d41586-026-00720-8",
-      "score": 319,
-      "comments": 243,
-      "text": "Related: <a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-026-00796-2\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-026-00796-2</a> (<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;otvAa\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;otvAa</a>)",
-      "summary": "Child marriages plunged when girls stayed in school in Nigeria. Related: https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-026-00796-2 ( https:&#x2F;&#x2F;archive.ph&#x2F;otvAa ) 점수 319, 반응 243 기준 인기 이슈입니다."
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "score": 496,
+      "comments": 190,
+      "text": "",
+      "summary": "Chrome removes claim of On-device Al not sending data to Google Servers. 점수 496, 반응 190 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Dirtyfrag: Universal Linux LPE",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 304,
-      "comments": 140,
+      "score": 471,
+      "comments": 206,
       "text": "",
-      "summary": "Dirtyfrag: Universal Linux LPE. 점수 304, 반응 140 기준 인기 이슈입니다."
+      "summary": "Dirtyfrag: Universal Linux LPE. 점수 471, 반응 206 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Agents need control flow, not more prompts",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 263,
-      "comments": 149,
+      "score": 363,
+      "comments": 196,
       "text": "",
-      "summary": "Agents need control flow, not more prompts. 점수 263, 반응 149 기준 인기 이슈입니다."
+      "summary": "Agents need control flow, not more prompts. 점수 363, 반응 196 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "score": 355,
+      "comments": 255,
+      "text": "<a href=\"https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26\" rel=\"nofollow\">https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26</a><p><a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-login-pages-after-claiming-another-instructure-hack&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-logi...</a>",
+      "summary": "Canvas is down as ShinyHunters threatens to leak schools’ data. https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26 https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-logi... 점수 355, 반응 255 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek 4 Flash local inference engine for Metal",
       "url": "https://github.com/antirez/ds4",
-      "score": 248,
-      "comments": 72,
+      "score": 320,
+      "comments": 93,
       "text": "",
-      "summary": "DeepSeek 4 Flash local inference engine for Metal. 점수 248, 반응 72 기준 인기 이슈입니다."
+      "summary": "DeepSeek 4 Flash local inference engine for Metal. 점수 320, 반응 93 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 232,
-      "comments": 90,
-      "text": "",
-      "summary": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields. 점수 232, 반응 90 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-      "score": 231,
-      "comments": 272,
-      "text": "",
-      "summary": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI. 점수 231, 반응 272 기준 인기 이슈입니다."
+      "title": "Cloudflare to cut about 20% workforce",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "score": 317,
+      "comments": 201,
+      "text": "<a href=\"https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;</a>",
+      "summary": "Cloudflare to cut about 20% workforce. https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F; 점수 317, 반응 201 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I want to live like Costco people",
       "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
-      "score": 180,
-      "comments": 410,
+      "score": 258,
+      "comments": 538,
       "text": "",
-      "summary": "I want to live like Costco people. 점수 180, 반응 410 기준 인기 이슈입니다."
+      "summary": "I want to live like Costco people. 점수 258, 반응 538 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-      "score": 180,
-      "comments": 80,
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "score": 257,
+      "comments": 109,
       "text": "",
-      "summary": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004). 점수 180, 반응 80 기준 인기 이슈입니다."
+      "summary": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields. 점수 257, 반응 109 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-      "url": "https://ratex.lites.dev/",
-      "score": 154,
-      "comments": 86,
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "score": 233,
+      "comments": 106,
       "text": "",
-      "summary": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust. 점수 154, 반응 86 기준 인기 이슈입니다."
+      "summary": "Maybe you shouldn't install new software for a bit. 점수 233, 반응 106 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
       "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "score": 151,
-      "comments": 49,
+      "score": 219,
+      "comments": 71,
       "text": "",
-      "summary": "Natural Language Autoencoders: Turning Claude's Thoughts into Text. 점수 151, 반응 49 기준 인기 이슈입니다."
+      "summary": "Natural Language Autoencoders: Turning Claude's Thoughts into Text. 점수 219, 반응 71 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 14
+      "count": 33
+    },
+    {
+      "keyword": "https",
+      "count": 6
+    },
+    {
+      "keyword": "com",
+      "count": 6
     },
     {
       "keyword": "prompts",
@@ -254,11 +262,23 @@
       "count": 4
     },
     {
-      "keyword": "https",
-      "count": 4
+      "keyword": "api",
+      "count": 3
     },
     {
-      "keyword": "api",
+      "keyword": "href",
+      "count": 3
+    },
+    {
+      "keyword": "rel",
+      "count": 3
+    },
+    {
+      "keyword": "nofollow",
+      "count": 3
+    },
+    {
+      "keyword": "cloudflare",
       "count": 3
     },
     {
@@ -271,26 +291,6 @@
     },
     {
       "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "diffusion",
-      "count": 2
-    },
-    {
-      "keyword": "web",
       "count": 2
     }
   ],
