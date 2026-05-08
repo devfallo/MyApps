@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T21:15:46.590371+00:00",
+  "updatedAt": "2026-05-08T23:10:27.245170+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 369859,
-      "comments": 7601,
+      "score": 369873,
+      "comments": 7623,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 369859, 반응 7601 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 369873, 반응 7623 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 187123,
+      "score": 187131,
       "comments": 1455,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 187123, 반응 1455 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 187131, 반응 1455 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184095,
+      "score": 184097,
       "comments": 391,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184095, 반응 391 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184097, 반응 391 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162785,
+      "score": 162784,
       "comments": 2483,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162785, 반응 2483 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162784, 반응 2483 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,191 +55,191 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 140618,
+      "score": 140624,
       "comments": 758,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 140618, 반응 758 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 140624, 반응 758 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 139101,
-      "comments": 9109,
+      "score": 139156,
+      "comments": 9142,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 139101, 반응 9109 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 139156, 반응 9142 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136920,
-      "comments": 140,
+      "score": 136922,
+      "comments": 139,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136920, 반응 140 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langchain-ai/langchain",
-      "url": "https://github.com/langchain-ai/langchain",
-      "score": 136158,
-      "comments": 565,
-      "text": "The agent engineering platform. Available in TypeScript!",
-      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 136158, 반응 565 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136922, 반응 139 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 136150,
-      "comments": 246,
+      "score": 136165,
+      "comments": 220,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 136150, 반응 246 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 136165, 반응 220 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "score": 136161,
+      "comments": 565,
+      "text": "The agent engineering platform. Available in TypeScript!",
+      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 136161, 반응 565 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 117003,
-      "comments": 307,
+      "score": 117032,
+      "comments": 308,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 117003, 반응 307 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 117032, 반응 308 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 111981,
+      "score": 111982,
       "comments": 3986,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111981, 반응 3986 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111982, 반응 3986 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Rumors of my death are slightly exaggerated",
       "url": "https://news.ycombinator.com/item?id=48037336",
-      "score": 1323,
-      "comments": 211,
+      "score": 1442,
+      "comments": 223,
       "text": "AI hallucinations are getting ambitious.<p>A couple people recently emailed, asking whether the Klein bottle business was still operating after my death.<p>“Huh?” I thought. “I ain’t dead yet.”<p>After some digging, I discovered the source: an AI-generated review of The Cuckoo’s Egg circulating on Facebook. Alongside the usual synthetic praise and fabricated details, it confidently announced that I had died in May 2024.<p>Apparently AI has now advanced to the point where it can kill people off before they notice.<p>Mark Twain once wrote, “Reports of my death are greatly exaggerated.” I never expected to field-test the quote personally.<p>source: https:&#x2F;&#x2F;www.facebook.com&#x2F;story.php?story_fbid=989939243570691&amp;id=100076638743004<p>Cheers,   -Cliff",
-      "summary": "Rumors of my death are slightly exaggerated. AI hallucinations are getting ambitious. A couple people recently emailed, asking whether the Klein bottle business was still operating after my death. 점수 1323, 반응 211 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cloudflare to cut about 20% of its workforce",
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 1248,
-      "comments": 885,
-      "text": "<a href=\"https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;</a>",
-      "summary": "Cloudflare to cut about 20% of its workforce. https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F; 점수 1248, 반응 885 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 889,
-      "comments": 592,
-      "text": "<a href=\"https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26\" rel=\"nofollow\">https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26</a><p><a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-login-pages-after-claiming-another-instructure-hack&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-logi...</a>",
-      "summary": "Canvas online again as ShinyHunters threatens to leak schools’ data. https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26 https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-logi... 점수 889, 반응 592 기준 인기 이슈입니다."
+      "summary": "Rumors of my death are slightly exaggerated. AI hallucinations are getting ambitious. A couple people recently emailed, asking whether the Klein bottle business was still operating after my death. 점수 1442, 반응 223 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Poland is now among the 20 largest economies",
       "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 814,
-      "comments": 689,
+      "score": 865,
+      "comments": 716,
       "text": "",
-      "summary": "Poland is now among the 20 largest economies. 점수 814, 반응 689 기준 인기 이슈입니다."
+      "summary": "Poland is now among the 20 largest economies. 점수 865, 반응 716 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Maybe you shouldn't install new software for a bit",
       "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 798,
-      "comments": 422,
+      "score": 807,
+      "comments": 427,
       "text": "",
-      "summary": "Maybe you shouldn't install new software for a bit. 점수 798, 반응 422 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 779,
-      "comments": 310,
-      "text": "",
-      "summary": "Dirtyfrag: Universal Linux LPE. 점수 779, 반응 310 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google Cloud Fraud Defence is just WEI repackaged",
-      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-      "score": 599,
-      "comments": 290,
-      "text": "",
-      "summary": "Google Cloud Fraud Defence is just WEI repackaged. 점수 599, 반응 290 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A web page that shows you everything the browser told it without asking",
-      "url": "https://sinceyouarrived.world/taken",
-      "score": 475,
-      "comments": 235,
-      "text": "",
-      "summary": "A web page that shows you everything the browser told it without asking. 점수 475, 반응 235 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "An Introduction to Meshtastic",
-      "url": "https://meshtastic.org/docs/introduction/",
-      "score": 326,
-      "comments": 127,
-      "text": "",
-      "summary": "An Introduction to Meshtastic. 점수 326, 반응 127 기준 인기 이슈입니다."
+      "summary": "Maybe you shouldn't install new software for a bit. 점수 807, 반응 427 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "David Attenborough's 100th Birthday",
       "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 262,
-      "comments": 38,
+      "score": 367,
+      "comments": 70,
       "text": "",
-      "summary": "David Attenborough's 100th Birthday. 점수 262, 반응 38 기준 인기 이슈입니다."
+      "summary": "David Attenborough's 100th Birthday. 점수 367, 반응 70 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "score": 357,
+      "comments": 122,
+      "text": "Related: <i>Google Cloud fraud defense, the next evolution of reCAPTCHA</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48039362\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48039362</a><p>also: <i>Google Cloud Fraud Defence is just WEI repackaged</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48063199\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48063199</a>",
+      "summary": "Google broke reCAPTCHA for de-googled Android users. Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48039362 also: Google Cloud Fraud Defence is just WEI repackaged - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48063199 점수 357, 반응 122 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "An Introduction to Meshtastic",
+      "url": "https://meshtastic.org/docs/introduction/",
+      "score": 354,
+      "comments": 135,
+      "text": "",
+      "summary": "An Introduction to Meshtastic. 점수 354, 반응 135 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ask HN: We just had an actual UUID v4 collision...",
       "url": "https://news.ycombinator.com/item?id=48060054",
-      "score": 236,
-      "comments": 214,
+      "score": 267,
+      "comments": 231,
       "text": "I know what you&#x27;re thinking... and I still can&#x27;t believe it, but...<p>This morning, our database flagged a duplicate UUID (v4). I checked, thinking it may have been a double-insert bug or something, but no.<p>The original UUID was from a record added in 2025 (about a year ago), and today the system inserted a new document with a fresh UUIDv4 and it came up with the exact same one:<p>b6133fd6-70fe-4fe3-bed6-8ca8fc9386cd<p>We&#x27;re using this:\nhttps:&#x2F;&#x2F;www.npmjs.com&#x2F;package&#x2F;uuid<p>I thought this is technically impossible, and it will never happen, and since we&#x27;re not modifying the UUIDs in any way, I really wonder how that.... is possible!? We&#x27;re literally only calling:<p>import { v4 as uuidv4 } from &quot;uuid&quot;;<p>const document_id = uuidv4();<p>... and then insert into the database, that&#x27;s it.<p>Additionally, the database only has about 15.000 records, and now one collision. Statistically... impossible.<p>Has that ever happened to anyone?! What in the...",
-      "summary": "Ask HN: We just had an actual UUID v4 collision.... I know what you&#x27;re thinking... and I still can&#x27;t believe it, but... 점수 236, 반응 214 기준 인기 이슈입니다."
+      "summary": "Ask HN: We just had an actual UUID v4 collision.... I know what you&#x27;re thinking... and I still can&#x27;t believe it, but... 점수 267, 반응 231 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mojo 1.0 Beta",
       "url": "https://mojolang.org/",
-      "score": 227,
-      "comments": 152,
+      "score": 256,
+      "comments": 168,
       "text": "",
-      "summary": "Mojo 1.0 Beta.  점수 227, 반응 152 기준 인기 이슈입니다."
+      "summary": "Mojo 1.0 Beta.  점수 256, 반응 168 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cartoon Network Flash Games",
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 209,
-      "comments": 66,
+      "score": 249,
+      "comments": 82,
       "text": "",
-      "summary": "Cartoon Network Flash Games. 점수 209, 반응 66 기준 인기 이슈입니다."
+      "summary": "Cartoon Network Flash Games. 점수 249, 반응 82 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "US Government releases first batch of UAP documents and videos",
+      "url": "https://www.war.gov/UFO/",
+      "score": 206,
+      "comments": 317,
+      "text": "<a href=\"https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;trump-ufos-uap-aliens-pentagon-records-investigation-3e658d2cf3742465127c0049c872240a\" rel=\"nofollow\">https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;trump-ufos-uap-aliens-pentagon-re...</a><p><a href=\"https:&#x2F;&#x2F;www.war.gov&#x2F;UFO&#x2F;#release\" rel=\"nofollow\">https:&#x2F;&#x2F;www.war.gov&#x2F;UFO&#x2F;#release</a>",
+      "summary": "US Government releases first batch of UAP documents and videos. https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;trump-ufos-uap-aliens-pentagon-re... https:&#x2F;&#x2F;www.war.gov&#x2F;UFO&#x2F;#release 점수 206, 반응 317 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "url": "https://btxx.org/posts/memory/",
+      "score": 178,
+      "comments": 71,
+      "text": "",
+      "summary": "Serving a website on a Raspberry Pi Zero running in RAM. 점수 178, 반응 71 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "score": 176,
+      "comments": 77,
+      "text": "",
+      "summary": "AI is breaking two vulnerability cultures. 점수 176, 반응 77 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "PC Engine CPU",
+      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+      "score": 114,
+      "comments": 50,
+      "text": "",
+      "summary": "PC Engine CPU.  점수 114, 반응 50 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 40
+      "count": 35
     },
     {
       "keyword": "https",
-      "count": 8
+      "count": 10
     },
     {
       "keyword": "com",
@@ -266,31 +266,31 @@
       "count": 4
     },
     {
+      "keyword": "www",
+      "count": 4
+    },
+    {
+      "keyword": "href",
+      "count": 4
+    },
+    {
+      "keyword": "news",
+      "count": 4
+    },
+    {
+      "keyword": "ycombinator",
+      "count": 4
+    },
+    {
+      "keyword": "item",
+      "count": 4
+    },
+    {
       "keyword": "any",
       "count": 3
     },
     {
-      "keyword": "can",
-      "count": 3
-    },
-    {
-      "keyword": "web",
-      "count": 3
-    },
-    {
-      "keyword": "source",
-      "count": 3
-    },
-    {
-      "keyword": "agent",
-      "count": 3
-    },
-    {
-      "keyword": "api",
-      "count": 3
-    },
-    {
-      "keyword": "death",
+      "keyword": "cloud",
       "count": 3
     }
   ],
