@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T19:45:31.983187+00:00",
+  "updatedAt": "2026-05-08T21:15:46.590371+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 369848,
-      "comments": 7589,
+      "score": 369859,
+      "comments": 7601,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 369848, 반응 7589 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 369859, 반응 7601 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 187117,
-      "comments": 1452,
+      "score": 187123,
+      "comments": 1455,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 187117, 반응 1452 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 187123, 반응 1455 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184096,
+      "score": 184095,
       "comments": 391,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184096, 반응 391 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184095, 반응 391 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 162782,
+      "score": 162785,
       "comments": 2483,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162782, 반응 2483 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 162785, 반응 2483 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 161842,
+      "score": 161845,
       "comments": 45,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161842, 반응 45 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161845, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 140616,
-      "comments": 756,
+      "score": 140618,
+      "comments": 758,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 140616, 반응 756 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 140618, 반응 758 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 139045,
-      "comments": 9082,
+      "score": 139101,
+      "comments": 9109,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 139045, 반응 9082 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 139101, 반응 9109 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136918,
+      "score": 136920,
       "comments": 140,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136918, 반응 140 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136920, 반응 140 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,145 +91,145 @@
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 136141,
-      "comments": 288,
+      "score": 136150,
+      "comments": 246,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 136141, 반응 288 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 136150, 반응 246 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 116980,
+      "score": 117003,
       "comments": 307,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 116980, 반응 307 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 117003, 반응 307 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 111978,
-      "comments": 3987,
+      "score": 111981,
+      "comments": 3986,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111978, 반응 3987 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cloudflare to cut about 20% of its workforce",
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 1215,
-      "comments": 850,
-      "text": "<a href=\"https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;</a>",
-      "summary": "Cloudflare to cut about 20% of its workforce. https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F; 점수 1215, 반응 850 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 111981, 반응 3986 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Rumors of my death are slightly exaggerated",
       "url": "https://news.ycombinator.com/item?id=48037336",
-      "score": 1213,
-      "comments": 191,
+      "score": 1323,
+      "comments": 211,
       "text": "AI hallucinations are getting ambitious.<p>A couple people recently emailed, asking whether the Klein bottle business was still operating after my death.<p>“Huh?” I thought. “I ain’t dead yet.”<p>After some digging, I discovered the source: an AI-generated review of The Cuckoo’s Egg circulating on Facebook. Alongside the usual synthetic praise and fabricated details, it confidently announced that I had died in May 2024.<p>Apparently AI has now advanced to the point where it can kill people off before they notice.<p>Mark Twain once wrote, “Reports of my death are greatly exaggerated.” I never expected to field-test the quote personally.<p>source: https:&#x2F;&#x2F;www.facebook.com&#x2F;story.php?story_fbid=989939243570691&amp;id=100076638743004<p>Cheers,   -Cliff",
-      "summary": "Rumors of my death are slightly exaggerated. AI hallucinations are getting ambitious. A couple people recently emailed, asking whether the Klein bottle business was still operating after my death. 점수 1213, 반응 191 기준 인기 이슈입니다."
+      "summary": "Rumors of my death are slightly exaggerated. AI hallucinations are getting ambitious. A couple people recently emailed, asking whether the Klein bottle business was still operating after my death. 점수 1323, 반응 211 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cloudflare to cut about 20% of its workforce",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "score": 1248,
+      "comments": 885,
+      "text": "<a href=\"https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;</a>",
+      "summary": "Cloudflare to cut about 20% of its workforce. https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F; 점수 1248, 반응 885 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 882,
-      "comments": 587,
+      "score": 889,
+      "comments": 592,
       "text": "<a href=\"https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26\" rel=\"nofollow\">https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26</a><p><a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-login-pages-after-claiming-another-instructure-hack&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-logi...</a>",
-      "summary": "Canvas online again as ShinyHunters threatens to leak schools’ data. https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26 https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-logi... 점수 882, 반응 587 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Maybe you shouldn't install new software for a bit",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 783,
-      "comments": 408,
-      "text": "",
-      "summary": "Maybe you shouldn't install new software for a bit. 점수 783, 반응 408 기준 인기 이슈입니다."
+      "summary": "Canvas online again as ShinyHunters threatens to leak schools’ data. https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26 https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-logi... 점수 889, 반응 592 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Poland is now among the 20 largest economies",
       "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 772,
-      "comments": 666,
+      "score": 814,
+      "comments": 689,
       "text": "",
-      "summary": "Poland is now among the 20 largest economies. 점수 772, 반응 666 기준 인기 이슈입니다."
+      "summary": "Poland is now among the 20 largest economies. 점수 814, 반응 689 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "score": 798,
+      "comments": 422,
+      "text": "",
+      "summary": "Maybe you shouldn't install new software for a bit. 점수 798, 반응 422 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Dirtyfrag: Universal Linux LPE",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 765,
-      "comments": 307,
+      "score": 779,
+      "comments": 310,
       "text": "",
-      "summary": "Dirtyfrag: Universal Linux LPE. 점수 765, 반응 307 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The map that keeps Burning Man honest",
-      "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 742,
-      "comments": 342,
-      "text": "",
-      "summary": "The map that keeps Burning Man honest. 점수 742, 반응 342 기준 인기 이슈입니다."
+      "summary": "Dirtyfrag: Universal Linux LPE. 점수 779, 반응 310 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google Cloud Fraud Defence is just WEI repackaged",
       "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-      "score": 476,
-      "comments": 237,
+      "score": 599,
+      "comments": 290,
       "text": "",
-      "summary": "Google Cloud Fraud Defence is just WEI repackaged. 점수 476, 반응 237 기준 인기 이슈입니다."
+      "summary": "Google Cloud Fraud Defence is just WEI repackaged. 점수 599, 반응 290 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A web page that shows you everything the browser told it without asking",
       "url": "https://sinceyouarrived.world/taken",
-      "score": 392,
-      "comments": 191,
+      "score": 475,
+      "comments": 235,
       "text": "",
-      "summary": "A web page that shows you everything the browser told it without asking. 점수 392, 반응 191 기준 인기 이슈입니다."
+      "summary": "A web page that shows you everything the browser told it without asking. 점수 475, 반응 235 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "An Introduction to Meshtastic",
       "url": "https://meshtastic.org/docs/introduction/",
-      "score": 302,
-      "comments": 114,
+      "score": 326,
+      "comments": 127,
       "text": "",
-      "summary": "An Introduction to Meshtastic. 점수 302, 반응 114 기준 인기 이슈입니다."
+      "summary": "An Introduction to Meshtastic. 점수 326, 반응 127 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "ClojureScript Gets Async/Await",
-      "url": "https://clojurescript.org/news/2026-05-07-release",
-      "score": 254,
-      "comments": 59,
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "score": 262,
+      "comments": 38,
       "text": "",
-      "summary": "ClojureScript Gets Async/Await. 점수 254, 반응 59 기준 인기 이슈입니다."
+      "summary": "David Attenborough's 100th Birthday. 점수 262, 반응 38 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ask HN: We just had an actual UUID v4 collision...",
       "url": "https://news.ycombinator.com/item?id=48060054",
-      "score": 198,
-      "comments": 186,
+      "score": 236,
+      "comments": 214,
       "text": "I know what you&#x27;re thinking... and I still can&#x27;t believe it, but...<p>This morning, our database flagged a duplicate UUID (v4). I checked, thinking it may have been a double-insert bug or something, but no.<p>The original UUID was from a record added in 2025 (about a year ago), and today the system inserted a new document with a fresh UUIDv4 and it came up with the exact same one:<p>b6133fd6-70fe-4fe3-bed6-8ca8fc9386cd<p>We&#x27;re using this:\nhttps:&#x2F;&#x2F;www.npmjs.com&#x2F;package&#x2F;uuid<p>I thought this is technically impossible, and it will never happen, and since we&#x27;re not modifying the UUIDs in any way, I really wonder how that.... is possible!? We&#x27;re literally only calling:<p>import { v4 as uuidv4 } from &quot;uuid&quot;;<p>const document_id = uuidv4();<p>... and then insert into the database, that&#x27;s it.<p>Additionally, the database only has about 15.000 records, and now one collision. Statistically... impossible.<p>Has that ever happened to anyone?! What in the...",
-      "summary": "Ask HN: We just had an actual UUID v4 collision.... I know what you&#x27;re thinking... and I still can&#x27;t believe it, but... 점수 198, 반응 186 기준 인기 이슈입니다."
+      "summary": "Ask HN: We just had an actual UUID v4 collision.... I know what you&#x27;re thinking... and I still can&#x27;t believe it, but... 점수 236, 반응 214 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mojo 1.0 Beta",
       "url": "https://mojolang.org/",
-      "score": 189,
-      "comments": 134,
+      "score": 227,
+      "comments": 152,
       "text": "",
-      "summary": "Mojo 1.0 Beta.  점수 189, 반응 134 기준 인기 이슈입니다."
+      "summary": "Mojo 1.0 Beta.  점수 227, 반응 152 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "score": 209,
+      "comments": 66,
+      "text": "",
+      "summary": "Cartoon Network Flash Games. 점수 209, 반응 66 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -290,7 +290,7 @@
       "count": 3
     },
     {
-      "keyword": "cloudflare",
+      "keyword": "death",
       "count": 3
     }
   ],
