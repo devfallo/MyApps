@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T04:15:37.354758+00:00",
+  "updatedAt": "2026-05-10T08:21:26.701416+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 370283,
-      "comments": 7636,
+      "score": 370343,
+      "comments": 7577,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 370283, 반응 7636 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 370343, 반응 7577 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 187261,
+      "score": 187282,
       "comments": 1479,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 187261, 반응 1479 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 187282, 반응 1479 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184123,
-      "comments": 390,
+      "score": 184129,
+      "comments": 391,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184123, 반응 390 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184129, 반응 391 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,204 +46,204 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 161913,
+      "score": 161922,
       "comments": 43,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161913, 반응 43 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 161922, 반응 43 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 141165,
-      "comments": 9586,
+      "score": 141458,
+      "comments": 9638,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 141165, 반응 9586 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 141458, 반응 9638 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 140747,
-      "comments": 765,
+      "score": 140777,
+      "comments": 762,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 140747, 반응 765 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 140777, 반응 762 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 136986,
+      "score": 136990,
       "comments": 139,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136986, 반응 139 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 136990, 반응 139 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 136345,
+      "score": 136380,
       "comments": 232,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 136345, 반응 232 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 136380, 반응 232 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 136268,
-      "comments": 567,
+      "score": 136282,
+      "comments": 569,
       "text": "The agent engineering platform. Available in TypeScript!",
-      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 136268, 반응 567 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. Available in TypeScript! 점수 136282, 반응 569 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 117557,
+      "score": 117622,
       "comments": 311,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 117557, 반응 311 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 117622, 반응 311 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 112175,
-      "comments": 3990,
+      "score": 112200,
+      "comments": 3987,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 112175, 반응 3990 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 112200, 반응 3987 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 614,
-      "comments": 442,
+      "score": 628,
+      "comments": 458,
       "text": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605</a>",
-      "summary": "A recent experience with ChatGPT 5.5 Pro. https:&#x2F;&#x2F;twitter.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605 https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605 점수 614, 반응 442 기준 인기 이슈입니다."
+      "summary": "A recent experience with ChatGPT 5.5 Pro. https:&#x2F;&#x2F;twitter.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605 https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605 점수 628, 반응 458 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 562,
-      "comments": 87,
+      "score": 601,
+      "comments": 93,
       "text": "<a href=\"https:&#x2F;&#x2F;internetarchive.ch&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;internetarchive.ch&#x2F;</a>",
-      "summary": "Internet Archive Switzerland. https:&#x2F;&#x2F;internetarchive.ch&#x2F; 점수 562, 반응 87 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI’s WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 474,
-      "comments": 141,
-      "text": "",
-      "summary": "OpenAI’s WebRTC problem. 점수 474, 반응 141 기준 인기 이슈입니다."
+      "summary": "Internet Archive Switzerland. https:&#x2F;&#x2F;internetarchive.ch&#x2F; 점수 601, 반응 93 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 463,
-      "comments": 444,
+      "score": 531,
+      "comments": 500,
       "text": "<a href=\"https:&#x2F;&#x2F;xunroll.com&#x2F;thread&#x2F;2053047748191232310\" rel=\"nofollow\">https:&#x2F;&#x2F;xunroll.com&#x2F;thread&#x2F;2053047748191232310</a><p>Recent and related: <i>Zig → Rust porting guide</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48016880\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48016880</a> - May 2026 (540 comments)",
-      "summary": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc. https:&#x2F;&#x2F;xunroll.com&#x2F;thread&#x2F;2053047748191232310 Recent and related: Zig → Rust porting guide - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48016880 - May 2026 (540 comments) 점수 463, 반응 444 기준 인기 이슈입니다."
+      "summary": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc. https:&#x2F;&#x2F;xunroll.com&#x2F;thread&#x2F;2053047748191232310 Recent and related: Zig → Rust porting guide - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48016880 - May 2026 (540 comments) 점수 531, 반응 500 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
       "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "score": 438,
-      "comments": 287,
+      "score": 523,
+      "comments": 354,
       "text": "",
-      "summary": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\". 점수 438, 반응 287 기준 인기 이슈입니다."
+      "summary": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\". 점수 523, 반응 354 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 429,
-      "comments": 244,
+      "score": 452,
+      "comments": 254,
       "text": "Examples: <a href=\"https:&#x2F;&#x2F;thariqs.github.io&#x2F;html-effectiveness&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;thariqs.github.io&#x2F;html-effectiveness&#x2F;</a><p>Related: <a href=\"https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;May&#x2F;8&#x2F;unreasonable-effectiveness-of-html&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;May&#x2F;8&#x2F;unreasonable-effectiven...</a>",
-      "summary": "Using Claude Code: The unreasonable effectiveness of HTML. Examples: https:&#x2F;&#x2F;thariqs.github.io&#x2F;html-effectiveness&#x2F; Related: https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;May&#x2F;8&#x2F;unreasonable-effectiven... 점수 429, 반응 244 기준 인기 이슈입니다."
+      "summary": "Using Claude Code: The unreasonable effectiveness of HTML. Examples: https:&#x2F;&#x2F;thariqs.github.io&#x2F;html-effectiveness&#x2F; Related: https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;May&#x2F;8&#x2F;unreasonable-effectiven... 점수 452, 반응 254 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "LLMs corrupt your documents when you delegate",
       "url": "https://arxiv.org/abs/2604.15597",
-      "score": 372,
-      "comments": 144,
+      "score": 399,
+      "comments": 154,
       "text": "",
-      "summary": "LLMs corrupt your documents when you delegate. 점수 372, 반응 144 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mythical Man Month",
-      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "score": 362,
-      "comments": 195,
-      "text": "",
-      "summary": "Mythical Man Month.  점수 362, 반응 195 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Meta's embrace of AI is making its employees miserable",
-      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-      "score": 334,
-      "comments": 330,
-      "text": "",
-      "summary": "Meta's embrace of AI is making its employees miserable. 점수 334, 반응 330 기준 인기 이슈입니다."
+      "summary": "LLMs corrupt your documents when you delegate. 점수 399, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I’ve banned query strings",
       "url": "https://chrismorgan.info/no-query-strings",
-      "score": 305,
-      "comments": 179,
+      "score": 382,
+      "comments": 213,
       "text": "Related: <a href=\"https:&#x2F;&#x2F;susam.net&#x2F;no-query-strings.html\" rel=\"nofollow\">https:&#x2F;&#x2F;susam.net&#x2F;no-query-strings.html</a>",
-      "summary": "I’ve banned query strings. Related: https:&#x2F;&#x2F;susam.net&#x2F;no-query-strings.html 점수 305, 반응 179 기준 인기 이슈입니다."
+      "summary": "I’ve banned query strings. Related: https:&#x2F;&#x2F;susam.net&#x2F;no-query-strings.html 점수 382, 반응 213 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The hypocrisy of cyberlibertarianism",
       "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-      "score": 285,
-      "comments": 249,
+      "score": 320,
+      "comments": 283,
       "text": "",
-      "summary": "The hypocrisy of cyberlibertarianism. 점수 285, 반응 249 기준 인기 이슈입니다."
+      "summary": "The hypocrisy of cyberlibertarianism. 점수 320, 반응 283 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Distributing Mac software is increasing my cortisol levels",
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "score": 230,
-      "comments": 158,
+      "score": 279,
+      "comments": 185,
       "text": "",
-      "summary": "Distributing Mac software is increasing my cortisol levels. 점수 230, 반응 158 기준 인기 이슈입니다."
+      "summary": "Distributing Mac software is increasing my cortisol levels. 점수 279, 반응 185 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://github.com/imtomt/ymawky",
+      "score": 238,
+      "comments": 101,
+      "text": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves custom error pages for any HTTP error response, supports directory listing, and has (some) mitigations against slowloris-like attacks.<p>I’ve also written a more detailed writeup here: <a href=\"https:&#x2F;&#x2F;imtomt.github.io&#x2F;ymawky&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;imtomt.github.io&#x2F;ymawky&#x2F;</a>",
+      "summary": "Show HN: Building a web server in assembly to give my life (a lack of) meaning. This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). 점수 238, 반응 101 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Zed Editor Theme-Builder",
       "url": "https://zed.dev/theme-builder",
-      "score": 173,
-      "comments": 49,
+      "score": 208,
+      "comments": 59,
       "text": "",
-      "summary": "Zed Editor Theme-Builder. 점수 173, 반응 49 기준 인기 이슈입니다."
+      "summary": "Zed Editor Theme-Builder. 점수 208, 반응 59 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "score": 156,
+      "comments": 40,
+      "text": "Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that&#x27;s about 50x faster than JVM and 3x faster than Babashka. It has decent throughput on algorithmic workloads - within ballpark of the GraalVM-backed sci.<p>I started this project in 2021 as an elaborate practical joke: I wanted to have an excuse for writing Clojure while pretending to write Go.<p>Jokes aside, it turned out to be pretty decent: it feels like real Clojure, it has an nREPL server (supported in Calva, CIDER, etc.), it&#x27;s easily embeddable in your Go programs (funcs, structs and channels cross the boundary without fuss). It&#x27;s good for writing CLIs, web servers, data processing scripts and even doing some systems programming - I used it to write a deamonless container runtime. Oh, and it runs on Plan9.<p>Under the hood there is a fairly simple compiler and a stack VM, both handcrafted specifically for running Clojure-like code. The compiler can work in AOT mode producing portable bytecode blobs and standalone binaries (runtime+bytecode).<p>This is not a drop-in replacement for Clojure in general - it does not load JARs, it does not have all Java APIs and it most probably won&#x27;t run your exiting Clojure projects without modifications. At least not at the moment.<p>Take it for a spin, tell me what you think. Issues and PRs are welcome!",
+      "summary": "Show HN: I made a Clojure-like language in Go, boots in 7ms. Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that&#x27;s about 50x faster than JVM and 3x faster than Babashka. 점수 156, 반응 40 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Local privilege escalation via execve()",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "score": 139,
+      "comments": 75,
+      "text": "",
+      "summary": "Local privilege escalation via execve(). 점수 139, 반응 75 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 67
+      "count": 75
     },
     {
       "keyword": "https",
-      "count": 16
+      "count": 18
     },
     {
       "keyword": "href",
-      "count": 8
+      "count": 9
     },
     {
       "keyword": "com",
@@ -251,14 +251,22 @@
     },
     {
       "keyword": "rel",
-      "count": 7
+      "count": 8
     },
     {
       "keyword": "nofollow",
-      "count": 7
+      "count": 8
     },
     {
       "keyword": "code",
+      "count": 6
+    },
+    {
+      "keyword": "web",
+      "count": 5
+    },
+    {
+      "keyword": "clojure",
       "count": 5
     },
     {
@@ -270,6 +278,10 @@
       "count": 4
     },
     {
+      "keyword": "supports",
+      "count": 4
+    },
+    {
       "keyword": "wtgowers",
       "count": 4
     },
@@ -278,20 +290,8 @@
       "count": 4
     },
     {
-      "keyword": "net",
+      "keyword": "github",
       "count": 4
-    },
-    {
-      "keyword": "agent",
-      "count": 3
-    },
-    {
-      "keyword": "api",
-      "count": 3
-    },
-    {
-      "keyword": "related",
-      "count": 3
     }
   ],
   "meta": {
