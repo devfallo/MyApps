@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T23:20:58.205036+00:00",
+  "updatedAt": "2026-05-14T04:12:22.661991+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,239 +10,235 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 371599,
-      "comments": 7308,
+      "score": 371652,
+      "comments": 7274,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 371599, 반응 7308 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 371652, 반응 7274 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 187722,
-      "comments": 1459,
+      "score": 187749,
+      "comments": 1458,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 187722, 반응 1459 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 187749, 반응 1458 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184294,
-      "comments": 401,
+      "score": 184290,
+      "comments": 403,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184294, 반응 401 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184290, 반응 403 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163042,
+      "score": 163043,
       "comments": 2487,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163042, 반응 2487 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163043, 반응 2487 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 162188,
+      "score": 162196,
       "comments": 43,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162188, 반응 43 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162196, 반응 43 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 148597,
-      "comments": 10950,
+      "score": 148975,
+      "comments": 11016,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 148597, 반응 10950 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 148975, 반응 11016 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 141273,
-      "comments": 766,
+      "score": 141288,
+      "comments": 770,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 141273, 반응 766 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 141288, 반응 770 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 137328,
+      "score": 137333,
       "comments": 141,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 137328, 반응 141 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 137333, 반응 141 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 136939,
-      "comments": 254,
+      "score": 136964,
+      "comments": 252,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 136939, 반응 254 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 136964, 반응 252 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 136655,
+      "score": 136670,
       "comments": 593,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 136655, 반응 593 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 136670, 반응 593 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 119446,
+      "score": 119529,
       "comments": 320,
       "text": "🔥 The API to search, scrape, and interact with the web for AI",
-      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 119446, 반응 320 기준 인기 이슈입니다."
+      "summary": "🔥 The API to search, scrape, and interact with the web for AI 점수 119529, 반응 320 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 112787,
-      "comments": 3993,
+      "score": 112826,
+      "comments": 3994,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 112787, 반응 3993 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 112826, 반응 3994 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I moved my digital stack to Europe",
       "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 857,
-      "comments": 529,
+      "score": 903,
+      "comments": 542,
       "text": "",
-      "summary": "I moved my digital stack to Europe. 점수 857, 반응 529 기준 인기 이슈입니다."
+      "summary": "I moved my digital stack to Europe. 점수 903, 반응 542 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 628,
-      "comments": 181,
+      "score": 649,
+      "comments": 184,
       "text": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok&#x2F;s prefill and 1200 tok&#x2F;s decode on consumer devices.<p>We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.<p>Simple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-shot function calling for consumer devices (phones, watches, glasses...).<p>Training:\n- Pretrained on 200B tokens across 16 TPU v6e (27 hours)\n- Post-trained on 2B tokens of synthesized function-calling data (45 minutes)\n- Dataset synthesized via Gemini with 15 tool categories (timers, messaging, navigation, smart home, etc.)<p>You can test it right now and finetune on your Mac&#x2F;PC: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle</a><p>The full writeup on the architecture is here: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle&#x2F;blob&#x2F;main&#x2F;docs&#x2F;simple_attention_networks.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle&#x2F;blob&#x2F;main&#x2F;docs&#x2F;simp...</a><p>We found that the &quot;no FFN&quot; finding generalizes beyond function calling to any task where the model has access to external structured knowledge (RAG, tool use, retrieval-augmented generation). The model doesn&#x27;t need to memorize facts in FFN weights if the facts are provided in the input. Experimental results to published.<p>While it beats FunctionGemma-270M, Qwen-0.6B, Granite-350M, LFM2.5-350M on single-shot function calling, those models have more scope&#x2F;capacity and excel in conversational settings. We encourage you to test on your own tools via the playground and finetune accordingly.<p>This is part of our broader work on Cactus (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;cactus\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;cactus</a>), an inference engine built from scratch for mobile, wearables and custom hardware. We wrote about Cactus here previously: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44524544\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44524544</a><p>Everything is MIT licensed. Weights: <a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;Cactus-Compute&#x2F;needle\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;Cactus-Compute&#x2F;needle</a>\nGitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;needle</a>",
-      "summary": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model. Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. 점수 628, 반응 181 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Leaving GitHub for Forgejo",
-      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 509,
-      "comments": 273,
-      "text": "",
-      "summary": "Leaving GitHub for Forgejo. 점수 509, 반응 273 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 447,
-      "comments": 143,
-      "text": "",
-      "summary": "Setting up a free *.city.state.us locality domain (2025). 점수 447, 반응 143 기준 인기 이슈입니다."
+      "summary": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model. Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. 점수 649, 반응 184 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 409,
-      "comments": 259,
+      "score": 589,
+      "comments": 391,
       "text": "",
-      "summary": "Linux gaming is faster because Windows APIs are becoming Linux kernel features. 점수 409, 반응 259 기준 인기 이슈입니다."
+      "summary": "Linux gaming is faster because Windows APIs are becoming Linux kernel features. 점수 589, 반응 391 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 284,
-      "comments": 136,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.sciencedirect.com&#x2F;science&#x2F;article&#x2F;abs&#x2F;pii&#x2F;S1369702123002390?via%3Dihub\" rel=\"nofollow\">https:&#x2F;&#x2F;www.sciencedirect.com&#x2F;science&#x2F;article&#x2F;abs&#x2F;pii&#x2F;S13697...</a>",
-      "summary": "New stainless steel can survive conditions for hydrogen production in seawater. https:&#x2F;&#x2F;www.sciencedirect.com&#x2F;science&#x2F;article&#x2F;abs&#x2F;pii&#x2F;S13697... 점수 284, 반응 136 기준 인기 이슈입니다."
+      "title": "Leaving GitHub for Forgejo",
+      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "score": 547,
+      "comments": 289,
+      "text": "",
+      "summary": "Leaving GitHub for Forgejo. 점수 547, 반응 289 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "score": 525,
+      "comments": 165,
+      "text": "",
+      "summary": "Setting up a free *.city.state.us locality domain (2025). 점수 525, 반응 165 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Twin brothers wipe 96 government databases minutes after being fired",
       "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-      "score": 248,
-      "comments": 173,
+      "score": 347,
+      "comments": 257,
       "text": "",
-      "summary": "Twin brothers wipe 96 government databases minutes after being fired. 점수 248, 반응 173 기준 인기 이슈입니다."
+      "summary": "Twin brothers wipe 96 government databases minutes after being fired. 점수 347, 반응 257 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A History of IDEs at Google",
       "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 225,
-      "comments": 174,
+      "score": 311,
+      "comments": 221,
       "text": "",
-      "summary": "A History of IDEs at Google. 점수 225, 반응 174 기준 인기 이슈입니다."
+      "summary": "A History of IDEs at Google. 점수 311, 반응 221 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Preserving Fisher-Price Pixter",
-      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 199,
-      "comments": 40,
-      "text": "",
-      "summary": "Preserving Fisher-Price Pixter. 점수 199, 반응 40 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "In-person examinations at Princeton will be proctored starting July 1",
+      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
       "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-      "score": 187,
-      "comments": 238,
+      "score": 285,
+      "comments": 395,
       "text": "",
-      "summary": "In-person examinations at Princeton will be proctored starting July 1. 점수 187, 반응 238 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
-      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 184,
-      "comments": 71,
-      "text": "",
-      "summary": "Reverting the incremental GC in Python 3.14 and 3.15. 점수 184, 반응 71 기준 인기 이슈입니다."
+      "summary": "Princeton mandates proctoring for in-person exams, upending 133 year precedent. 점수 285, 반응 395 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Emacsification of Software",
       "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 148,
-      "comments": 104,
+      "score": 231,
+      "comments": 162,
       "text": "",
-      "summary": "The Emacsification of Software. 점수 148, 반응 104 기준 인기 이슈입니다."
+      "summary": "The Emacsification of Software. 점수 231, 반응 162 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+      "url": "https://news.ycombinator.com/item?id=48128003",
+      "score": 224,
+      "comments": 65,
+      "text": "I wanted to try codex after 5 months of claude code max subscription. And then I went back to my previous projects on claude design only to realize I don&#x27;t have access to them anymore.<p>This is a first. I never lost access to any of my past sessions because I unsubscribed in any of the LLM apps.<p>I actually wanted to try out codex previously, but had similar experience with my credits. They gave extra credits equivalent to my montly subscription price, with some time limit because claude has so many issues that month. And as soon as plan ended. I lost access to the credits. Even after resubscribing, I still don&#x27;t have access to those credits.<p>I have sympathies towards the engineers, especially the ones that are putting themselves on X. But only when someone with large following has some issue, they sort it out.<p>Having worked at a billing company, I can see how complex contracts sound good for the growth&#x2F;sales folks but are also horrible for engineers actually implementing those contracts. Their complex rate limiting which is now a norm, identifying other harnesses to count them against extra usage are all probably not easy to implement without very rough edge cases. But all the &quot;bugs&quot; are just where the user gets screwed is what is problematic.<p>I just wanted to post this here, after tagging them multiple times on X to alert other users.",
+      "summary": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing. I wanted to try codex after 5 months of claude code max subscription. And then I went back to my previous projects on claude design only to realize I don&#x27;t have access to them anymore. 점수 224, 반응 65 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Preserving Fisher-Price Pixter",
+      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
+      "score": 216,
+      "comments": 44,
+      "text": "",
+      "summary": "Preserving Fisher-Price Pixter. 점수 216, 반응 44 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "score": 208,
+      "comments": 81,
+      "text": "",
+      "summary": "Reverting the incremental GC in Python 3.14 and 3.15. 점수 208, 반응 81 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The US is winning the AI race where it matters most: commercialization",
       "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "score": 144,
-      "comments": 390,
+      "score": 171,
+      "comments": 491,
       "text": "",
-      "summary": "The US is winning the AI race where it matters most: commercialization. 점수 144, 반응 390 기준 인기 이슈입니다."
+      "summary": "The US is winning the AI race where it matters most: commercialization. 점수 171, 반응 491 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 72
+      "count": 59
     },
     {
       "keyword": "https",
-      "count": 14
-    },
-    {
-      "keyword": "com",
       "count": 12
     },
     {
@@ -254,15 +250,15 @@
       "count": 10
     },
     {
+      "keyword": "com",
+      "count": 10
+    },
+    {
       "keyword": "cactus-compute",
       "count": 10
     },
     {
       "keyword": "tool",
-      "count": 7
-    },
-    {
-      "keyword": "href",
       "count": 7
     },
     {
@@ -274,24 +270,28 @@
       "count": 6
     },
     {
-      "keyword": "rel",
+      "keyword": "href",
       "count": 6
     },
     {
-      "keyword": "nofollow",
+      "keyword": "access",
       "count": 6
+    },
+    {
+      "keyword": "any",
+      "count": 5
+    },
+    {
+      "keyword": "code",
+      "count": 5
+    },
+    {
+      "keyword": "claude",
+      "count": 5
     },
     {
       "keyword": "cactus",
       "count": 5
-    },
-    {
-      "keyword": "platform",
-      "count": 4
-    },
-    {
-      "keyword": "code",
-      "count": 4
     }
   ],
   "meta": {
