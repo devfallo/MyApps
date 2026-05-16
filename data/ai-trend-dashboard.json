@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T09:51:18.643342+00:00",
+  "updatedAt": "2026-05-16T11:17:41.374616+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,240 +10,232 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 372279,
-      "comments": 7025,
+      "score": 372294,
+      "comments": 7032,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 372279, 반응 7025 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 372294, 반응 7032 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 188059,
-      "comments": 1487,
+      "score": 188071,
+      "comments": 1489,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 188059, 반응 1487 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 188071, 반응 1489 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "score": 184345,
-      "comments": 410,
+      "comments": 412,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184345, 반응 410 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184345, 반응 412 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163077,
+      "score": 163078,
       "comments": 2486,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163077, 반응 2486 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163078, 반응 2486 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 162325,
+      "score": 162327,
       "comments": 45,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162325, 반응 45 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162327, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 152598,
-      "comments": 11510,
+      "score": 152682,
+      "comments": 11535,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 152598, 반응 11510 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 152682, 반응 11535 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 141551,
-      "comments": 782,
+      "score": 141559,
+      "comments": 785,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 141551, 반응 782 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 141559, 반응 785 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 137466,
+      "score": 137470,
       "comments": 142,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 137466, 반응 142 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 137470, 반응 142 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 137279,
+      "score": 137292,
       "comments": 298,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 137279, 반응 298 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 137292, 반응 298 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 136855,
+      "score": 136859,
       "comments": 585,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 136855, 반응 585 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 136859, 반응 585 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 120425,
+      "score": 120447,
       "comments": 323,
       "text": "🔥 Search, scrape, and clean the web for AI agents.",
-      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 120425, 반응 323 기준 인기 이슈입니다."
+      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 120447, 반응 323 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 113119,
+      "score": 113124,
       "comments": 4007,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 113119, 반응 4007 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 113124, 반응 4007 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 1348,
-      "comments": 665,
+      "score": 1417,
+      "comments": 714,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578</a><p><a href=\"https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130\" rel=\"nofollow\">https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130</a>",
-      "summary": "I believe there are entire companies right now under AI psychosis. https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578 https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130 점수 1348, 반응 665 기준 인기 이슈입니다."
+      "summary": "I believe there are entire companies right now under AI psychosis. https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578 https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130 점수 1417, 반응 714 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "score": 931,
-      "comments": 198,
+      "score": 964,
+      "comments": 202,
       "text": "",
-      "summary": "Project Gutenberg – keeps getting better. 점수 931, 반응 198 기준 인기 이슈입니다."
+      "summary": "Project Gutenberg – keeps getting better. 점수 964, 반응 202 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bill to block publishers from killing online games advances in California",
       "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "score": 485,
-      "comments": 302,
+      "score": 497,
+      "comments": 321,
       "text": "",
-      "summary": "Bill to block publishers from killing online games advances in California. 점수 485, 반응 302 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-      "url": "https://github.com/oven-sh/bun/issues/30719",
-      "score": 407,
-      "comments": 285,
-      "text": "",
-      "summary": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\". 점수 407, 반응 285 기준 인기 이슈입니다."
+      "summary": "Bill to block publishers from killing online games advances in California. 점수 497, 반응 321 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 376,
-      "comments": 205,
+      "score": 387,
+      "comments": 207,
       "text": "",
-      "summary": "A 0-click exploit chain for the Pixel 10. 점수 376, 반응 205 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Zulip Foundation",
-      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-      "score": 272,
-      "comments": 71,
-      "text": "",
-      "summary": "The Zulip Foundation. 점수 272, 반응 71 기준 인기 이슈입니다."
+      "summary": "A 0-click exploit chain for the Pixel 10. 점수 387, 반응 207 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "SQL patterns I use to catch transaction fraud",
       "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-      "score": 212,
-      "comments": 67,
+      "score": 250,
+      "comments": 80,
       "text": "",
-      "summary": "SQL patterns I use to catch transaction fraud. 점수 212, 반응 67 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Erlang/OTP 29.0",
-      "url": "https://www.erlang.org/news/188",
-      "score": 207,
-      "comments": 37,
-      "text": "",
-      "summary": "Erlang/OTP 29.0.  점수 207, 반응 37 기준 인기 이슈입니다."
+      "summary": "SQL patterns I use to catch transaction fraud. 점수 250, 반응 80 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The sigmoids won't save you",
       "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-      "score": 203,
-      "comments": 206,
+      "score": 213,
+      "comments": 212,
       "text": "",
-      "summary": "The sigmoids won't save you. 점수 203, 반응 206 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "ASCII by Jason Scott",
-      "url": "https://ascii.textfiles.com/",
-      "score": 193,
-      "comments": 22,
-      "text": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260501220231&#x2F;https:&#x2F;&#x2F;ascii.textfiles.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260501220231&#x2F;https:&#x2F;&#x2F;ascii.tex...</a>",
-      "summary": "ASCII by Jason Scott. https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260501220231&#x2F;https:&#x2F;&#x2F;ascii.tex... 점수 193, 반응 22 기준 인기 이슈입니다."
+      "summary": "The sigmoids won't save you. 점수 213, 반응 212 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
       "url": "https://github.com/neilsonnn/image-blaster",
-      "score": 160,
+      "score": 164,
       "comments": 31,
       "text": "",
-      "summary": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image. 점수 160, 반응 31 기준 인기 이슈입니다."
+      "summary": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image. 점수 164, 반응 31 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Watch a neural net learn to play Snake",
       "url": "https://ppo.gradexp.xyz/",
-      "score": 158,
-      "comments": 37,
+      "score": 163,
+      "comments": 38,
       "text": "In browser PPO training demo, made possible by tinygrad: TinyJit -&gt; WebGPU kernels.<p>Requires WebGPU.",
-      "summary": "Show HN: Watch a neural net learn to play Snake. In browser PPO training demo, made possible by tinygrad: TinyJit -&gt; WebGPU kernels. 점수 158, 반응 37 기준 인기 이슈입니다."
+      "summary": "Show HN: Watch a neural net learn to play Snake. In browser PPO training demo, made possible by tinygrad: TinyJit -&gt; WebGPU kernels. 점수 163, 반응 38 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "score": 159,
+      "comments": 135,
+      "text": "",
+      "summary": "Frontier AI has broken the open CTF format. 점수 159, 반응 135 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The main thing about P2P meth is that there's so much of it (2021)",
       "url": "https://dynomight.net/p2p-meth/",
-      "score": 121,
-      "comments": 141,
+      "score": 131,
+      "comments": 158,
       "text": "",
-      "summary": "The main thing about P2P meth is that there's so much of it (2021). 점수 121, 반응 141 기준 인기 이슈입니다."
+      "summary": "The main thing about P2P meth is that there's so much of it (2021). 점수 131, 반응 158 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The bird eye was pushed to an evolutionary extreme",
+      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "score": 126,
+      "comments": 45,
+      "text": "",
+      "summary": "The bird eye was pushed to an evolutionary extreme. 점수 126, 반응 45 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How to Write to SSDs [pdf]",
+      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+      "score": 123,
+      "comments": 16,
+      "text": "",
+      "summary": "How to Write to SSDs [pdf]. 점수 123, 반응 16 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Additive Blending on the Nintendo 64",
+      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "score": 121,
+      "comments": 11,
+      "text": "",
+      "summary": "Additive Blending on the Nintendo 64. 점수 121, 반응 11 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 33
-    },
-    {
-      "keyword": "https",
-      "count": 8
-    },
-    {
-      "keyword": "web",
-      "count": 6
+      "count": 18
     },
     {
       "keyword": "platform",
@@ -258,31 +250,19 @@
       "count": 4
     },
     {
+      "keyword": "https",
+      "count": 4
+    },
+    {
       "keyword": "mitchellh",
       "count": 4
     },
     {
+      "keyword": "open",
+      "count": 3
+    },
+    {
       "keyword": "agent",
-      "count": 3
-    },
-    {
-      "keyword": "href",
-      "count": 3
-    },
-    {
-      "keyword": "com",
-      "count": 3
-    },
-    {
-      "keyword": "rel",
-      "count": 3
-    },
-    {
-      "keyword": "nofollow",
-      "count": 3
-    },
-    {
-      "keyword": "ascii",
       "count": 3
     },
     {
@@ -291,6 +271,26 @@
     },
     {
       "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "use",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
       "count": 2
     }
   ],
