@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T10:40:58.097515+00:00",
+  "updatedAt": "2026-05-18T15:56:13.139319+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,226 +10,226 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 372840,
-      "comments": 7037,
+      "score": 372910,
+      "comments": 7059,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 372840, 반응 7037 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 372910, 반응 7059 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 188495,
-      "comments": 1474,
+      "score": 188535,
+      "comments": 1483,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 188495, 반응 1474 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 188535, 반응 1483 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184393,
-      "comments": 418,
+      "score": 184400,
+      "comments": 417,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184393, 반응 418 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184400, 반응 417 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163121,
+      "score": 163128,
       "comments": 2487,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163121, 반응 2487 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163128, 반응 2487 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 162451,
-      "comments": 45,
+      "score": 162467,
+      "comments": 46,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162451, 반응 45 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162467, 반응 46 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 155647,
-      "comments": 12002,
+      "score": 156072,
+      "comments": 12093,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 155647, 반응 12002 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 156072, 반응 12093 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 141763,
-      "comments": 802,
+      "score": 141790,
+      "comments": 809,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 141763, 반응 802 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 141790, 반응 809 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 137669,
+      "score": 137709,
       "comments": 144,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 137669, 반응 144 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 137709, 반응 144 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 137571,
-      "comments": 293,
+      "score": 137601,
+      "comments": 299,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 137571, 반응 293 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 137601, 반응 299 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 137005,
+      "score": 137029,
       "comments": 580,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137005, 반응 580 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137029, 반응 580 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 121214,
-      "comments": 325,
+      "score": 121323,
+      "comments": 327,
       "text": "🔥 Search, scrape, and clean the web for AI agents.",
-      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 121214, 반응 325 기준 인기 이슈입니다."
+      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 121323, 반응 327 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 113389,
-      "comments": 4021,
+      "score": 113437,
+      "comments": 4018,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 113389, 반응 4021 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I don't think AI will make your processes go faster",
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 599,
-      "comments": 409,
-      "text": "",
-      "summary": "I don't think AI will make your processes go faster. 점수 599, 반응 409 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 113437, 반응 4018 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
       "url": "https://github.com/tech4bot/rk3562deb",
-      "score": 377,
-      "comments": 173,
+      "score": 415,
+      "comments": 209,
       "text": "",
-      "summary": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation. 점수 377, 반응 173 기준 인기 이슈입니다."
+      "summary": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation. 점수 415, 반응 209 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
       "url": "https://github.com/MinishLab/semble",
-      "score": 340,
-      "comments": 113,
+      "score": 399,
+      "comments": 133,
       "text": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can&#x27;t find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still misses the relevant code. There are existing tools for this, but they were either too slow to index on demand, needed API keys, or had poor retrieval quality.<p>Semble is our solution for this. It combines static Model2Vec embeddings (using our latest static model: potion-code-16M) with BM25, fused via RRF and reranked with code-aware signals. Everything runs on CPU since there&#x27;s no transformers involved. On our benchmark of ~1250 query&#x2F;document pairs across 63 repos and 19 languages, it uses 98% fewer tokens than grep+read and reaches 99% of the retrieval quality of a 137M-parameter code-trained transformer, while being ~200x faster.<p>Main features:<p>- Token-efficient: 98% fewer tokens than grep+read<p>- Fast: ~250ms to index a typical repo on our benchmark, ~1.5ms per query on CPU (very large repos may take longer)<p>- Accurate: 0.854 NDCG@10, 99% of the best transformer setup we tested<p>- MCP server: drop-in for Claude Code, Cursor, Codex, OpenCode<p>- Zero config: no API keys, no GPU, no external services<p>Install in Claude Code with:\nclaude mcp add semble -s user -- uvx --from &quot;semble[mcp]&quot; semble<p>Or check our README for other installation instructions, benchmarks, and methodology:<p>Semble: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;MinishLab&#x2F;semble\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;MinishLab&#x2F;semble</a><p>Benchmarks: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;MinishLab&#x2F;semble&#x2F;tree&#x2F;main&#x2F;benchmarks\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;MinishLab&#x2F;semble&#x2F;tree&#x2F;main&#x2F;benchmarks</a><p>Model: <a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;minishlab&#x2F;potion-code-16M\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;minishlab&#x2F;potion-code-16M</a><p>Let us know if you have any feedback or questions!",
-      "summary": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep. We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can&#x27;t find something directly, it falls back to grep, reading full files or launching subagents. 점수 340, 반응 113 기준 인기 이슈입니다."
+      "summary": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep. We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can&#x27;t find something directly, it falls back to grep, reading full files or launching subagents. 점수 399, 반응 133 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GenCAD",
       "url": "https://gencad.github.io/",
-      "score": 334,
-      "comments": 85,
+      "score": 398,
+      "comments": 104,
       "text": "",
-      "summary": "GenCAD.  점수 334, 반응 85 기준 인기 이슈입니다."
+      "summary": "GenCAD.  점수 398, 반응 104 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Tesla Solar Roof is on life support as it pivot to panels",
-      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
-      "score": 267,
-      "comments": 269,
+      "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
+      "url": "https://github.com/stephenlthorn/auto-identity-remove",
+      "score": 295,
+      "comments": 114,
       "text": "",
-      "summary": "Tesla Solar Roof is on life support as it pivot to panels. 점수 267, 반응 269 기준 인기 이슈입니다."
+      "summary": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS. 점수 295, 반응 114 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Prolog Basics Explained with Pokémon",
-      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
-      "score": 257,
-      "comments": 41,
-      "text": "",
-      "summary": "Prolog Basics Explained with Pokémon. 점수 257, 반응 41 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hindenburg’s Smoking Room",
-      "url": "https://www.airships.net/hindenburg-smoking-room/",
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "url": "https://github.com/zakirullin/files.md",
       "score": 205,
-      "comments": 164,
+      "comments": 120,
       "text": "",
-      "summary": "Hindenburg’s Smoking Room. 점수 205, 반응 164 기준 인기 이슈입니다."
+      "summary": "Show HN: Files.md – Open-source alternative to Obsidian. 점수 205, 반응 120 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "title": "It is time to give up the dualism introduced by the debate on consciousness",
+      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
       "score": 200,
-      "comments": 199,
+      "comments": 518,
       "text": "",
-      "summary": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely. 점수 200, 반응 199 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "CUDA Books",
-      "url": "https://github.com/alternbits/awesome-cuda-books",
-      "score": 198,
-      "comments": 48,
-      "text": "",
-      "summary": "CUDA Books.  점수 198, 반응 48 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
-      "url": "https://askanastronaut.issinrealtime.org/",
-      "score": 152,
-      "comments": 12,
-      "text": "",
-      "summary": "Ask an Astronaut: 333 hours of Q&A footage with astronauts. 점수 152, 반응 12 기준 인기 이슈입니다."
+      "summary": "It is time to give up the dualism introduced by the debate on consciousness. 점수 200, 반응 518 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Jank now has its own custom IR",
       "url": "https://jank-lang.org/blog/2026-05-08-optimization/",
-      "score": 147,
-      "comments": 23,
+      "score": 188,
+      "comments": 36,
       "text": "",
-      "summary": "Jank now has its own custom IR. 점수 147, 반응 23 기준 인기 이슈입니다."
+      "summary": "Jank now has its own custom IR. 점수 188, 반응 36 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-      "score": 146,
-      "comments": 31,
+      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+      "url": "https://askanastronaut.issinrealtime.org/",
+      "score": 181,
+      "comments": 22,
       "text": "",
-      "summary": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound. 점수 146, 반응 31 기준 인기 이슈입니다."
+      "summary": "Ask an Astronaut: 333 hours of Q&A footage with astronauts. 점수 181, 반응 22 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Prolog Coding Horror",
       "url": "https://www.metalevel.at/prolog/horror",
-      "score": 142,
-      "comments": 60,
+      "score": 177,
+      "comments": 67,
       "text": "",
-      "summary": "Prolog Coding Horror. 점수 142, 반응 60 기준 인기 이슈입니다."
+      "summary": "Prolog Coding Horror. 점수 177, 반응 67 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+      "score": 176,
+      "comments": 31,
+      "text": "",
+      "summary": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound. 점수 176, 반응 31 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Crystals found inside wreckage from the first nuclear bomb test",
+      "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
+      "score": 134,
+      "comments": 61,
+      "text": "",
+      "summary": "Crystals found inside wreckage from the first nuclear bomb test. 점수 134, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI eats the world (Spring 26) [pdf]",
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "score": 122,
+      "comments": 69,
+      "text": "",
+      "summary": "AI eats the world (Spring 26) [pdf]. 점수 122, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linux security mailing list 'almost unmanageable'",
+      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+      "score": 119,
+      "comments": 53,
+      "text": "",
+      "summary": "Linux security mailing list 'almost unmanageable'. 점수 119, 반응 53 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
