@@ -1,235 +1,146 @@
 {
-  "updatedAt": "2026-05-18T21:37:25.047925+00:00",
+  "updatedAt": "2026-05-18T23:18:48.909503+00:00",
   "status": "ok",
-  "count": 25,
+  "count": 15,
   "errors": [
+    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
-      "source": "GitHub Repos",
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "score": 372954,
-      "comments": 7059,
-      "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 372954, 반응 7059 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 188570,
-      "comments": 1476,
-      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 188570, 반응 1476 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184399,
-      "comments": 418,
-      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184399, 반응 418 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163133,
-      "comments": 2486,
-      "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163133, 반응 2486 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 162477,
-      "comments": 46,
-      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162477, 반응 46 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 156326,
-      "comments": 12150,
-      "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 156326, 반응 12150 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 141802,
-      "comments": 802,
-      "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 141802, 반응 802 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 137737,
-      "comments": 144,
-      "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 137737, 반응 144 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 137615,
-      "comments": 301,
-      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 137615, 반응 301 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langchain-ai/langchain",
-      "url": "https://github.com/langchain-ai/langchain",
-      "score": 137040,
-      "comments": 580,
-      "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137040, 반응 580 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "score": 121432,
-      "comments": 324,
-      "text": "🔥 Search, scrape, and clean the web for AI agents.",
-      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 121432, 반응 324 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 113456,
-      "comments": 4017,
-      "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 113456, 반응 4017 기준 인기 이슈입니다."
-    },
-    {
       "source": "Hacker News",
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 581,
-      "comments": 291,
+      "score": 680,
+      "comments": 355,
       "text": "",
-      "summary": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. 점수 581, 반응 291 기준 인기 이슈입니다."
+      "summary": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. 점수 680, 반응 355 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Files.md – Open-source alternative to Obsidian",
       "url": "https://github.com/zakirullin/files.md",
-      "score": 457,
-      "comments": 243,
+      "score": 505,
+      "comments": 265,
       "text": "",
-      "summary": "Show HN: Files.md – Open-source alternative to Obsidian. 점수 457, 반응 243 기준 인기 이슈입니다."
+      "summary": "Show HN: Files.md – Open-source alternative to Obsidian. 점수 505, 반응 265 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Quiet Renovation at Bitwarden",
       "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-      "score": 402,
-      "comments": 191,
+      "score": 459,
+      "comments": 215,
       "text": "",
-      "summary": "The Quiet Renovation at Bitwarden. 점수 402, 반응 191 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
-      "url": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
-      "score": 402,
-      "comments": 98,
-      "text": "",
-      "summary": "Garry Tan, the CEO of YC, accused me of unethical reporting. 점수 402, 반응 98 기준 인기 이슈입니다."
+      "summary": "The Quiet Renovation at Bitwarden. 점수 459, 반응 215 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "url": "https://archestra.ai/blog/only-responsible-ai",
-      "score": 340,
-      "comments": 168,
+      "score": 373,
+      "comments": 180,
       "text": "",
-      "summary": "We stopped AI bot spam in our GitHub repo using Git's –author flag. 점수 340, 반응 168 기준 인기 이슈입니다."
+      "summary": "We stopped AI bot spam in our GitHub repo using Git's –author flag. 점수 373, 반응 180 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 266,
-      "comments": 188,
+      "score": 309,
+      "comments": 222,
       "text": "",
-      "summary": "Anthropic acquires Stainless. 점수 266, 반응 188 기준 인기 이슈입니다."
+      "summary": "Anthropic acquires Stainless. 점수 309, 반응 222 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Project Glasswing: what Mythos showed us",
       "url": "https://blog.cloudflare.com/cyber-frontier-models/",
-      "score": 235,
-      "comments": 89,
+      "score": 257,
+      "comments": 92,
       "text": "",
-      "summary": "Project Glasswing: what Mythos showed us. 점수 235, 반응 89 기준 인기 이슈입니다."
+      "summary": "Project Glasswing: what Mythos showed us. 점수 257, 반응 92 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Haiku OS runs on M1 Macs now",
       "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
-      "score": 212,
-      "comments": 73,
+      "score": 241,
+      "comments": 82,
       "text": "",
-      "summary": "Haiku OS runs on M1 Macs now. 점수 212, 반응 73 기준 인기 이슈입니다."
+      "summary": "Haiku OS runs on M1 Macs now. 점수 241, 반응 82 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
       "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
-      "score": 173,
-      "comments": 251,
+      "score": 220,
+      "comments": 333,
       "text": "<a href=\"https:&#x2F;&#x2F;finance.yahoo.com&#x2F;markets&#x2F;crypto&#x2F;articles&#x2F;iran-starts-bitcoin-backed-shipping-122906039.html\" rel=\"nofollow\">https:&#x2F;&#x2F;finance.yahoo.com&#x2F;markets&#x2F;crypto&#x2F;articles&#x2F;iran-start...</a>",
-      "summary": "Iran starts Bitcoin-backed ship insurance for Hormuz strait. https:&#x2F;&#x2F;finance.yahoo.com&#x2F;markets&#x2F;crypto&#x2F;articles&#x2F;iran-start... 점수 173, 반응 251 기준 인기 이슈입니다."
+      "summary": "Iran starts Bitcoin-backed ship insurance for Hormuz strait. https:&#x2F;&#x2F;finance.yahoo.com&#x2F;markets&#x2F;crypto&#x2F;articles&#x2F;iran-start... 점수 220, 반응 333 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Qwen 3.7 Preview",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
-      "score": 172,
-      "comments": 64,
+      "title": "Who will buy your services if you fire us all?",
+      "url": "https://carette.xyz/posts/who_will_buy_your_services/",
+      "score": 163,
+      "comments": 181,
       "text": "",
-      "summary": "Qwen 3.7 Preview.  점수 172, 반응 64 기준 인기 이슈입니다."
+      "summary": "Who will buy your services if you fire us all?. 점수 163, 반응 181 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+      "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+      "score": 158,
+      "comments": 60,
+      "text": "",
+      "summary": "The FBI Wants to Buy Nationwide Access to License Plate Readers. 점수 158, 반응 60 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Two computers, one monitor, zero fiddling (2025)",
       "url": "https://alexplescan.com/posts/2025/08/16/kvm/",
-      "score": 122,
-      "comments": 73,
+      "score": 145,
+      "comments": 83,
       "text": "",
-      "summary": "Two computers, one monitor, zero fiddling (2025). 점수 122, 반응 73 기준 인기 이슈입니다."
+      "summary": "Two computers, one monitor, zero fiddling (2025). 점수 145, 반응 83 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What Is Date:Italy?",
       "url": "http://aesthetikx.info/blog/date_italy.html",
-      "score": 106,
-      "comments": 45,
+      "score": 118,
+      "comments": 49,
       "text": "",
-      "summary": "What Is Date:Italy?.  점수 106, 반응 45 기준 인기 이슈입니다."
+      "summary": "What Is Date:Italy?.  점수 118, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Learn Harness Engineering",
-      "url": "https://walkinglabs.github.io/learn-harness-engineering/en/",
-      "score": 103,
-      "comments": 11,
+      "title": "We let AIs run radio stations",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "score": 106,
+      "comments": 116,
+      "text": "Hey HN!<p>I&#x27;m Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we&#x27;ve done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI agents all the tools they need to both broadcast radio shows live and handle all the business side of running a media company. The agents&#x27; revenue is so far terrible (you can try to strike a sponsor deal with them if you want!), but their shows are at times hilarious. You can listen to them at andon.fm, I hope you enjoy this!",
+      "summary": "We let AIs run radio stations. I&#x27;m Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. 점수 106, 반응 116 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+      "score": 100,
+      "comments": 28,
       "text": "",
-      "summary": "Learn Harness Engineering. 점수 103, 반응 11 기준 인기 이슈입니다."
+      "summary": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks. 점수 100, 반응 28 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "url": "https://hyperpolyglot.org/lisp",
+      "score": 99,
+      "comments": 19,
+      "text": "",
+      "summary": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp. 점수 99, 반응 19 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -238,59 +149,59 @@
       "count": 12
     },
     {
-      "keyword": "platform",
-      "count": 4
-    },
-    {
-      "keyword": "code",
-      "count": 4
-    },
-    {
-      "keyword": "prompts",
-      "count": 4
-    },
-    {
-      "keyword": "agent",
+      "keyword": "all",
       "count": 3
     },
     {
-      "keyword": "openclaw",
+      "keyword": "x27",
+      "count": 3
+    },
+    {
+      "keyword": "can",
+      "count": 3
+    },
+    {
+      "keyword": "lisp",
+      "count": 3
+    },
+    {
+      "keyword": "https",
       "count": 2
     },
     {
-      "keyword": "any",
+      "keyword": "finance",
       "count": 2
     },
     {
-      "keyword": "workflow",
+      "keyword": "yahoo",
       "count": 2
     },
     {
-      "keyword": "self-host",
+      "keyword": "com",
       "count": 2
     },
     {
-      "keyword": "autogpt",
+      "keyword": "markets",
       "count": 2
     },
     {
-      "keyword": "our",
+      "keyword": "crypto",
       "count": 2
     },
     {
-      "keyword": "tools",
+      "keyword": "articles",
       "count": 2
     },
     {
-      "keyword": "diffusion",
+      "keyword": "buy",
       "count": 2
     },
     {
-      "keyword": "web",
+      "keyword": "one",
       "count": 2
     },
     {
-      "keyword": "open",
+      "keyword": "let",
       "count": 2
     }
   ],
