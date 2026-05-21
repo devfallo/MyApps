@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T21:48:17.034797+00:00",
+  "updatedAt": "2026-05-21T23:17:06.224689+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,19 +10,19 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 373750,
-      "comments": 7404,
+      "score": 373762,
+      "comments": 7396,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 373750, 반응 7404 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 373762, 반응 7396 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 189070,
+      "score": 189081,
       "comments": 1464,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 189070, 반응 1464 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 189081, 반응 1464 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,19 +46,19 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 162626,
+      "score": 162627,
       "comments": 48,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162626, 반응 48 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162627, 반응 48 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 161385,
-      "comments": 12861,
+      "score": 161450,
+      "comments": 12897,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 161385, 반응 12861 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 161450, 반응 12897 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,163 +73,163 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 142169,
-      "comments": 801,
+      "score": 142174,
+      "comments": 803,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 142169, 반응 801 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 142174, 반응 803 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 138121,
+      "score": 138125,
       "comments": 273,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 138121, 반응 273 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 138125, 반응 273 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138018,
+      "score": 138021,
       "comments": 148,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138018, 반응 148 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138021, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 137315,
+      "score": 137319,
       "comments": 581,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137315, 반응 581 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137319, 반응 581 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 122701,
+      "score": 122727,
       "comments": 328,
       "text": "🔥 Search, scrape, and clean the web for AI agents.",
-      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 122701, 반응 328 기준 인기 이슈입니다."
+      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 122727, 반응 328 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Flipper One – we need your help",
       "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 956,
-      "comments": 396,
+      "score": 1009,
+      "comments": 404,
       "text": "",
-      "summary": "Flipper One – we need your help. 점수 956, 반응 396 기준 인기 이슈입니다."
+      "summary": "Flipper One – we need your help. 점수 1009, 반응 404 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
       "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "score": 527,
-      "comments": 444,
+      "score": 542,
+      "comments": 477,
       "text": "",
-      "summary": "We're testing new ad formats in Search and expanding our Direct Offers pilot. 점수 527, 반응 444 기준 인기 이슈입니다."
+      "summary": "We're testing new ad formats in Search and expanding our Direct Offers pilot. 점수 542, 반응 477 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google's Antigravity bait and switch",
       "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-      "score": 447,
-      "comments": 229,
+      "score": 482,
+      "comments": 251,
       "text": "",
-      "summary": "Google's Antigravity bait and switch. 점수 447, 반응 229 기준 인기 이슈입니다."
+      "summary": "Google's Antigravity bait and switch. 점수 482, 반응 251 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Throwing AI-generated walls of text into conversations",
       "url": "https://noslopgrenade.com/",
-      "score": 429,
-      "comments": 263,
+      "score": 455,
+      "comments": 270,
       "text": "",
-      "summary": "Throwing AI-generated walls of text into conversations. 점수 429, 반응 263 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-      "score": 365,
-      "comments": 148,
-      "text": "",
-      "summary": "Seattle Shield, an intelligence-sharing network operated by the Seattle police. 점수 365, 반응 148 기준 인기 이슈입니다."
+      "summary": "Throwing AI-generated walls of text into conversations. 점수 455, 반응 270 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 337,
-      "comments": 91,
+      "score": 439,
+      "comments": 112,
       "text": "",
-      "summary": "Project Hail Mary – Stellar Navigation Chart. 점수 337, 반응 91 기준 인기 이슈입니다."
+      "summary": "Project Hail Mary – Stellar Navigation Chart. 점수 439, 반응 112 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "score": 381,
+      "comments": 155,
+      "text": "",
+      "summary": "Seattle Shield, an intelligence-sharing network operated by the Seattle police. 점수 381, 반응 155 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Vivaldi 8.0",
       "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-      "score": 315,
-      "comments": 217,
+      "score": 331,
+      "comments": 222,
       "text": "",
-      "summary": "Vivaldi 8.0.  점수 315, 반응 217 기준 인기 이슈입니다."
+      "summary": "Vivaldi 8.0.  점수 331, 반응 222 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Python 3.15: features that didn't make the headlines",
       "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "score": 300,
-      "comments": 133,
+      "score": 317,
+      "comments": 146,
       "text": "",
-      "summary": "Python 3.15: features that didn't make the headlines. 점수 300, 반응 133 기준 인기 이슈입니다."
+      "summary": "Python 3.15: features that didn't make the headlines. 점수 317, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
       "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "score": 252,
-      "comments": 78,
+      "score": 264,
+      "comments": 86,
       "text": "",
-      "summary": "Lost Images from the 1945 Trinity Nuclear Test Restored. 점수 252, 반응 78 기준 인기 이슈입니다."
+      "summary": "Lost Images from the 1945 Trinity Nuclear Test Restored. 점수 264, 반응 86 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
       "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-      "score": 229,
-      "comments": 82,
+      "score": 252,
+      "comments": 88,
       "text": "",
-      "summary": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap). 점수 229, 반응 82 기준 인기 이슈입니다."
+      "summary": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap). 점수 252, 반응 88 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "BBEdit 16",
       "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
-      "score": 219,
-      "comments": 65,
+      "score": 238,
+      "comments": 71,
       "text": "",
-      "summary": "BBEdit 16.  점수 219, 반응 65 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-      "score": 190,
-      "comments": 238,
-      "text": "",
-      "summary": "Waymo pauses Atlanta service as its robotaxis keep driving into floods. 점수 190, 반응 238 기준 인기 이슈입니다."
+      "summary": "BBEdit 16.  점수 238, 반응 71 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Was my $48K GPU server worth it?",
       "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-      "score": 167,
-      "comments": 126,
+      "score": 217,
+      "comments": 175,
       "text": "",
-      "summary": "Was my $48K GPU server worth it?. 점수 167, 반응 126 기준 인기 이슈입니다."
+      "summary": "Was my $48K GPU server worth it?. 점수 217, 반응 175 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+      "score": 210,
+      "comments": 266,
+      "text": "",
+      "summary": "Waymo pauses Atlanta service as its robotaxis keep driving into floods. 점수 210, 반응 266 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
