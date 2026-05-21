@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T16:48:48.871176+00:00",
+  "updatedAt": "2026-05-21T20:10:20.833254+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 373734,
-      "comments": 7386,
+      "score": 373762,
+      "comments": 7406,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 373734, 반응 7386 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 373762, 반응 7406 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 189027,
-      "comments": 1477,
+      "score": 189061,
+      "comments": 1467,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 189027, 반응 1477 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 189061, 반응 1467 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184440,
-      "comments": 427,
+      "score": 184443,
+      "comments": 428,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184440, 반응 427 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184443, 반응 428 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163195,
+      "score": 163202,
       "comments": 2486,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163195, 반응 2486 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163202, 반응 2486 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 162623,
+      "score": 162627,
       "comments": 48,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162623, 반응 48 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162627, 반응 48 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 161139,
-      "comments": 12764,
+      "score": 161321,
+      "comments": 12828,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 161139, 반응 12764 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 161321, 반응 12828 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,169 +73,177 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 142164,
-      "comments": 808,
+      "score": 142168,
+      "comments": 801,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 142164, 반응 808 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 142168, 반응 801 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 138093,
-      "comments": 273,
+      "score": 138118,
+      "comments": 272,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 138093, 반응 273 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 138118, 반응 272 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138005,
+      "score": 138016,
       "comments": 148,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138005, 반응 148 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138016, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 137299,
-      "comments": 581,
+      "score": 137313,
+      "comments": 582,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137299, 반응 581 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137313, 반응 582 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 122631,
-      "comments": 333,
+      "score": 122673,
+      "comments": 328,
       "text": "🔥 Search, scrape, and clean the web for AI agents.",
-      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 122631, 반응 333 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1331,
-      "comments": 960,
-      "text": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912</a>",
-      "summary": "An OpenAI model has disproved a central conjecture in discrete geometry. https:&#x2F;&#x2F;x.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912 , https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912 점수 1331, 반응 960 기준 인기 이슈입니다."
+      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 122673, 반응 328 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Flipper One – we need your help",
       "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 694,
-      "comments": 317,
+      "score": 886,
+      "comments": 379,
       "text": "",
-      "summary": "Flipper One – we need your help. 점수 694, 반응 317 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-      "score": 561,
-      "comments": 422,
-      "text": "",
-      "summary": "AI is just unauthorised plagiarism at a bigger scale. 점수 561, 반응 422 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Flipper One Tech Specs",
-      "url": "https://docs.flipper.net/one/general/tech-specs",
-      "score": 484,
-      "comments": 160,
-      "text": "",
-      "summary": "Flipper One Tech Specs. 점수 484, 반응 160 기준 인기 이슈입니다."
+      "summary": "Flipper One – we need your help. 점수 886, 반응 379 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
       "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "score": 450,
-      "comments": 377,
+      "score": 508,
+      "comments": 427,
       "text": "",
-      "summary": "We're testing new ad formats in Search and expanding our Direct Offers pilot. 점수 450, 반응 377 기준 인기 이슈입니다."
+      "summary": "We're testing new ad formats in Search and expanding our Direct Offers pilot. 점수 508, 반응 427 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: I reverse engineered Apple's video wallpapers",
-      "url": "https://github.com/kageroumado/phosphene",
-      "score": 373,
-      "comments": 92,
-      "text": "Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do.<p>I built Phosphene to sell it, but the existing competitors were polished enough that the time it would have taken to catch up wasn&#x27;t going to pay off. So I&#x27;m open-sourcing it.<p>WallpaperExtensionKit.framework is what powers macOS wallpapers. It controls what’s shows in the Settings app. It took a lot of trial and error to replicate the behavior, but the result is that your custom wallpapers appear alongside everything else. I wanted to have an “add” button there too, but I couldn’t find a way to do so, so there’s a companion app that will put your video where it needs to be.<p>Unlike Apple&#x27;s Aerials, the video keeps playing on the desktop (not just the lock screen). The renderer drives AVSampleBufferDisplayLayer directly with PTS-offset gapless looping, and pauses or downshifts based on thermal state, battery level, brightness, and window occlusion.<p>It’s free and works well.",
-      "summary": "Show HN: I reverse engineered Apple's video wallpapers. Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do. 점수 373, 반응 92 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DOS Zone",
-      "url": "https://dos.zone/",
-      "score": 323,
-      "comments": 73,
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "score": 321,
+      "comments": 118,
       "text": "",
-      "summary": "DOS Zone.  점수 323, 반응 73 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "No Slop Grenade",
-      "url": "https://noslopgrenade.com/",
-      "score": 278,
-      "comments": 172,
-      "text": "",
-      "summary": "No Slop Grenade.  점수 278, 반응 172 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google's Antigravity Bait and Switch",
-      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-      "score": 272,
-      "comments": 145,
-      "text": "",
-      "summary": "Google's Antigravity Bait and Switch. 점수 272, 반응 145 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Letter S, by Donald Knuth (1980) [pdf]",
-      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-      "score": 244,
-      "comments": 43,
-      "text": "",
-      "summary": "The Letter S, by Donald Knuth (1980) [pdf]. 점수 244, 반응 43 기준 인기 이슈입니다."
+      "summary": "Seattle Shield, an intelligence-sharing network operated by the Seattle police. 점수 321, 반응 118 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Vivaldi 8.0",
       "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-      "score": 223,
-      "comments": 157,
+      "score": 288,
+      "comments": 212,
       "text": "",
-      "summary": "Vivaldi 8.0.  점수 223, 반응 157 기준 인기 이슈입니다."
+      "summary": "Vivaldi 8.0.  점수 288, 반응 212 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Python 3.15: features that didn't make the headlines",
       "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "score": 205,
-      "comments": 89,
+      "score": 273,
+      "comments": 125,
       "text": "",
-      "summary": "Python 3.15: features that didn't make the headlines. 점수 205, 반응 89 기준 인기 이슈입니다."
+      "summary": "Python 3.15: features that didn't make the headlines. 점수 273, 반응 125 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "score": 235,
+      "comments": 67,
+      "text": "",
+      "summary": "Project Hail Mary – Stellar Navigation Chart. 점수 235, 반응 67 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
       "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "score": 143,
-      "comments": 49,
+      "score": 231,
+      "comments": 71,
       "text": "",
-      "summary": "Lost Images from the 1945 Trinity Nuclear Test Restored. 점수 143, 반응 49 기준 인기 이슈입니다."
+      "summary": "Lost Images from the 1945 Trinity Nuclear Test Restored. 점수 231, 반응 71 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "score": 199,
+      "comments": 67,
+      "text": "",
+      "summary": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap). 점수 199, 반응 67 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
+      "url": "https://news.ycombinator.com/item?id=48221896",
+      "score": 179,
+      "comments": 30,
+      "text": "Hi everyone,<p>I am Bojta Lepenye, and first of all, I want to thank the core developers of Hashcat. In my experience, it is quite literally the most capable tool available for offline password cracking across a wide range of use cases.<p>I have spent the last 4 years (from age 14 to 18) extensively working with Hashcat and the tools surrounding it, and I have documented what I have learned throughout that time (since January 18, 2022) in my first book. During that period, I also had to continuously update and rewrite major sections as the field evolved. One example was the introduction of GPU support for Argon2 and other memory-hard password hashing algorithms, which significantly changed some cracking workflows.<p>My passion for this book, or its “quick starter,” if you will, came from an ethically conducted penetration test I performed with full authorization at my school. This is something I am both hesitant and quite proud to acknowledge.<p>At the beginning, I simply wrote down everything I had learned from YouTube videos and online blogs. However, not long after starting my project, I realized I practically knew nothing about password security, and that small 10 to 15 pages I had written would never be enough if someone was looking for a professional guide to cracking passwords.<p>The other main driving force behind the book was the fact that while researching online, browsing forums, reading academic papers and white papers, watching videos, exploring blogs, inspecting presentations, and examining infographics, I did not find a single source that comprehensively covers and explains everything one needs to understand about offline password cracking. Literally. Not one.<p>Therefore, I continued my research and learned about password hashing algorithms, the security properties of hash functions, advanced hash cracking techniques, password analysis, attack optimization, and much, much more.<p>From the very beginning, I wanted to share this knowledge with the community because having access to a resource like this would have helped me tremendously when I first started learning password cracking.<p>I sincerely hope this work will be useful to both beginners and experienced professionals alike, and I look forward to hearing your thoughts and feedback.<p>I have also put together a little video to give you a little sneak peek into it. It is on Google Drive. It is the official domain, and you do not need to download anything. Here it is: <a href=\"https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;13LeysSZO8Mx-LGKt8UQjUGBKOYH7MqiS&#x2F;view?usp=sharing\" rel=\"nofollow\">https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;13LeysSZO8Mx-LGKt8UQjUGBKOYH...</a><p>If you are interested, the book is now publicly available on Amazon, and can be read for free with a Kindle Unlimited subscription: <a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;dp&#x2F;B0GX36XRCD\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;dp&#x2F;B0GX36XRCD</a>",
+      "summary": "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking. Hi everyone, I am Bojta Lepenye, and first of all, I want to thank the core developers of Hashcat. In my experience, it is quite literally the most capable tool available for offline password cracking across a wide range of use cases. 점수 179, 반응 30 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+      "url": "https://github.com/helvesec/rmux",
+      "score": 156,
+      "comments": 73,
+      "text": "Author here. RMUX started from a frustration: I&#x27;ve used tmux for years and got tired of scraping output with grep and sleeps to automate anything. So I rebuilt the multiplexer from scratch in Rust, with a programmable layer on top.<p>Two surfaces: a tmux-compatible CLI (~90 commands, your keybindings just work), and a typed async Rust SDK on the same daemon — stable pane IDs, structured snapshots, locator-style waits. The idea is Playwright-style automation, but for terminals.<p>Native on Linux, macOS, Windows (real ConPTY, no WSL).<p>Demos and docs at rmux.io. Happy to answer questions about the daemon protocol, ConPTY, or the SDK design.",
+      "summary": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK. RMUX started from a frustration: I&#x27;ve used tmux for years and got tired of scraping output with grep and sleeps to automate anything. So I rebuilt the multiplexer from scratch in Rust, with a programmable layer on top. 점수 156, 반응 73 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "BBEdit 16",
+      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+      "score": 124,
+      "comments": 25,
+      "text": "",
+      "summary": "BBEdit 16.  점수 124, 반응 25 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "What Do Gödel's Incompleteness Theorems Mean?",
+      "url": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
+      "score": 118,
+      "comments": 51,
+      "text": "",
+      "summary": "What Do Gödel's Incompleteness Theorems Mean?. 점수 118, 반응 51 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "News outlets are limiting the Internet Archive’s access to their journalism",
+      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "score": 118,
+      "comments": 37,
+      "text": "",
+      "summary": "News outlets are limiting the Internet Archive’s access to their journalism. 점수 118, 반응 37 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 20
+      "count": 19
+    },
+    {
+      "keyword": "password",
+      "count": 8
+    },
+    {
+      "keyword": "cracking",
+      "count": 7
     },
     {
       "keyword": "platform",
@@ -250,6 +258,18 @@
       "count": 4
     },
     {
+      "keyword": "one",
+      "count": 4
+    },
+    {
+      "keyword": "book",
+      "count": 4
+    },
+    {
+      "keyword": "not",
+      "count": 4
+    },
+    {
       "keyword": "https",
       "count": 4
     },
@@ -258,23 +278,7 @@
       "count": 4
     },
     {
-      "keyword": "wtgowers",
-      "count": 4
-    },
-    {
-      "keyword": "status",
-      "count": 4
-    },
-    {
-      "keyword": "video",
-      "count": 4
-    },
-    {
-      "keyword": "wallpapers",
-      "count": 4
-    },
-    {
-      "keyword": "custom",
+      "keyword": "tools",
       "count": 3
     },
     {
@@ -282,15 +286,11 @@
       "count": 3
     },
     {
-      "keyword": "app",
+      "keyword": "other",
       "count": 3
     },
     {
-      "keyword": "apple",
-      "count": 3
-    },
-    {
-      "keyword": "there",
+      "keyword": "years",
       "count": 3
     }
   ],
