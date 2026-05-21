@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T04:44:33.280595+00:00",
+  "updatedAt": "2026-05-21T10:03:00.195675+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,239 +10,251 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 373601,
-      "comments": 7321,
+      "score": 373664,
+      "comments": 7339,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 373601, 반응 7321 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 373664, 반응 7339 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 188918,
+      "score": 188961,
       "comments": 1488,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 188918, 반응 1488 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 188961, 반응 1488 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184435,
+      "score": 184443,
       "comments": 426,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184435, 반응 426 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184443, 반응 426 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163177,
+      "score": 163185,
       "comments": 2486,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163177, 반응 2486 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163185, 반응 2486 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 162599,
+      "score": 162613,
       "comments": 48,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162599, 반응 48 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162613, 반응 48 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 160017,
-      "comments": 12588,
+      "score": 160547,
+      "comments": 12660,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 160017, 반응 12588 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 160547, 반응 12660 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 142082,
-      "comments": 796,
+      "score": 142131,
+      "comments": 802,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 142082, 반응 796 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 142131, 반응 802 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 138005,
-      "comments": 273,
+      "score": 138049,
+      "comments": 271,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 138005, 반응 273 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 138049, 반응 271 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 137959,
+      "score": 137983,
       "comments": 145,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 137959, 반응 145 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 137983, 반응 145 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 137246,
+      "score": 137275,
       "comments": 582,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137246, 반응 582 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137275, 반응 582 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 122418,
+      "score": 122505,
       "comments": 326,
       "text": "🔥 Search, scrape, and clean the web for AI agents.",
-      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 122418, 반응 326 기준 인기 이슈입니다."
+      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 122505, 반응 326 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "score": 113754,
-      "comments": 4040,
+      "score": 113802,
+      "comments": 4039,
       "text": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 113754, 반응 4040 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
-      "url": "https://www.alqst.org/ar/posts/1190",
-      "score": 964,
-      "comments": 414,
-      "text": "",
-      "summary": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE. 점수 964, 반응 414 기준 인기 이슈입니다."
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. 점수 113802, 반응 4039 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 867,
-      "comments": 647,
-      "text": "",
-      "summary": "An OpenAI model has disproved a central conjecture in discrete geometry. 점수 867, 반응 647 기준 인기 이슈입니다."
+      "score": 1167,
+      "comments": 851,
+      "text": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912</a>",
+      "summary": "An OpenAI model has disproved a central conjecture in discrete geometry. https:&#x2F;&#x2F;x.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912 , https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912 점수 1167, 반응 851 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 631,
-      "comments": 225,
+      "score": 840,
+      "comments": 350,
       "text": "Previous thread in sequence:<p><i>GitHub is investigating unauthorized access to their internal repositories</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201316\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201316</a> - May 2026 (321 comments)",
-      "summary": "GitHub confirms breach of 3,800 repos via malicious VSCode extension. Previous thread in sequence: GitHub is investigating unauthorized access to their internal repositories - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201316 - May 2026 (321 comments) 점수 631, 반응 225 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google Declaring War on the Web",
-      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
-      "score": 417,
-      "comments": 280,
-      "text": "",
-      "summary": "Google Declaring War on the Web. 점수 417, 반응 280 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Incident Report: May 19, 2026 – GCP Account Suspension",
-      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
-      "score": 401,
-      "comments": 239,
-      "text": "Previous thread: <i>Incident Report: Railway Blocked by Google Cloud [resolved]</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201484\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201484</a>",
-      "summary": "Incident Report: May 19, 2026 – GCP Account Suspension. Previous thread: Incident Report: Railway Blocked by Google Cloud [resolved] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201484 점수 401, 반응 239 기준 인기 이슈입니다."
+      "summary": "GitHub confirms breach of 3,800 repos via malicious VSCode extension. Previous thread in sequence: GitHub is investigating unauthorized access to their internal repositories - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201316 - May 2026 (321 comments) 점수 840, 반응 350 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How fast is N tokens per second really?",
       "url": "https://mikeveerman.github.io/tokenspeed/",
-      "score": 340,
-      "comments": 77,
+      "score": 416,
+      "comments": 81,
       "text": "",
-      "summary": "How fast is N tokens per second really?. 점수 340, 반응 77 기준 인기 이슈입니다."
+      "summary": "How fast is N tokens per second really?. 점수 416, 반응 81 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Saying goodbye to asm.js",
       "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
-      "score": 337,
-      "comments": 137,
+      "score": 378,
+      "comments": 147,
       "text": "",
-      "summary": "Saying goodbye to asm.js. 점수 337, 반응 137 기준 인기 이슈입니다."
+      "summary": "Saying goodbye to asm.js. 점수 378, 반응 147 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Flipper One Tech Specs",
       "url": "https://docs.flipper.net/one/general/tech-specs",
-      "score": 305,
-      "comments": 110,
+      "score": 376,
+      "comments": 133,
       "text": "",
-      "summary": "Flipper One Tech Specs. 점수 305, 반응 110 기준 인기 이슈입니다."
+      "summary": "Flipper One Tech Specs. 점수 376, 반응 133 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "SpaceX S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
-      "score": 291,
-      "comments": 223,
-      "text": "",
-      "summary": "SpaceX S-1.  점수 291, 반응 223 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
+      "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
       "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-      "score": 281,
-      "comments": 180,
+      "score": 313,
+      "comments": 193,
       "text": "",
-      "summary": "Google's AI is being manipulated. The search giant is quietly fighting back. 점수 281, 반응 180 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
-      "url": "https://legiscan.com/CO/bill/SB051/2026",
-      "score": 180,
-      "comments": 52,
-      "text": "",
-      "summary": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects. 점수 180, 반응 52 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DOS Zone",
-      "url": "https://dos.zone/",
-      "score": 148,
-      "comments": 29,
-      "text": "",
-      "summary": "DOS Zone.  점수 148, 반응 29 기준 인기 이슈입니다."
+      "summary": "Google’s AI is being manipulated. The search giant is quietly fighting back. 점수 313, 반응 193 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: I reverse engineered Apple's video wallpapers",
       "url": "https://github.com/kageroumado/phosphene",
-      "score": 147,
-      "comments": 34,
+      "score": 282,
+      "comments": 62,
       "text": "Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do.<p>I built Phosphene to sell it, but the existing competitors were polished enough that the time it would have taken to catch up wasn&#x27;t going to pay off. So I&#x27;m open-sourcing it.<p>WallpaperExtensionKit.framework is what powers macOS wallpapers. It controls what’s shows in the Settings app. It took a lot of trial and error to replicate the behavior, but the result is that your custom wallpapers appear alongside everything else. I wanted to have an “add” button there too, but I couldn’t find a way to do so, so there’s a companion app that will put your video where it needs to be.<p>Unlike Apple&#x27;s Aerials, the video keeps playing on the desktop (not just the lock screen). The renderer drives AVSampleBufferDisplayLayer directly with PTS-offset gapless looping, and pauses or downshifts based on thermal state, battery level, brightness, and window occlusion.<p>It’s free and works well.",
-      "summary": "Show HN: I reverse engineered Apple's video wallpapers. Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do. 점수 147, 반응 34 기준 인기 이슈입니다."
+      "summary": "Show HN: I reverse engineered Apple's video wallpapers. Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do. 점수 282, 반응 62 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DOS Zone",
+      "url": "https://dos.zone/",
+      "score": 258,
+      "comments": 55,
+      "text": "",
+      "summary": "DOS Zone.  점수 258, 반응 55 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic is expanding to Colossus2. Will use GB200",
+      "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+      "score": 202,
+      "comments": 185,
+      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;nottombrown&#x2F;status&#x2F;2057194829986300375\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;nottombrown&#x2F;status&#x2F;2057194829986300375</a>",
+      "summary": "Anthropic is expanding to Colossus2. https:&#x2F;&#x2F;xcancel.com&#x2F;nottombrown&#x2F;status&#x2F;2057194829986300375 점수 202, 반응 185 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "score": 192,
+      "comments": 141,
+      "text": "",
+      "summary": "Intuit to lay off over 3k employees to refocus on AI. 점수 192, 반응 141 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+      "score": 175,
+      "comments": 93,
+      "text": "",
+      "summary": "Qian Xuesen: The missile genius America lost and China gained (2025). 점수 175, 반응 93 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Letter S, by Donald Knuth (1980) [pdf]",
+      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
+      "score": 168,
+      "comments": 21,
+      "text": "",
+      "summary": "The Letter S, by Donald Knuth (1980) [pdf]. 점수 168, 반응 21 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "SBCL: the ultimate assembly code breadboard (2014)",
+      "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
+      "score": 152,
+      "comments": 8,
+      "text": "",
+      "summary": "SBCL: the ultimate assembly code breadboard (2014). 점수 152, 반응 8 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 12
+      "count": 36
     },
     {
-      "keyword": "platform",
-      "count": 4
+      "keyword": "https",
+      "count": 8
+    },
+    {
+      "keyword": "com",
+      "count": 8
+    },
+    {
+      "keyword": "status",
+      "count": 6
     },
     {
       "keyword": "code",
+      "count": 5
+    },
+    {
+      "keyword": "platform",
       "count": 4
     },
     {
@@ -250,23 +262,15 @@
       "count": 4
     },
     {
-      "keyword": "https",
+      "keyword": "href",
       "count": 4
     },
     {
-      "keyword": "news",
+      "keyword": "wtgowers",
       "count": 4
     },
     {
-      "keyword": "ycombinator",
-      "count": 4
-    },
-    {
-      "keyword": "com",
-      "count": 4
-    },
-    {
-      "keyword": "item",
+      "keyword": "xcancel",
       "count": 4
     },
     {
@@ -282,15 +286,11 @@
       "count": 3
     },
     {
-      "keyword": "web",
-      "count": 3
-    },
-    {
-      "keyword": "open",
-      "count": 3
-    },
-    {
       "keyword": "agent",
+      "count": 3
+    },
+    {
+      "keyword": "app",
       "count": 3
     }
   ],
