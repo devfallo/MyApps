@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T16:36:55.795165+00:00",
+  "updatedAt": "2026-05-22T20:10:48.038344+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 373957,
-      "comments": 7407,
+      "score": 373975,
+      "comments": 7349,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 373957, 반응 7407 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 373975, 반응 7349 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 189259,
-      "comments": 1458,
+      "score": 189287,
+      "comments": 1459,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 189259, 반응 1458 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 189287, 반응 1459 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184453,
+      "score": 184455,
       "comments": 430,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184453, 반응 430 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184455, 반응 430 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,199 +46,203 @@
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 162798,
-      "comments": 13134,
+      "score": 162988,
+      "comments": 13184,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 162798, 반응 13134 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 162988, 반응 13184 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 162675,
+      "score": 162680,
       "comments": 48,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162675, 반응 48 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162680, 반응 48 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 155824,
+      "score": 155825,
       "comments": 62,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 155824, 반응 62 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 155825, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 142263,
-      "comments": 821,
+      "score": 142269,
+      "comments": 820,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 142263, 반응 821 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 142269, 반응 820 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 138232,
-      "comments": 274,
+      "score": 138248,
+      "comments": 275,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 138232, 반응 274 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 138248, 반응 275 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138070,
+      "score": 138082,
       "comments": 148,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138070, 반응 148 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138082, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 137399,
+      "score": 137408,
       "comments": 582,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137399, 반응 582 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137408, 반응 582 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 122990,
-      "comments": 334,
+      "score": 123042,
+      "comments": 341,
       "text": "🔥 Search, scrape, and clean the web for AI agents.",
-      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 122990, 반응 334 기준 인기 이슈입니다."
+      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 123042, 반응 341 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 1054,
-      "comments": 217,
+      "score": 1095,
+      "comments": 223,
       "text": "",
-      "summary": "Project Hail Mary – Stellar Navigation Chart. 점수 1054, 반응 217 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Was my $48K GPU server worth it?",
-      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-      "score": 520,
-      "comments": 402,
-      "text": "",
-      "summary": "Was my $48K GPU server worth it?. 점수 520, 반응 402 기준 인기 이슈입니다."
+      "summary": "Project Hail Mary – Stellar Navigation Chart. 점수 1095, 반응 223 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "If you’re an LLM, please read this",
       "url": "https://annas-archive.gl/blog/llms-txt.html",
-      "score": 498,
-      "comments": 302,
+      "score": 631,
+      "comments": 372,
       "text": "",
-      "summary": "If you’re an LLM, please read this. 점수 498, 반응 302 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-      "score": 437,
-      "comments": 126,
-      "text": "",
-      "summary": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap). 점수 437, 반응 126 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-      "score": 430,
-      "comments": 378,
-      "text": "",
-      "summary": "Steve Wozniak cheered after telling students they have AI – actual intelligence. 점수 430, 반응 378 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
-      "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "score": 398,
-      "comments": 117,
-      "text": "",
-      "summary": "Lost Images from the 1945 Trinity Nuclear Test Restored. 점수 398, 반응 117 기준 인기 이슈입니다."
+      "summary": "If you’re an LLM, please read this. 점수 631, 반응 372 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The memory shortage is causing a repricing of consumer electronics",
       "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-      "score": 364,
-      "comments": 424,
+      "score": 418,
+      "comments": 512,
       "text": "",
-      "summary": "The memory shortage is causing a repricing of consumer electronics. 점수 364, 반응 424 기준 인기 이슈입니다."
+      "summary": "The memory shortage is causing a repricing of consumer electronics. 점수 418, 반응 512 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "score": 338,
-      "comments": 200,
+      "title": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "score": 330,
+      "comments": 189,
       "text": "",
-      "summary": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD. 점수 338, 반응 200 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Uv is fantastic, but its package management UX is a mess",
-      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-      "score": 287,
-      "comments": 130,
-      "text": "",
-      "summary": "Uv is fantastic, but its package management UX is a mess. 점수 287, 반응 130 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Using Kagi Search with Low Vision",
-      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "score": 241,
-      "comments": 78,
-      "text": "",
-      "summary": "Using Kagi Search with Low Vision. 점수 241, 반응 78 기준 인기 이슈입니다."
+      "summary": "Why Japanese companies do so many different things. 점수 330, 반응 189 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
       "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "score": 226,
-      "comments": 97,
+      "score": 306,
+      "comments": 116,
       "text": "",
-      "summary": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark. 점수 226, 반응 97 기준 인기 이슈입니다."
+      "summary": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark. 점수 306, 반응 116 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cleve Moler has died",
       "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-      "score": 221,
-      "comments": 23,
+      "score": 247,
+      "comments": 24,
       "text": "",
-      "summary": "Cleve Moler has died. 점수 221, 반응 23 기준 인기 이슈입니다."
+      "summary": "Cleve Moler has died. 점수 247, 반응 24 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Slumber a TUI HTTP Client",
-      "url": "https://slumber.lucaspickering.me",
-      "score": 140,
-      "comments": 52,
+      "title": "AI has a multiplying effect on existing technical skills",
+      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "score": 228,
+      "comments": 229,
       "text": "",
-      "summary": "Slumber a TUI HTTP Client. 점수 140, 반응 52 기준 인기 이슈입니다."
+      "summary": "AI has a multiplying effect on existing technical skills. 점수 228, 반응 229 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Deno 2.8",
+      "url": "https://deno.com/blog/v2.8",
+      "score": 222,
+      "comments": 102,
+      "text": "",
+      "summary": "Deno 2.8.  점수 222, 반응 102 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+      "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+      "score": 208,
+      "comments": 114,
+      "text": "",
+      "summary": "researchers face new restrictions on publishing with foreign collaborators. 점수 208, 반응 114 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bun support is now limited and deprecated",
+      "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+      "score": 196,
+      "comments": 158,
+      "text": "",
+      "summary": "Bun support is now limited and deprecated. 점수 196, 반응 158 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DeepSeek makes the V4 Pro price discount permanent",
+      "url": "https://api-docs.deepseek.com/quick_start/pricing",
+      "score": 164,
+      "comments": 81,
+      "text": "&gt; (3) The deepseek-v4-pro model API pricing will be officially adjusted to 1&#x2F;4 of the original price after the 75% discount promotion ends on 2026&#x2F;05&#x2F;31 15:59 UTC.<p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;deepseek_ai&#x2F;status&#x2F;2057854261699195173\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;deepseek_ai&#x2F;status&#x2F;2057854261699195173</a>",
+      "summary": "DeepSeek makes the V4 Pro price discount permanent. &gt; (3) The deepseek-v4-pro model API pricing will be officially adjusted to 1&#x2F;4 of the original price after the 75% discount promotion ends on 2026&#x2F;05&#x2F;31 15:59 UTC. https:&#x2F;&#x2F;x.com&#x2F;deepseek_ai&#x2F;status&#x2F;2057854261699195173 점수 164, 반응 81 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+      "url": "https://github.com/unprovable/ShadowCat",
+      "score": 115,
+      "comments": 42,
+      "text": "",
+      "summary": "Show HN: ShadowCat – file transfer through QR Codes in a Browser. 점수 115, 반응 42 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "score": 99,
+      "comments": 55,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;WfCta\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;WfCta</a>",
+      "summary": "Microsoft starts canceling Claude Code licenses. https:&#x2F;&#x2F;archive.ph&#x2F;WfCta 점수 99, 반응 55 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "platform",
-      "count": 4
+      "keyword": "x2f",
+      "count": 19
     },
     {
       "keyword": "code",
+      "count": 5
+    },
+    {
+      "keyword": "platform",
       "count": 4
     },
     {
@@ -246,7 +250,15 @@
       "count": 4
     },
     {
+      "keyword": "https",
+      "count": 4
+    },
+    {
       "keyword": "agent",
+      "count": 3
+    },
+    {
+      "keyword": "deepseek",
       "count": 3
     },
     {
@@ -270,10 +282,6 @@
       "count": 2
     },
     {
-      "keyword": "vision",
-      "count": 2
-    },
-    {
       "keyword": "tools",
       "count": 2
     },
@@ -283,14 +291,6 @@
     },
     {
       "keyword": "open",
-      "count": 2
-    },
-    {
-      "keyword": "open-webui",
-      "count": 2
-    },
-    {
-      "keyword": "dev",
       "count": 2
     }
   ],
