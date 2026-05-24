@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T15:33:01.978033+00:00",
+  "updatedAt": "2026-05-24T17:15:02.470488+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 374350,
-      "comments": 6794,
+      "score": 374368,
+      "comments": 6818,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 374350, 반응 6794 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 374368, 반응 6818 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 189511,
-      "comments": 1481,
+      "score": 189520,
+      "comments": 1482,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 189511, 반응 1481 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 189520, 반응 1482 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184504,
+      "score": 184510,
       "comments": 430,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184504, 반응 430 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184510, 반응 430 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 165274,
-      "comments": 13367,
+      "score": 165371,
+      "comments": 13394,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 165274, 반응 13367 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 165371, 반응 13394 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,10 +55,10 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 162757,
+      "score": 162760,
       "comments": 45,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162757, 반응 45 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162760, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,163 +73,163 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 142448,
-      "comments": 841,
+      "score": 142463,
+      "comments": 839,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 142448, 반응 841 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 142463, 반응 839 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 138447,
+      "score": 138461,
       "comments": 284,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 138447, 반응 284 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 138461, 반응 284 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138190,
+      "score": 138196,
       "comments": 146,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138190, 반응 146 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138196, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 137536,
+      "score": 137535,
       "comments": 584,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137536, 반응 584 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137535, 반응 584 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 123652,
+      "score": 123681,
       "comments": 340,
       "text": "🔥 Search, scrape, and clean the web for AI agents.",
-      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 123652, 반응 340 기준 인기 이슈입니다."
+      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 123681, 반응 340 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Time to talk about my writerdeck",
       "url": "https://veronicaexplains.net/my-first-writerdeck/",
-      "score": 418,
-      "comments": 245,
+      "score": 428,
+      "comments": 254,
       "text": "",
-      "summary": "Time to talk about my writerdeck. 점수 418, 반응 245 기준 인기 이슈입니다."
+      "summary": "Time to talk about my writerdeck. 점수 428, 반응 254 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "On The <dl> (2021)",
       "url": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 415,
-      "comments": 121,
+      "score": 422,
+      "comments": 124,
       "text": "",
-      "summary": "On The (2021).  점수 415, 반응 121 기준 인기 이슈입니다."
+      "summary": "On The (2021).  점수 422, 반응 124 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "score": 350,
-      "comments": 109,
+      "score": 365,
+      "comments": 119,
       "text": "<a href=\"https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-the-story-of-early-dos-development&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-...</a>",
-      "summary": "Microsoft open-sources \"the earliest DOS source code discovered to date\". https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-... 점수 350, 반응 109 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Art of Money Getting",
-      "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-      "score": 344,
-      "comments": 180,
-      "text": "",
-      "summary": "The Art of Money Getting. 점수 344, 반응 180 기준 인기 이슈입니다."
+      "summary": "Microsoft open-sources \"the earliest DOS source code discovered to date\". https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-... 점수 365, 반응 119 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Wake up! 16b",
       "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "score": 328,
-      "comments": 24,
+      "score": 349,
+      "comments": 25,
       "text": "",
-      "summary": "Wake up! 16b.  점수 328, 반응 24 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "My two-part desk setup (2025)",
-      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-      "score": 321,
-      "comments": 195,
-      "text": "",
-      "summary": "My two-part desk setup (2025). 점수 321, 반응 195 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-      "score": 250,
-      "comments": 127,
-      "text": "",
-      "summary": "Why is Vivado 2026.1 dropping Linux support for free tier?. 점수 250, 반응 127 기준 인기 이슈입니다."
+      "summary": "Wake up! 16b.  점수 349, 반응 25 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I spent 50 hours drawing a line graph",
       "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "score": 222,
-      "comments": 37,
+      "score": 273,
+      "comments": 52,
       "text": "",
-      "summary": "I spent 50 hours drawing a line graph. 점수 222, 반응 37 기준 인기 이슈입니다."
+      "summary": "I spent 50 hours drawing a line graph. 점수 273, 반응 52 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Scammers are abusing an internal Microsoft account to send spam links",
       "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "score": 204,
-      "comments": 110,
+      "score": 219,
+      "comments": 121,
       "text": "",
-      "summary": "Scammers are abusing an internal Microsoft account to send spam links. 점수 204, 반응 110 기준 인기 이슈입니다."
+      "summary": "Scammers are abusing an internal Microsoft account to send spam links. 점수 219, 반응 121 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Greg Brockman interview [video]",
-      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-      "score": 125,
-      "comments": 99,
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "score": 158,
+      "comments": 90,
       "text": "",
-      "summary": "Greg Brockman interview [video]. 점수 125, 반응 99 기준 인기 이슈입니다."
+      "summary": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost. 점수 158, 반응 90 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
-      "url": "https://sales-and-dungeons.app/",
-      "score": 118,
-      "comments": 37,
+      "title": "The C64 Dead Test Font",
+      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
+      "score": 105,
+      "comments": 18,
       "text": "",
-      "summary": "Sales and Dungeons: Thermal printer TTRPG utility. 점수 118, 반응 37 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "My I3-Emacs Integration",
-      "url": "https://khz.ac/software/i3-integration.html",
-      "score": 94,
-      "comments": 39,
-      "text": "",
-      "summary": "My I3-Emacs Integration. 점수 94, 반응 39 기준 인기 이슈입니다."
+      "summary": "The C64 Dead Test Font. 점수 105, 반응 18 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
       "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
-      "score": 94,
+      "score": 102,
       "comments": 22,
       "text": "",
-      "summary": "Alexander Grothendieck Revolutionized 20th-Century Mathematics. 점수 94, 반응 22 기준 인기 이슈입니다."
+      "summary": "Alexander Grothendieck Revolutionized 20th-Century Mathematics. 점수 102, 반응 22 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Childhood Computing",
+      "url": "https://susam.net/childhood-computing.html",
+      "score": 97,
+      "comments": 50,
+      "text": "",
+      "summary": "Childhood Computing.  점수 97, 반응 50 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Omarchy Is Not A Distro",
+      "url": "https://abyss.fish/your_dotfiles_are_not_a_distro",
+      "score": 91,
+      "comments": 74,
+      "text": "",
+      "summary": "Omarchy Is Not A Distro. 점수 91, 반응 74 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Converting an Integer to a Decimal String in Under Two Nanoseconds",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/spe.70079",
+      "score": 88,
+      "comments": 46,
+      "text": "",
+      "summary": "Converting an Integer to a Decimal String in Under Two Nanoseconds. 점수 88, 반응 46 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mastering Dyalog APL",
+      "url": "https://mastering.dyalog.com/README.html",
+      "score": 85,
+      "comments": 18,
+      "text": "",
+      "summary": "Mastering Dyalog APL. 점수 85, 반응 18 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -246,16 +246,16 @@
       "count": 4
     },
     {
+      "keyword": "agent",
+      "count": 4
+    },
+    {
       "keyword": "prompts",
       "count": 4
     },
     {
       "keyword": "microsoft",
       "count": 4
-    },
-    {
-      "keyword": "agent",
-      "count": 3
     },
     {
       "keyword": "openclaw",
@@ -267,6 +267,10 @@
     },
     {
       "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "native",
       "count": 2
     },
     {
@@ -283,10 +287,6 @@
     },
     {
       "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "free",
       "count": 2
     },
     {
