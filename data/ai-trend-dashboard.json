@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T21:57:43.356951+00:00",
+  "updatedAt": "2026-05-26T23:33:07.532959+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 374856,
-      "comments": 6920,
+      "score": 374861,
+      "comments": 6924,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 374856, 반응 6920 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 374861, 반응 6924 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 189809,
-      "comments": 1482,
+      "score": 189816,
+      "comments": 1480,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 189809, 반응 1482 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 189816, 반응 1480 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184566,
+      "score": 184569,
       "comments": 437,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184566, 반응 437 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184569, 반응 437 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 168585,
-      "comments": 14106,
+      "score": 168644,
+      "comments": 14136,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 168585, 반응 14106 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 168644, 반응 14136 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,10 +55,10 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 162869,
+      "score": 162872,
       "comments": 49,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162869, 반응 49 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 162872, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,169 +73,169 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 142743,
+      "score": 142742,
       "comments": 802,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 142743, 반응 802 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 142742, 반응 802 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 138758,
+      "score": 138763,
       "comments": 302,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 138758, 반응 302 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 138763, 반응 302 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138301,
+      "score": 138309,
       "comments": 146,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138301, 반응 146 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138309, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 137699,
+      "score": 137700,
       "comments": 587,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137699, 반응 587 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137700, 반응 587 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 124720,
-      "comments": 349,
+      "score": 124749,
+      "comments": 352,
       "text": "🔥 Search, scrape, and clean the web for AI agents.",
-      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 124720, 반응 349 기준 인기 이슈입니다."
+      "summary": "🔥 Search, scrape, and clean the web for AI agents. 점수 124749, 반응 352 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
       "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "score": 649,
-      "comments": 309,
+      "score": 712,
+      "comments": 333,
       "text": "",
-      "summary": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence. 점수 649, 반응 309 기준 인기 이슈입니다."
+      "summary": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence. 점수 712, 반응 333 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Netherlands blocks US takeover of vital digital supplier",
       "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-      "score": 483,
-      "comments": 189,
+      "score": 508,
+      "comments": 200,
       "text": "",
-      "summary": "Netherlands blocks US takeover of vital digital supplier. 점수 483, 반응 189 기준 인기 이슈입니다."
+      "summary": "Netherlands blocks US takeover of vital digital supplier. 점수 508, 반응 200 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
       "url": "https://dynip.dev/",
-      "score": 304,
+      "score": 314,
       "comments": 116,
       "text": "",
-      "summary": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD. 점수 304, 반응 116 기준 인기 이슈입니다."
+      "summary": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD. 점수 314, 반응 116 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The user is visibly frustrated",
+      "url": "https://pscanf.com/s/354/",
+      "score": 265,
+      "comments": 234,
+      "text": "",
+      "summary": "The user is visibly frustrated. 점수 265, 반응 234 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Dropbox CEO Drew Houston to step down",
       "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
-      "score": 222,
-      "comments": 255,
-      "text": "<a href=\"https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-update\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u...</a>",
-      "summary": "Dropbox CEO Drew Houston to step down. https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u... 점수 222, 반응 255 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-      "score": 212,
-      "comments": 230,
-      "text": "",
-      "summary": "Outsourcing plus local AI will soon become more economical vs. 점수 212, 반응 230 기준 인기 이슈입니다."
+      "score": 261,
+      "comments": 305,
+      "text": "<a href=\"https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-update\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u...</a><p><a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;drewhouston&#x2F;status&#x2F;2059275240065425474?s=20\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;drewhouston&#x2F;status&#x2F;2059275240065425474?s...</a>",
+      "summary": "Dropbox CEO Drew Houston to step down. https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u... https:&#x2F;&#x2F;twitter.com&#x2F;drewhouston&#x2F;status&#x2F;2059275240065425474?s... 점수 261, 반응 305 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The real cost of owning a home",
       "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
-      "score": 187,
-      "comments": 453,
+      "score": 230,
+      "comments": 543,
       "text": "",
-      "summary": "The real cost of owning a home. 점수 187, 반응 453 기준 인기 이슈입니다."
+      "summary": "The real cost of owning a home. 점수 230, 반응 543 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "A sleep-like consolidation mechanism for LLMs",
-      "url": "https://arxiv.org/abs/2605.26099",
-      "score": 164,
-      "comments": 122,
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "score": 229,
+      "comments": 247,
       "text": "",
-      "summary": "A sleep-like consolidation mechanism for LLMs. 점수 164, 반응 122 기준 인기 이슈입니다."
+      "summary": "Outsourcing plus local AI will soon become more economical vs. 점수 229, 반응 247 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A few interesting modern pixel fonts",
       "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "score": 161,
-      "comments": 36,
+      "score": 209,
+      "comments": 48,
       "text": "",
-      "summary": "A few interesting modern pixel fonts. 점수 161, 반응 36 기준 인기 이슈입니다."
+      "summary": "A few interesting modern pixel fonts. 점수 209, 반응 48 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Big tech's anti-labor playbook has come for Wikipedia",
+      "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+      "score": 174,
+      "comments": 69,
+      "text": "",
+      "summary": "Big tech's anti-labor playbook has come for Wikipedia. 점수 174, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "score": 172,
+      "comments": 59,
+      "text": "",
+      "summary": "Chemistry behind the Garden Grove chemical tank. 점수 172, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Is \"colorectal cancer\" rising in \"young people\"?",
       "url": "https://dynomight.net/crc-rates/",
-      "score": 137,
-      "comments": 146,
+      "score": 157,
+      "comments": 167,
       "text": "",
-      "summary": "Is \"colorectal cancer\" rising in \"young people\"?. 점수 137, 반응 146 기준 인기 이슈입니다."
+      "summary": "Is \"colorectal cancer\" rising in \"young people\"?. 점수 157, 반응 167 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Use boring languages with LLMs",
       "url": "https://jry.io/writing/use-boring-languages-with-llms/",
-      "score": 132,
-      "comments": 106,
+      "score": 152,
+      "comments": 118,
       "text": "",
-      "summary": "Use boring languages with LLMs. 점수 132, 반응 106 기준 인기 이슈입니다."
+      "summary": "Use boring languages with LLMs. 점수 152, 반응 118 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
       "url": "https://earthiongame.com/",
-      "score": 129,
-      "comments": 63,
+      "score": 140,
+      "comments": 69,
       "text": "",
-      "summary": "Earthion: A New Mega Drive-Style Shoot-Em-Up. 점수 129, 반응 63 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Phantasy Star IV – 1993 Developer Interviews",
-      "url": "https://shmuplations.com/phantasystariv/",
-      "score": 124,
-      "comments": 52,
-      "text": "",
-      "summary": "Phantasy Star IV – 1993 Developer Interviews. 점수 124, 반응 52 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Performance of Rust Language [pdf]",
-      "url": "https://github.com/yugr/rust-slides/",
-      "score": 117,
-      "comments": 86,
-      "text": "",
-      "summary": "Performance of Rust Language [pdf]. 점수 117, 반응 86 기준 인기 이슈입니다."
+      "summary": "Earthion: A New Mega Drive-Style Shoot-Em-Up. 점수 140, 반응 69 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 10
+      "count": 20
     },
     {
       "keyword": "platform",
@@ -247,6 +247,14 @@
     },
     {
       "keyword": "prompts",
+      "count": 4
+    },
+    {
+      "keyword": "https",
+      "count": 4
+    },
+    {
+      "keyword": "com",
       "count": 4
     },
     {
@@ -283,14 +291,6 @@
     },
     {
       "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "open",
       "count": 2
     }
   ],
