@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T20:38:03.655195+00:00",
+  "updatedAt": "2026-05-29T23:41:25.972414+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 375498,
-      "comments": 7068,
+      "score": 375512,
+      "comments": 7079,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 375498, 반응 7068 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 375512, 반응 7079 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 190253,
-      "comments": 1496,
+      "score": 190265,
+      "comments": 1497,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 190253, 반응 1496 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 190265, 반응 1497 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "score": 184642,
-      "comments": 429,
+      "comments": 428,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184642, 반응 429 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184642, 반응 428 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 172722,
-      "comments": 14939,
+      "score": 172795,
+      "comments": 14988,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 172722, 반응 14939 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 172795, 반응 14988 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163340,
+      "score": 163341,
       "comments": 2488,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163340, 반응 2488 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163341, 반응 2488 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,163 +73,163 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 143115,
+      "score": 143117,
       "comments": 828,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 143115, 반응 828 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 143117, 반응 828 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 139183,
-      "comments": 330,
+      "score": 139195,
+      "comments": 331,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 139183, 반응 330 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 139195, 반응 331 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138542,
+      "score": 138546,
       "comments": 145,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138542, 반응 145 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138546, 반응 145 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 137984,
-      "comments": 598,
+      "score": 137988,
+      "comments": 599,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137984, 반응 598 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 137988, 반응 599 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 126121,
+      "score": 126145,
       "comments": 364,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 126121, 반응 364 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I am retiring from tech to live offline",
-      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-      "score": 634,
-      "comments": 439,
-      "text": "",
-      "summary": "I am retiring from tech to live offline. 점수 634, 반응 439 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GTA 6 Developers Unionize",
-      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "score": 447,
-      "comments": 278,
-      "text": "",
-      "summary": "GTA 6 Developers Unionize. 점수 447, 반응 278 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 126145, 반응 364 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The dead economy theory",
       "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 385,
-      "comments": 528,
+      "score": 593,
+      "comments": 781,
       "text": "",
-      "summary": "The dead economy theory. 점수 385, 반응 528 기준 인기 이슈입니다."
+      "summary": "The dead economy theory. 점수 593, 반응 781 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Notes from the Mistral AI Now Summit in Paris",
+      "title": "GTA 6 Developers Unionize",
+      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "score": 532,
+      "comments": 362,
+      "text": "",
+      "summary": "GTA 6 Developers Unionize. 점수 532, 반응 362 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "score": 428,
+      "comments": 646,
+      "text": "",
+      "summary": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM. 점수 428, 반응 646 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Notes from the Mistral AI Now Summit",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 245,
-      "comments": 60,
+      "score": 297,
+      "comments": 101,
       "text": "",
-      "summary": "Notes from the Mistral AI Now Summit in Paris. 점수 245, 반응 60 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Is AI causing a repeat of frontend’s lost decade?",
-      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-      "score": 219,
-      "comments": 197,
-      "text": "",
-      "summary": "Is AI causing a repeat of frontend’s lost decade?. 점수 219, 반응 197 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "score": 186,
-      "comments": 84,
-      "text": "",
-      "summary": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request. 점수 186, 반응 84 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bijou64: A variable-length integer encoding",
-      "url": "https://www.inkandswitch.com/tangents/bijou64/",
-      "score": 178,
-      "comments": 66,
-      "text": "",
-      "summary": "Bijou64: A variable-length integer encoding. 점수 178, 반응 66 기준 인기 이슈입니다."
+      "summary": "Notes from the Mistral AI Now Summit. 점수 297, 반응 101 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 171,
-      "comments": 83,
+      "score": 294,
+      "comments": 178,
       "text": "",
-      "summary": "SQLite is all you need for durable workflows. 점수 171, 반응 83 기준 인기 이슈입니다."
+      "summary": "SQLite is all you need for durable workflows. 점수 294, 반응 178 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Is AI causing a repeat of frontend’s lost decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "score": 270,
+      "comments": 232,
+      "text": "",
+      "summary": "Is AI causing a repeat of frontend’s lost decade?. 점수 270, 반응 232 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bijou64: A variable-length integer encoding",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "score": 197,
+      "comments": 71,
+      "text": "",
+      "summary": "Bijou64: A variable-length integer encoding. 점수 197, 반응 71 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "It's hard to justify buying a Framework 12",
       "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "score": 144,
-      "comments": 247,
+      "score": 190,
+      "comments": 348,
       "text": "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=aPVAnwuSjfk\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=aPVAnwuSjfk</a>",
-      "summary": "It's hard to justify buying a Framework 12. https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=aPVAnwuSjfk 점수 144, 반응 247 기준 인기 이슈입니다."
+      "summary": "It's hard to justify buying a Framework 12. https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=aPVAnwuSjfk 점수 190, 반응 348 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
-      "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
-      "score": 132,
-      "comments": 49,
+      "title": "The California state assembly has passed the 'Protect Our Games Act'",
+      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
+      "score": 157,
+      "comments": 158,
       "text": "",
-      "summary": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building. 점수 132, 반응 49 기준 인기 이슈입니다."
+      "summary": "The California state assembly has passed the 'Protect Our Games Act'. 점수 157, 반응 158 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We should be more tired than the model",
       "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-      "score": 127,
-      "comments": 105,
+      "score": 142,
+      "comments": 128,
       "text": "",
-      "summary": "We should be more tired than the model. 점수 127, 반응 105 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Expertise in the age of AI",
-      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
-      "score": 84,
-      "comments": 83,
-      "text": "",
-      "summary": "Expertise in the age of AI. 점수 84, 반응 83 기준 인기 이슈입니다."
+      "summary": "We should be more tired than the model. 점수 142, 반응 128 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
       "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-      "score": 76,
-      "comments": 18,
+      "score": 135,
+      "comments": 40,
       "text": "",
-      "summary": "Liquid AI reveals 8B-A1B MoE trained on 38T. 점수 76, 반응 18 기준 인기 이슈입니다."
+      "summary": "Liquid AI reveals 8B-A1B MoE trained on 38T. 점수 135, 반응 40 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
+      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+      "score": 135,
+      "comments": 35,
+      "text": "",
+      "summary": "Microsoft 0-day feud escalates as researcher threatens another exploit dump. 점수 135, 반응 35 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "On Rendering Diffs",
+      "url": "https://pierre.computer/writing/on-rendering-diffs",
+      "score": 129,
+      "comments": 31,
+      "text": "",
+      "summary": "On Rendering Diffs.  점수 129, 반응 31 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -266,15 +266,15 @@
       "count": 2
     },
     {
-      "keyword": "building",
-      "count": 2
-    },
-    {
       "keyword": "self-host",
       "count": 2
     },
     {
       "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "our",
       "count": 2
     },
     {
