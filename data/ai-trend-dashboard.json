@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T19:40:47.463285+00:00",
+  "updatedAt": "2026-05-30T21:14:20.696005+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 375657,
-      "comments": 7129,
+      "score": 375663,
+      "comments": 7107,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 375657, 반응 7129 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 375663, 반응 7107 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 190358,
-      "comments": 1498,
+      "score": 190366,
+      "comments": 1499,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 190358, 반응 1498 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 190366, 반응 1499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184656,
+      "score": 184657,
       "comments": 427,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184656, 반응 427 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184657, 반응 427 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 173588,
-      "comments": 15155,
+      "score": 173630,
+      "comments": 15171,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 173588, 반응 15155 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 173630, 반응 15171 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,10 +55,10 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163062,
+      "score": 163065,
       "comments": 48,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163062, 반응 48 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163065, 반응 48 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,166 +73,174 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 143189,
+      "score": 143188,
       "comments": 834,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 143189, 반응 834 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 143188, 반응 834 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 139286,
-      "comments": 352,
+      "score": 139291,
+      "comments": 357,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 139286, 반응 352 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 139291, 반응 357 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138568,
+      "score": 138572,
       "comments": 146,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138568, 반응 146 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138572, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 138051,
+      "score": 138054,
       "comments": 600,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138051, 반응 600 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138054, 반응 600 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 126446,
+      "score": 126468,
       "comments": 373,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 126446, 반응 373 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 126468, 반응 373 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 652,
-      "comments": 353,
+      "score": 662,
+      "comments": 362,
       "text": "",
-      "summary": "SQLite is all you need for durable workflows. 점수 652, 반응 353 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 444,
-      "comments": 194,
-      "text": "",
-      "summary": "Notes from the Mistral AI Now Summit. 점수 444, 반응 194 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "MCP is dead?",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "score": 365,
-      "comments": 347,
-      "text": "",
-      "summary": "MCP is dead?.  점수 365, 반응 347 기준 인기 이슈입니다."
+      "summary": "SQLite is all you need for durable workflows. 점수 662, 반응 362 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Pandoc Templates",
       "url": "https://pandoc-templates.org/",
-      "score": 314,
-      "comments": 44,
+      "score": 328,
+      "comments": 46,
       "text": "",
-      "summary": "Pandoc Templates.  점수 314, 반응 44 기준 인기 이슈입니다."
+      "summary": "Pandoc Templates.  점수 328, 반응 46 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Zig: Build System Reworked",
       "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "score": 293,
-      "comments": 184,
+      "score": 304,
+      "comments": 195,
       "text": "",
-      "summary": "Zig: Build System Reworked. 점수 293, 반응 184 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 269,
-      "comments": 101,
-      "text": "",
-      "summary": "Snowboard Kids 2 is 100% Decompiled. 점수 269, 반응 101 기준 인기 이슈입니다."
+      "summary": "Zig: Build System Reworked. 점수 304, 반응 195 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
       "url": "https://github.com/kristapsdz/openrsync",
-      "score": 251,
-      "comments": 113,
+      "score": 273,
+      "comments": 123,
       "text": "",
-      "summary": "Openrsync: An implementation of rsync, by the OpenBSD team. 점수 251, 반응 113 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Last Technical Interview",
-      "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
-      "score": 219,
-      "comments": 214,
-      "text": "",
-      "summary": "The Last Technical Interview. 점수 219, 반응 214 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "score": 215,
-      "comments": 68,
-      "text": "",
-      "summary": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer. 점수 215, 반응 68 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Voxel Space",
-      "url": "https://s-macke.github.io/VoxelSpace/",
-      "score": 188,
-      "comments": 40,
-      "text": "",
-      "summary": "Voxel Space.  점수 188, 반응 40 기준 인기 이슈입니다."
+      "summary": "Openrsync: An implementation of rsync, by the OpenBSD team. 점수 273, 반응 123 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenRouter raises $113M Series B",
       "url": "https://openrouter.ai/announcements/series-b",
-      "score": 184,
-      "comments": 73,
+      "score": 256,
+      "comments": 113,
       "text": "",
-      "summary": "OpenRouter raises $113M Series B. 점수 184, 반응 73 기준 인기 이슈입니다."
+      "summary": "OpenRouter raises $113M Series B. 점수 256, 반응 113 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "What Happened to the Locusts?",
-      "url": "https://explosion-scratch.github.io/locusts/",
-      "score": 162,
-      "comments": 37,
+      "title": "Voxel Space (2017)",
+      "url": "https://s-macke.github.io/VoxelSpace/",
+      "score": 222,
+      "comments": 48,
       "text": "",
-      "summary": "What Happened to the Locusts?. 점수 162, 반응 37 기준 인기 이슈입니다."
+      "summary": "Voxel Space (2017).  점수 222, 반응 48 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
+      "url": "https://gptzero.me/investigations/ey",
+      "score": 206,
+      "comments": 88,
+      "text": "",
+      "summary": "EY Canada published a cybersecurity report and most citations were hallucinated. 점수 206, 반응 88 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "What are locusts and what happened to them?",
+      "url": "https://explosion-scratch.github.io/locusts/",
+      "score": 181,
+      "comments": 43,
+      "text": "",
+      "summary": "What are locusts and what happened to them?. 점수 181, 반응 43 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Accenture to acquire Ookla",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+      "score": 158,
+      "comments": 81,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;889234&#x2F;downdetector-ookla-speedtest-sold-accenture\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;889234&#x2F;downdetector-ookla-spee...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;FR8ND\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;FR8ND</a><p><a href=\"https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;03&#x2F;downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;03&#x2F;downd...</a>",
+      "summary": "Accenture to acquire Ookla. https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;889234&#x2F;downdetector-ookla-spee... , https:&#x2F;&#x2F;archive.ph&#x2F;FR8ND https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;03&#x2F;downd... 점수 158, 반응 81 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Navier-Stokes fluid simulation explained with Godot game engine",
       "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-      "score": 133,
-      "comments": 21,
+      "score": 151,
+      "comments": 22,
       "text": "",
-      "summary": "Navier-Stokes fluid simulation explained with Godot game engine. 점수 133, 반응 21 기준 인기 이슈입니다."
+      "summary": "Navier-Stokes fluid simulation explained with Godot game engine. 점수 151, 반응 22 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Leo's first encyclical attacks technological messianism",
+      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+      "score": 133,
+      "comments": 163,
+      "text": "",
+      "summary": "Leo's first encyclical attacks technological messianism. 점수 133, 반응 163 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zig ELF Linker Improvements Devlog",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "score": 133,
+      "comments": 18,
+      "text": "",
+      "summary": "Zig ELF Linker Improvements Devlog. 점수 133, 반응 18 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
+      "url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
+      "score": 127,
+      "comments": 57,
+      "text": "",
+      "summary": "IXI's autofocusing lenses are almost ready to replace multifocal glasses. 점수 127, 반응 57 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 29
+    },
+    {
+      "keyword": "https",
+      "count": 6
+    },
     {
       "keyword": "platform",
       "count": 4
@@ -246,7 +254,23 @@
       "count": 4
     },
     {
+      "keyword": "com",
+      "count": 4
+    },
+    {
       "keyword": "agent",
+      "count": 3
+    },
+    {
+      "keyword": "href",
+      "count": 3
+    },
+    {
+      "keyword": "rel",
+      "count": 3
+    },
+    {
+      "keyword": "nofollow",
       "count": 3
     },
     {
@@ -267,30 +291,6 @@
     },
     {
       "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "our",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "open",
-      "count": 2
-    },
-    {
-      "keyword": "open-webui",
       "count": 2
     }
   ],
