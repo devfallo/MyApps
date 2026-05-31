@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T15:40:19.457946+00:00",
+  "updatedAt": "2026-05-31T17:30:34.604126+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 375817,
-      "comments": 6991,
+      "score": 375832,
+      "comments": 6932,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 375817, 반응 6991 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 375832, 반응 6932 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 190454,
+      "score": 190464,
       "comments": 1509,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 190454, 반응 1509 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 190464, 반응 1509 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184667,
+      "score": 184669,
       "comments": 432,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184667, 반응 432 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184669, 반응 432 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 174404,
-      "comments": 15404,
+      "score": 174475,
+      "comments": 15442,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 174404, 반응 15404 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 174475, 반응 15442 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163348,
+      "score": 163349,
       "comments": 2489,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163348, 반응 2489 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163349, 반응 2489 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,173 +73,169 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 143289,
-      "comments": 835,
+      "score": 143291,
+      "comments": 824,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 143289, 반응 835 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 143291, 반응 824 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 139366,
-      "comments": 366,
+      "score": 139381,
+      "comments": 364,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 139366, 반응 366 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 139381, 반응 364 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138619,
+      "score": 138624,
       "comments": 146,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138619, 반응 146 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138624, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 138102,
+      "score": 138106,
       "comments": 601,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138102, 반응 601 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138106, 반응 601 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 126758,
-      "comments": 377,
+      "score": 126786,
+      "comments": 376,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 126758, 반응 377 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 945,
-      "comments": 342,
-      "text": "",
-      "summary": "Microsoft Office 2019 and 2021 for Mac view-only conversion. 점수 945, 반응 342 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 126786, 반응 376 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Domain expertise has always been the real moat",
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 742,
-      "comments": 439,
+      "score": 769,
+      "comments": 480,
       "text": "",
-      "summary": "Domain expertise has always been the real moat. 점수 742, 반응 439 기준 인기 이슈입니다."
+      "summary": "Domain expertise has always been the real moat. 점수 769, 반응 480 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I found a seashell in the middle of the desert",
       "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
-      "score": 375,
-      "comments": 102,
+      "score": 394,
+      "comments": 105,
       "text": "<a href=\"https:&#x2F;&#x2F;shell.hawzen.me&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;shell.hawzen.me&#x2F;</a>",
-      "summary": "I found a seashell in the middle of the desert. https:&#x2F;&#x2F;shell.hawzen.me&#x2F; 점수 375, 반응 102 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Shantell Sans (2023)",
-      "url": "https://shantellsans.com/process",
-      "score": 337,
-      "comments": 40,
-      "text": "",
-      "summary": "Shantell Sans (2023). 점수 337, 반응 40 기준 인기 이슈입니다."
+      "summary": "I found a seashell in the middle of the desert. https:&#x2F;&#x2F;shell.hawzen.me&#x2F; 점수 394, 반응 105 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Website Specification",
       "url": "https://specification.website/",
-      "score": 325,
-      "comments": 131,
+      "score": 356,
+      "comments": 143,
       "text": "",
-      "summary": "The Website Specification. 점수 325, 반응 131 기준 인기 이슈입니다."
+      "summary": "The Website Specification. 점수 356, 반응 143 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Accenture to acquire Ookla",
-      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "score": 309,
-      "comments": 158,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;889234&#x2F;downdetector-ookla-speedtest-sold-accenture\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;889234&#x2F;downdetector-ookla-spee...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;FR8ND\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;FR8ND</a><p><a href=\"https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;03&#x2F;downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;03&#x2F;downd...</a>",
-      "summary": "Accenture to acquire Ookla. https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;889234&#x2F;downdetector-ookla-spee... , https:&#x2F;&#x2F;archive.ph&#x2F;FR8ND https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;03&#x2F;downd... 점수 309, 반응 158 기준 인기 이슈입니다."
+      "title": "Shantell Sans (2023)",
+      "url": "https://shantellsans.com/process",
+      "score": 356,
+      "comments": 43,
+      "text": "",
+      "summary": "Shantell Sans (2023). 점수 356, 반응 43 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
       "url": "https://av2.aomedia.org",
-      "score": 285,
-      "comments": 127,
+      "score": 307,
+      "comments": 136,
       "text": "",
-      "summary": "The AV2 Video Standard Has Released (Final v1.0 Specification). 점수 285, 반응 127 기준 인기 이슈입니다."
+      "summary": "The AV2 Video Standard Has Released (Final v1.0 Specification). 점수 307, 반응 136 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Dav2d",
       "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 260,
-      "comments": 74,
+      "score": 301,
+      "comments": 95,
       "text": "",
-      "summary": "Dav2d.  점수 260, 반응 74 기준 인기 이슈입니다."
+      "summary": "Dav2d.  점수 301, 반응 95 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Racket v9.2",
-      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-      "score": 209,
-      "comments": 20,
+      "title": "The solution might be cancelling my AI subscription",
+      "url": "https://thoughts.hmmz.org/2026-05-31.html",
+      "score": 274,
+      "comments": 173,
       "text": "",
-      "summary": "Racket v9.2.  점수 209, 반응 20 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "London's Free Roof Terraces",
-      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "score": 183,
-      "comments": 92,
-      "text": "",
-      "summary": "London's Free Roof Terraces. 점수 183, 반응 92 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
-      "url": "https://mechanical-pencil.com/",
-      "score": 142,
-      "comments": 17,
-      "text": "",
-      "summary": "Mechanical Pencil: An illustrated celebration of the engineering around us. 점수 142, 반응 17 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-      "score": 128,
-      "comments": 11,
-      "text": "",
-      "summary": "A Gentle Introduction to Lattice-Based Cryptography [pdf]. 점수 128, 반응 11 기준 인기 이슈입니다."
+      "summary": "The solution might be cancelling my AI subscription. 점수 274, 반응 173 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 96,
-      "comments": 43,
+      "score": 208,
+      "comments": 112,
       "text": "",
-      "summary": "Cloudflare Turnstile requiring fingerprintable WebGL. 점수 96, 반응 43 기준 인기 이슈입니다."
+      "summary": "Cloudflare Turnstile requiring fingerprintable WebGL. 점수 208, 반응 112 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "London's Free Roof Terraces",
+      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+      "score": 205,
+      "comments": 111,
+      "text": "",
+      "summary": "London's Free Roof Terraces. 점수 205, 반응 111 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I put a datacenter GPU in my gaming PC",
+      "url": "https://blog.tymscar.com/posts/v100localllm/",
+      "score": 149,
+      "comments": 93,
+      "text": "",
+      "summary": "I put a datacenter GPU in my gaming PC. 점수 149, 반응 93 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "score": 141,
+      "comments": 14,
+      "text": "",
+      "summary": "A Gentle Introduction to Lattice-Based Cryptography [pdf]. 점수 141, 반응 14 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "One year of Roto, a compiled scripting language for Rust",
+      "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+      "score": 94,
+      "comments": 24,
+      "text": "",
+      "summary": "One year of Roto, a compiled scripting language for Rust. 점수 94, 반응 24 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "score": 94,
+      "comments": 22,
+      "text": "",
+      "summary": "1-Bit Bonsai Image 4B Image Generation for Local Devices. 점수 94, 반응 22 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 35
-    },
-    {
-      "keyword": "https",
-      "count": 8
+      "count": 6
     },
     {
       "keyword": "platform",
@@ -251,22 +247,6 @@
     },
     {
       "keyword": "prompts",
-      "count": 4
-    },
-    {
-      "keyword": "href",
-      "count": 4
-    },
-    {
-      "keyword": "rel",
-      "count": 4
-    },
-    {
-      "keyword": "nofollow",
-      "count": 4
-    },
-    {
-      "keyword": "com",
       "count": 4
     },
     {
@@ -291,6 +271,26 @@
     },
     {
       "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "web",
+      "count": 2
+    },
+    {
+      "keyword": "free",
+      "count": 2
+    },
+    {
+      "keyword": "open",
+      "count": 2
+    },
+    {
+      "keyword": "open-webui",
       "count": 2
     }
   ],
