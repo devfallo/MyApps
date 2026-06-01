@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T23:17:31.025432+00:00",
+  "updatedAt": "2026-06-01T05:15:50.464364+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,19 +10,19 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 375871,
-      "comments": 6876,
+      "score": 375921,
+      "comments": 6861,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 375871, 반응 6876 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 375921, 반응 6861 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 190491,
-      "comments": 1509,
+      "score": 190529,
+      "comments": 1512,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 190491, 반응 1509 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 190529, 반응 1512 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -37,199 +37,199 @@
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 174647,
-      "comments": 15536,
+      "score": 174969,
+      "comments": 15620,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 174647, 반응 15536 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 174969, 반응 15620 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163367,
+      "score": 163373,
       "comments": 2489,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163367, 반응 2489 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163373, 반응 2489 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163117,
+      "score": 163130,
       "comments": 47,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163117, 반응 47 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163130, 반응 47 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156001,
+      "score": 156005,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156001, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156005, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 143303,
-      "comments": 825,
+      "score": 143335,
+      "comments": 810,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 143303, 반응 825 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 143335, 반응 810 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 139407,
+      "score": 139434,
       "comments": 339,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 139407, 반응 339 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 139434, 반응 339 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138638,
+      "score": 138646,
       "comments": 147,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138638, 반응 147 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138646, 반응 147 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 138128,
-      "comments": 600,
+      "score": 138157,
+      "comments": 601,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138128, 반응 600 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138157, 반응 601 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 126876,
+      "score": 126958,
       "comments": 376,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 126876, 반응 376 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 126958, 반응 376 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 457,
-      "comments": 251,
+      "score": 578,
+      "comments": 327,
       "text": "",
-      "summary": "Cloudflare Turnstile requiring fingerprintable WebGL. 점수 457, 반응 251 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
-      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "score": 428,
-      "comments": 289,
-      "text": "",
-      "summary": "Creatine raises brain energy levels and slows cognitive decline: study. 점수 428, 반응 289 기준 인기 이슈입니다."
+      "summary": "Cloudflare Turnstile requiring fingerprintable WebGL. 점수 578, 반응 327 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Website Specification",
       "url": "https://specification.website/",
-      "score": 424,
-      "comments": 177,
+      "score": 465,
+      "comments": 186,
       "text": "",
-      "summary": "The Website Specification. 점수 424, 반응 177 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Dav2d",
-      "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 380,
-      "comments": 132,
-      "text": "",
-      "summary": "Dav2d.  점수 380, 반응 132 기준 인기 이슈입니다."
+      "summary": "The Website Specification. 점수 465, 반응 186 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Codex just found a \"workaround\" of not having sudo on my PC",
       "url": "https://twitter.com/i/status/2060746160558543217",
-      "score": 309,
-      "comments": 132,
+      "score": 454,
+      "comments": 216,
       "text": "",
-      "summary": "Codex just found a \"workaround\" of not having sudo on my PC. 점수 309, 반응 132 기준 인기 이슈입니다."
+      "summary": "Codex just found a \"workaround\" of not having sudo on my PC. 점수 454, 반응 216 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "London's Free Roof Terraces",
-      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "score": 259,
-      "comments": 132,
+      "title": "Dav2d",
+      "url": "https://jbkempf.com/blog/2026/dav2d/",
+      "score": 420,
+      "comments": 156,
       "text": "",
-      "summary": "London's Free Roof Terraces. 점수 259, 반응 132 기준 인기 이슈입니다."
+      "summary": "Dav2d.  점수 420, 반응 156 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "url": "https://prismml.com/news/bonsai-image-4b",
-      "score": 251,
-      "comments": 90,
+      "score": 332,
+      "comments": 115,
       "text": "",
-      "summary": "1-Bit Bonsai Image 4B Image Generation for Local Devices. 점수 251, 반응 90 기준 인기 이슈입니다."
+      "summary": "1-Bit Bonsai Image 4B Image Generation for Local Devices. 점수 332, 반응 115 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
       "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "score": 232,
-      "comments": 362,
+      "score": 317,
+      "comments": 516,
       "text": "",
-      "summary": "United Airlines 767 returns to Newark after Bluetooth name sparks alert. 점수 232, 반응 362 기준 인기 이슈입니다."
+      "summary": "United Airlines 767 returns to Newark after Bluetooth name sparks alert. 점수 317, 반응 516 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "London's Free Roof Terraces",
+      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+      "score": 281,
+      "comments": 135,
+      "text": "",
+      "summary": "London's Free Roof Terraces. 점수 281, 반응 135 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Restartable Sequences",
       "url": "https://justine.lol/rseq/",
-      "score": 166,
-      "comments": 48,
+      "score": 193,
+      "comments": 51,
       "text": "",
-      "summary": "Restartable Sequences. 점수 166, 반응 48 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Deflock hits 100k ALPRs Mapped in USA",
-      "url": "https://deflock.org/",
-      "score": 149,
-      "comments": 36,
-      "text": "",
-      "summary": "Deflock hits 100k ALPRs Mapped in USA. 점수 149, 반응 36 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
-      "url": "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/",
-      "score": 132,
-      "comments": 44,
-      "text": "",
-      "summary": "Atherton spent $145K to delay train electrification. The rest of us paid $400M. 점수 132, 반응 44 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Backpressure is all you need",
-      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-      "score": 126,
-      "comments": 80,
-      "text": "",
-      "summary": "Backpressure is all you need. 점수 126, 반응 80 기준 인기 이슈입니다."
+      "summary": "Restartable Sequences. 점수 193, 반응 51 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "'Backrooms' Stuns with $81M Debut",
       "url": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
-      "score": 119,
-      "comments": 30,
+      "score": 183,
+      "comments": 109,
       "text": "",
-      "summary": "'Backrooms' Stuns with $81M Debut. 점수 119, 반응 30 기준 인기 이슈입니다."
+      "summary": "'Backrooms' Stuns with $81M Debut. 점수 183, 반응 109 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "score": 170,
+      "comments": 260,
+      "text": "",
+      "summary": "Meta launches Instagram, Facebook, and WhatsApp subscriptions. 점수 170, 반응 260 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Backpressure is all you need",
+      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "score": 170,
+      "comments": 95,
+      "text": "",
+      "summary": "Backpressure is all you need. 점수 170, 반응 95 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Odysseus – self-hosted AI workspace",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "score": 145,
+      "comments": 69,
+      "text": "",
+      "summary": "Odysseus – self-hosted AI workspace. 점수 145, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Having your insulin pump die while you're on vacation",
+      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
+      "score": 144,
+      "comments": 151,
+      "text": "",
+      "summary": "Having your insulin pump die while you're on vacation. 점수 144, 반응 151 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
