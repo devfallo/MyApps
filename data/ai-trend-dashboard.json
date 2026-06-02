@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T22:36:23.924722+00:00",
+  "updatedAt": "2026-06-02T05:00:04.162012+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,260 +10,264 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 376068,
-      "comments": 7037,
+      "score": 376103,
+      "comments": 7065,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 376068, 반응 7037 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 376103, 반응 7065 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 190642,
-      "comments": 1498,
+      "score": 190671,
+      "comments": 1501,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 190642, 반응 1498 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 190671, 반응 1501 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184701,
-      "comments": 436,
+      "score": 184708,
+      "comments": 437,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184701, 반응 436 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184708, 반응 437 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 175922,
-      "comments": 16261,
+      "score": 176231,
+      "comments": 16312,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 175922, 반응 16261 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 176231, 반응 16312 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163381,
+      "score": 163387,
       "comments": 2490,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163381, 반응 2490 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163387, 반응 2490 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163161,
+      "score": 163166,
       "comments": 47,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163161, 반응 47 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163166, 반응 47 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156032,
+      "score": 156040,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156032, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156040, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 143437,
+      "score": 143465,
       "comments": 807,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 143437, 반응 807 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 143465, 반응 807 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 139562,
-      "comments": 246,
+      "score": 139595,
+      "comments": 250,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 139562, 반응 246 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 139595, 반응 250 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138672,
+      "score": 138686,
       "comments": 148,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138672, 반응 148 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138686, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 138236,
-      "comments": 603,
+      "score": 138265,
+      "comments": 606,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138236, 반응 603 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138265, 반응 606 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 127286,
-      "comments": 372,
+      "score": 127388,
+      "comments": 370,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 127286, 반응 372 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 127388, 반응 370 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The newest Instagram “exploit” is the goofiest I've seen",
       "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 1094,
-      "comments": 259,
+      "score": 1490,
+      "comments": 353,
       "text": "<a href=\"https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-ai-support-bot-to-seize-instagram-accounts&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-ai-su...</a>",
-      "summary": "The newest Instagram “exploit” is the goofiest I've seen. https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-ai-su... 점수 1094, 반응 259 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Malicious npm packages detected across Red Hat Cloud Services",
-      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "score": 701,
-      "comments": 390,
-      "text": "",
-      "summary": "Malicious npm packages detected across Red Hat Cloud Services. 점수 701, 반응 390 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A 10 year old Xeon is all you need",
-      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "score": 652,
-      "comments": 265,
-      "text": "",
-      "summary": "A 10 year old Xeon is all you need. 점수 652, 반응 265 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "score": 447,
-      "comments": 226,
-      "text": "",
-      "summary": "The Pirate Bay Remains Resilient, 20 Years After the Raid. 점수 447, 반응 226 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "score": 395,
-      "comments": 314,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;ai-giant-anthropic-confiden...</a><p><a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;01&#x2F;technology&#x2F;anthropic-ipo.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;01&#x2F;technology&#x2F;anthropic-ipo....</a>",
-      "summary": "Anthropic confidentially submits draft S-1 to the SEC. https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;ai-giant-anthropic-confiden... https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;01&#x2F;technology&#x2F;anthropic-ipo.... 점수 395, 반응 314 기준 인기 이슈입니다."
+      "summary": "The newest Instagram “exploit” is the goofiest I've seen. https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-ai-su... 점수 1490, 반응 353 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "CS336: Language Modeling from Scratch",
       "url": "https://cs336.stanford.edu/",
-      "score": 299,
-      "comments": 38,
+      "score": 400,
+      "comments": 43,
       "text": "",
-      "summary": "CS336: Language Modeling from Scratch. 점수 299, 반응 38 기준 인기 이슈입니다."
+      "summary": "CS336: Language Modeling from Scratch. 점수 400, 반응 43 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nvidia RTX Spark",
       "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
-      "score": 269,
-      "comments": 229,
+      "score": 362,
+      "comments": 353,
       "text": "<a href=\"https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;940589&#x2F;nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;940589&#x2F;nvidia-rtx-spark-n1-n1x...</a><p><a href=\"https:&#x2F;&#x2F;finance.yahoo.com&#x2F;markets&#x2F;article&#x2F;nvidia-debuts-rtx-spark-processor-for-windows-laptops-taking-aim-at-intel-amd-053000567.html\" rel=\"nofollow\">https:&#x2F;&#x2F;finance.yahoo.com&#x2F;markets&#x2F;article&#x2F;nvidia-debuts-rtx-...</a><p><a href=\"https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;06&#x2F;01&#x2F;nvidia-challenges-apple-rtx-spark-pc-chip&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;06&#x2F;01&#x2F;nvidia-challenges-apple...</a>",
-      "summary": "https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;940589&#x2F;nvidia-rtx-spark-n1-n1x... https:&#x2F;&#x2F;finance.yahoo.com&#x2F;markets&#x2F;article&#x2F;nvidia-debuts-rtx-... https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;06&#x2F;01&#x2F;nvidia-challenges-apple... 점수 269, 반응 229 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;www.theverge.com&#x2F;tech&#x2F;940589&#x2F;nvidia-rtx-spark-n1-n1x... https:&#x2F;&#x2F;finance.yahoo.com&#x2F;markets&#x2F;article&#x2F;nvidia-debuts-rtx-... https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;06&#x2F;01&#x2F;nvidia-challenges-apple... 점수 362, 반응 353 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI Agent Guidelines for CS336 at Stanford",
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 256,
-      "comments": 103,
+      "score": 359,
+      "comments": 124,
       "text": "",
-      "summary": "AI Agent Guidelines for CS336 at Stanford. 점수 256, 반응 103 기준 인기 이슈입니다."
+      "summary": "AI Agent Guidelines for CS336 at Stanford. 점수 359, 반응 124 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
-      "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
-      "score": 177,
-      "comments": 86,
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "url": "https://30fps.net/pages/255-vs-256-division/",
+      "score": 220,
+      "comments": 96,
       "text": "",
-      "summary": "Only 17% of all 64-bit Integers are products of two 32-bit integers. 점수 177, 반응 86 기준 인기 이슈입니다."
+      "summary": "Should you normalize RGB values by 255 or 256?. 점수 220, 반응 96 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What appear to be biochemical processes may be a natural feature of geology",
       "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-      "score": 164,
-      "comments": 47,
+      "score": 205,
+      "comments": 70,
       "text": "",
-      "summary": "What appear to be biochemical processes may be a natural feature of geology. 점수 164, 반응 47 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GitHub and the crime against software",
-      "url": "https://eblog.fly.dev/githubbad.html",
-      "score": 161,
-      "comments": 61,
-      "text": "",
-      "summary": "GitHub and the crime against software. 점수 161, 반응 61 기준 인기 이슈입니다."
+      "summary": "What appear to be biochemical processes may be a natural feature of geology. 점수 205, 반응 70 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Florida sues OpenAI and Sam Altman over AI risks",
       "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "score": 151,
-      "comments": 115,
+      "score": 195,
+      "comments": 164,
       "text": "<a href=\"https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;openai-sued-by-floridas-attorney-general-over-ai-harms-8a5113a8?st=Gcpn84&amp;reflink=desktopwebshare_permalink\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;openai-sued-by-floridas-attorney...</a><p><a href=\"https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;florida-sues-openai-sam-altman-saying-put-profit-safety-rcna347602\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;florida-sues-openai-s...</a>",
-      "summary": "Florida sues OpenAI and Sam Altman over AI risks. https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;openai-sued-by-floridas-attorney... https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;florida-sues-openai-s... 점수 151, 반응 115 기준 인기 이슈입니다."
+      "summary": "Florida sues OpenAI and Sam Altman over AI risks. https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;openai-sued-by-floridas-attorney... https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;florida-sues-openai-s... 점수 195, 반응 164 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "score": 195,
+      "comments": 66,
+      "text": "",
+      "summary": "OpenAI frontier models and Codex are now available on AWS. 점수 195, 반응 66 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "score": 189,
+      "comments": 381,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;nKEVw\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;nKEVw</a>",
+      "summary": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?. https:&#x2F;&#x2F;archive.ph&#x2F;nKEVw 점수 189, 반응 381 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
+      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+      "score": 179,
+      "comments": 387,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;surface&#x2F;devices&#x2F;surface-laptop-ultra\" rel=\"nofollow\">https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;surface&#x2F;devices&#x2F;surface-lapt...</a><p><a href=\"https:&#x2F;&#x2F;blogs.windows.com&#x2F;devices&#x2F;2026&#x2F;05&#x2F;31&#x2F;introducing-surface-laptop-ultra-made-for-world-makers&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blogs.windows.com&#x2F;devices&#x2F;2026&#x2F;05&#x2F;31&#x2F;introducing-sur...</a>",
+      "summary": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra. https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;surface&#x2F;devices&#x2F;surface-lapt... https:&#x2F;&#x2F;blogs.windows.com&#x2F;devices&#x2F;2026&#x2F;05&#x2F;31&#x2F;introducing-sur... 점수 179, 반응 387 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I made my phone slow on purpose",
       "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
-      "score": 144,
-      "comments": 131,
+      "score": 178,
+      "comments": 162,
       "text": "",
-      "summary": "I made my phone slow on purpose. 점수 144, 반응 131 기준 인기 이슈입니다."
+      "summary": "I made my phone slow on purpose. 점수 178, 반응 162 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Who is hiring? (June 2026)",
+      "url": "https://news.ycombinator.com/item?id=48357725",
+      "score": 174,
+      "comments": 250,
+      "text": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don&#x27;t reply to job posts to complain about\nsomething. It&#x27;s off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-who-is-hiring\" rel=\"nofollow\">https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-who-is-hiring</a>, <a href=\"https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;</a>,\n<a href=\"http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;</a>, <a href=\"https:&#x2F;&#x2F;hnjobs.emilburzo.com\" rel=\"nofollow\">https:&#x2F;&#x2F;hnjobs.emilburzo.com</a>.<p>Don&#x27;t miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48357724\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48357724</a>",
+      "summary": "Ask HN: Who is hiring? Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. 점수 174, 반응 250 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Debug Project",
+      "url": "https://debug.com/",
+      "score": 174,
+      "comments": 76,
+      "text": "",
+      "summary": "Debug Project.  점수 174, 반응 76 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 87
+      "count": 131
     },
     {
       "keyword": "https",
-      "count": 16
+      "count": 26
     },
     {
       "keyword": "com",
-      "count": 16
-    },
-    {
-      "keyword": "www",
-      "count": 12
+      "count": 20
     },
     {
       "keyword": "href",
-      "count": 8
+      "count": 14
     },
     {
       "keyword": "rel",
-      "count": 8
+      "count": 13
     },
     {
       "keyword": "nofollow",
-      "count": 8
+      "count": 13
+    },
+    {
+      "keyword": "www",
+      "count": 10
     },
     {
       "keyword": "tech",
       "count": 6
+    },
+    {
+      "keyword": "please",
+      "count": 5
     },
     {
       "keyword": "platform",
@@ -282,16 +286,12 @@
       "count": 4
     },
     {
-      "keyword": "openclaw",
-      "count": 2
+      "keyword": "openai",
+      "count": 4
     },
     {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
+      "keyword": "devices",
+      "count": 4
     }
   ],
   "meta": {
