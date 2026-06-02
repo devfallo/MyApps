@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T16:54:36.080062+00:00",
+  "updatedAt": "2026-06-02T21:23:52.361752+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,19 +10,19 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 376230,
-      "comments": 7122,
+      "score": 376269,
+      "comments": 7174,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 376230, 반응 7122 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 376269, 반응 7174 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 190764,
-      "comments": 1485,
+      "score": 190783,
+      "comments": 1493,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 190764, 반응 1485 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 190783, 반응 1493 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -37,213 +37,233 @@
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 177014,
-      "comments": 16523,
+      "score": 177230,
+      "comments": 16627,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 177014, 반응 16523 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 177230, 반응 16627 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163396,
+      "score": 163400,
       "comments": 2490,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163396, 반응 2490 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163400, 반응 2490 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163194,
+      "score": 163200,
       "comments": 47,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163194, 반응 47 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163200, 반응 47 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156062,
+      "score": 156061,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156062, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156061, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 143548,
-      "comments": 828,
+      "score": 143555,
+      "comments": 834,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 143548, 반응 828 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 143555, 반응 834 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 139701,
-      "comments": 259,
+      "score": 139724,
+      "comments": 262,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 139701, 반응 259 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 139724, 반응 262 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138693,
+      "score": 138696,
       "comments": 148,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138693, 반응 148 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138696, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "score": 138334,
-      "comments": 605,
+      "comments": 603,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138334, 반응 605 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138334, 반응 603 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 127623,
-      "comments": 367,
+      "score": 127704,
+      "comments": 368,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 127623, 반응 367 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 127704, 반응 368 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The newest Instagram “exploit” is the goofiest I've seen",
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 2065,
-      "comments": 459,
-      "text": "<a href=\"https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-ai-support-bot-to-seize-instagram-accounts&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-ai-su...</a>",
-      "summary": "The newest Instagram “exploit” is the goofiest I've seen. https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-ai-su... 점수 2065, 반응 459 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 589,
-      "comments": 1006,
-      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;nKEVw\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;nKEVw</a>",
-      "summary": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?. https:&#x2F;&#x2F;archive.ph&#x2F;nKEVw 점수 589, 반응 1006 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 479,
-      "comments": 148,
-      "text": "",
-      "summary": "AI Agent Guidelines for CS336 at Stanford. 점수 479, 반응 148 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
       "url": "https://blog.adafruit.com/",
-      "score": 430,
-      "comments": 168,
+      "score": 546,
+      "comments": 230,
       "text": "",
-      "summary": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai. 점수 430, 반응 168 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "macOS needs its grid back",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-      "score": 350,
-      "comments": 220,
-      "text": "",
-      "summary": "macOS needs its grid back. 점수 350, 반응 220 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "score": 342,
-      "comments": 116,
-      "text": "",
-      "summary": "OpenAI frontier models and Codex are now available on AWS. 점수 342, 반응 116 기준 인기 이슈입니다."
+      "summary": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai. 점수 546, 반응 230 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Why Janet? (2023)",
       "url": "https://ianthehenry.com/posts/why-janet/",
-      "score": 337,
+      "score": 405,
+      "comments": 217,
+      "text": "",
+      "summary": "Why Janet? (2023).  점수 405, 반응 217 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Age verification for social media, the beginning of the end for a free internet?",
+      "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
+      "score": 392,
+      "comments": 289,
+      "text": "",
+      "summary": "Age verification for social media, the beginning of the end for a free internet?. 점수 392, 반응 289 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
+      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+      "score": 338,
+      "comments": 196,
+      "text": "",
+      "summary": "A walking tour of surveillance infrastructure in Seattle (2020). 점수 338, 반응 196 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "score": 327,
       "comments": 164,
       "text": "",
-      "summary": "Why Janet? (2023).  점수 337, 반응 164 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Chipotlai Max",
-      "url": "https://github.com/cyberpapiii/chipotlai-max",
-      "score": 331,
-      "comments": 55,
-      "text": "",
-      "summary": "Chipotlai Max.  점수 331, 반응 55 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Should you normalize RGB values by 255 or 256?",
-      "url": "https://30fps.net/pages/255-vs-256-division/",
-      "score": 307,
-      "comments": 127,
-      "text": "",
-      "summary": "Should you normalize RGB values by 255 or 256?. 점수 307, 반응 127 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
-      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-      "score": 269,
-      "comments": 563,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;surface&#x2F;devices&#x2F;surface-laptop-ultra\" rel=\"nofollow\">https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;surface&#x2F;devices&#x2F;surface-lapt...</a><p><a href=\"https:&#x2F;&#x2F;blogs.windows.com&#x2F;devices&#x2F;2026&#x2F;05&#x2F;31&#x2F;introducing-surface-laptop-ultra-made-for-world-makers&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blogs.windows.com&#x2F;devices&#x2F;2026&#x2F;05&#x2F;31&#x2F;introducing-sur...</a>",
-      "summary": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra. https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;surface&#x2F;devices&#x2F;surface-lapt... https:&#x2F;&#x2F;blogs.windows.com&#x2F;devices&#x2F;2026&#x2F;05&#x2F;31&#x2F;introducing-sur... 점수 269, 반응 563 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Debug Project",
-      "url": "https://debug.com/",
-      "score": 262,
-      "comments": 106,
-      "text": "",
-      "summary": "Debug Project.  점수 262, 반응 106 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apple rejected my dictation app for using the accessibility API",
-      "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
-      "score": 219,
-      "comments": 132,
-      "text": "",
-      "summary": "Apple rejected my dictation app for using the accessibility API. 점수 219, 반응 132 기준 인기 이슈입니다."
+      "summary": "Gmail thinks I'm stupid, so I left. 점수 327, 반응 164 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Love systemd timers",
       "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-      "score": 204,
-      "comments": 141,
+      "score": 305,
+      "comments": 195,
       "text": "",
-      "summary": "Love systemd timers.  점수 204, 반응 141 기준 인기 이슈입니다."
+      "summary": "Love systemd timers.  점수 305, 반응 195 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "score": 244,
+      "comments": 117,
+      "text": "<a href=\"https:&#x2F;&#x2F;microsoft.ai&#x2F;models&#x2F;mai-code-1-flash&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;microsoft.ai&#x2F;models&#x2F;mai-code-1-flash&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;microsoft.ai&#x2F;pdf&#x2F;MAI-Code-1-Flash-Model-Card.PDF\" rel=\"nofollow\">https:&#x2F;&#x2F;microsoft.ai&#x2F;pdf&#x2F;MAI-Code-1-Flash-Model-Card.PDF</a><p>Launching seven new MAI models: <a href=\"https:&#x2F;&#x2F;microsoft.ai&#x2F;news&#x2F;building-a-hillclimbing-machine-launching-seven-new-mai-models&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;microsoft.ai&#x2F;news&#x2F;building-a-hillclimbing-machine-la...</a>",
+      "summary": "https:&#x2F;&#x2F;microsoft.ai&#x2F;models&#x2F;mai-code-1-flash&#x2F; https:&#x2F;&#x2F;microsoft.ai&#x2F;pdf&#x2F;MAI-Code-1-Flash-Model-Card.PDF Launching seven new MAI models: https:&#x2F;&#x2F;microsoft.ai&#x2F;news&#x2F;building-a-hillclimbing-machine-la... 점수 244, 반응 117 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "score": 137,
+      "comments": 180,
+      "text": "<a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;06&#x2F;02&#x2F;anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;06&#x2F;02&#x2F;anthropic-scales-claude-my...</a>",
+      "summary": "Expanding Project Glasswing. https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;06&#x2F;02&#x2F;anthropic-scales-claude-my... 점수 137, 반응 180 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+      "score": 133,
+      "comments": 48,
+      "text": "",
+      "summary": "Fidonet: Technology, Use, Tools, and History (1993). 점수 133, 반응 48 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "score": 121,
+      "comments": 83,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.whitehouse.gov&#x2F;presidential-actions&#x2F;2026&#x2F;06&#x2F;promoting-advanced-artificial-intelligence-innovation-and-security&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.whitehouse.gov&#x2F;presidential-actions&#x2F;2026&#x2F;06&#x2F;prom...</a><p><a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;02&#x2F;technology&#x2F;trump-executive-order-ai.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;02&#x2F;technology&#x2F;trump-executiv...</a>",
+      "summary": "Trump signs downsized AI order after weeks of reversals. https:&#x2F;&#x2F;www.whitehouse.gov&#x2F;presidential-actions&#x2F;2026&#x2F;06&#x2F;prom... https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;02&#x2F;technology&#x2F;trump-executiv... 점수 121, 반응 83 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Preparing for KDE Plasma's Last X11-Supported Release",
+      "url": "https://blog.davidedmundson.co.uk/blog/596/",
+      "score": 115,
+      "comments": 140,
+      "text": "",
+      "summary": "Preparing for KDE Plasma's Last X11-Supported Release. 점수 115, 반응 140 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "MAI-Thinking-1",
+      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+      "score": 104,
+      "comments": 39,
+      "text": "<a href=\"https:&#x2F;&#x2F;microsoft.ai&#x2F;wp-content&#x2F;uploads&#x2F;2026&#x2F;06&#x2F;main_20260602_2.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;microsoft.ai&#x2F;wp-content&#x2F;uploads&#x2F;2026&#x2F;06&#x2F;main_2026060...</a><p>Launching seven new MAI models: <a href=\"https:&#x2F;&#x2F;microsoft.ai&#x2F;news&#x2F;building-a-hillclimbing-machine-launching-seven-new-mai-models&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;microsoft.ai&#x2F;news&#x2F;building-a-hillclimbing-machine-la...</a>",
+      "summary": "https:&#x2F;&#x2F;microsoft.ai&#x2F;wp-content&#x2F;uploads&#x2F;2026&#x2F;06&#x2F;main_2026060... Launching seven new MAI models: https:&#x2F;&#x2F;microsoft.ai&#x2F;news&#x2F;building-a-hillclimbing-machine-la... 점수 104, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GitHub Copilot App",
+      "url": "https://github.com/features/preview/github-app",
+      "score": 78,
+      "comments": 51,
+      "text": "",
+      "summary": "GitHub Copilot App.  점수 78, 반응 51 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 44
+      "count": 90
     },
     {
       "keyword": "https",
+      "count": 16
+    },
+    {
+      "keyword": "microsoft",
+      "count": 10
+    },
+    {
+      "keyword": "href",
       "count": 8
     },
     {
-      "keyword": "com",
-      "count": 6
+      "keyword": "rel",
+      "count": 8
+    },
+    {
+      "keyword": "nofollow",
+      "count": 8
+    },
+    {
+      "keyword": "models",
+      "count": 5
+    },
+    {
+      "keyword": "pdf",
+      "count": 5
     },
     {
       "keyword": "platform",
@@ -254,43 +274,23 @@
       "count": 4
     },
     {
-      "keyword": "agent",
-      "count": 4
-    },
-    {
       "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "href",
+      "keyword": "news",
       "count": 4
     },
     {
-      "keyword": "rel",
+      "keyword": "com",
       "count": 4
     },
     {
-      "keyword": "nofollow",
+      "keyword": "www",
       "count": 4
     },
     {
-      "keyword": "devices",
-      "count": 4
-    },
-    {
-      "keyword": "openai",
-      "count": 3
-    },
-    {
-      "keyword": "api",
-      "count": 3
-    },
-    {
-      "keyword": "microsoft",
-      "count": 3
-    },
-    {
-      "keyword": "surface",
+      "keyword": "tools",
       "count": 3
     }
   ],
