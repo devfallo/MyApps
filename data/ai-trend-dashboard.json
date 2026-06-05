@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T21:46:26.405341+00:00",
+  "updatedAt": "2026-06-05T23:37:59.206441+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 377085,
-      "comments": 7784,
+      "score": 377099,
+      "comments": 7801,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 377085, 반응 7784 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 377099, 반응 7801 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 191254,
+      "score": 191263,
       "comments": 1466,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 191254, 반응 1466 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 191263, 반응 1466 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184789,
+      "score": 184790,
       "comments": 446,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184789, 반응 446 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184790, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 182986,
-      "comments": 18223,
+      "score": 183061,
+      "comments": 18258,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 182986, 반응 18223 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 183061, 반응 18258 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163485,
+      "score": 163484,
       "comments": 2489,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163485, 반응 2489 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163484, 반응 2489 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,163 +73,163 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 144052,
+      "score": 144059,
       "comments": 736,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 144052, 반응 736 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 144059, 반응 736 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 140198,
+      "score": 140208,
       "comments": 302,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 140198, 반응 302 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 140208, 반응 302 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138816,
+      "score": 138825,
       "comments": 146,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138816, 반응 146 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138825, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 138608,
+      "score": 138607,
       "comments": 546,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138608, 반응 546 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138607, 반응 546 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 129104,
+      "score": 129132,
       "comments": 362,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 129104, 반응 362 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Changing how we develop Ladybird",
-      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 774,
-      "comments": 498,
-      "text": "",
-      "summary": "Changing how we develop Ladybird. 점수 774, 반응 498 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 129132, 반응 362 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
       "url": "https://mouseless.click",
-      "score": 392,
-      "comments": 174,
+      "score": 425,
+      "comments": 179,
       "text": "",
-      "summary": "Mouseless – keyboard-driven control of macOS/Linux/Windows. 점수 392, 반응 174 기준 인기 이슈입니다."
+      "summary": "Mouseless – keyboard-driven control of macOS/Linux/Windows. 점수 425, 반응 179 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "C++: The Documentary",
       "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "score": 348,
-      "comments": 257,
+      "score": 361,
+      "comments": 268,
       "text": "",
-      "summary": "C++: The Documentary. 점수 348, 반응 257 기준 인기 이슈입니다."
+      "summary": "C++: The Documentary. 점수 361, 반응 268 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Tracing a powerful GNSS interference source over Europe",
       "url": "https://arxiv.org/abs/2606.03673",
-      "score": 336,
-      "comments": 181,
+      "score": 351,
+      "comments": 193,
       "text": "",
-      "summary": "Tracing a powerful GNSS interference source over Europe. 점수 336, 반응 181 기준 인기 이슈입니다."
+      "summary": "Tracing a powerful GNSS interference source over Europe. 점수 351, 반응 193 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 313,
-      "comments": 201,
+      "score": 340,
+      "comments": 215,
       "text": "",
-      "summary": "Astronauts told to return to ISS after sheltering over air leak repairs. 점수 313, 반응 201 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "score": 242,
-      "comments": 62,
-      "text": "",
-      "summary": "pg_durable: Microsoft open sources in-database durable execution. 점수 242, 반응 62 기준 인기 이슈입니다."
+      "summary": "Astronauts told to return to ISS after sheltering over air leak repairs. 점수 340, 반응 215 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
       "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 223,
-      "comments": 68,
+      "score": 297,
+      "comments": 101,
       "text": "<a href=\"https:&#x2F;&#x2F;gds.blog.gov.uk&#x2F;2026&#x2F;06&#x2F;02&#x2F;building-for-the-future-making-change-simple-on-gov-uk-pay&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;gds.blog.gov.uk&#x2F;2026&#x2F;06&#x2F;02&#x2F;building-for-the-future-m...</a><p><a href=\"https:&#x2F;&#x2F;www.adyen.com&#x2F;press-and-media&#x2F;adyen-payments-gov-uk\" rel=\"nofollow\">https:&#x2F;&#x2F;www.adyen.com&#x2F;press-and-media&#x2F;adyen-payments-gov-uk</a>",
-      "summary": "Gov.uk has replaced Stripe with Dutch provider Adyen. https:&#x2F;&#x2F;gds.blog.gov.uk&#x2F;2026&#x2F;06&#x2F;02&#x2F;building-for-the-future-m... https:&#x2F;&#x2F;www.adyen.com&#x2F;press-and-media&#x2F;adyen-payments-gov-uk 점수 223, 반응 68 기준 인기 이슈입니다."
+      "summary": "Gov.uk has replaced Stripe with Dutch provider Adyen. https:&#x2F;&#x2F;gds.blog.gov.uk&#x2F;2026&#x2F;06&#x2F;02&#x2F;building-for-the-future-m... https:&#x2F;&#x2F;www.adyen.com&#x2F;press-and-media&#x2F;adyen-payments-gov-uk 점수 297, 반응 101 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Conventional Commits encourages focus on the wrong things",
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-      "score": 219,
-      "comments": 173,
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "score": 272,
+      "comments": 72,
       "text": "",
-      "summary": "Conventional Commits encourages focus on the wrong things. 점수 219, 반응 173 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Dutch gov't will only allow European company to operate DigiD platform",
-      "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
-      "score": 219,
-      "comments": 70,
-      "text": "",
-      "summary": "Dutch gov't will only allow European company to operate DigiD platform. 점수 219, 반응 70 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "South Korean forums will need to scan every images with AI censorship tools",
-      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-      "score": 200,
-      "comments": 127,
-      "text": "",
-      "summary": "South Korean forums will need to scan every images with AI censorship tools. 점수 200, 반응 127 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I tested every IP KVM in my Homelab",
-      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-      "score": 199,
-      "comments": 57,
-      "text": "",
-      "summary": "I tested every IP KVM in my Homelab. 점수 199, 반응 57 기준 인기 이슈입니다."
+      "summary": "pg_durable: Microsoft open sources in-database durable execution. 점수 272, 반응 72 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Did Claude increase bugs in rsync?",
       "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "score": 197,
-      "comments": 201,
+      "score": 256,
+      "comments": 249,
       "text": "",
-      "summary": "Did Claude increase bugs in rsync?. 점수 197, 반응 201 기준 인기 이슈입니다."
+      "summary": "Did Claude increase bugs in rsync?. 점수 256, 반응 249 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dutch gov't will only allow European company to operate DigiD platform",
+      "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+      "score": 248,
+      "comments": 73,
+      "text": "",
+      "summary": "Dutch gov't will only allow European company to operate DigiD platform. 점수 248, 반응 73 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "score": 245,
+      "comments": 196,
+      "text": "",
+      "summary": "Conventional Commits encourages focus on the wrong things. 점수 245, 반응 196 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 193,
-      "comments": 57,
+      "score": 227,
+      "comments": 77,
       "text": "",
-      "summary": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency. 점수 193, 반응 57 기준 인기 이슈입니다."
+      "summary": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency. 점수 227, 반응 77 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I tested every IP KVM in my Homelab",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "score": 218,
+      "comments": 61,
+      "text": "",
+      "summary": "I tested every IP KVM in my Homelab. 점수 218, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "score": 204,
+      "comments": 97,
+      "text": "",
+      "summary": "New method turns ocean water into drinking water, without waste. 점수 204, 반응 97 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+      "url": "https://redis.io/blog/announcing-redis-8-8/",
+      "score": 194,
+      "comments": 91,
+      "text": "",
+      "summary": "Redis 8.8: New array data structure, rate limiter, performance improvements. 점수 194, 반응 91 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -256,10 +256,6 @@
     {
       "keyword": "https",
       "count": 4
-    },
-    {
-      "keyword": "tools",
-      "count": 3
     },
     {
       "keyword": "agent",
@@ -291,6 +287,10 @@
     },
     {
       "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
       "count": 2
     }
   ],
