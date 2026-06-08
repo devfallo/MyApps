@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T11:20:13.014829+00:00",
+  "updatedAt": "2026-06-08T16:20:06.106610+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 377545,
-      "comments": 7918,
+      "score": 377591,
+      "comments": 7916,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 377545, 반응 7918 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 377591, 반응 7916 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 191575,
-      "comments": 1466,
+      "score": 191608,
+      "comments": 1464,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 191575, 반응 1466 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 191608, 반응 1464 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 186756,
-      "comments": 19366,
+      "score": 187058,
+      "comments": 19488,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 186756, 반응 19366 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 187058, 반응 19488 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184845,
-      "comments": 441,
+      "score": 184849,
+      "comments": 446,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184845, 반응 441 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184849, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163541,
+      "score": 163545,
       "comments": 2489,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163541, 반응 2489 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163545, 반응 2489 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -64,217 +64,181 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156209,
+      "score": 156221,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156209, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156221, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 144403,
-      "comments": 748,
+      "score": 144426,
+      "comments": 737,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 144403, 반응 748 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 144426, 반응 737 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 140587,
-      "comments": 343,
+      "score": 140637,
+      "comments": 350,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 140587, 반응 343 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 140637, 반응 350 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138935,
+      "score": 138944,
       "comments": 148,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138935, 반응 148 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138944, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 138811,
-      "comments": 552,
+      "score": 138827,
+      "comments": 551,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138811, 반응 552 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138827, 반응 551 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 130065,
-      "comments": 369,
+      "score": 130172,
+      "comments": 371,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 130065, 반응 369 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "score": 999,
-      "comments": 953,
-      "text": "",
-      "summary": "LLMs are eroding my software engineering career and I don't know what to do. 점수 999, 반응 953 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 130172, 반응 371 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Building from zero after addiction, prison, and a felony",
       "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 662,
-      "comments": 292,
+      "score": 805,
+      "comments": 367,
       "text": "",
-      "summary": "Building from zero after addiction, prison, and a felony. 점수 662, 반응 292 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How's Linear so fast? A technical breakdown",
-      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-      "score": 424,
-      "comments": 194,
-      "text": "",
-      "summary": "How's Linear so fast? A technical breakdown. 점수 424, 반응 194 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "url": "https://www.ioccc.org/2025/",
-      "score": 397,
-      "comments": 90,
-      "text": "",
-      "summary": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners. 점수 397, 반응 90 기준 인기 이슈입니다."
+      "summary": "Building from zero after addiction, prison, and a felony. 점수 805, 반응 367 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Dopamine Fracking",
       "url": "https://igerman.cc/blog/dopamine-fracking/",
-      "score": 364,
-      "comments": 172,
+      "score": 618,
+      "comments": 316,
       "text": "",
-      "summary": "Dopamine Fracking.  점수 364, 반응 172 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "url": "https://github.com/devenjarvis/lathe",
-      "score": 327,
-      "comments": 57,
-      "text": "Hey HN!<p>Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand (<i>gasp</i>) in a local UI built for exactly that.<p>It&#x27;s a Go CLI plus LLM agent skills (Claude Code &#x2F; Cursor &#x2F; Codex). You prompt something like &quot;&#x2F;lathe build a 3D slicer in Erlang&quot;, run `lathe serve` to spin up a local webapp, and read it in your browser. Every tutorial comes with the things that have made self-learning a pleasant experience for me in the past:<p>- table of contents that follows along as you scroll\n- side-notes that nudge you to think\n- exercises for the reader\n- sources backing up the content that you can use to take you deeper<p>To help make up for the lack of human brainpower behind the tutorial, you can also ask questions about the content, have another LLM verify the tutorial actually compiles and runs, or extend it with another part (no more &quot;Part 4 of 6&quot; that hasn&#x27;t seen an update since 2021).<p>I didn&#x27;t build lathe to replace human-written tutorials. I built lathe because I _love_ human-written tutorials, but wanted to learn technical domains where no good human-written tutorial exists yet (building a 3D slicer from scratch, making embedded Zig approachable, etc). There&#x27;s a longer story in the README about how I got started with programming through PSP homebrew tutorials, and why losing that to LLMs bugged me enough to build this.<p>I&#x27;m not here to sell you anything (there&#x27;s nothing close to a VC-backed startup here :D). It&#x27;s an LLM, and its output is usually good but not perfect by any means. So far, my experience is that because you&#x27;re the one typing and actually engaged, you catch the weird stuff (and I&#x27;m finding that pushing back on it is its own kind of learning). And yes, it&#x27;s vibecoded, because it&#x27;s low scope, low risk, and scratching a personal itch. I run it on Claude Code + macOS personally, other setups should work but I haven&#x27;t been able to verify them yet.<p>If you can find resources to learn something that was written by a human, read that first. But Lathe is here to fill in the gaps when that isn&#x27;t the case, and I hope it serves as an example where LLMs can help us think better, rather than less.<p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;devenjarvis&#x2F;lathe\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;devenjarvis&#x2F;lathe</a><p>Would love your feedback if you decide to check it out!",
-      "summary": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it. Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. 점수 327, 반응 57 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "score": 292,
-      "comments": 138,
-      "text": "",
-      "summary": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision. 점수 292, 반응 138 기준 인기 이슈입니다."
+      "summary": "Dopamine Fracking.  점수 618, 반응 316 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: I Derived a Pancake",
       "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-      "score": 252,
-      "comments": 99,
+      "score": 306,
+      "comments": 122,
       "text": "After 25 years of making other people&#x27;s pancake recipes - always yearning for more tang, more fluff, and more predictability - I decided to derive the pancake recipe from the chemistry.<p>You mark checkboxes for what you have on hand (ricotta, sour cream, kefir, buttermilk, yogurt, cottage cheese, lemon, cream of tartar, etc.) and it  computes the best recipe based on targets for acid, fat, salt, sugar, and CO2.<p>My particular favorite are the yeast-raised lemon ricotta kefir pancakes - the best I&#x27;ve ever had.<p>The math is done in a small pure-ESM library: ingredient composition to component masses and acid moles, a stoichiometry layer, and a bisection solver for the target deficits.<p>I&#x27;m not a chemist, so if something is off, tell me and I will fix it!",
-      "summary": "Show HN: I Derived a Pancake. After 25 years of making other people&#x27;s pancake recipes - always yearning for more tang, more fluff, and more predictability - I decided to derive the pancake recipe from the chemistry. You mark checkboxes for what you have on hand (ricotta, sour cream, kefir, buttermilk, yogurt, cottage cheese, lemon, cream of tartar, etc.) and it computes the best recipe based on targets for acid, fat, salt, sugar, and CO2. 점수 252, 반응 99 기준 인기 이슈입니다."
+      "summary": "Show HN: I Derived a Pancake. After 25 years of making other people&#x27;s pancake recipes - always yearning for more tang, more fluff, and more predictability - I decided to derive the pancake recipe from the chemistry. You mark checkboxes for what you have on hand (ricotta, sour cream, kefir, buttermilk, yogurt, cottage cheese, lemon, cream of tartar, etc.) and it computes the best recipe based on targets for acid, fat, salt, sugar, and CO2. 점수 306, 반응 122 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Making peace with your unlived dreams (2023)",
       "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
-      "score": 240,
-      "comments": 142,
+      "score": 285,
+      "comments": 176,
       "text": "",
-      "summary": "Making peace with your unlived dreams (2023). 점수 240, 반응 142 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "APC–2 – A professional record cutter for producing original playback discs",
-      "url": "https://teenage.engineering/products/apc-2",
-      "score": 218,
-      "comments": 116,
-      "text": "",
-      "summary": "APC–2 – A professional record cutter for producing original playback discs. 점수 218, 반응 116 기준 인기 이슈입니다."
+      "summary": "Making peace with your unlived dreams (2023). 점수 285, 반응 176 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Smallest Brain You Can Build: A Perceptron in Python",
       "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-      "score": 207,
-      "comments": 35,
+      "score": 274,
+      "comments": 60,
       "text": "",
-      "summary": "The Smallest Brain You Can Build: A Perceptron in Python. 점수 207, 반응 35 기준 인기 이슈입니다."
+      "summary": "The Smallest Brain You Can Build: A Perceptron in Python. 점수 274, 반응 60 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
-      "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
-      "score": 200,
-      "comments": 70,
+      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
+      "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
+      "score": 268,
+      "comments": 59,
       "text": "",
-      "summary": "What is the purpose of the lost+found folder in Linux and Unix? 점수 200, 반응 70 기준 인기 이슈입니다."
+      "summary": "How much of Thermo Fisher's antibody data has been manipulated?. 점수 268, 반응 59 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "score": 263,
+      "comments": 223,
+      "text": "",
+      "summary": "Anti-social: It's fads, not friends, which now dominate social media feeds. 점수 263, 반응 223 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+      "score": 256,
+      "comments": 103,
+      "text": "",
+      "summary": "1k Data Breaches Later, the Disclosure Lag Is Worse. 점수 256, 반응 103 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "APC–2 – A professional record cutter for producing original playback discs",
+      "url": "https://teenage.engineering/products/apc-2",
+      "score": 251,
+      "comments": 159,
+      "text": "",
+      "summary": "APC–2 – A professional record cutter for producing original playback discs. 점수 251, 반응 159 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New drug 'functionally cures' many hepatitis B virus infections",
       "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-      "score": 187,
-      "comments": 34,
+      "score": 247,
+      "comments": 44,
       "text": "",
-      "summary": "New drug 'functionally cures' many hepatitis B virus infections. 점수 187, 반응 34 기준 인기 이슈입니다."
+      "summary": "New drug 'functionally cures' many hepatitis B virus infections. 점수 247, 반응 44 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Cypherpunk Library",
+      "url": "https://www.cypherpunkbooks.com",
+      "score": 242,
+      "comments": 76,
+      "text": "",
+      "summary": "The Cypherpunk Library. 점수 242, 반응 76 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 237,
+      "comments": 49,
+      "text": "hope you enjoy",
+      "summary": "Show HN: Performative-UI – a react component library of design tropes. 점수 237, 반응 49 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zig by Example",
+      "url": "https://github.com/boringcollege/zig-by-example",
+      "score": 149,
+      "comments": 71,
+      "text": "",
+      "summary": "Zig by Example.  점수 149, 반응 71 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
-    {
-      "keyword": "x27",
-      "count": 16
-    },
-    {
-      "keyword": "x2f",
-      "count": 11
-    },
-    {
-      "keyword": "lathe",
-      "count": 9
-    },
-    {
-      "keyword": "code",
-      "count": 8
-    },
-    {
-      "keyword": "can",
-      "count": 6
-    },
-    {
-      "keyword": "build",
-      "count": 5
-    },
-    {
-      "keyword": "llms",
-      "count": 5
-    },
-    {
-      "keyword": "tutorial",
-      "count": 5
-    },
-    {
-      "keyword": "any",
-      "count": 4
-    },
     {
       "keyword": "platform",
       "count": 4
     },
     {
-      "keyword": "agent",
+      "keyword": "code",
       "count": 4
     },
     {
@@ -282,16 +246,52 @@
       "count": 4
     },
     {
-      "keyword": "learn",
-      "count": 4
+      "keyword": "agent",
+      "count": 3
     },
     {
-      "keyword": "not",
-      "count": 4
+      "keyword": "pancake",
+      "count": 3
     },
     {
-      "keyword": "something",
-      "count": 4
+      "keyword": "x27",
+      "count": 3
+    },
+    {
+      "keyword": "more",
+      "count": 3
+    },
+    {
+      "keyword": "library",
+      "count": 3
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "building",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "build",
+      "count": 2
     }
   ],
   "meta": {
