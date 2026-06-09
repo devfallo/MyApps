@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T04:35:05.951901+00:00",
+  "updatedAt": "2026-06-09T10:02:33.452586+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,240 +10,244 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 377702,
-      "comments": 7934,
+      "score": 377758,
+      "comments": 7948,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 377702, 반응 7934 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 377758, 반응 7948 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 191660,
-      "comments": 1461,
+      "score": 191705,
+      "comments": 1466,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 191660, 반응 1461 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 191705, 반응 1466 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 187690,
-      "comments": 19709,
+      "score": 188101,
+      "comments": 19773,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 187690, 반응 19709 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 188101, 반응 19773 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184850,
+      "score": 184858,
       "comments": 438,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184850, 반응 438 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184858, 반응 438 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163559,
+      "score": 163567,
       "comments": 2490,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163559, 반응 2490 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163567, 반응 2490 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163445,
+      "score": 163457,
       "comments": 51,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163445, 반응 51 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163457, 반응 51 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156229,
+      "score": 156240,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156229, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156240, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 144472,
-      "comments": 749,
+      "score": 144527,
+      "comments": 733,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 144472, 반응 749 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 144527, 반응 733 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 140719,
+      "score": 140762,
       "comments": 364,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 140719, 반응 364 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 140762, 반응 364 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 138970,
+      "score": 138988,
       "comments": 150,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138970, 반응 150 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 138988, 반응 150 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 138840,
-      "comments": 529,
+      "score": 138863,
+      "comments": 531,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138840, 반응 529 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138863, 반응 531 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 130379,
-      "comments": 372,
+      "score": 130507,
+      "comments": 374,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 130379, 반응 372 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 130507, 반응 374 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Performative-UI – A react component library of design tropes",
       "url": "https://vorpus.github.io/performativeUI/",
-      "score": 852,
-      "comments": 162,
+      "score": 978,
+      "comments": 180,
       "text": "hope you enjoy",
-      "summary": "Show HN: Performative-UI – A react component library of design tropes. 점수 852, 반응 162 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "score": 592,
-      "comments": 425,
-      "text": "",
-      "summary": "Anti-social: It's fads, not friends, which now dominate social media feeds. 점수 592, 반응 425 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 519,
-      "comments": 376,
-      "text": "",
-      "summary": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second. 점수 519, 반응 376 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "score": 480,
-      "comments": 416,
-      "text": "",
-      "summary": "Siri AI.  점수 480, 반응 416 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "score": 472,
-      "comments": 361,
-      "text": "",
-      "summary": "xAI is looking more like a datacentre REIT than a frontier lab. 점수 472, 반응 361 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
-      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-      "score": 461,
-      "comments": 176,
-      "text": "",
-      "summary": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]. 점수 461, 반응 176 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI is slowing down",
-      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-      "score": 450,
-      "comments": 470,
-      "text": "",
-      "summary": "AI is slowing down.  점수 450, 반응 470 기준 인기 이슈입니다."
+      "summary": "Show HN: Performative-UI – A react component library of design tropes. 점수 978, 반응 180 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Apple reveals new AI architecture built around Google Gemini models",
       "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "score": 432,
-      "comments": 358,
+      "score": 595,
+      "comments": 450,
       "text": "",
-      "summary": "Apple reveals new AI architecture built around Google Gemini models. 점수 432, 반응 358 기준 인기 이슈입니다."
+      "summary": "Apple reveals new AI architecture built around Google Gemini models. 점수 595, 반응 450 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
-      "score": 318,
-      "comments": 239,
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "score": 578,
+      "comments": 534,
       "text": "",
-      "summary": "Confidential submission of draft S-1 to the SEC. 점수 318, 반응 239 기준 인기 이슈입니다."
+      "summary": "Siri AI.  점수 578, 반응 534 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "score": 571,
+      "comments": 419,
+      "text": "",
+      "summary": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second. 점수 571, 반응 419 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "score": 567,
+      "comments": 440,
+      "text": "",
+      "summary": "xAI is looking more like a datacentre REIT than a frontier lab. 점수 567, 반응 440 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+      "score": 567,
+      "comments": 214,
+      "text": "",
+      "summary": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]. 점수 567, 반응 214 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI is slowing down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "score": 554,
+      "comments": 581,
+      "text": "",
+      "summary": "AI is slowing down.  점수 554, 반응 581 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "EU-banned pesticides found in rice, tea and spices",
       "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-      "score": 278,
-      "comments": 104,
+      "score": 418,
+      "comments": 193,
       "text": "",
-      "summary": "EU-banned pesticides found in rice, tea and spices. 점수 278, 반응 104 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apple Core AI Framework",
-      "url": "https://developer.apple.com/documentation/coreai/",
-      "score": 237,
-      "comments": 53,
-      "text": "",
-      "summary": "Apple Core AI Framework. 점수 237, 반응 53 기준 인기 이슈입니다."
+      "summary": "EU-banned pesticides found in rice, tea and spices. 점수 418, 반응 193 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
       "url": "https://news.ycombinator.com/item?id=48449187",
-      "score": 194,
-      "comments": 341,
+      "score": 307,
+      "comments": 497,
       "text": "",
-      "summary": "Ask HN: What are tools you have made for yourself since the advent of AI?. 점수 194, 반응 341 기준 인기 이슈입니다."
+      "summary": "Ask HN: What are tools you have made for yourself since the advent of AI?. 점수 307, 반응 497 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "score": 301,
+      "comments": 76,
+      "text": "",
+      "summary": "Apple Core AI Framework. 점수 301, 반응 76 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
       "url": "https://gitdot.io/",
-      "score": 188,
-      "comments": 149,
+      "score": 259,
+      "comments": 231,
       "text": "What works now: user signups, org creations, private&#x2F;public repos, and importing GitHub repositories (both as read-only mirrors and full migrations). So basically, you can create, push and pull to a repo, but we don&#x27;t have many features quite yet (issues, PRs, CI).<p>What is a bit unique is: 1) we built it in Rust and 2) the website is a little odd. Its design is inspired by CLIs (e.g., fzf, broot, vim) instead of web apps, and as such, lacks some affordances that you might typically expect in favor of keyboard-driven instant navigations (we have the very ambitious goal of an FCP of 100ms). In case you&#x27;re curious, here&#x27;s how we we built it: <a href=\"https:&#x2F;&#x2F;gitdot.io&#x2F;designs\">https:&#x2F;&#x2F;gitdot.io&#x2F;designs</a><p>We recognize that we&#x27;re making some bold claims here and are also well aware that we have much to learn. Building software is still hard, and that&#x27;s a fact we seem to relearn everyday.<p>But we wanted to share what we built so far nonetheless.<p>Cheers, thank y&#x27;all for reading, and till the next\n—paul &amp; mikkel.",
-      "summary": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust. What works now: user signups, org creations, private&#x2F;public repos, and importing GitHub repositories (both as read-only mirrors and full migrations). 점수 188, 반응 149 기준 인기 이슈입니다."
+      "summary": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust. What works now: user signups, org creations, private&#x2F;public repos, and importing GitHub repositories (both as read-only mirrors and full migrations). 점수 259, 반응 231 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "FrontierCode",
+      "url": "https://cognition.ai/blog/frontier-code",
+      "score": 193,
+      "comments": 34,
+      "text": "",
+      "summary": "FrontierCode.  점수 193, 반응 34 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
+      "url": "https://news.ycombinator.com/item?id=48448313",
+      "score": 175,
+      "comments": 142,
+      "text": "It feels like every event&#x2F;venue is selling tickets exclusively through Ticketmaster.  Every other ticketing platform seems to only hold resale tickets in their inventory which just transfers the tickets to your Ticketmaster account when bought. With all the hate Ticketmaster has gotten and all the other ticketing platforms out there, I&#x27;m surprised Ticketmaster still has a hold of pretty much the entire market. How are they doing this? Why haven&#x27;t the other platforms been able to compete?",
+      "summary": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?. It feels like every event&#x2F;venue is selling tickets exclusively through Ticketmaster. Every other ticketing platform seems to only hold resale tickets in their inventory which just transfers the tickets to your Ticketmaster account when bought. 점수 175, 반응 142 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 7
+      "count": 8
     },
     {
       "keyword": "x27",
-      "count": 6
+      "count": 8
     },
     {
       "keyword": "platform",
-      "count": 4
+      "count": 5
+    },
+    {
+      "keyword": "ticketmaster",
+      "count": 5
     },
     {
       "keyword": "code",
@@ -251,6 +255,10 @@
     },
     {
       "keyword": "prompts",
+      "count": 4
+    },
+    {
+      "keyword": "other",
       "count": 4
     },
     {
@@ -274,23 +282,15 @@
       "count": 3
     },
     {
+      "keyword": "all",
+      "count": 3
+    },
+    {
+      "keyword": "tickets",
+      "count": 3
+    },
+    {
       "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
       "count": 2
     }
   ],
