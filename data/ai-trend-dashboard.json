@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T16:07:50.343028+00:00",
+  "updatedAt": "2026-06-10T18:41:53.402603+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 377951,
-      "comments": 8003,
+      "score": 377972,
+      "comments": 7998,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 377951, 반응 8003 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 377972, 반응 7998 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 191927,
-      "comments": 1460,
+      "score": 191943,
+      "comments": 1463,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 191927, 반응 1460 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 191943, 반응 1463 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 189673,
-      "comments": 19707,
+      "score": 189775,
+      "comments": 19761,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 189673, 반응 19707 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 189775, 반응 19761 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184875,
+      "score": 184874,
       "comments": 440,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184875, 반응 440 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184874, 반응 440 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163594,
+      "score": 163597,
       "comments": 2490,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163594, 반응 2490 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163597, 반응 2490 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163522,
+      "score": 163521,
       "comments": 51,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163522, 반응 51 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163521, 반응 51 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,208 +73,180 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 144725,
-      "comments": 747,
+      "score": 144732,
+      "comments": 743,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 144725, 반응 747 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 144732, 반응 743 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 140966,
-      "comments": 387,
+      "score": 140976,
+      "comments": 389,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 140966, 반응 387 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 140976, 반응 389 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 139433,
+      "score": 139462,
       "comments": 149,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 139433, 반응 149 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 139462, 반응 149 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 138972,
-      "comments": 517,
+      "score": 138979,
+      "comments": 515,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138972, 반응 517 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 138979, 반응 515 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 131020,
-      "comments": 376,
+      "score": 131073,
+      "comments": 379,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 131020, 반응 376 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 2467,
-      "comments": 1963,
-      "text": "System Card [pdf]: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...</a>",
-      "summary": "System Card [pdf]: https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3... 점수 2467, 반응 1963 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 131073, 반응 379 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "macOS Container Machines",
       "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-      "score": 1034,
-      "comments": 364,
+      "score": 1128,
+      "comments": 389,
       "text": "",
-      "summary": "macOS Container Machines. 점수 1034, 반응 364 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "score": 840,
-      "comments": 467,
-      "text": "",
-      "summary": "German ruling declares Google liable for false answers in AI Overviews. 점수 840, 반응 467 기준 인기 이슈입니다."
+      "summary": "macOS Container Machines. 점수 1128, 반응 389 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Building an HTML-first site doubled our users overnight",
       "url": "https://mohkohn.co.uk/writing/html-first/",
-      "score": 460,
-      "comments": 204,
+      "score": 776,
+      "comments": 359,
       "text": "",
-      "summary": "Building an HTML-first site doubled our users overnight. 점수 460, 반응 204 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Upcoming breaking changes for npm v12",
-      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-      "score": 445,
-      "comments": 181,
-      "text": "",
-      "summary": "Upcoming breaking changes for npm v12. 점수 445, 반응 181 기준 인기 이슈입니다."
+      "summary": "Building an HTML-first site doubled our users overnight. 점수 776, 반응 359 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
       "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-      "score": 351,
-      "comments": 205,
+      "score": 433,
+      "comments": 260,
       "text": "",
-      "summary": "Mercedes‑Benz starts large‑scale production of electric axial flux motor. 점수 351, 반응 205 기준 인기 이슈입니다."
+      "summary": "Mercedes‑Benz starts large‑scale production of electric axial flux motor. 점수 433, 반응 260 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "What it feels like to work with Mythos",
-      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-      "score": 341,
-      "comments": 302,
+      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+      "url": "https://news.ycombinator.com/item?id=48477135",
+      "score": 300,
+      "comments": 241,
+      "text": "Hey gang, you may remember me from such books as _The Lean Startup_ and _The Startup Way_.<p>It&#x27;s been fifteen years since I wrote The Lean Startup, and in that time I&#x27;ve seen some things. In both big companies and tiny startups, NGOs and governments, in almost every industry you can name.<p>I&#x27;ve helped a lot of people create a lot of amazing companies, but I&#x27;ve also seen so many ways this can go wrong. There&#x27;s a darkness in our industry that we often don&#x27;t talk about.<p>I kept watching good companies drift away from the missions they were founded on. Not because anyone woke up one day and decided to be evil, but because the structure they were built on slowly pulled them there. I call that pull &quot;financial gravity.&quot;<p>We&#x27;ve all experienced watching a company we love or admire be warped and broken beyond recognition; until it&#x27;s a husk of its former self, or worse. I wanted to understand why. And I wanted to know what all of us can do to stop that from happening.<p>My new book _Incorruptible_ is my attempt to explain the invisible forces that shape organizations, and how a handful of companies (like Costco, Patagonia, and Novo Nordisk) have successfully been structured to resist gravity and thrive for decades -- or even centuries.<p>Along the way, I founded the Long-Term Stock Exchange, co-founded an AI R&amp;D lab called Answer.AI with Jeremy Howard, and helped a number of notable companies with their governance (yes, including Anthropic).<p>I won&#x27;t pretend I have this all figured out, but I&#x27;ve probably spent more time than is healthy on the &quot;why do good companies go bad&quot; question. Ask me anything!",
+      "summary": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA. Hey gang, you may remember me from such books as _The Lean Startup_ and _The Startup Way_. It&#x27;s been fifteen years since I wrote The Lean Startup, and in that time I&#x27;ve seen some things. 점수 300, 반응 241 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "PgDog is funded and coming to a database near you",
+      "url": "https://pgdog.dev/blog/our-funding-announcement",
+      "score": 248,
+      "comments": 119,
       "text": "",
-      "summary": "What it feels like to work with Mythos. 점수 341, 반응 302 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
-      "url": "https://news.ycombinator.com/item?id=48473166",
-      "score": 307,
-      "comments": 184,
-      "text": "&gt; For Fable 5, Mythos 5, and future models on Bedrock with similar or higher capability levels, Anthropic will require 30-day retention for all traffic on Mythos-class models. Retaining data for a limited period allows Anthropic to detect patterns of misuse that are not visible from a single exchange. Once you opt into data retention, your data will leave AWS’s data and security boundary.<p>From the announcement here: <a href=\"https:&#x2F;&#x2F;aws.amazon.com&#x2F;blogs&#x2F;aws&#x2F;anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;aws.amazon.com&#x2F;blogs&#x2F;aws&#x2F;anthropic-claude-fable-5-on...</a><p>&gt; After 30 days, the data is deleted automatically, except in the rare cases where it&#x27;s part of a safety investigation or we&#x27;re legally required to keep it.<p>From: <a href=\"https:&#x2F;&#x2F;support.claude.com&#x2F;en&#x2F;articles&#x2F;15425996-data-retention-practices-for-mythos-class-models\" rel=\"nofollow\">https:&#x2F;&#x2F;support.claude.com&#x2F;en&#x2F;articles&#x2F;15425996-data-retenti...</a>",
-      "summary": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models. &gt; For Fable 5, Mythos 5, and future models on Bedrock with similar or higher capability levels, Anthropic will require 30-day retention for all traffic on Mythos-class models. Retaining data for a limited period allows Anthropic to detect patterns of misuse that are not visible from a single exchange. 점수 307, 반응 184 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Surprise, pay $1000",
-      "url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
-      "score": 304,
-      "comments": 145,
-      "text": "",
-      "summary": "Surprise, pay $1000.  점수 304, 반응 145 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
-      "score": 270,
-      "comments": 45,
-      "text": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgupta.io&#x2F;posts&#x2F;kan-fpga&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgup...</a>",
-      "summary": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks. https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgup... 점수 270, 반응 45 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "RIP software hackathons. Long live the hardware hackathon",
-      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
-      "score": 243,
-      "comments": 121,
-      "text": "",
-      "summary": "RIP software hackathons. Long live the hardware hackathon. 점수 243, 반응 121 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Rich Sutton on AI creativity and discovery",
-      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-      "score": 186,
-      "comments": 98,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=K5LAFEjTlBA\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=K5LAFEjTlBA</a>",
-      "summary": "Rich Sutton on AI creativity and discovery. https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=K5LAFEjTlBA 점수 186, 반응 98 기준 인기 이슈입니다."
+      "summary": "PgDog is funded and coming to a database near you. 점수 248, 반응 119 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Reviving Papers with Code",
       "url": "https://paperswithcode.co/",
-      "score": 135,
-      "comments": 27,
+      "score": 169,
+      "comments": 38,
       "text": "",
-      "summary": "Reviving Papers with Code. 점수 135, 반응 27 기준 인기 이슈입니다."
+      "summary": "Reviving Papers with Code. 점수 169, 반응 38 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DiffusionGemma: 4x Faster Text Generation",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "score": 151,
+      "comments": 32,
+      "text": "",
+      "summary": "DiffusionGemma: 4x Faster Text Generation. 점수 151, 반응 32 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Buy a train, bridge or tracks from the Swiss Railway",
+      "url": "https://sbbresale.ch/",
+      "score": 142,
+      "comments": 68,
+      "text": "",
+      "summary": "Buy a train, bridge or tracks from the Swiss Railway. 점수 142, 반응 68 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+      "url": "https://jivx.com/eki",
+      "score": 139,
+      "comments": 47,
+      "text": "",
+      "summary": "All 9,300 Japanese train station, animated by the year it opened (1872–2026). 점수 139, 반응 47 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Are most corporate SWE jobs performative?",
+      "url": "https://news.ycombinator.com/item?id=48475871",
+      "score": 138,
+      "comments": 155,
+      "text": "The large companies I’ve worked at (including FAANG) seemed to thrive on kudos via performative actions. Like the majority of the team is doing useless stuff that management thinks is impressive while the couple all stars get the team closer to the goal.<p>Meanwhile, a lot of managers calendars are purely just 1:1s with devs on the team which clearly has very little value add to the team.<p>Anyone else notice this? Not sure if there’s a word for it, but it’s somewhat demoralising working with a bunch of corporate office workers cosplaying as engineers",
+      "summary": "Ask HN: Are most corporate SWE jobs performative?. The large companies I’ve worked at (including FAANG) seemed to thrive on kudos via performative actions. Like the majority of the team is doing useless stuff that management thinks is impressive while the couple all stars get the team closer to the goal. 점수 138, 반응 155 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "url": "https://burr.apache.org/",
+      "score": 105,
+      "comments": 68,
+      "text": "",
+      "summary": "Apache Burr: Build reliable AI agents and applications. 점수 105, 반응 68 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A €0.01 bank transfer could compromise a banking AI agent",
+      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+      "score": 93,
+      "comments": 74,
+      "text": "",
+      "summary": "A €0.01 bank transfer could compromise a banking AI agent. 점수 93, 반응 74 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GitHub Authentication issues related to API requests",
+      "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
+      "score": 93,
+      "comments": 23,
+      "text": "",
+      "summary": "GitHub Authentication issues related to API requests. 점수 93, 반응 23 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "x2f",
-      "count": 50
+      "keyword": "x27",
+      "count": 10
     },
     {
-      "keyword": "https",
-      "count": 12
-    },
-    {
-      "keyword": "com",
-      "count": 8
-    },
-    {
-      "keyword": "web",
-      "count": 6
-    },
-    {
-      "keyword": "aws",
-      "count": 6
-    },
-    {
-      "keyword": "data",
-      "count": 6
+      "keyword": "companies",
+      "count": 7
     },
     {
       "keyword": "code",
       "count": 5
     },
     {
-      "keyword": "href",
-      "count": 5
-    },
-    {
-      "keyword": "anthropic",
-      "count": 5
-    },
-    {
-      "keyword": "rel",
-      "count": 5
-    },
-    {
-      "keyword": "nofollow",
+      "keyword": "all",
       "count": 5
     },
     {
@@ -282,16 +254,44 @@
       "count": 4
     },
     {
+      "keyword": "agent",
+      "count": 4
+    },
+    {
+      "keyword": "can",
+      "count": 4
+    },
+    {
       "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "claude",
+      "keyword": "startup",
       "count": 4
     },
     {
-      "keyword": "models",
+      "keyword": "but",
       "count": 4
+    },
+    {
+      "keyword": "quot",
+      "count": 4
+    },
+    {
+      "keyword": "team",
+      "count": 4
+    },
+    {
+      "keyword": "way",
+      "count": 3
+    },
+    {
+      "keyword": "our",
+      "count": 3
+    },
+    {
+      "keyword": "api",
+      "count": 3
     }
   ],
   "meta": {
