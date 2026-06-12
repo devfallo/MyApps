@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T15:39:14.322585+00:00",
+  "updatedAt": "2026-06-12T18:19:45.234605+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,244 +10,236 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 378348,
-      "comments": 7962,
+      "score": 378365,
+      "comments": 7952,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 378348, 반응 7962 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 378365, 반응 7952 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 192187,
-      "comments": 1472,
+      "score": 192202,
+      "comments": 1473,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 192187, 반응 1472 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 192202, 반응 1473 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 191750,
-      "comments": 19958,
+      "score": 191836,
+      "comments": 19969,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 191750, 반응 19958 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 191836, 반응 19969 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184908,
+      "score": 184910,
       "comments": 433,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184908, 반응 433 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184910, 반응 433 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163640,
-      "comments": 2493,
+      "score": 163647,
+      "comments": 2490,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163640, 반응 2493 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163647, 반응 2490 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163623,
+      "score": 163626,
       "comments": 50,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163623, 반응 50 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163626, 반응 50 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156337,
-      "comments": 59,
+      "score": 156339,
+      "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156337, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156339, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 144967,
+      "score": 144977,
       "comments": 762,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 144967, 반응 762 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 144977, 반응 762 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 141222,
-      "comments": 441,
+      "score": 141239,
+      "comments": 449,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 141222, 반응 441 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 141239, 반응 449 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 140093,
+      "score": 140103,
       "comments": 153,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140093, 반응 153 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140103, 반응 153 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 139119,
-      "comments": 410,
+      "score": 139127,
+      "comments": 411,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139119, 반응 410 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139127, 반응 411 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 131858,
-      "comments": 384,
+      "score": 131897,
+      "comments": 383,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 131858, 반응 384 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Homebrew 6.0.0",
-      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "score": 1358,
-      "comments": 319,
-      "text": "Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate).<p>Happy to discuss any questions here!",
-      "summary": "Show HN: Homebrew 6.0.0. Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate). 점수 1358, 반응 319 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 131897, 반응 383 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "If you are asking for human attention, demonstrate human effort",
       "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 1193,
-      "comments": 386,
+      "score": 1354,
+      "comments": 432,
       "text": "",
-      "summary": "If you are asking for human attention, demonstrate human effort. 점수 1193, 반응 386 기준 인기 이슈입니다."
+      "summary": "If you are asking for human attention, demonstrate human effort. 점수 1354, 반응 432 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI agent bankrupted their operator while trying to scan DN42",
       "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "score": 1137,
-      "comments": 429,
+      "score": 1288,
+      "comments": 466,
       "text": "",
-      "summary": "AI agent bankrupted their operator while trying to scan DN42. 점수 1137, 반응 429 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Fable is relentlessly proactive",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "score": 646,
-      "comments": 516,
-      "text": "",
-      "summary": "Claude Fable is relentlessly proactive. 점수 646, 반응 516 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-      "score": 628,
-      "comments": 199,
-      "text": "",
-      "summary": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]. 점수 628, 반응 199 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "MiMo Code is now released and open-source",
-      "url": "https://mimo.xiaomi.com/mimocode",
-      "score": 527,
-      "comments": 293,
-      "text": "",
-      "summary": "MiMo Code is now released and open-source. 점수 527, 반응 293 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "score": 477,
-      "comments": 413,
-      "text": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260611122253&#x2F;https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;948280&#x2F;anthropic-claude-fable-invisible-distillation-guardrail\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260611122253&#x2F;https:&#x2F;&#x2F;www.theve...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;y4V4k\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;y4V4k</a>",
-      "summary": "Anthropic apologizes for invisible Claude Fable guardrails. https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260611122253&#x2F;https:&#x2F;&#x2F;www.theve... , https:&#x2F;&#x2F;archive.ph&#x2F;y4V4k 점수 477, 반응 413 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Petition to Withdraw Canada's Bill C-22",
-      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-      "score": 476,
-      "comments": 153,
-      "text": "",
-      "summary": "Petition to Withdraw Canada's Bill C-22. 점수 476, 반응 153 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-      "url": "https://fablepool.com",
-      "score": 472,
-      "comments": 252,
-      "text": "",
-      "summary": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public. 점수 472, 반응 252 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Fable 5: mid-tier results on coding tasks",
-      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-      "score": 373,
-      "comments": 215,
-      "text": "",
-      "summary": "Claude Fable 5: mid-tier results on coding tasks. 점수 373, 반응 215 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
-      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
-      "score": 359,
-      "comments": 146,
-      "text": "<a href=\"https:&#x2F;&#x2F;social.treehouse.systems&#x2F;@AsahiLinux&#x2F;116719749555082847\" rel=\"nofollow\">https:&#x2F;&#x2F;social.treehouse.systems&#x2F;@AsahiLinux&#x2F;116719749555082...</a>",
-      "summary": "macOS 27 Beta breaks the ability to boot Asahi Linux. https:&#x2F;&#x2F;social.treehouse.systems&#x2F;@AsahiLinux&#x2F;116719749555082... 점수 359, 반응 146 기준 인기 이슈입니다."
+      "summary": "AI agent bankrupted their operator while trying to scan DN42. 점수 1288, 반응 466 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
       "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-      "score": 237,
-      "comments": 121,
+      "score": 327,
+      "comments": 169,
       "text": "",
-      "summary": "Kimi K2.7-Code: open-source coding model with better token efficiency. 점수 237, 반응 121 기준 인기 이슈입니다."
+      "summary": "Kimi K2.7-Code: open-source coding model with better token efficiency. 점수 327, 반응 169 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Reading for pleasure is sharply down among schoolkids, report shows",
-      "url": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
-      "score": 223,
-      "comments": 288,
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "score": 262,
+      "comments": 63,
       "text": "",
-      "summary": "Reading for pleasure is sharply down among schoolkids, report shows. 점수 223, 반응 288 기준 인기 이슈입니다."
+      "summary": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers. 점수 262, 반응 63 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Call to Action: Stop the FCC's KYC Regime",
+      "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+      "score": 254,
+      "comments": 157,
+      "text": "",
+      "summary": "A Call to Action: Stop the FCC's KYC Regime. 점수 254, 반응 157 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How we made hit video game Prince of Persia",
+      "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
+      "score": 238,
+      "comments": 91,
+      "text": "",
+      "summary": "How we made hit video game Prince of Persia. 점수 238, 반응 91 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AUR packages compromised with Infostealer and Rootkit",
+      "url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+      "score": 232,
+      "comments": 155,
+      "text": "",
+      "summary": "AUR packages compromised with Infostealer and Rootkit. 점수 232, 반응 155 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "WASI 0.3",
+      "url": "https://bytecodealliance.org/articles/WASI-0.3",
+      "score": 184,
+      "comments": 73,
+      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;WebAssembly&#x2F;WASI&#x2F;releases&#x2F;tag&#x2F;v0.3.0\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;WebAssembly&#x2F;WASI&#x2F;releases&#x2F;tag&#x2F;v0.3.0</a>",
+      "summary": "https:&#x2F;&#x2F;github.com&#x2F;WebAssembly&#x2F;WASI&#x2F;releases&#x2F;tag&#x2F;v0.3.0 점수 184, 반응 73 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Maxproof",
+      "url": "https://arxiv.org/abs/2606.13473",
+      "score": 107,
+      "comments": 8,
+      "text": "",
+      "summary": "Maxproof.  점수 107, 반응 8 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "score": 98,
+      "comments": 61,
+      "text": "",
+      "summary": "Slightly reducing the sloppiness of AI generated front end. 점수 98, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A dumpster arrived behind my university's library",
+      "url": "https://yalereview.org/article/sheila-liming-the-end-of-books",
+      "score": 95,
+      "comments": 69,
+      "text": "",
+      "summary": "A dumpster arrived behind my university's library. 점수 95, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Keygen.music",
+      "url": "https://keygen.music",
+      "score": 82,
+      "comments": 38,
+      "text": "",
+      "summary": "Keygen.music.  점수 82, 반응 38 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+      "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+      "score": 79,
+      "comments": 61,
+      "text": "<a href=\"https:&#x2F;&#x2F;socket.dev&#x2F;blog&#x2F;mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious\" rel=\"nofollow\">https:&#x2F;&#x2F;socket.dev&#x2F;blog&#x2F;mini-shai-hulud-miasma-and-hades-wor...</a>",
+      "summary": "Malware developers added nuclear and biological weapons text to to their spyware. https:&#x2F;&#x2F;socket.dev&#x2F;blog&#x2F;mini-shai-hulud-miasma-and-hades-wor... 점수 79, 반응 61 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 31
-    },
-    {
-      "keyword": "https",
-      "count": 8
+      "count": 22
     },
     {
       "keyword": "code",
-      "count": 6
-    },
-    {
-      "keyword": "web",
-      "count": 6
+      "count": 5
     },
     {
       "keyword": "platform",
@@ -262,36 +254,44 @@
       "count": 4
     },
     {
-      "keyword": "claude",
+      "keyword": "dev",
       "count": 4
     },
     {
-      "keyword": "fable",
+      "keyword": "https",
       "count": 4
     },
     {
-      "keyword": "archive",
-      "count": 4
+      "keyword": "wasi",
+      "count": 3
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
     },
     {
       "keyword": "any",
-      "count": 3
+      "count": 2
     },
     {
-      "keyword": "api",
-      "count": 3
+      "keyword": "workflow",
+      "count": 2
     },
     {
-      "keyword": "homebrew",
-      "count": 3
+      "keyword": "self-host",
+      "count": 2
     },
     {
-      "keyword": "href",
-      "count": 3
+      "keyword": "autogpt",
+      "count": 2
     },
     {
-      "keyword": "rel",
-      "count": 3
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "web",
+      "count": 2
     }
   ],
   "meta": {
