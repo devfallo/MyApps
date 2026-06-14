@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T05:07:37.498069+00:00",
+  "updatedAt": "2026-06-14T09:56:02.622413+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,232 +10,240 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 378599,
-      "comments": 7412,
+      "score": 378622,
+      "comments": 7224,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 378599, 반응 7412 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 378622, 반응 7224 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 192881,
-      "comments": 20374,
+      "score": 193038,
+      "comments": 20449,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 192881, 반응 20374 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 193038, 반응 20449 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 192424,
-      "comments": 1481,
+      "score": 192441,
+      "comments": 1483,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 192424, 반응 1481 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 192441, 반응 1483 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184932,
+      "score": 184930,
       "comments": 436,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184932, 반응 436 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184930, 반응 436 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163683,
-      "comments": 50,
+      "score": 163689,
+      "comments": 53,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163683, 반응 50 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163689, 반응 53 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163681,
+      "score": 163684,
       "comments": 2490,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163681, 반응 2490 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163684, 반응 2490 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156359,
+      "score": 156361,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156359, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156361, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 145102,
-      "comments": 747,
+      "score": 145148,
+      "comments": 753,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 145102, 반응 747 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 145148, 반응 753 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 141417,
-      "comments": 463,
+      "score": 141436,
+      "comments": 467,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 141417, 반응 463 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 141436, 반응 467 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 140350,
+      "score": 140410,
       "comments": 153,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140350, 반응 153 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140410, 반응 153 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 139222,
+      "score": 139235,
       "comments": 415,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139222, 반응 415 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139235, 반응 415 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 132446,
+      "score": 132521,
       "comments": 381,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 132446, 반응 381 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 132521, 반응 381 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Noise infusion banned from statistical products published by Census Bureau",
       "url": "https://desfontain.es/blog/banning-noise.html",
-      "score": 777,
-      "comments": 481,
+      "score": 825,
+      "comments": 510,
       "text": "",
-      "summary": "Noise infusion banned from statistical products published by Census Bureau. 점수 777, 반응 481 기준 인기 이슈입니다."
+      "summary": "Noise infusion banned from statistical products published by Census Bureau. 점수 825, 반응 510 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "score": 633,
-      "comments": 204,
+      "score": 711,
+      "comments": 230,
       "text": "",
-      "summary": "Every Frame Perfect.  점수 633, 반응 204 기준 인기 이슈입니다."
+      "summary": "Every Frame Perfect.  점수 711, 반응 230 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
       "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "score": 613,
-      "comments": 446,
+      "score": 688,
+      "comments": 502,
       "text": "<a href=\"https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&amp;reflink=desktopwebshare_permalink\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;amazon-ceos-talks-with-u-s-offic...</a>",
-      "summary": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models. https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;amazon-ceos-talks-with-u-s-offic... 점수 613, 반응 446 기준 인기 이슈입니다."
+      "summary": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models. https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;amazon-ceos-talks-with-u-s-offic... 점수 688, 반응 502 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GLM 5.2 Is Out",
       "url": "https://twitter.com/jietang/status/2065784751345287314",
-      "score": 445,
-      "comments": 243,
+      "score": 579,
+      "comments": 316,
       "text": "<a href=\"https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn\" rel=\"nofollow\">https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn</a>",
-      "summary": "https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn 점수 445, 반응 243 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn 점수 579, 반응 316 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Treating pancreatic tumours may have revealed cancer's master switch",
       "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-      "score": 330,
-      "comments": 117,
-      "text": "",
-      "summary": "Treating pancreatic tumours may have revealed cancer's master switch. 점수 330, 반응 117 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "score": 272,
+      "score": 361,
       "comments": 130,
       "text": "",
-      "summary": "Police officer investigated for using AI to 'create evidence' in multiple cases. 점수 272, 반응 130 기준 인기 이슈입니다."
+      "summary": "Treating pancreatic tumours may have revealed cancer's master switch. 점수 361, 반응 130 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A low-carbon computing platform from your retired phones",
       "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-      "score": 262,
-      "comments": 141,
+      "score": 291,
+      "comments": 155,
       "text": "",
-      "summary": "A low-carbon computing platform from your retired phones. 점수 262, 반응 141 기준 인기 이슈입니다."
+      "summary": "A low-carbon computing platform from your retired phones. 점수 291, 반응 155 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Honda Civics and the Evil Valet",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "score": 266,
+      "comments": 43,
+      "text": "Previously: <i>Show HN: Honda Civic Infotainment Reverse-Engineering</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753</a> - May 2023 (43 comments)",
+      "summary": "Honda Civics and the Evil Valet. Previously: Show HN: Honda Civic Infotainment Reverse-Engineering - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753 - May 2023 (43 comments) 점수 266, 반응 43 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
       "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-      "score": 217,
-      "comments": 74,
+      "score": 249,
+      "comments": 86,
       "text": "",
-      "summary": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8. 점수 217, 반응 74 기준 인기 이슈입니다."
+      "summary": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8. 점수 249, 반응 86 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Codex for open source",
       "url": "https://openai.com/form/codex-for-oss/",
-      "score": 202,
-      "comments": 67,
+      "score": 230,
+      "comments": 93,
       "text": "",
-      "summary": "Codex for open source. 점수 202, 반응 67 기준 인기 이슈입니다."
+      "summary": "Codex for open source. 점수 230, 반응 93 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "GameBoy Workboy",
-      "url": "https://tcrf.net/Workboy",
-      "score": 173,
+      "title": "The experience of rendering Arabic typography and its technical debt",
+      "url": "https://lr0.org/blog/p/arabic/",
+      "score": 230,
       "comments": 59,
       "text": "",
-      "summary": "GameBoy Workboy.  점수 173, 반응 59 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Appreciating Exif",
-      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
-      "score": 143,
-      "comments": 30,
-      "text": "",
-      "summary": "Appreciating Exif.  점수 143, 반응 30 기준 인기 이슈입니다."
+      "summary": "The experience of rendering Arabic typography and its technical debt. 점수 230, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
       "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
-      "score": 141,
-      "comments": 25,
+      "score": 223,
+      "comments": 32,
       "text": "",
-      "summary": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware. 점수 141, 반응 25 기준 인기 이슈입니다."
+      "summary": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware. 점수 223, 반응 32 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-      "url": "https://juniperspring.org/posts/honda-evil-valet/",
-      "score": 133,
-      "comments": 19,
+      "title": "GameBoy Workboy",
+      "url": "https://tcrf.net/Workboy",
+      "score": 188,
+      "comments": 67,
       "text": "",
-      "summary": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys. 점수 133, 반응 19 기준 인기 이슈입니다."
+      "summary": "GameBoy Workboy.  점수 188, 반응 67 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Appreciating Exif",
+      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+      "score": 163,
+      "comments": 35,
+      "text": "",
+      "summary": "Appreciating Exif.  점수 163, 반응 35 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 18
+      "count": 24
+    },
+    {
+      "keyword": "https",
+      "count": 6
+    },
+    {
+      "keyword": "com",
+      "count": 6
     },
     {
       "keyword": "platform",
@@ -250,14 +258,6 @@
       "count": 4
     },
     {
-      "keyword": "https",
-      "count": 4
-    },
-    {
-      "keyword": "com",
-      "count": 4
-    },
-    {
       "keyword": "tech",
       "count": 4
     },
@@ -267,6 +267,10 @@
     },
     {
       "keyword": "open",
+      "count": 3
+    },
+    {
+      "keyword": "href",
       "count": 3
     },
     {
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
       "count": 2
     }
   ],
