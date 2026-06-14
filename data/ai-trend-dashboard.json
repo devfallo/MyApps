@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T19:57:41.648908+00:00",
+  "updatedAt": "2026-06-14T21:39:02.054170+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 378696,
-      "comments": 6877,
+      "score": 378702,
+      "comments": 6860,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 378696, 반응 6877 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 378702, 반응 6860 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 193423,
-      "comments": 20571,
+      "score": 193465,
+      "comments": 20577,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 193423, 반응 20571 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 193465, 반응 20577 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 192498,
+      "score": 192513,
       "comments": 1485,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 192498, 반응 1485 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 192513, 반응 1485 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184940,
+      "score": 184939,
       "comments": 435,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184940, 반응 435 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184939, 반응 435 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163717,
+      "score": 163722,
       "comments": 54,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163717, 반응 54 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163722, 반응 54 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,19 +73,19 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 145193,
+      "score": 145196,
       "comments": 753,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 145193, 반응 753 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 145196, 반응 753 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 141497,
-      "comments": 470,
+      "score": 141507,
+      "comments": 471,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 141497, 반응 470 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 141507, 반응 471 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -100,136 +100,136 @@
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 139273,
-      "comments": 415,
+      "score": 139275,
+      "comments": 414,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139273, 반응 415 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139275, 반응 414 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 132709,
+      "score": 132734,
       "comments": 381,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 132709, 반응 381 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 132734, 반응 381 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Firewood Splitting Simulator",
       "url": "https://screen.toys/firewood/",
-      "score": 449,
-      "comments": 153,
+      "score": 519,
+      "comments": 176,
       "text": "",
-      "summary": "Firewood Splitting Simulator. 점수 449, 반응 153 기준 인기 이슈입니다."
+      "summary": "Firewood Splitting Simulator. 점수 519, 반응 176 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Not everyone is using AI for everything",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "score": 376,
+      "comments": 396,
+      "text": "",
+      "summary": "Not everyone is using AI for everything. 점수 376, 반응 396 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Honda Civics and the Evil Valet",
       "url": "https://juniperspring.org/posts/honda-evil-valet/",
-      "score": 372,
-      "comments": 89,
+      "score": 376,
+      "comments": 92,
       "text": "Previously: <i>Show HN: Honda Civic Infotainment Reverse-Engineering</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753</a> - May 2023 (43 comments)",
-      "summary": "Honda Civics and the Evil Valet. Previously: Show HN: Honda Civic Infotainment Reverse-Engineering - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753 - May 2023 (43 comments) 점수 372, 반응 89 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "No, everyone is not using AI for everything",
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "score": 328,
-      "comments": 344,
-      "text": "",
-      "summary": "No, everyone is not using AI for everything. 점수 328, 반응 344 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
-      "url": "https://sqltoerdiagram.com/",
-      "score": 321,
-      "comments": 64,
-      "text": "",
-      "summary": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded. 점수 321, 반응 64 기준 인기 이슈입니다."
+      "summary": "Honda Civics and the Evil Valet. Previously: Show HN: Honda Civic Infotainment Reverse-Engineering - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753 - May 2023 (43 comments) 점수 376, 반응 92 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How to earn a billion dollars",
       "url": "https://paulgraham.com/earn.html",
-      "score": 306,
-      "comments": 853,
+      "score": 359,
+      "comments": 1046,
       "text": "",
-      "summary": "How to earn a billion dollars. 점수 306, 반응 853 기준 인기 이슈입니다."
+      "summary": "How to earn a billion dollars. 점수 359, 반응 1046 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "score": 186,
-      "comments": 106,
+      "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+      "url": "https://sqltoerdiagram.com/",
+      "score": 333,
+      "comments": 65,
       "text": "",
-      "summary": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model. 점수 186, 반응 106 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Birth and Death of JavaScript (2014)",
-      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-      "score": 182,
-      "comments": 109,
-      "text": "",
-      "summary": "The Birth and Death of JavaScript (2014). 점수 182, 반응 109 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Lisp's Influence on Ruby",
-      "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
-      "score": 182,
-      "comments": 28,
-      "text": "",
-      "summary": "Lisp's Influence on Ruby. 점수 182, 반응 28 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-      "url": "https://news.ycombinator.com/item?id=48528029",
-      "score": 148,
-      "comments": 32,
-      "text": "TLDR: I had 2,207 GoPro videos, and I need to rewatch them to find interesting moments from my cycling journey. I built a project to index them locally on my M1 Max using open-source ML models, search for those moments, and send the best clips straight to my DaVinci Resolve timeline.  I indexed 628 videos (668.68 GB, 15h 13m 18s of footage duration), more details in the metrics table in the last section of this article.<p>Full article: https:&#x2F;&#x2F;iliashaddad.com&#x2F;blog&#x2F;i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer",
-      "summary": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models. TLDR: I had 2,207 GoPro videos, and I need to rewatch them to find interesting moments from my cycling journey. I built a project to index them locally on my M1 Max using open-source ML models, search for those moments, and send the best clips straight to my DaVinci Resolve timeline. 점수 148, 반응 32 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A 'cold blob' in the Atlantic could be a sign of AMOC shutdown",
-      "url": "https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation",
-      "score": 147,
-      "comments": 196,
-      "text": "",
-      "summary": "A 'cold blob' in the Atlantic could be a sign of AMOC shutdown. 점수 147, 반응 196 기준 인기 이슈입니다."
+      "summary": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded. 점수 333, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
       "url": "https://github.com/tamnd/kage",
-      "score": 136,
-      "comments": 34,
+      "score": 259,
+      "comments": 59,
       "text": "",
-      "summary": "Show HN: Kage – Shadow any website to a single binary for offline viewing. 점수 136, 반응 34 기준 인기 이슈입니다."
+      "summary": "Show HN: Kage – Shadow any website to a single binary for offline viewing. 점수 259, 반응 59 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "score": 222,
+      "comments": 121,
+      "text": "",
+      "summary": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model. 점수 222, 반응 121 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+      "url": "https://news.ycombinator.com/item?id=48528029",
+      "score": 208,
+      "comments": 42,
+      "text": "TLDR: I had 2,207 GoPro videos, and I need to rewatch them to find interesting moments from my cycling journey. I built a project to index them locally on my M1 Max using open-source ML models, search for those moments, and send the best clips straight to my DaVinci Resolve timeline.  I indexed 628 videos (668.68 GB, 15h 13m 18s of footage duration), more details in the metrics table in the last section of this article.<p>Full article: https:&#x2F;&#x2F;iliashaddad.com&#x2F;blog&#x2F;i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer",
+      "summary": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models. TLDR: I had 2,207 GoPro videos, and I need to rewatch them to find interesting moments from my cycling journey. I built a project to index them locally on my M1 Max using open-source ML models, search for those moments, and send the best clips straight to my DaVinci Resolve timeline. 점수 208, 반응 42 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Lisp's Influence on Ruby",
+      "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+      "score": 198,
+      "comments": 40,
+      "text": "",
+      "summary": "Lisp's Influence on Ruby. 점수 198, 반응 40 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Birth and Death of JavaScript (2014)",
+      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "score": 195,
+      "comments": 116,
+      "text": "",
+      "summary": "The Birth and Death of JavaScript (2014). 점수 195, 반응 116 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Linux 7.1",
       "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
-      "score": 134,
-      "comments": 23,
+      "score": 180,
+      "comments": 55,
       "text": "",
-      "summary": "Linux 7.1.  점수 134, 반응 23 기준 인기 이슈입니다."
+      "summary": "Linux 7.1.  점수 180, 반응 55 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
-      "url": "https://twitter.com/zenmagnets/status/2065796012820848699",
-      "score": 120,
-      "comments": 31,
+      "title": "Formal methods and the future of programming",
+      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+      "score": 143,
+      "comments": 48,
       "text": "",
-      "summary": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks. 점수 120, 반응 31 기준 인기 이슈입니다."
+      "summary": "Formal methods and the future of programming. 점수 143, 반응 48 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+      "url": "https://su3.io/posts/zeroserve-caddy-compat",
+      "score": 129,
+      "comments": 41,
+      "text": "",
+      "summary": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency. 점수 129, 반응 41 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -262,15 +262,15 @@
       "count": 3
     },
     {
+      "keyword": "using",
+      "count": 3
+    },
+    {
       "keyword": "https",
       "count": 3
     },
     {
       "keyword": "com",
-      "count": 3
-    },
-    {
-      "keyword": "using",
       "count": 3
     },
     {
