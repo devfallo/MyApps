@@ -1,12 +1,14 @@
 {
-  "updatedAt": "2026-06-17T04:21:56.112436+00:00",
+  "updatedAt": "2026-06-17T11:01:49.216400+00:00",
   "status": "ok",
   "keywords": [],
-  "scannedCount": 40,
+  "scannedCount": 20,
   "newMatchCount": 0,
   "matchHistory": [],
   "keywordStats": [],
   "notifications": [],
   "seenUrls": [],
-  "errors": []
+  "errors": [
+    "fetch_github_discussions: HTTP Error 403: rate limit exceeded"
+  ]
 }
