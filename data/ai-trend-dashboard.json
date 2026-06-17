@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T18:34:38.893785+00:00",
+  "updatedAt": "2026-06-17T22:14:01.306694+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 379195,
-      "comments": 6454,
+      "score": 379215,
+      "comments": 6456,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 379195, 반응 6454 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 379215, 반응 6456 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 196048,
-      "comments": 21552,
+      "score": 196145,
+      "comments": 21613,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 196048, 반응 21552 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 196145, 반응 21613 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 192940,
+      "score": 192954,
       "comments": 1491,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 192940, 반응 1491 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 192954, 반응 1491 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 184998,
-      "comments": 441,
+      "score": 185000,
+      "comments": 439,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 184998, 반응 441 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185000, 반응 439 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163854,
+      "score": 163857,
       "comments": 54,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163854, 반응 54 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163857, 반응 54 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,166 +73,202 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 145620,
+      "score": 145625,
       "comments": 788,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 145620, 반응 788 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 145625, 반응 788 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 142012,
-      "comments": 410,
+      "score": 142034,
+      "comments": 411,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142012, 반응 410 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142034, 반응 411 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 140785,
+      "score": 140793,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140785, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140793, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 139564,
-      "comments": 423,
+      "score": 139572,
+      "comments": 421,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139564, 반응 423 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139572, 반응 421 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 134024,
+      "score": 134100,
       "comments": 393,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 134024, 반응 393 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 134100, 반응 393 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "url": "https://wpvip.com/future-of-the-web-2026/",
-      "score": 821,
-      "comments": 441,
+      "title": "Lore – Open source version control system designed for scalability",
+      "url": "https://lore.org/",
+      "score": 839,
+      "comments": 461,
       "text": "",
-      "summary": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff. 점수 821, 반응 441 기준 인기 이슈입니다."
+      "summary": "Lore – Open source version control system designed for scalability. 점수 839, 반응 461 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
       "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 610,
-      "comments": 321,
+      "score": 724,
+      "comments": 364,
       "text": "",
-      "summary": "GLM-5.2 is the new leading open weights model on Artificial Analysis. 점수 610, 반응 321 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Epic Games announces Lore version control system",
-      "url": "https://lore.org/",
-      "score": 569,
-      "comments": 299,
-      "text": "",
-      "summary": "Epic Games announces Lore version control system. 점수 569, 반응 299 기준 인기 이슈입니다."
+      "summary": "GLM-5.2 is the new leading open weights model on Artificial Analysis. 점수 724, 반응 364 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Want your images back? That'll be $5",
       "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "score": 503,
-      "comments": 217,
+      "score": 575,
+      "comments": 239,
       "text": "",
-      "summary": "Want your images back? 점수 503, 반응 217 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hacker News but for independent blogs",
-      "url": "https://bubbles.town/",
-      "score": 420,
-      "comments": 139,
-      "text": "",
-      "summary": "Hacker News but for independent blogs. 점수 420, 반응 139 기준 인기 이슈입니다."
+      "summary": "Want your images back? 점수 575, 반응 239 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "U.S. science is in chaos",
       "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-      "score": 298,
-      "comments": 326,
+      "score": 540,
+      "comments": 601,
       "text": "",
-      "summary": "U.S. science is in chaos.  점수 298, 반응 326 기준 인기 이슈입니다."
+      "summary": "U.S. science is in chaos.  점수 540, 반응 601 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hacker News but for independent blogs",
+      "url": "https://bubbles.town/",
+      "score": 501,
+      "comments": 166,
+      "text": "",
+      "summary": "Hacker News but for independent blogs. 점수 501, 반응 166 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Volkswagen started blocking GrapheneOS users",
       "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
-      "score": 267,
-      "comments": 175,
+      "score": 409,
+      "comments": 288,
       "text": "",
-      "summary": "Volkswagen started blocking GrapheneOS users. 점수 267, 반응 175 기준 인기 이슈입니다."
+      "summary": "Volkswagen started blocking GrapheneOS users. 점수 409, 반응 288 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RFC 10008: The new HTTP Query Method",
       "url": "https://www.rfc-editor.org/info/rfc10008/",
-      "score": 231,
-      "comments": 108,
+      "score": 293,
+      "comments": 134,
       "text": "",
-      "summary": "RFC 10008: The new HTTP Query Method. 점수 231, 반응 108 기준 인기 이슈입니다."
+      "summary": "RFC 10008: The new HTTP Query Method. 점수 293, 반응 134 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "AI demands more engineering discipline. Not less",
-      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-      "score": 202,
-      "comments": 94,
-      "text": "",
-      "summary": "AI demands more engineering discipline. 점수 202, 반응 94 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-      "score": 172,
-      "comments": 149,
-      "text": "",
-      "summary": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society. 점수 172, 반응 149 기준 인기 이슈입니다."
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "score": 248,
+      "comments": 266,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;MlU1U\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;MlU1U</a>",
+      "summary": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks. https:&#x2F;&#x2F;archive.ph&#x2F;MlU1U 점수 248, 반응 266 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The founder's playbook: Building an AI-native startup",
       "url": "https://claude.com/blog/the-founders-playbook",
-      "score": 158,
-      "comments": 132,
+      "score": 194,
+      "comments": 148,
       "text": "",
-      "summary": "The founder's playbook: Building an AI-native startup. 점수 158, 반응 132 기준 인기 이슈입니다."
+      "summary": "The founder's playbook: Building an AI-native startup. 점수 194, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Abandoned and Little-Known Airfields",
-      "url": "https://airfields-freeman.com/",
-      "score": 123,
-      "comments": 32,
-      "text": "",
-      "summary": "Abandoned and Little-Known Airfields. 점수 123, 반응 32 기준 인기 이슈입니다."
+      "title": "Show HN: An 8-bit live gamecast for baseball",
+      "url": "https://ribbie.tv/watch",
+      "score": 169,
+      "comments": 105,
+      "text": "Hey HN, I built a website to watch live baseball games in an 8-bit broadcast. It takes live MLB data streams and converts them into near real-time pixel art gamecasts.<p>Been waiting to share this for when there’s actually a good slate of games happening since the site is pretty bare otherwise.<p>Here is today&#x27;s schedule:<p>Mets @ Reds - 9:40am PDT\n<a href=\"https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;824503\" rel=\"nofollow\">https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;824503</a><p>Royals @ Nationals - 10:05am PDT\n<a href=\"https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;822721\" rel=\"nofollow\">https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;822721</a><p>Marlins @ Phillies - 10:05am PDT\n<a href=\"https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;823450\" rel=\"nofollow\">https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;823450</a><p>Tigers @ Astros - 11:10am PDT\n<a href=\"https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;824178\" rel=\"nofollow\">https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;824178</a><p>Padres @ Cardinals - 11:15am PDT\n<a href=\"https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;823044\" rel=\"nofollow\">https:&#x2F;&#x2F;ribbie.tv&#x2F;watch&#x2F;game&#x2F;823044</a><p>..and another 14 games throughout the later day.<p>I&#x27;m still early on in this project, but I&#x27;ve tried to add little details with actual stadiums, day and night modes, between inning graphics and interstitials, live scoreboards, etc.<p>Would love any feedback and ideas. Thanks for checking it out!",
+      "summary": "Show HN: An 8-bit live gamecast for baseball. Hey HN, I built a website to watch live baseball games in an 8-bit broadcast. It takes live MLB data streams and converts them into near real-time pixel art gamecasts. 점수 169, 반응 105 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
       "url": "https://github.com/rxi/microui",
-      "score": 122,
-      "comments": 39,
+      "score": 165,
+      "comments": 56,
       "text": "",
-      "summary": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C. 점수 122, 반응 39 기준 인기 이슈입니다."
+      "summary": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C. 점수 165, 반응 56 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "url": "https://browser-use.com/posts/firecracker-browser-infra",
+      "score": 154,
+      "comments": 99,
+      "text": "",
+      "summary": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s. 점수 154, 반응 99 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Inkwash, a watercolor sketching app and explanation",
+      "url": "https://johnowhitaker.github.io/inkwash/about",
+      "score": 141,
+      "comments": 18,
+      "text": "I&#x27;ve made a drawing app based on my physical sketching practice, using fluid sim and some shader tricks to mimic watercolor-style ink washes. Best used on iPad or with a drawing tablet. The linked article shows how the core engine works, with plenty of little interactive demos. It was fun to make, sharing in hopes others find it fun too :)",
+      "summary": "Show HN: Inkwash, a watercolor sketching app and explanation. I&#x27;ve made a drawing app based on my physical sketching practice, using fluid sim and some shader tricks to mimic watercolor-style ink washes. Best used on iPad or with a drawing tablet. 점수 141, 반응 18 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 56
+    },
+    {
+      "keyword": "https",
+      "count": 12
+    },
+    {
+      "keyword": "watch",
+      "count": 11
+    },
+    {
+      "keyword": "ribbie",
+      "count": 10
+    },
+    {
+      "keyword": "game",
+      "count": 10
+    },
+    {
+      "keyword": "href",
+      "count": 6
+    },
+    {
+      "keyword": "rel",
+      "count": 6
+    },
+    {
+      "keyword": "nofollow",
+      "count": 6
+    },
+    {
+      "keyword": "pdt",
+      "count": 5
+    },
     {
       "keyword": "platform",
       "count": 4
@@ -246,52 +282,16 @@
       "count": 4
     },
     {
-      "keyword": "agent",
-      "count": 3
-    },
-    {
       "keyword": "open",
-      "count": 3
+      "count": 4
     },
     {
-      "keyword": "openclaw",
-      "count": 2
+      "keyword": "live",
+      "count": 4
     },
     {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "open-webui",
-      "count": 2
-    },
-    {
-      "keyword": "api",
-      "count": 2
+      "keyword": "x27",
+      "count": 4
     }
   ],
   "meta": {
