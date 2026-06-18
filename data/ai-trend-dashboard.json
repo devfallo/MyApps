@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T18:35:50.568466+00:00",
+  "updatedAt": "2026-06-18T22:24:50.494672+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,28 +10,28 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 379386,
-      "comments": 6539,
+      "score": 379393,
+      "comments": 6531,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 379386, 반응 6539 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 379393, 반응 6531 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 196876,
-      "comments": 21925,
+      "score": 196960,
+      "comments": 21962,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 196876, 반응 21925 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 196960, 반응 21962 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 193052,
-      "comments": 1472,
+      "score": 193071,
+      "comments": 1479,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193052, 반응 1472 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193071, 반응 1479 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -46,10 +46,10 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163892,
+      "score": 163890,
       "comments": 55,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163892, 반응 55 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163890, 반응 55 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -64,182 +64,178 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156464,
+      "score": 156465,
       "comments": 59,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156464, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156465, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 145740,
-      "comments": 794,
+      "score": 145745,
+      "comments": 793,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 145740, 반응 794 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 145745, 반응 793 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 142159,
-      "comments": 422,
+      "score": 142170,
+      "comments": 424,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142159, 반응 422 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142170, 반응 424 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 140844,
+      "score": 140848,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140844, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140848, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 139646,
-      "comments": 430,
+      "score": 139652,
+      "comments": 411,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139646, 반응 430 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139652, 반응 411 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 134639,
-      "comments": 393,
+      "score": 134720,
+      "comments": 394,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 134639, 반응 393 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Midjourney Medical",
-      "url": "https://www.midjourney.com/medical/blogpost",
-      "score": 1207,
-      "comments": 819,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.midjourney.com&#x2F;medical\" rel=\"nofollow\">https:&#x2F;&#x2F;www.midjourney.com&#x2F;medical</a><p>Video: <a href=\"https:&#x2F;&#x2F;x.com&#x2F;midjourney&#x2F;status&#x2F;2067422898407837797\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;midjourney&#x2F;status&#x2F;2067422898407837797</a>",
-      "summary": "https:&#x2F;&#x2F;www.midjourney.com&#x2F;medical Video: https:&#x2F;&#x2F;x.com&#x2F;midjourney&#x2F;status&#x2F;2067422898407837797 점수 1207, 반응 819 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-      "score": 416,
-      "comments": 223,
-      "text": "",
-      "summary": "Local Qwen isn't a worse Opus, it's a different tool. 점수 416, 반응 223 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
-      "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
-      "score": 405,
-      "comments": 282,
-      "text": "",
-      "summary": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly. 점수 405, 반응 282 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DeepSeek Introduces Vision",
-      "url": "https://chat.deepseek.com/",
-      "score": 398,
-      "comments": 161,
-      "text": "",
-      "summary": "DeepSeek Introduces Vision. 점수 398, 반응 161 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 134720, 반응 394 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Swiss parliament lifts ban on new nuclear power plants",
       "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-      "score": 381,
-      "comments": 226,
+      "score": 623,
+      "comments": 475,
       "text": "",
-      "summary": "Swiss parliament lifts ban on new nuclear power plants. 점수 381, 반응 226 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
-      "score": 376,
-      "comments": 183,
-      "text": "",
-      "summary": "AMD silently removes memory encryption from consumer Ryzen CPUs. 점수 376, 반응 183 기준 인기 이슈입니다."
+      "summary": "Swiss parliament lifts ban on new nuclear power plants. 점수 623, 반응 475 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 361,
-      "comments": 102,
+      "score": 594,
+      "comments": 136,
       "text": "",
-      "summary": "I found 10k GitHub repositories distributing Trojan malware. 점수 361, 반응 102 기준 인기 이슈입니다."
+      "summary": "I found 10k GitHub repositories distributing Trojan malware. 점수 594, 반응 136 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+      "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+      "score": 556,
+      "comments": 367,
+      "text": "",
+      "summary": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly. 점수 556, 반응 367 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Emacs 31 is around the corner: The changes I'm daily driving",
       "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-      "score": 314,
-      "comments": 165,
+      "score": 396,
+      "comments": 215,
       "text": "",
-      "summary": "Emacs 31 is around the corner: The changes I'm daily driving. 점수 314, 반응 165 기준 인기 이슈입니다."
+      "summary": "Emacs 31 is around the corner: The changes I'm daily driving. 점수 396, 반응 215 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A website that lists websites to submit your website to",
       "url": "https://www.submission.directory/",
-      "score": 235,
-      "comments": 65,
+      "score": 367,
+      "comments": 82,
       "text": "",
-      "summary": "A website that lists websites to submit your website to. 점수 235, 반응 65 기준 인기 이슈입니다."
+      "summary": "A website that lists websites to submit your website to. 점수 367, 반응 82 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "title": "The founder of Craigslist has given away half a billion dollars",
+      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+      "score": 267,
+      "comments": 186,
+      "text": "",
+      "summary": "The founder of Craigslist has given away half a billion dollars. 점수 267, 반응 186 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hospitals and universities repurposing drugs at lower cost",
       "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-      "score": 214,
-      "comments": 87,
+      "score": 267,
+      "comments": 115,
       "text": "",
-      "summary": "Hospitals and universities repurposing drugs at 90% lower cost. 점수 214, 반응 87 기준 인기 이슈입니다."
+      "summary": "Hospitals and universities repurposing drugs at lower cost. 점수 267, 반응 115 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Advanced Compilers: The Self-Guided Online Course",
+      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
       "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-      "score": 190,
-      "comments": 25,
+      "score": 263,
+      "comments": 38,
       "text": "",
-      "summary": "Advanced Compilers: The Self-Guided Online Course. 점수 190, 반응 25 기준 인기 이슈입니다."
+      "summary": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020). 점수 263, 반응 38 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": ".gitignore Isn't the Only Way to Ignore Files in Git",
+      "title": ".gitignore Isn't the only way to ignore files in Git",
       "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-      "score": 155,
-      "comments": 41,
+      "score": 242,
+      "comments": 76,
       "text": "",
-      "summary": ".gitignore Isn't the Only Way to Ignore Files in Git. 점수 155, 반응 41 기준 인기 이슈입니다."
+      "summary": ".gitignore Isn't the only way to ignore files in Git. 점수 242, 반응 76 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
       "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "score": 147,
-      "comments": 132,
+      "score": 220,
+      "comments": 199,
       "text": "",
-      "summary": "Ubiquiti: Enterprise NAS, Built on ZFS. 점수 147, 반응 132 기준 인기 이슈입니다."
+      "summary": "Ubiquiti: Enterprise NAS, Built on ZFS. 점수 220, 반응 199 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Noam Shazeer Joins OpenAI",
+      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "score": 214,
+      "comments": 184,
+      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;NoamShazeer&#x2F;status&#x2F;2067400851438932297\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;NoamShazeer&#x2F;status&#x2F;2067400851438932297</a><p><a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;googles-gemini-co-lead-no...</a>",
+      "summary": "Noam Shazeer Joins OpenAI. https:&#x2F;&#x2F;xcancel.com&#x2F;NoamShazeer&#x2F;status&#x2F;2067400851438932297 https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;googles-gemini-co-lead-no... 점수 214, 반응 184 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+      "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+      "score": 203,
+      "comments": 57,
+      "text": "",
+      "summary": "Modos Color Monitor Pushes E-Paper Displays Further. 점수 203, 반응 57 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "W Social, public institutions and the theater of European digital sovereignty",
+      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "score": 163,
+      "comments": 110,
+      "text": "",
+      "summary": "W Social, public institutions and the theater of European digital sovereignty. 점수 163, 반응 110 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 16
-    },
-    {
-      "keyword": "midjourney",
-      "count": 5
+      "count": 19
     },
     {
       "keyword": "platform",
@@ -266,10 +262,6 @@
       "count": 3
     },
     {
-      "keyword": "medical",
-      "count": 3
-    },
-    {
       "keyword": "openclaw",
       "count": 2
     },
@@ -291,6 +283,14 @@
     },
     {
       "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "open",
       "count": 2
     }
   ],
