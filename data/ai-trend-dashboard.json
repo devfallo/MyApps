@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T20:03:09.579524+00:00",
+  "updatedAt": "2026-06-19T21:34:34.293422+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 379521,
-      "comments": 6433,
+      "score": 379525,
+      "comments": 6409,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 379521, 반응 6433 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 379525, 반응 6409 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 233215,
+      "score": 233264,
       "comments": 270,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 233215, 반응 270 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 233264, 반응 270 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 197558,
-      "comments": 22278,
+      "score": 197586,
+      "comments": 22300,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 197558, 반응 22278 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 197586, 반응 22300 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 193187,
-      "comments": 1463,
+      "score": 193194,
+      "comments": 1461,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193187, 반응 1463 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193194, 반응 1461 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185038,
+      "score": 185037,
       "comments": 447,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185038, 반응 447 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185037, 반응 447 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163938,
+      "score": 163942,
       "comments": 55,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163938, 반응 55 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163942, 반응 55 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163796,
+      "score": 163797,
       "comments": 2491,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163796, 반응 2491 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163797, 반응 2491 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,154 +82,154 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 145836,
-      "comments": 773,
+      "score": 145843,
+      "comments": 772,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 145836, 반응 773 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 145843, 반응 772 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 142275,
+      "score": 142280,
       "comments": 433,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142275, 반응 433 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142280, 반응 433 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 140892,
+      "score": 140895,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140892, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140895, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 139710,
+      "score": 139711,
       "comments": 414,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139710, 반응 414 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139711, 반응 414 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 915,
-      "comments": 239,
+      "score": 927,
+      "comments": 241,
       "text": "",
-      "summary": "I found 10k GitHub repositories distributing Trojan malware. 점수 915, 반응 239 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": ".gitignore Isn't the only way to ignore files in Git",
-      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-      "score": 546,
-      "comments": 163,
-      "text": "",
-      "summary": ".gitignore Isn't the only way to ignore files in Git. 점수 546, 반응 163 기준 인기 이슈입니다."
+      "summary": "I found 10k GitHub repositories distributing Trojan malware. 점수 927, 반응 241 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 489,
-      "comments": 284,
+      "score": 513,
+      "comments": 302,
       "text": "",
-      "summary": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28. 점수 489, 반응 284 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
-      "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-      "score": 422,
-      "comments": 59,
-      "text": "",
-      "summary": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020). 점수 422, 반응 59 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "score": 384,
-      "comments": 123,
-      "text": "",
-      "summary": "DuckDB Internals: Why Is DuckDB Fast? 점수 384, 반응 123 기준 인기 이슈입니다."
+      "summary": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28. 점수 513, 반응 302 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Hyundai buys Boston Dynamics",
       "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 357,
-      "comments": 174,
+      "score": 482,
+      "comments": 240,
       "text": "",
-      "summary": "Hyundai buys Boston Dynamics. 점수 357, 반응 174 기준 인기 이슈입니다."
+      "summary": "Hyundai buys Boston Dynamics. 점수 482, 반응 240 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DuckDB Internals Part 1",
+      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "score": 403,
+      "comments": 127,
+      "text": "",
+      "summary": "DuckDB Internals Part 1. 점수 403, 반응 127 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The AirPods Effect",
       "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-      "score": 334,
-      "comments": 600,
+      "score": 355,
+      "comments": 627,
       "text": "",
-      "summary": "The AirPods Effect.  점수 334, 반응 600 기준 인기 이슈입니다."
+      "summary": "The AirPods Effect.  점수 355, 반응 627 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Amateur may have cracked Linear A",
+      "url": "https://aiclambake.com/clamtakes/linear-a/",
+      "score": 351,
+      "comments": 136,
+      "text": "",
+      "summary": "Amateur may have cracked Linear A. 점수 351, 반응 136 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "To study how chips work, MIT researchers built their own operating system",
       "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "score": 319,
-      "comments": 49,
+      "score": 335,
+      "comments": 52,
       "text": "",
-      "summary": "To study how chips work, MIT researchers built their own operating system. 점수 319, 반응 49 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
-      "url": "https://aiclambake.com/clamtakes/linear-a/",
-      "score": 256,
-      "comments": 110,
-      "text": "",
-      "summary": "Amateur may have cracked Linear A, a 120-year-old puzzle. 점수 256, 반응 110 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Zero-Touch OAuth for MCP",
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "score": 251,
-      "comments": 99,
-      "text": "",
-      "summary": "Zero-Touch OAuth for MCP. 점수 251, 반응 99 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ten years of ClickHouse in open source",
-      "url": "https://clickhouse.com/blog/open-source-10",
-      "score": 237,
-      "comments": 67,
-      "text": "",
-      "summary": "Ten years of ClickHouse in open source. 점수 237, 반응 67 기준 인기 이슈입니다."
+      "summary": "To study how chips work, MIT researchers built their own operating system. 점수 335, 반응 52 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google workspace threatening to block Firefox access",
       "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-      "score": 233,
-      "comments": 78,
+      "score": 308,
+      "comments": 110,
       "text": "",
-      "summary": "Google workspace threatening to block Firefox access. 점수 233, 반응 78 기준 인기 이슈입니다."
+      "summary": "Google workspace threatening to block Firefox access. 점수 308, 반응 110 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zero-Touch OAuth for MCP",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "score": 259,
+      "comments": 99,
+      "text": "",
+      "summary": "Zero-Touch OAuth for MCP. 점수 259, 반응 99 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ten years of ClickHouse in open source",
+      "url": "https://clickhouse.com/blog/open-source-10",
+      "score": 253,
+      "comments": 70,
+      "text": "",
+      "summary": "Ten years of ClickHouse in open source. 점수 253, 반응 70 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "There are no instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "score": 247,
+      "comments": 152,
+      "text": "",
+      "summary": "There are no instances in ATProto. 점수 247, 반응 152 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Zen and the Art of Machine Learning Research",
       "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "score": 208,
-      "comments": 70,
+      "score": 222,
+      "comments": 72,
       "text": "",
-      "summary": "Zen and the Art of Machine Learning Research. 점수 208, 반응 70 기준 인기 이슈입니다."
+      "summary": "Zen and the Art of Machine Learning Research. 점수 222, 반응 72 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+      "score": 198,
+      "comments": 73,
+      "text": "",
+      "summary": "Gribouille 0.3.0: A Grammar of Graphics for Typst. 점수 198, 반응 73 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -266,10 +266,6 @@
       "count": 2
     },
     {
-      "keyword": "way",
-      "count": 2
-    },
-    {
       "keyword": "agentic",
       "count": 2
     },
@@ -291,6 +287,10 @@
     },
     {
       "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "source",
       "count": 2
     }
   ],
