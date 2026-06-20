@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T14:30:10.666053+00:00",
+  "updatedAt": "2026-06-20T17:47:51.480958+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,243 +10,235 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 379617,
-      "comments": 6451,
+      "score": 379644,
+      "comments": 6462,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 379617, 반응 6451 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 379644, 반응 6462 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 233927,
-      "comments": 273,
+      "score": 234054,
+      "comments": 274,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 233927, 반응 273 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 234054, 반응 274 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 198046,
-      "comments": 22540,
+      "score": 198155,
+      "comments": 22593,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 198046, 반응 22540 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 198155, 반응 22593 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 193305,
+      "score": 193324,
       "comments": 1463,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193305, 반응 1463 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193324, 반응 1463 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185049,
-      "comments": 449,
+      "score": 185051,
+      "comments": 451,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185049, 반응 449 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185051, 반응 451 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 163971,
+      "score": 163977,
       "comments": 55,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163971, 반응 55 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 163977, 반응 55 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163799,
+      "score": 163800,
       "comments": 2491,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163799, 반응 2491 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163800, 반응 2491 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156492,
+      "score": 156495,
       "comments": 59,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156492, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156495, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 145923,
-      "comments": 779,
+      "score": 145952,
+      "comments": 780,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 145923, 반응 779 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 145952, 반응 780 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 142357,
-      "comments": 406,
+      "score": 142391,
+      "comments": 405,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142357, 반응 406 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142391, 반응 405 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 140921,
+      "score": 140929,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140921, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140929, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 139759,
+      "score": 139764,
       "comments": 415,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139759, 반응 415 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hyundai buys Boston Dynamics",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 885,
-      "comments": 375,
-      "text": "",
-      "summary": "Hyundai buys Boston Dynamics. 점수 885, 반응 375 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 745,
-      "comments": 513,
-      "text": "",
-      "summary": "Norway imposes near ban on AI in elementary school. 점수 745, 반응 513 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 622,
-      "comments": 386,
-      "text": "",
-      "summary": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28. 점수 622, 반응 386 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139764, 반응 415 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "There are no instances in ATProto",
       "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 481,
-      "comments": 256,
+      "score": 499,
+      "comments": 281,
       "text": "",
-      "summary": "There are no instances in ATProto. 점수 481, 반응 256 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How many of the 170k English words do you know?",
-      "url": "https://vocabowl-870366514258.us-west1.run.app/",
-      "score": 428,
-      "comments": 520,
-      "text": "",
-      "summary": "How many of the 170k English words do you know?. 점수 428, 반응 520 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-      "score": 427,
-      "comments": 49,
-      "text": "",
-      "summary": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died. 점수 427, 반응 49 기준 인기 이슈입니다."
+      "summary": "There are no instances in ATProto. 점수 499, 반응 281 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
       "url": "https://arrowtsx.dev/bigger-models/",
-      "score": 332,
-      "comments": 139,
+      "score": 415,
+      "comments": 199,
       "text": "",
-      "summary": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2. 점수 332, 반응 139 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Zen and the Art of Machine Learning Research",
-      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "score": 274,
-      "comments": 99,
-      "text": "",
-      "summary": "Zen and the Art of Machine Learning Research. 점수 274, 반응 99 기준 인기 이슈입니다."
+      "summary": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2. 점수 415, 반응 199 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Where to Find the Colors Your Screen Can't Show You",
       "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-      "score": 264,
-      "comments": 60,
+      "score": 349,
+      "comments": 86,
       "text": "",
-      "summary": "Where to Find the Colors Your Screen Can't Show You. 점수 264, 반응 60 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I Stored a Website in a Favicon",
-      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "score": 219,
-      "comments": 78,
-      "text": "",
-      "summary": "I Stored a Website in a Favicon. 점수 219, 반응 78 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Can you see three trees?",
-      "url": "https://www.not-ship.com/can-you-see-three-trees/",
-      "score": 212,
-      "comments": 101,
-      "text": "",
-      "summary": "Can you see three trees?. 점수 212, 반응 101 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Building a robotics research setup that lives next to my desk",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "score": 167,
-      "comments": 57,
-      "text": "Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is me testing whether a single person can now do meaningful work on the same class of problems: starting with physical and software setup.<p>A few decisions I&#x27;m least settled on, and would love some pushback&#x2F;feedback on:<p>- single arm vs. bimanual (I went single for cost&#x2F;space, knowing it rules out things like folding cloth)<p>- not calibrating camera extrinsics&#x2F;intrinsics for now<p>- RGB vs. RGB-D for from-scratch policies (ACT &#x2F; Diffusion Policy)<p>And one I&#x27;m more confident about but expect disagreement on: not building on ROS 2 &#x2F; LeRobot, and writing my own stack instead. Happy to get into the reasoning.",
-      "summary": "Building a robotics research setup that lives next to my desk. Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is me testing whether a single person can now do meaningful work on the same class of problems: starting with physical and software setup. 점수 167, 반응 57 기준 인기 이슈입니다."
+      "summary": "Where to Find the Colors Your Screen Can't Show You. 점수 349, 반응 86 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "CSSQuake",
       "url": "https://cssquake.com/",
-      "score": 167,
-      "comments": 34,
+      "score": 329,
+      "comments": 71,
       "text": "",
-      "summary": "CSSQuake.  점수 167, 반응 34 기준 인기 이슈입니다."
+      "summary": "CSSQuake.  점수 329, 반응 71 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Can you see three trees?",
+      "url": "https://www.not-ship.com/can-you-see-three-trees/",
+      "score": 262,
+      "comments": 128,
+      "text": "",
+      "summary": "Can you see three trees?. 점수 262, 반응 128 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I Stored a Website in a Favicon",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "score": 256,
+      "comments": 87,
+      "text": "",
+      "summary": "I Stored a Website in a Favicon. 점수 256, 반응 87 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Data Compression Explained (2012)",
+      "url": "https://mattmahoney.net/dc/dce.html",
+      "score": 175,
+      "comments": 29,
+      "text": "",
+      "summary": "Data Compression Explained (2012). 점수 175, 반응 29 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "VPN ban update for UK households as government looks at 'age-gate'",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
+      "score": 168,
+      "comments": 158,
+      "text": "",
+      "summary": "VPN ban update for UK households as government looks at 'age-gate'. 점수 168, 반응 158 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LLMs Are Complicated Now",
+      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+      "score": 129,
+      "comments": 52,
+      "text": "",
+      "summary": "LLMs Are Complicated Now. 점수 129, 반응 52 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "score": 100,
+      "comments": 44,
+      "text": "",
+      "summary": "From PGP to Mythos: a brief history of export controls that didn't stop anyone. 점수 100, 반응 44 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
+      "score": 92,
+      "comments": 47,
+      "text": "",
+      "summary": "Ubisoft co-founder Claude Guillemot has died in a plane crash. 점수 92, 반응 47 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
+      "url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
+      "score": 92,
+      "comments": 43,
+      "text": "",
+      "summary": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs. 점수 92, 반응 43 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The European Social Stack",
+      "url": "https://european.social",
+      "score": 78,
+      "comments": 65,
+      "text": "",
+      "summary": "The European Social Stack. 점수 78, 반응 65 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
-    {
-      "keyword": "x2f",
-      "count": 5
-    },
     {
       "keyword": "platform",
       "count": 4
     },
     {
       "keyword": "code",
-      "count": 4
-    },
-    {
-      "keyword": "can",
       "count": 4
     },
     {
@@ -258,27 +250,11 @@
       "count": 3
     },
     {
-      "keyword": "building",
-      "count": 3
-    },
-    {
-      "keyword": "research",
-      "count": 3
-    },
-    {
-      "keyword": "setup",
-      "count": 3
-    },
-    {
-      "keyword": "single",
+      "keyword": "can",
       "count": 3
     },
     {
       "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "own",
       "count": 2
     },
     {
@@ -290,7 +266,31 @@
       "count": 2
     },
     {
-      "keyword": "software",
+      "keyword": "development",
+      "count": 2
+    },
+    {
+      "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "open",
+      "count": 2
+    },
+    {
+      "keyword": "open-webui",
       "count": 2
     }
   ],
