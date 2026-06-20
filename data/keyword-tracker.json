@@ -1,12 +1,14 @@
 {
-  "updatedAt": "2026-06-20T21:20:13.575857+00:00",
+  "updatedAt": "2026-06-20T23:11:23.659646+00:00",
   "status": "ok",
   "keywords": [],
-  "scannedCount": 40,
+  "scannedCount": 20,
   "newMatchCount": 0,
   "matchHistory": [],
   "keywordStats": [],
   "notifications": [],
   "seenUrls": [],
-  "errors": []
+  "errors": [
+    "fetch_github_discussions: HTTP Error 504: Gateway Timeout"
+  ]
 }
