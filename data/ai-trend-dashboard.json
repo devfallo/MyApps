@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T17:53:02.611932+00:00",
+  "updatedAt": "2026-06-21T20:02:23.267205+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 379788,
-      "comments": 6467,
+      "score": 379805,
+      "comments": 6465,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 379788, 반응 6467 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 379805, 반응 6465 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 234858,
+      "score": 234909,
       "comments": 278,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 234858, 반응 278 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 234909, 반응 278 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 198838,
-      "comments": 22637,
+      "score": 198893,
+      "comments": 22526,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 198838, 반응 22637 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 198893, 반응 22526 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 193468,
-      "comments": 1473,
+      "score": 193486,
+      "comments": 1475,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193468, 반응 1473 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193486, 반응 1475 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185058,
+      "score": 185061,
       "comments": 451,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185058, 반응 451 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185061, 반응 451 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164020,
+      "score": 164028,
       "comments": 55,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164020, 반응 55 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164028, 반응 55 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163809,
+      "score": 163813,
       "comments": 2491,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163809, 반응 2491 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163813, 반응 2491 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,157 +82,173 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 146049,
-      "comments": 779,
+      "score": 146058,
+      "comments": 783,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 146049, 반응 779 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 146058, 반응 783 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 142526,
+      "score": 142535,
       "comments": 407,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142526, 반응 407 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142535, 반응 407 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 140971,
+      "score": 140977,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140971, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 140977, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 139811,
+      "score": 139817,
       "comments": 417,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139811, 반응 417 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139817, 반응 417 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Loupe – A iOS app that raises awareness about what native apps can see",
       "url": "https://github.com/mysk-research/loupe",
-      "score": 448,
-      "comments": 180,
+      "score": 478,
+      "comments": 195,
       "text": "",
-      "summary": "Loupe – A iOS app that raises awareness about what native apps can see. 점수 448, 반응 180 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google Hits 50% IPv6",
-      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-      "score": 356,
-      "comments": 337,
-      "text": "",
-      "summary": "Google Hits 50% IPv6. 점수 356, 반응 337 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "score": 328,
-      "comments": 96,
-      "text": "",
-      "summary": "Slow breathing modulates brain function and risk behavior. 점수 328, 반응 96 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Renting a sewing machine from the library",
-      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "score": 302,
-      "comments": 175,
-      "text": "",
-      "summary": "Renting a sewing machine from the library. 점수 302, 반응 175 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Developers don't understand CORS (2019)",
-      "url": "https://fosterelli.co/developers-dont-understand-cors",
-      "score": 296,
-      "comments": 234,
-      "text": "",
-      "summary": "Developers don't understand CORS (2019). 점수 296, 반응 234 기준 인기 이슈입니다."
+      "summary": "Loupe – A iOS app that raises awareness about what native apps can see. 점수 478, 반응 195 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
       "url": "https://www.beyondallreason.info",
+      "score": 348,
+      "comments": 196,
+      "text": "",
+      "summary": "Beyond All Reason (Free Total Annihilation Inspired RTS). 점수 348, 반응 196 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "score": 345,
+      "comments": 97,
+      "text": "",
+      "summary": "Slow breathing modulates brain function and risk behavior. 점수 345, 반응 97 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Renting a sewing machine from the library",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "score": 322,
+      "comments": 186,
+      "text": "",
+      "summary": "Renting a sewing machine from the library. 점수 322, 반응 186 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The brain was not designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "score": 314,
+      "comments": 266,
+      "text": "",
+      "summary": "The brain was not designed for this much bad news. 점수 314, 반응 266 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Developers don't understand CORS (2019)",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "score": 314,
+      "comments": 246,
+      "text": "",
+      "summary": "Developers don't understand CORS (2019). 점수 314, 반응 246 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "score": 310,
+      "comments": 220,
+      "text": "",
+      "summary": "Prefer duplication over the wrong abstraction (2016). 점수 310, 반응 220 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
       "score": 289,
-      "comments": 150,
-      "text": "",
-      "summary": "Beyond All Reason (Free Total Annihilation Inspired RTS). 점수 289, 반응 150 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "score": 282,
-      "comments": 96,
-      "text": "",
-      "summary": "SMPTE Makes Its Standards Freely Accessible. 점수 282, 반응 96 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "score": 272,
-      "comments": 70,
-      "text": "",
-      "summary": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots. 점수 272, 반응 70 기준 인기 이슈입니다."
+      "comments": 237,
+      "text": "<a href=\"https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;ClaudeAI&#x2F;comments&#x2F;1ubm53n&#x2F;official_anthropic_to_require_identity&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;ClaudeAI&#x2F;comments&#x2F;1ubm53n&#x2F;official_...</a>",
+      "summary": "Identity verification on Claude. https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;ClaudeAI&#x2F;comments&#x2F;1ubm53n&#x2F;official_... 점수 289, 반응 237 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Epoll vs. io_uring in Linux",
       "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "score": 227,
-      "comments": 53,
+      "score": 239,
+      "comments": 57,
       "text": "",
-      "summary": "Epoll vs. io_uring in Linux.  점수 227, 반응 53 기준 인기 이슈입니다."
+      "summary": "Epoll vs. io_uring in Linux.  점수 239, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "url": "https://www.lispm.net/apps/uhf-x11/",
-      "score": 221,
-      "comments": 51,
-      "text": "",
-      "summary": "UHF X11: X11 Built for VisionOS and Apple Vision Pro. 점수 221, 반응 51 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Unauthorized alert sent to cell phones across Brazil",
-      "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
-      "score": 185,
-      "comments": 128,
-      "text": "",
-      "summary": "Unauthorized alert sent to cell phones across Brazil. 점수 185, 반응 128 기준 인기 이슈입니다."
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "url": "https://townsquare.cauenapier.com/",
+      "score": 226,
+      "comments": 130,
+      "text": "<a href=\"https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare_release&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare_release&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare&#x2F;</a>",
+      "summary": "Show HN: TownSquare, a tiny presence layer for websites. https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare_release&#x2F; https:&#x2F;&#x2F;cauenapier.com&#x2F;blog&#x2F;townsquare&#x2F; 점수 226, 반응 130 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "15-minute at-home Lyme disease tick test",
       "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-      "score": 182,
-      "comments": 133,
-      "text": "",
-      "summary": "15-minute at-home Lyme disease tick test. 점수 182, 반응 133 기준 인기 이슈입니다."
+      "score": 198,
+      "comments": 142,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;cNwmN\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;cNwmN</a>",
+      "summary": "15-minute at-home Lyme disease tick test. https:&#x2F;&#x2F;archive.ph&#x2F;cNwmN 점수 198, 반응 142 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Running MicroVMs in Proxmox VE, the Easy Way",
       "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
-      "score": 165,
-      "comments": 24,
+      "score": 185,
+      "comments": 28,
       "text": "",
-      "summary": "Running MicroVMs in Proxmox VE, the Easy Way. 점수 165, 반응 24 기준 인기 이슈입니다."
+      "summary": "Running MicroVMs in Proxmox VE, the Easy Way. 점수 185, 반응 28 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Windows UI evolution: Clicking an unassociated file",
+      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+      "score": 127,
+      "comments": 83,
+      "text": "",
+      "summary": "Windows UI evolution: Clicking an unassociated file. 점수 127, 반응 83 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 41
+    },
+    {
+      "keyword": "https",
+      "count": 8
+    },
+    {
+      "keyword": "com",
+      "count": 6
+    },
+    {
+      "keyword": "townsquare",
+      "count": 5
+    },
     {
       "keyword": "platform",
       "count": 4
@@ -246,6 +262,26 @@
       "count": 4
     },
     {
+      "keyword": "href",
+      "count": 4
+    },
+    {
+      "keyword": "rel",
+      "count": 4
+    },
+    {
+      "keyword": "nofollow",
+      "count": 4
+    },
+    {
+      "keyword": "cauenapier",
+      "count": 4
+    },
+    {
+      "keyword": "blog",
+      "count": 4
+    },
+    {
       "keyword": "agent",
       "count": 3
     },
@@ -255,42 +291,6 @@
     },
     {
       "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "way",
-      "count": 2
-    },
-    {
-      "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "development",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "native",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "vision",
-      "count": 2
-    },
-    {
-      "keyword": "accessible",
       "count": 2
     }
   ],
