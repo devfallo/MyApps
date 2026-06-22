@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T18:17:45.935606+00:00",
+  "updatedAt": "2026-06-22T22:16:01.825836+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,255 +10,263 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 379953,
-      "comments": 6433,
+      "score": 379967,
+      "comments": 6417,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 379953, 반응 6433 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 379967, 반응 6417 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 235864,
+      "score": 235955,
       "comments": 277,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 235864, 반응 277 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 235955, 반응 277 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 199797,
-      "comments": 22714,
+      "score": 199907,
+      "comments": 22769,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 199797, 반응 22714 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 199907, 반응 22769 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 193629,
-      "comments": 1470,
+      "score": 193642,
+      "comments": 1471,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193629, 반응 1470 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193642, 반응 1471 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185081,
-      "comments": 455,
+      "score": 185084,
+      "comments": 456,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185081, 반응 455 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185084, 반응 456 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164100,
-      "comments": 55,
+      "score": 164106,
+      "comments": 56,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164100, 반응 55 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164106, 반응 56 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163833,
+      "score": 163836,
       "comments": 2491,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163833, 반응 2491 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163836, 반응 2491 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156533,
+      "score": 156534,
       "comments": 59,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156533, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156534, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 146159,
+      "score": 146174,
       "comments": 774,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 146159, 반응 774 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 146174, 반응 774 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 142627,
-      "comments": 414,
+      "score": 142638,
+      "comments": 413,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142627, 반응 414 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142638, 반응 413 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141036,
+      "score": 141039,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141036, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141039, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 139889,
-      "comments": 420,
+      "score": 139899,
+      "comments": 421,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139889, 반응 420 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139899, 반응 421 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Deno Desktop",
       "url": "https://docs.deno.com/runtime/desktop/",
-      "score": 878,
-      "comments": 333,
+      "score": 987,
+      "comments": 363,
       "text": "",
-      "summary": "Deno Desktop.  점수 878, 반응 333 기준 인기 이슈입니다."
+      "summary": "Deno Desktop.  점수 987, 반응 363 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Did my old job only exist because of fraud?",
-      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "score": 774,
-      "comments": 363,
-      "text": "",
-      "summary": "Did my old job only exist because of fraud?. 점수 774, 반응 363 기준 인기 이슈입니다."
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "score": 933,
+      "comments": 816,
+      "text": "<a href=\"https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine\" rel=\"nofollow\">https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine</a><p><a href=\"https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucleus-steam-machine-ltt-companion-article\" rel=\"nofollow\">https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle...</a><p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE</a>",
+      "summary": "Steam Machine launches today. https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle... https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE 점수 933, 반응 816 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Pledging another $400k to the Zig software foundation",
       "url": "https://mitchellh.com/writing/zig-donation-2026",
-      "score": 549,
-      "comments": 170,
+      "score": 677,
+      "comments": 225,
       "text": "",
-      "summary": "Pledging another $400k to the Zig software foundation. 점수 549, 반응 170 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "score": 501,
-      "comments": 168,
-      "text": "",
-      "summary": "Apertus – Open Foundation Model for Sovereign AI. 점수 501, 반응 168 기준 인기 이슈입니다."
+      "summary": "Pledging another $400k to the Zig software foundation. 점수 677, 반응 225 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Help I accidentally a wigglegram",
       "url": "https://lmao.center/blog/wiggle-accidents/",
-      "score": 428,
-      "comments": 100,
+      "score": 464,
+      "comments": 117,
       "text": "",
-      "summary": "Help I accidentally a wigglegram. 점수 428, 반응 100 기준 인기 이슈입니다."
+      "summary": "Help I accidentally a wigglegram. 점수 464, 반응 117 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GLM 5.2 vs. Opus",
       "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-      "score": 385,
-      "comments": 271,
+      "score": 461,
+      "comments": 312,
       "text": "",
-      "summary": "GLM 5.2 vs. Opus.  점수 385, 반응 271 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "There is minimal downside to switching to open models",
-      "url": "https://www.marble.onl/posts/cancel_claude.html",
-      "score": 357,
-      "comments": 293,
-      "text": "",
-      "summary": "There is minimal downside to switching to open models. 점수 357, 반응 293 기준 인기 이슈입니다."
+      "summary": "GLM 5.2 vs. Opus.  점수 461, 반응 312 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Codex logging bug may write TBs to local SSDs",
       "url": "https://github.com/openai/codex/issues/28224",
-      "score": 355,
-      "comments": 194,
+      "score": 439,
+      "comments": 245,
       "text": "",
-      "summary": "Codex logging bug may write TBs to local SSDs. 점수 355, 반응 194 기준 인기 이슈입니다."
+      "summary": "Codex logging bug may write TBs to local SSDs. 점수 439, 반응 245 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The text in Claude Code’s “Extended Thinking” output",
       "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-      "score": 199,
-      "comments": 141,
+      "score": 243,
+      "comments": 176,
       "text": "",
-      "summary": "The text in Claude Code’s “Extended Thinking” output. 점수 199, 반응 141 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Munich 1991: The Roots of the Current AI Boom",
-      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "score": 189,
-      "comments": 84,
-      "text": "",
-      "summary": "Munich 1991: The Roots of the Current AI Boom. 점수 189, 반응 84 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Steam Machine",
-      "url": "https://store.steampowered.com/hardware/steammachine",
-      "score": 150,
-      "comments": 139,
-      "text": "<a href=\"https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine\" rel=\"nofollow\">https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine</a><p><a href=\"https:&#x2F;&#x2F;store.steampowered.com&#x2F;sub&#x2F;1629447&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;store.steampowered.com&#x2F;sub&#x2F;1629447&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucleus-steam-machine-ltt-companion-article\" rel=\"nofollow\">https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle...</a><p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE</a>",
-      "summary": "https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine https:&#x2F;&#x2F;store.steampowered.com&#x2F;sub&#x2F;1629447&#x2F; https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle... https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE 점수 150, 반응 139 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Alan Greenspan has died",
-      "url": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
-      "score": 128,
-      "comments": 127,
-      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;tSlDZ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;tSlDZ</a><p><a href=\"https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;06&#x2F;22&#x2F;alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;06&#x2F;22&#x2F;alan-greenspan-former-chairm...</a>",
-      "summary": "Alan Greenspan has died. https:&#x2F;&#x2F;archive.ph&#x2F;tSlDZ https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;06&#x2F;22&#x2F;alan-greenspan-former-chairm... 점수 128, 반응 127 기준 인기 이슈입니다."
+      "summary": "The text in Claude Code’s “Extended Thinking” output. 점수 243, 반응 176 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
       "url": "https://hustvl.github.io/Moebius/",
-      "score": 123,
-      "comments": 29,
+      "score": 191,
+      "comments": 58,
       "text": "",
-      "summary": "Moebius: 0.2B image inpainting model with 10B-level performance. 점수 123, 반응 29 기준 인기 이슈입니다."
+      "summary": "Moebius: 0.2B image inpainting model with 10B-level performance. 점수 191, 반응 58 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "url": "https://ipvm.com/reports/police-chiefs-track",
+      "score": 166,
+      "comments": 39,
+      "text": "",
+      "summary": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed. 점수 166, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "score": 149,
+      "comments": 51,
+      "text": "",
+      "summary": "Canada is looking to build up to 10 new nuclear reactors over the next 15 years. 점수 149, 반응 51 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "My Mathematical Regression",
+      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "score": 148,
+      "comments": 49,
+      "text": "",
+      "summary": "My Mathematical Regression. 점수 148, 반응 49 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "score": 119,
+      "comments": 119,
+      "text": "Oak is a version control system I&#x27;ve been working on designed for agents (<a href=\"https:&#x2F;&#x2F;oak.space\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space</a>). It improves the speed and context your agents need when working on serious projects. With virtual mounts, agents locally and in the cloud no longer need a full copy of a repo to get working. You can work on many tasks in parallel without needing to download everything or fight worktrees. Version control shouldn&#x27;t waste you or your agents time. It should be fast, creative and fun to make things with agents.<p>Oak is still early in development. There&#x27;s no Windows build and missing plenty of features (no CI, no issues, no comments). We still use GitHub Actions for building Oak now, but we&#x27;ve been fully bootstrapped on Oak with no Git backup for several months: <a href=\"https:&#x2F;&#x2F;oak.space&#x2F;oak&#x2F;oak\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space&#x2F;oak&#x2F;oak</a>.<p>Blog post: <a href=\"https:&#x2F;&#x2F;oak.space&#x2F;blog#git-is-forever\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space&#x2F;blog#git-is-forever</a><p>Docs: <a href=\"https:&#x2F;&#x2F;oak.space&#x2F;docs\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space&#x2F;docs</a>",
+      "summary": "Show HN: Oak – Git alternative designed for agents. Oak is a version control system I&#x27;ve been working on designed for agents ( https:&#x2F;&#x2F;oak.space ). It improves the speed and context your agents need when working on serious projects. 점수 119, 반응 119 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
+      "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+      "score": 98,
+      "comments": 95,
+      "text": "",
+      "summary": "Chevron signs 20-year power agreement with Microsoft for West Texas data center. 점수 98, 반응 95 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 56
+      "count": 52
+    },
+    {
+      "keyword": "oak",
+      "count": 17
     },
     {
       "keyword": "https",
-      "count": 12
+      "count": 14
     },
     {
-      "keyword": "com",
-      "count": 10
+      "keyword": "space",
+      "count": 8
     },
     {
       "keyword": "href",
-      "count": 6
+      "count": 7
     },
     {
       "keyword": "rel",
-      "count": 6
+      "count": 7
     },
     {
       "keyword": "nofollow",
+      "count": 7
+    },
+    {
+      "keyword": "com",
       "count": 6
     },
     {
-      "keyword": "www",
+      "keyword": "agents",
       "count": 6
     },
     {
@@ -274,24 +282,16 @@
       "count": 4
     },
     {
-      "keyword": "open",
+      "keyword": "www",
       "count": 4
     },
     {
-      "keyword": "store",
+      "keyword": "x27",
       "count": 4
     },
     {
-      "keyword": "steampowered",
-      "count": 4
-    },
-    {
-      "keyword": "agent",
+      "keyword": "development",
       "count": 3
-    },
-    {
-      "keyword": "openclaw",
-      "count": 2
     }
   ],
   "meta": {
