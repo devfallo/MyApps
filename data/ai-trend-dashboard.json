@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T12:46:43.169628+00:00",
+  "updatedAt": "2026-06-23T16:41:57.850766+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,263 +10,239 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 380079,
-      "comments": 6435,
+      "score": 380116,
+      "comments": 6462,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 380079, 반응 6435 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 380116, 반응 6462 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 236603,
-      "comments": 279,
+      "score": 236776,
+      "comments": 280,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 236603, 반응 279 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 236776, 반응 280 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 200458,
-      "comments": 22979,
+      "score": 200693,
+      "comments": 23039,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 200458, 반응 22979 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 200693, 반응 23039 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 193731,
-      "comments": 1459,
+      "score": 193775,
+      "comments": 1471,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193731, 반응 1459 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193775, 반응 1471 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185104,
-      "comments": 458,
+      "score": 185109,
+      "comments": 457,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185104, 반응 458 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185109, 반응 457 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164155,
+      "score": 164170,
       "comments": 56,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164155, 반응 56 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164170, 반응 56 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163847,
+      "score": 163855,
       "comments": 2492,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163847, 반응 2492 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163855, 반응 2492 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156547,
+      "score": 156552,
       "comments": 59,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156547, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156552, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 146262,
-      "comments": 749,
+      "score": 146292,
+      "comments": 747,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 146262, 반응 749 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 146292, 반응 747 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 142712,
-      "comments": 419,
+      "score": 142733,
+      "comments": 422,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142712, 반응 419 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142733, 반응 422 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141059,
+      "score": 141061,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141059, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141061, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 139966,
+      "score": 139997,
       "comments": 405,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139966, 반응 405 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 139997, 반응 405 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Steam Machine launches today",
       "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1699,
-      "comments": 1448,
+      "score": 1823,
+      "comments": 1565,
       "text": "<a href=\"https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine\" rel=\"nofollow\">https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine</a><p><a href=\"https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucleus-steam-machine-ltt-companion-article\" rel=\"nofollow\">https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle...</a><p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE</a>",
-      "summary": "Steam Machine launches today. https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle... https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE 점수 1699, 반응 1448 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "score": 512,
-      "comments": 354,
-      "text": "",
-      "summary": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040. 점수 512, 반응 354 기준 인기 이슈입니다."
+      "summary": "Steam Machine launches today. https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle... https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE 점수 1823, 반응 1565 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GLM-5.2 – How to Run Locally",
       "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 441,
-      "comments": 193,
+      "score": 526,
+      "comments": 250,
       "text": "",
-      "summary": "GLM-5.2 – How to Run Locally. 점수 441, 반응 193 기준 인기 이슈입니다."
+      "summary": "GLM-5.2 – How to Run Locally. 점수 526, 반응 250 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "My Mathematical Regression",
       "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-      "score": 321,
-      "comments": 121,
+      "score": 345,
+      "comments": 134,
       "text": "",
-      "summary": "My Mathematical Regression. 점수 321, 반응 121 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "url": "https://hustvl.github.io/Moebius/",
-      "score": 302,
-      "comments": 76,
-      "text": "",
-      "summary": "Moebius: 0.2B image inpainting model with 10B-level performance. 점수 302, 반응 76 기준 인기 이슈입니다."
+      "summary": "My Mathematical Regression. 점수 345, 반응 134 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
       "url": "https://arxiv.org/abs/2606.16140",
-      "score": 243,
-      "comments": 105,
+      "score": 313,
+      "comments": 165,
       "text": "",
-      "summary": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO. 점수 243, 반응 105 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Oak – Git alternative designed for agents",
-      "url": "https://oak.space/oak/oak",
-      "score": 196,
-      "comments": 167,
-      "text": "Oak is a version control system I&#x27;ve been working on designed for agents (<a href=\"https:&#x2F;&#x2F;oak.space\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space</a>). It improves the speed and context your agents need when working on serious projects. With virtual mounts, agents locally and in the cloud no longer need a full copy of a repo to get working. You can work on many tasks in parallel without needing to download everything or fight worktrees. Version control shouldn&#x27;t waste you or your agents time. It should be fast, creative and fun to make things with agents.<p>Oak is still early in development. There&#x27;s no Windows build and missing plenty of features (no CI, no issues, no comments). We still use GitHub Actions for building Oak now, but we&#x27;ve been fully bootstrapped on Oak with no Git backup for several months: <a href=\"https:&#x2F;&#x2F;oak.space&#x2F;oak&#x2F;oak\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space&#x2F;oak&#x2F;oak</a>.<p>Blog post: <a href=\"https:&#x2F;&#x2F;oak.space&#x2F;blog#git-is-forever\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space&#x2F;blog#git-is-forever</a><p>Docs: <a href=\"https:&#x2F;&#x2F;oak.space&#x2F;docs\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space&#x2F;docs</a>",
-      "summary": "Show HN: Oak – Git alternative designed for agents. Oak is a version control system I&#x27;ve been working on designed for agents ( https:&#x2F;&#x2F;oak.space ). It improves the speed and context your agents need when working on serious projects. 점수 196, 반응 167 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "In praise of memcached",
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
-      "score": 194,
-      "comments": 70,
-      "text": "",
-      "summary": "In praise of memcached. 점수 194, 반응 70 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Will It Mythos?",
-      "url": "https://swelljoe.com/post/will-it-mythos/",
-      "score": 191,
-      "comments": 125,
-      "text": "",
-      "summary": "Will It Mythos?.  점수 191, 반응 125 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "url": "https://github.com/dorukkumkumoglu/optocamzero",
-      "score": 188,
-      "comments": 51,
-      "text": "",
-      "summary": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components. 점수 188, 반응 51 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The new HTTP QUERY method explained",
-      "url": "https://kreya.app/blog/new-http-query-method-explained/",
-      "score": 177,
-      "comments": 105,
-      "text": "",
-      "summary": "The new HTTP QUERY method explained. 점수 177, 반응 105 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "url": "https://openai.com/index/daybreak-securing-the-world/",
-      "score": 130,
-      "comments": 84,
-      "text": "",
-      "summary": "OpenAI DayBreak – GPT-5.5-Cyber. 점수 130, 반응 84 기준 인기 이슈입니다."
+      "summary": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO. 점수 313, 반응 165 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Crypto in 2026: Oh, This Is the Bad Place",
       "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
-      "score": 125,
-      "comments": 118,
+      "score": 297,
+      "comments": 355,
       "text": "",
-      "summary": "Crypto in 2026: Oh, This Is the Bad Place. 점수 125, 반응 118 기준 인기 이슈입니다."
+      "summary": "Crypto in 2026: Oh, This Is the Bad Place. 점수 297, 반응 355 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Spying on kids to save kids from spying is stupid",
+      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+      "score": 295,
+      "comments": 189,
+      "text": "",
+      "summary": "Spying on kids to save kids from spying is stupid. 점수 295, 반응 189 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "score": 294,
+      "comments": 78,
+      "text": "",
+      "summary": "Unlimited OCR: One-Shot Long-Horizon Parsing. 점수 294, 반응 78 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Will It Mythos?",
+      "url": "https://swelljoe.com/post/will-it-mythos/",
+      "score": 247,
+      "comments": 185,
+      "text": "",
+      "summary": "Will It Mythos?.  점수 247, 반응 185 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "In praise of memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "score": 238,
+      "comments": 99,
+      "text": "",
+      "summary": "In praise of memcached. 점수 238, 반응 99 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mistral OCR 4",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "score": 196,
+      "comments": 57,
+      "text": "",
+      "summary": "Mistral OCR 4.  점수 196, 반응 57 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Plotnine",
+      "url": "https://plotnine.org/",
+      "score": 187,
+      "comments": 61,
+      "text": "",
+      "summary": "Plotnine.  점수 187, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "score": 185,
+      "comments": 140,
+      "text": "",
+      "summary": "OpenAI DayBreak – GPT-5.5-Cyber. 점수 185, 반응 140 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
+      "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+      "score": 172,
+      "comments": 62,
+      "text": "",
+      "summary": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times. 점수 172, 반응 62 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 52
-    },
-    {
-      "keyword": "oak",
-      "count": 17
+      "count": 28
     },
     {
       "keyword": "https",
-      "count": 14
-    },
-    {
-      "keyword": "space",
-      "count": 8
-    },
-    {
-      "keyword": "href",
-      "count": 7
-    },
-    {
-      "keyword": "rel",
-      "count": 7
-    },
-    {
-      "keyword": "nofollow",
-      "count": 7
-    },
-    {
-      "keyword": "com",
       "count": 6
     },
     {
-      "keyword": "agents",
+      "keyword": "com",
       "count": 6
     },
     {
@@ -286,12 +262,36 @@
       "count": 4
     },
     {
-      "keyword": "x27",
-      "count": 4
+      "keyword": "agent",
+      "count": 3
+    },
+    {
+      "keyword": "href",
+      "count": 3
+    },
+    {
+      "keyword": "rel",
+      "count": 3
+    },
+    {
+      "keyword": "nofollow",
+      "count": 3
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "agentic",
+      "count": 2
     },
     {
       "keyword": "development",
-      "count": 3
+      "count": 2
     }
   ],
   "meta": {
