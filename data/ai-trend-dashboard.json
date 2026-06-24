@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T16:32:34.289980+00:00",
+  "updatedAt": "2026-06-24T20:08:37.991550+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,239 +10,279 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 380267,
-      "comments": 6546,
+      "score": 380280,
+      "comments": 6562,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 380267, 반응 6546 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 380280, 반응 6562 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 237625,
-      "comments": 282,
+      "score": 237720,
+      "comments": 285,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 237625, 반응 282 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 237720, 반응 285 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 201793,
-      "comments": 23311,
+      "score": 201924,
+      "comments": 23382,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 201793, 반응 23311 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 201924, 반응 23382 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 193904,
-      "comments": 1474,
+      "score": 193917,
+      "comments": 1475,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193904, 반응 1474 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 193917, 반응 1475 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185150,
-      "comments": 456,
+      "score": 185152,
+      "comments": 451,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185150, 반응 456 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185152, 반응 451 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164245,
-      "comments": 56,
+      "score": 164255,
+      "comments": 57,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164245, 반응 56 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164255, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163869,
+      "score": 163871,
       "comments": 2493,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163869, 반응 2493 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163871, 반응 2493 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156589,
+      "score": 156590,
       "comments": 60,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156589, 반응 60 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156590, 반응 60 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 146444,
-      "comments": 767,
+      "score": 146456,
+      "comments": 776,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 146444, 반응 767 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 146456, 반응 776 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 142864,
-      "comments": 429,
+      "score": 142881,
+      "comments": 431,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142864, 반응 429 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142881, 반응 431 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141096,
+      "score": 141103,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141096, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141103, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 140100,
+      "score": 140107,
       "comments": 407,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 140100, 반응 407 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 140107, 반응 407 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We’re making Bunny DNS free",
       "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 610,
-      "comments": 199,
+      "score": 735,
+      "comments": 237,
       "text": "",
-      "summary": "We’re making Bunny DNS free. 점수 610, 반응 199 기준 인기 이슈입니다."
+      "summary": "We’re making Bunny DNS free. 점수 735, 반응 237 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
-      "url": "https://paolino.me/founding-a-company-in-germany/",
-      "score": 403,
-      "comments": 456,
-      "text": "",
-      "summary": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice. 점수 403, 반응 456 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Vulnerability reports are not special anymore",
-      "url": "https://words.filippo.io/vuln-reports/",
-      "score": 358,
-      "comments": 204,
-      "text": "",
-      "summary": "Vulnerability reports are not special anymore. 점수 358, 반응 204 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Printing Gaussian Splats",
-      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-      "score": 358,
-      "comments": 44,
-      "text": "",
-      "summary": "Printing Gaussian Splats. 점수 358, 반응 44 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
-      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
-      "score": 225,
-      "comments": 106,
-      "text": "",
-      "summary": "Raspberry Pi Pico W as USB Wi-Fi Adapter. 점수 225, 반응 106 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
-      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
-      "score": 183,
-      "comments": 78,
-      "text": "",
-      "summary": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds. 점수 183, 반응 78 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://arxiv.org/abs/2606.24597",
-      "score": 174,
-      "comments": 47,
-      "text": "",
-      "summary": "Qwen-AgentWorld: Language World Models for General Agents. 점수 174, 반응 47 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Krea 2: SOTA open-weights 12B image model",
-      "url": "https://www.krea.ai/blog/krea-2-technical-report",
-      "score": 150,
-      "comments": 16,
-      "text": "",
-      "summary": "Krea 2: SOTA open-weights 12B image model. 점수 150, 반응 16 기준 인기 이슈입니다."
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "score": 392,
+      "comments": 201,
+      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2069799283369345247\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2069799283369345247</a>",
+      "summary": "There are a few things that I look back on as my mistakes in the early days. https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2069799283369345247 점수 392, 반응 201 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RubyLLM: A Ruby framework for all major AI providers",
       "url": "https://rubyllm.com/",
-      "score": 137,
-      "comments": 20,
+      "score": 269,
+      "comments": 41,
       "text": "",
-      "summary": "RubyLLM: A Ruby framework for all major AI providers. 점수 137, 반응 20 기준 인기 이슈입니다."
+      "summary": "RubyLLM: A Ruby framework for all major AI providers. 점수 269, 반응 41 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Krea 2: SOTA open-weights 12B image model",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report",
+      "score": 248,
+      "comments": 33,
+      "text": "",
+      "summary": "Krea 2: SOTA open-weights 12B image model. 점수 248, 반응 33 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "score": 242,
+      "comments": 114,
+      "text": "",
+      "summary": "Raspberry Pi Pico W as USB Wi-Fi Adapter. 점수 242, 반응 114 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 229,
+      "comments": 177,
+      "text": "Announcement: <a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-chip&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-...</a><p><a href=\"https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-broadcom-jalapeno-first-custom-ai-chip\" rel=\"nofollow\">https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-broadcom-jalapeno-first-cus...</a><p><a href=\"https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;06&#x2F;24&#x2F;tech&#x2F;openai-broadcom-jalapeno-ai-chip\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;06&#x2F;24&#x2F;tech&#x2F;openai-broadcom-jalapeno...</a>",
+      "summary": "OpenAI unveils its first custom chip, built by Broadcom. Announcement: https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-... https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-broadcom-jalapeno-first-cus... 점수 229, 반응 177 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
       "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
-      "score": 127,
-      "comments": 28,
+      "score": 199,
+      "comments": 46,
       "text": "",
-      "summary": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding. 점수 127, 반응 28 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Statistics that live in your SQL",
-      "url": "https://kolistat.com/blog/the-stats-duck-v0-6-0/",
-      "score": 105,
-      "comments": 15,
-      "text": "",
-      "summary": "Statistics that live in your SQL. 점수 105, 반응 15 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Minimus container images are now free",
-      "url": "https://images.minimus.io/",
-      "score": 97,
-      "comments": 58,
-      "text": "",
-      "summary": "Minimus container images are now free. 점수 97, 반응 58 기준 인기 이슈입니다."
+      "summary": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding. 점수 199, 반응 46 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Stealing Is a Skill",
       "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-      "score": 91,
-      "comments": 72,
+      "score": 157,
+      "comments": 101,
       "text": "",
-      "summary": "Stealing Is a Skill.  점수 91, 반응 72 기준 인기 이슈입니다."
+      "summary": "Stealing Is a Skill.  점수 157, 반응 101 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "score": 156,
+      "comments": 103,
+      "text": "",
+      "summary": "For Most of the World, Open-Source AI Is the Only Way Forward. 점수 156, 반응 103 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "url": "https://github.com/nubjs/nub",
+      "score": 156,
+      "comments": 38,
+      "text": "",
+      "summary": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js. 점수 156, 반응 38 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "score": 145,
+      "comments": 111,
+      "text": "Unlocked: <a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;23&#x2F;us&#x2F;politics&#x2F;nsa-lost-access-anthropic-tool.html?unlocked_article_code=1.sVA.Xgol.aUCRzN6jvdv-&amp;smid=nytcore-ios-share\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;23&#x2F;us&#x2F;politics&#x2F;nsa-lost-acce...</a>",
+      "summary": "NSA lost access to Mythos amid Anthropic dispute. Unlocked: https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;23&#x2F;us&#x2F;politics&#x2F;nsa-lost-acce... 점수 145, 반응 111 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”",
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+      "score": 124,
+      "comments": 46,
+      "text": "",
+      "summary": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”. 점수 124, 반응 46 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
+      "url": "https://www.monolisa.dev/",
+      "score": 124,
+      "comments": 38,
+      "text": "Originally we (Andrey, Marcus, Juho) built MonoLisa in 2020 as we realised there&#x27;s room for a better monospaced typeface for developers. The key insight was to make the glyphs slightly wider to make more room for design to make letters like m feel less cramped.<p>Since then we&#x27;ve released a variable v2 (2022) and now we&#x27;re happy to expand the typeface with a new family called MonoLisa Text. The reasoning was to cover *other* use cases beyond coding with this proportional font.<p>We hope you give Monolisa a go as there&#x27;s a free trial to try. We also welcome feedback!",
+      "summary": "Show HN: Monolisa v3 – a typeface for developers and creatives. Originally we (Andrey, Marcus, Juho) built MonoLisa in 2020 as we realised there&#x27;s room for a better monospaced typeface for developers. The key insight was to make the glyphs slightly wider to make more room for design to make letters like m feel less cramped. 점수 124, 반응 38 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 57
+    },
+    {
+      "keyword": "https",
+      "count": 10
+    },
+    {
+      "keyword": "com",
+      "count": 8
+    },
+    {
+      "keyword": "code",
+      "count": 5
+    },
+    {
+      "keyword": "href",
+      "count": 5
+    },
+    {
+      "keyword": "rel",
+      "count": 5
+    },
+    {
+      "keyword": "nofollow",
+      "count": 5
+    },
     {
       "keyword": "platform",
       "count": 4
     },
     {
-      "keyword": "code",
+      "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "prompts",
+      "keyword": "openai",
+      "count": 4
+    },
+    {
+      "keyword": "www",
+      "count": 4
+    },
+    {
+      "keyword": "monolisa",
+      "count": 4
+    },
+    {
+      "keyword": "x27",
       "count": 4
     },
     {
@@ -252,46 +292,6 @@
     {
       "keyword": "free",
       "count": 3
-    },
-    {
-      "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "framework",
-      "count": 2
-    },
-    {
-      "keyword": "development",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "can",
-      "count": 2
     }
   ],
   "meta": {
