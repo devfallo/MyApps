@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T16:35:42.285067+00:00",
+  "updatedAt": "2026-06-25T20:21:56.527996+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 380422,
-      "comments": 6629,
+      "score": 380443,
+      "comments": 6628,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 380422, 반응 6629 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 380443, 반응 6628 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 238511,
-      "comments": 287,
+      "score": 238603,
+      "comments": 288,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 238511, 반응 287 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 238603, 반응 288 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 202871,
-      "comments": 23648,
+      "score": 202977,
+      "comments": 23679,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 202871, 반응 23648 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 202977, 반응 23679 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 194040,
-      "comments": 1467,
+      "score": 194063,
+      "comments": 1471,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194040, 반응 1467 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194063, 반응 1471 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185153,
-      "comments": 454,
+      "score": 185155,
+      "comments": 453,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185153, 반응 454 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185155, 반응 453 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164343,
+      "score": 164348,
       "comments": 57,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164343, 반응 57 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164348, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,189 +73,173 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156616,
+      "score": 156614,
       "comments": 59,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156616, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156614, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 146562,
-      "comments": 807,
+      "score": 146569,
+      "comments": 806,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 146562, 반응 807 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 146569, 반응 806 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 142979,
-      "comments": 441,
+      "score": 142996,
+      "comments": 442,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142979, 반응 441 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 142996, 반응 442 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141145,
+      "score": 141157,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141145, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141157, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 140184,
+      "score": 140198,
       "comments": 410,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 140184, 반응 410 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 780,
-      "comments": 447,
-      "text": "Announcement: <a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-chip&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-...</a><p><a href=\"https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-broadcom-jalapeno-first-custom-ai-chip\" rel=\"nofollow\">https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-broadcom-jalapeno-first-cus...</a><p><a href=\"https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;06&#x2F;24&#x2F;tech&#x2F;openai-broadcom-jalapeno-ai-chip\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;06&#x2F;24&#x2F;tech&#x2F;openai-broadcom-jalapeno...</a>",
-      "summary": "OpenAI unveils its first custom chip, built by Broadcom. Announcement: https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-... https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-broadcom-jalapeno-first-cus... 점수 780, 반응 447 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 668,
-      "comments": 1095,
-      "text": "",
-      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities. 점수 668, 반응 1095 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 140198, 반응 410 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Half-Life 2 in a Browser",
       "url": "https://hl2.slqnt.dev/",
-      "score": 522,
-      "comments": 214,
+      "score": 602,
+      "comments": 243,
       "text": "",
-      "summary": "Half-Life 2 in a Browser. 점수 522, 반응 214 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "45°C cooling design cuts data center water use to near zero",
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "score": 439,
-      "comments": 374,
-      "text": "",
-      "summary": "45°C cooling design cuts data center water use to near zero. 점수 439, 반응 374 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "score": 433,
-      "comments": 75,
-      "text": "",
-      "summary": "RubyLLM: A Ruby framework for all major AI providers. 점수 433, 반응 75 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Blogging can just be stating the obvious",
-      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "score": 375,
-      "comments": 113,
-      "text": "",
-      "summary": "Blogging can just be stating the obvious. 점수 375, 반응 113 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GLM-5.2 is a step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "score": 334,
-      "comments": 192,
-      "text": "",
-      "summary": "GLM-5.2 is a step change for open agents. 점수 334, 반응 192 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-      "score": 328,
-      "comments": 150,
-      "text": "",
-      "summary": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors. 점수 328, 반응 150 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "LastPass notifies users of yet another data breach",
-      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-      "score": 306,
-      "comments": 139,
-      "text": "",
-      "summary": "LastPass notifies users of yet another data breach. 점수 306, 반응 139 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 289,
-      "comments": 125,
-      "text": "",
-      "summary": "Cloudflare launched self-managed OAuth for all. 점수 289, 반응 125 기준 인기 이슈입니다."
+      "summary": "Half-Life 2 in a Browser. 점수 602, 반응 243 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
       "url": "https://hackernewstrends.com",
-      "score": 255,
-      "comments": 66,
+      "score": 536,
+      "comments": 133,
       "text": "",
-      "summary": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments. 점수 255, 반응 66 기준 인기 이슈입니다."
+      "summary": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments. 점수 536, 반응 133 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 249,
-      "comments": 148,
-      "text": "",
-      "summary": "PR spam today looks like email spam in the early 2000s. 점수 249, 반응 148 기준 인기 이슈입니다."
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "score": 521,
+      "comments": 126,
+      "text": "Preprint: <a href=\"https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdf</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa</a>",
+      "summary": "An entire Herculaneum scroll has been read for the first time. Preprint: https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdf https:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa 점수 521, 반응 126 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Qualcomm to Acquire Modular",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "score": 230,
-      "comments": 88,
-      "text": "<a href=\"https:&#x2F;&#x2F;investor.qualcomm.com&#x2F;news-events&#x2F;press-releases&#x2F;news-details&#x2F;2026&#x2F;Qualcomm-to-Acquire-Modular&#x2F;default.aspx\" rel=\"nofollow\">https:&#x2F;&#x2F;investor.qualcomm.com&#x2F;news-events&#x2F;press-releases&#x2F;new...</a><p><a href=\"https:&#x2F;&#x2F;www.modular.com&#x2F;blog&#x2F;qualcomm-to-acquire-modular\" rel=\"nofollow\">https:&#x2F;&#x2F;www.modular.com&#x2F;blog&#x2F;qualcomm-to-acquire-modular</a><p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354</a>",
-      "summary": "Qualcomm to Acquire Modular. https:&#x2F;&#x2F;investor.qualcomm.com&#x2F;news-events&#x2F;press-releases&#x2F;new... https:&#x2F;&#x2F;www.modular.com&#x2F;blog&#x2F;qualcomm-to-acquire-modular https:&#x2F;&#x2F;x.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354 , https:&#x2F;&#x2F;xcancel.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354 점수 230, 반응 88 기준 인기 이슈입니다."
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "score": 456,
+      "comments": 670,
+      "text": "<a href=\"https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;06&#x2F;25&#x2F;apple-price-increases-mac-ipad-more&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;06&#x2F;25&#x2F;apple-price-increases-mac-ipa...</a>",
+      "summary": "Apple raises prices of MacBooks, iPads. https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;06&#x2F;25&#x2F;apple-price-increases-mac-ipa... 점수 456, 반응 670 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LastPass notifies users of yet another data breach",
+      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "score": 430,
+      "comments": 190,
+      "text": "",
+      "summary": "LastPass notifies users of yet another data breach. 점수 430, 반응 190 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Blogging can just be stating the obvious",
+      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "score": 430,
+      "comments": 124,
+      "text": "",
+      "summary": "Blogging can just be stating the obvious. 점수 430, 반응 124 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OAuth for all",
+      "url": "https://blog.cloudflare.com/oauth-for-all/",
+      "score": 342,
+      "comments": 143,
+      "text": "",
+      "summary": "OAuth for all.  점수 342, 반응 143 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "You can't unit test for taste",
+      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+      "score": 212,
+      "comments": 89,
+      "text": "",
+      "summary": "You can't unit test for taste. 점수 212, 반응 89 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Windows 10 quietly gets one more year of support and updates",
+      "url": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
+      "score": 177,
+      "comments": 136,
+      "text": "",
+      "summary": "Windows 10 quietly gets one more year of support and updates. 점수 177, 반응 136 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "score": 171,
+      "comments": 64,
+      "text": "",
+      "summary": "Zig's new bitCast semantics and LLVM back end improvements. 점수 171, 반응 64 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "score": 168,
+      "comments": 94,
+      "text": "",
+      "summary": "IBM debuts sub-1 nanometer chip technology. 점수 168, 반응 94 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Oxide computer 3D rack guided tour",
+      "url": "https://explorer.oxide.computer/",
+      "score": 145,
+      "comments": 63,
+      "text": "",
+      "summary": "Oxide computer 3D rack guided tour. 점수 145, 반응 63 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I built a GPU back end for Emacs",
+      "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
+      "score": 132,
+      "comments": 68,
+      "text": "",
+      "summary": "I built a GPU back end for Emacs. 점수 132, 반응 68 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 72
+      "count": 29
     },
     {
       "keyword": "https",
-      "count": 14
-    },
-    {
-      "keyword": "com",
-      "count": 12
-    },
-    {
-      "keyword": "href",
-      "count": 7
-    },
-    {
-      "keyword": "rel",
-      "count": 7
-    },
-    {
-      "keyword": "nofollow",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "platform",
@@ -270,28 +254,44 @@
       "count": 4
     },
     {
-      "keyword": "openai",
+      "keyword": "scrollprize",
       "count": 4
     },
     {
-      "keyword": "www",
+      "keyword": "pdf",
       "count": 4
     },
     {
-      "keyword": "clattner",
-      "count": 4
-    },
-    {
-      "keyword": "llvm",
-      "count": 4
-    },
-    {
-      "keyword": "status",
+      "keyword": "com",
       "count": 4
     },
     {
       "keyword": "agent",
       "count": 3
+    },
+    {
+      "keyword": "can",
+      "count": 3
+    },
+    {
+      "keyword": "href",
+      "count": 3
+    },
+    {
+      "keyword": "rel",
+      "count": 3
+    },
+    {
+      "keyword": "nofollow",
+      "count": 3
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
+      "count": 2
     }
   ],
   "meta": {
