@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T21:40:13.405725+00:00",
+  "updatedAt": "2026-06-26T23:34:23.458686+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -11,63 +11,63 @@
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "score": 380604,
-      "comments": 6707,
+      "comments": 6702,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 380604, 반응 6707 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 380604, 반응 6702 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 239399,
+      "score": 239423,
       "comments": 285,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 239399, 반응 285 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 239423, 반응 285 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 203742,
-      "comments": 23974,
+      "score": 203765,
+      "comments": 23966,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 203742, 반응 23974 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 203765, 반응 23966 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 194180,
-      "comments": 1468,
+      "score": 194185,
+      "comments": 1472,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194180, 반응 1468 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194185, 반응 1472 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185161,
+      "score": 185162,
       "comments": 448,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185161, 반응 448 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185162, 반응 448 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164391,
+      "score": 164393,
       "comments": 59,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164391, 반응 59 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164393, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163889,
+      "score": 163892,
       "comments": 2494,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163889, 반응 2494 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163892, 반응 2494 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,154 +82,154 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 146672,
-      "comments": 820,
+      "score": 146674,
+      "comments": 821,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 146672, 반응 820 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 146674, 반응 821 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 143131,
+      "score": 143140,
       "comments": 444,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143131, 반응 444 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143140, 반응 444 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141209,
+      "score": 141212,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141209, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141212, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 140289,
+      "score": 140291,
       "comments": 411,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 140289, 반응 411 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 140291, 반응 411 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 642,
-      "comments": 388,
+      "score": 751,
+      "comments": 464,
       "text": "System card: <a href=\"https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview\" rel=\"nofollow\">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview</a>",
-      "summary": "Previewing GPT‑5.6 Sol: a next-generation model. System card: https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview 점수 642, 반응 388 기준 인기 이슈입니다."
+      "summary": "Previewing GPT‑5.6 Sol: a next-generation model. System card: https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview 점수 751, 반응 464 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "U.S. government will decide who gets to use GPT-5.6",
       "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "score": 536,
-      "comments": 687,
+      "score": 714,
+      "comments": 839,
       "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl</a>",
-      "summary": "government will decide who gets to use GPT-5.6. https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl 점수 536, 반응 687 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "What happened after 2k people tried to hack my AI assistant",
-      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-      "score": 342,
-      "comments": 156,
-      "text": "",
-      "summary": "What happened after 2k people tried to hack my AI assistant. 점수 342, 반응 156 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Springer Nature has removed two studies by Max Planck",
-      "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
-      "score": 317,
-      "comments": 151,
-      "text": "",
-      "summary": "Springer Nature has removed two studies by Max Planck. 점수 317, 반응 151 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Libre Barcode Project",
-      "url": "https://graphicore.github.io/librebarcode/",
-      "score": 269,
-      "comments": 52,
-      "text": "",
-      "summary": "Libre Barcode Project. 점수 269, 반응 52 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Jolla Phone (October 2026)",
-      "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-      "score": 263,
-      "comments": 139,
-      "text": "",
-      "summary": "Jolla Phone (October 2026). 점수 263, 반응 139 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
-      "url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
-      "score": 247,
-      "comments": 83,
-      "text": "",
-      "summary": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'. 점수 247, 반응 83 기준 인기 이슈입니다."
+      "summary": "government will decide who gets to use GPT-5.6. https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl 점수 714, 반응 839 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
       "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "score": 209,
-      "comments": 119,
+      "score": 230,
+      "comments": 136,
       "text": "",
-      "summary": "MicroVMs: Run isolated sandboxes with full lifecycle control. 점수 209, 반응 119 기준 인기 이슈입니다."
+      "summary": "MicroVMs: Run isolated sandboxes with full lifecycle control. 점수 230, 반응 136 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ultrasound imaging of the brain",
       "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "score": 199,
-      "comments": 70,
+      "score": 221,
+      "comments": 91,
       "text": "",
-      "summary": "Ultrasound imaging of the brain. 점수 199, 반응 70 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "My Steam Machine is a 50ft HDMI cable",
-      "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
-      "score": 119,
-      "comments": 131,
-      "text": "",
-      "summary": "My Steam Machine is a 50ft HDMI cable. 점수 119, 반응 131 기준 인기 이슈입니다."
+      "summary": "Ultrasound imaging of the brain. 점수 221, 반응 91 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Data centers trigger voter backlash",
       "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-      "score": 118,
-      "comments": 168,
+      "score": 145,
+      "comments": 256,
       "text": "",
-      "summary": "Data centers trigger voter backlash. 점수 118, 반응 168 기준 인기 이슈입니다."
+      "summary": "Data centers trigger voter backlash. 점수 145, 반응 256 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "My Steam Machine is a 50ft HDMI cable",
+      "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
+      "score": 143,
+      "comments": 147,
+      "text": "",
+      "summary": "My Steam Machine is a 50ft HDMI cable. 점수 143, 반응 147 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
       "url": "https://github.com/workweave/router",
-      "score": 108,
-      "comments": 76,
+      "score": 131,
+      "comments": 83,
       "text": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here&#x27;s a quick demo of running it locally: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM</a>.<p>At Weave, we write most of our code with AI, and it&#x27;s been getting more expensive. This came to a head when Opus 4.7 was released and, thanks to its tokenizer changes, our costs shot up. We knew we didn&#x27;t need Opus for <i>everything</i> but we didn&#x27;t want to lose out on the intelligence for the cases where you really need it. So we decided to build a model router to handle this for us.<p>The Weave Router acts as an Anthropic&#x2F;OpenAI endpoint specifically for coding agents. It looks at every inference request and intelligently (more on that in a sec) decides what model to send it to, handling all the translations required along the way. So it can use faster&#x2F;cheaper models (e.g. DeepSeek v4, GLM 5.2, Kimi K2.6) when possible, and frontier models (Opus 4.8 &amp; GPT 5.5 (&amp; Fable whenever it&#x27;s back)) when necessary.<p>How do we know what model to route to? We trained an RL model on tens of thousands (so far!) of agent traces. We reward the routing model when it selects an LLM that successfully completes the given task.<p>Here&#x27;s an example: if you ask the router to plan a complex change, it will (probably) route that request to Opus 4.8. Subagents exploring the codebase to gather context will be routed to more suitable models (e.g. DeepSeek V4 Flash). Then when you have the plan ready to implement, it will be (most likely) be handed to a quicker model (e.g. GLM 5.2) to carry it out.<p>We&#x27;ve been using this internally for the last month or so. We&#x27;ve saved 40% on tokens vs. what we otherwise would have paid, with no noticeable differences in quality or velocity.<p>The router is source-available under Elastic License 2.0, so you can self-host it. Or if you prefer, you can also use our hosted version: weaverouter.com.<p>I&#x27;ll be here to answer any questions you may have!",
-      "summary": "Show HN: Smart model routing directly in Claude, Codex and Cursor. We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. 점수 108, 반응 76 기준 인기 이슈입니다."
+      "summary": "Show HN: Smart model routing directly in Claude, Codex and Cursor. We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. 점수 131, 반응 83 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "We Can Still Stop California's 3D Printer Surveillance Scheme",
+      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+      "score": 117,
+      "comments": 14,
+      "text": "",
+      "summary": "We Can Still Stop California's 3D Printer Surveillance Scheme. 점수 117, 반응 14 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
+      "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
+      "score": 109,
+      "comments": 56,
+      "text": "",
+      "summary": "PlayStation Is Deleting 551 Movies from Customers' Accounts. 점수 109, 반응 56 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bipartite Matching Is in NC",
       "url": "https://scottaaronson.blog/?p=9851",
-      "score": 102,
-      "comments": 15,
+      "score": 105,
+      "comments": 16,
       "text": "",
-      "summary": "Bipartite Matching Is in NC. 점수 102, 반응 15 기준 인기 이슈입니다."
+      "summary": "Bipartite Matching Is in NC. 점수 105, 반응 16 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "score": 80,
+      "comments": 61,
+      "text": "",
+      "summary": "The gap between open weights LLMs and closed source LLMs. 점수 80, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LaTeX.wasm: LaTeX Engines in Browsers",
+      "url": "https://www.swiftlatex.com/",
+      "score": 77,
+      "comments": 28,
+      "text": "",
+      "summary": "LaTeX.wasm: LaTeX Engines in Browsers. 점수 77, 반응 28 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+      "url": "https://github.com/DDecoene/WebBaseIII",
+      "score": 76,
+      "comments": 26,
+      "text": "",
+      "summary": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter. 점수 76, 반응 26 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -254,6 +254,10 @@
       "count": 6
     },
     {
+      "keyword": "can",
+      "count": 5
+    },
+    {
       "keyword": "com",
       "count": 5
     },
@@ -275,10 +279,6 @@
     },
     {
       "keyword": "our",
-      "count": 4
-    },
-    {
-      "keyword": "can",
       "count": 4
     },
     {
