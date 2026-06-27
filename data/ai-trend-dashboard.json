@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T19:44:55.689877+00:00",
+  "updatedAt": "2026-06-27T21:19:10.835693+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 380727,
-      "comments": 6732,
+      "score": 380731,
+      "comments": 6739,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 380727, 반응 6732 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 380731, 반응 6739 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 239982,
+      "score": 240009,
       "comments": 286,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 239982, 반응 286 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 240009, 반응 286 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 204270,
-      "comments": 24061,
+      "score": 204304,
+      "comments": 24080,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 204270, 반응 24061 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 204304, 반응 24080 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "score": 194271,
-      "comments": 1483,
+      "comments": 1481,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194271, 반응 1483 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194271, 반응 1481 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185181,
+      "score": 185182,
       "comments": 449,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185181, 반응 449 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185182, 반응 449 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -64,10 +64,10 @@
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163901,
+      "score": 163902,
       "comments": 2494,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163901, 반응 2494 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163902, 반응 2494 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,154 +82,154 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 146763,
+      "score": 146764,
       "comments": 837,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 146763, 반응 837 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 146764, 반응 837 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 143227,
+      "score": 143234,
       "comments": 450,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143227, 반응 450 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143234, 반응 450 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141241,
+      "score": 141240,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141241, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141240, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 140339,
+      "score": 140341,
       "comments": 413,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 140339, 반응 413 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 140341, 반응 413 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "score": 676,
-      "comments": 270,
+      "score": 694,
+      "comments": 287,
       "text": "",
-      "summary": "DSpark: Speculative decoding accelerates LLM inference [pdf]. 점수 676, 반응 270 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-      "score": 432,
-      "comments": 166,
-      "text": "",
-      "summary": "Zuckerberg's Increasingly Bizarre War on Whistleblowers. 점수 432, 반응 166 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
-      "score": 429,
-      "comments": 80,
-      "text": "",
-      "summary": "OpenRA.  점수 429, 반응 80 기준 인기 이슈입니다."
+      "summary": "DSpark: Speculative decoding accelerates LLM inference [pdf]. 점수 694, 반응 287 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "url": "https://github.com/bikini/exploitarium",
-      "score": 423,
-      "comments": 170,
+      "score": 520,
+      "comments": 206,
       "text": "",
-      "summary": "Anonymous GitHub account mass-dropping undisclosed 0-days. 점수 423, 반응 170 기준 인기 이슈입니다."
+      "summary": "Anonymous GitHub account mass-dropping undisclosed 0-days. 점수 520, 반응 206 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zuckerberg's war on whistleblowers",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "score": 501,
+      "comments": 193,
+      "text": "",
+      "summary": "Zuckerberg's war on whistleblowers. 점수 501, 반응 193 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "score": 476,
+      "comments": 88,
+      "text": "",
+      "summary": "OpenRA.  점수 476, 반응 88 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Fintech Engineering Handbook",
       "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "score": 375,
-      "comments": 118,
+      "score": 402,
+      "comments": 137,
       "text": "",
-      "summary": "Fintech Engineering Handbook. 점수 375, 반응 118 기준 인기 이슈입니다."
+      "summary": "Fintech Engineering Handbook. 점수 402, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "score": 330,
-      "comments": 174,
-      "text": "",
-      "summary": "Why does kinetic energy increase quadratically, not linearly, with speed? 점수 330, 반응 174 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "If you can't hold it, you don't own it",
+      "title": "The case for physical media ownership",
       "url": "https://dervis.de/physical/",
-      "score": 272,
-      "comments": 182,
+      "score": 306,
+      "comments": 207,
       "text": "",
-      "summary": "If you can't hold it, you don't own it. 점수 272, 반응 182 기준 인기 이슈입니다."
+      "summary": "The case for physical media ownership. 점수 306, 반응 207 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
       "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-      "score": 190,
-      "comments": 47,
+      "score": 219,
+      "comments": 59,
       "text": "",
-      "summary": "Streaming services' obnoxiously loud ads become illegal on July 1 in California. 점수 190, 반응 47 기준 인기 이슈입니다."
+      "summary": "Streaming services' obnoxiously loud ads become illegal on July 1 in California. 점수 219, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Linux on Older Hardware: The Complete Revival Guide",
       "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
-      "score": 169,
-      "comments": 100,
+      "score": 180,
+      "comments": 107,
       "text": "",
-      "summary": "Linux on Older Hardware: The Complete Revival Guide. 점수 169, 반응 100 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "WordStar: A Writer's Word Processor (1996)",
-      "url": "https://www.sfwriter.com/wordstar.htm",
-      "score": 157,
-      "comments": 87,
-      "text": "",
-      "summary": "WordStar: A Writer's Word Processor (1996). 점수 157, 반응 87 기준 인기 이슈입니다."
+      "summary": "Linux on Older Hardware: The Complete Revival Guide. 점수 180, 반응 107 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Suspicious Discontinuities (2020)",
       "url": "https://danluu.com/discontinuities/",
-      "score": 145,
-      "comments": 41,
+      "score": 173,
+      "comments": 43,
       "text": "",
-      "summary": "Suspicious Discontinuities (2020). 점수 145, 반응 41 기준 인기 이슈입니다."
+      "summary": "Suspicious Discontinuities (2020). 점수 173, 반응 43 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI learns the “dark art” of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "score": 147,
+      "comments": 83,
+      "text": "",
+      "summary": "AI learns the “dark art” of RFIC design. 점수 147, 반응 83 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Long Wave radio era set to end with switch-off",
       "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
-      "score": 139,
-      "comments": 141,
+      "score": 146,
+      "comments": 145,
       "text": "<a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74yn7v7k4qo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74yn7v7k4qo</a>",
-      "summary": "Long Wave radio era set to end with switch-off. https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74yn7v7k4qo 점수 139, 반응 141 기준 인기 이슈입니다."
+      "summary": "Long Wave radio era set to end with switch-off. https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74yn7v7k4qo 점수 146, 반응 145 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Beer CSS – Build material design in record time",
-      "url": "https://www.beercss.com",
-      "score": 112,
-      "comments": 57,
+      "title": "The US Army Issued Ocarinas to Soldiers in World War II",
+      "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
+      "score": 128,
+      "comments": 65,
       "text": "",
-      "summary": "Beer CSS – Build material design in record time. 점수 112, 반응 57 기준 인기 이슈입니다."
+      "summary": "The US Army Issued Ocarinas to Soldiers in World War II. 점수 128, 반응 65 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Underarm bowling incident of 1981",
+      "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+      "score": 122,
+      "comments": 103,
+      "text": "",
+      "summary": "Underarm bowling incident of 1981. 점수 122, 반응 103 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -258,10 +258,6 @@
       "count": 2
     },
     {
-      "keyword": "own",
-      "count": 2
-    },
-    {
       "keyword": "any",
       "count": 2
     },
@@ -286,11 +282,15 @@
       "count": 2
     },
     {
-      "keyword": "build",
+      "keyword": "tools",
       "count": 2
     },
     {
-      "keyword": "tools",
+      "keyword": "open",
+      "count": 2
+    },
+    {
+      "keyword": "complete",
       "count": 2
     }
   ],
