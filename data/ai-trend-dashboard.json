@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T23:34:23.458686+00:00",
+  "updatedAt": "2026-06-27T04:15:47.086821+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,232 +10,236 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 380604,
-      "comments": 6702,
+      "score": 380635,
+      "comments": 6688,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 380604, 반응 6702 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 380635, 반응 6688 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 239423,
+      "score": 239515,
       "comments": 285,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 239423, 반응 285 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 239515, 반응 285 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 203765,
-      "comments": 23966,
+      "score": 203850,
+      "comments": 24019,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 203765, 반응 23966 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 203850, 반응 24019 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 194185,
-      "comments": 1472,
+      "score": 194204,
+      "comments": 1473,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194185, 반응 1472 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194204, 반응 1473 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185162,
+      "score": 185163,
       "comments": 448,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185162, 반응 448 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185163, 반응 448 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164393,
+      "score": 164407,
       "comments": 59,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164393, 반응 59 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164407, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163892,
-      "comments": 2494,
+      "score": 163895,
+      "comments": 2493,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163892, 반응 2494 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163895, 반응 2493 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156635,
+      "score": 156638,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156635, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156638, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 146674,
-      "comments": 821,
+      "score": 146687,
+      "comments": 828,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 146674, 반응 821 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 146687, 반응 828 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 143140,
+      "score": 143151,
       "comments": 444,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143140, 반응 444 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143151, 반응 444 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141212,
+      "score": 141221,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141212, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141221, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 140291,
+      "score": 140303,
       "comments": 411,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 140291, 반응 411 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 751,
-      "comments": 464,
-      "text": "System card: <a href=\"https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview\" rel=\"nofollow\">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview</a>",
-      "summary": "Previewing GPT‑5.6 Sol: a next-generation model. System card: https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview 점수 751, 반응 464 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 140303, 반응 411 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "U.S. government will decide who gets to use GPT-5.6",
       "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "score": 714,
-      "comments": 839,
+      "score": 897,
+      "comments": 972,
       "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl</a>",
-      "summary": "government will decide who gets to use GPT-5.6. https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl 점수 714, 반응 839 기준 인기 이슈입니다."
+      "summary": "government will decide who gets to use GPT-5.6. https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl 점수 897, 반응 972 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "score": 894,
+      "comments": 540,
+      "text": "System card: <a href=\"https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview\" rel=\"nofollow\">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview</a>",
+      "summary": "Previewing GPT‑5.6 Sol: a next-generation model. System card: https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview 점수 894, 반응 540 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "score": 290,
+      "comments": 289,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.md&#x2F;ArXuF\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.md&#x2F;ArXuF</a><p><a href=\"https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;us-government-gives-anthropic-green-light-limited-re-release-mythos-5-rcna352018\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;us-government-gives-a...</a>",
+      "summary": "allows Anthropic to release Mythos AI to ‘trusted’ US organizations. https:&#x2F;&#x2F;archive.md&#x2F;ArXuF https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;us-government-gives-a... 점수 290, 반응 289 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
       "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "score": 230,
-      "comments": 136,
+      "score": 288,
+      "comments": 161,
       "text": "",
-      "summary": "MicroVMs: Run isolated sandboxes with full lifecycle control. 점수 230, 반응 136 기준 인기 이슈입니다."
+      "summary": "MicroVMs: Run isolated sandboxes with full lifecycle control. 점수 288, 반응 161 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "We can still stop California's 3D printer surveillance scheme",
+      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+      "score": 282,
+      "comments": 103,
+      "text": "",
+      "summary": "We can still stop California's 3D printer surveillance scheme. 점수 282, 반응 103 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ultrasound imaging of the brain",
       "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "score": 221,
-      "comments": 91,
+      "score": 254,
+      "comments": 102,
       "text": "",
-      "summary": "Ultrasound imaging of the brain. 점수 221, 반응 91 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Data centers trigger voter backlash",
-      "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-      "score": 145,
-      "comments": 256,
-      "text": "",
-      "summary": "Data centers trigger voter backlash. 점수 145, 반응 256 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "My Steam Machine is a 50ft HDMI cable",
-      "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
-      "score": 143,
-      "comments": 147,
-      "text": "",
-      "summary": "My Steam Machine is a 50ft HDMI cable. 점수 143, 반응 147 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "score": 131,
-      "comments": 83,
-      "text": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here&#x27;s a quick demo of running it locally: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM</a>.<p>At Weave, we write most of our code with AI, and it&#x27;s been getting more expensive. This came to a head when Opus 4.7 was released and, thanks to its tokenizer changes, our costs shot up. We knew we didn&#x27;t need Opus for <i>everything</i> but we didn&#x27;t want to lose out on the intelligence for the cases where you really need it. So we decided to build a model router to handle this for us.<p>The Weave Router acts as an Anthropic&#x2F;OpenAI endpoint specifically for coding agents. It looks at every inference request and intelligently (more on that in a sec) decides what model to send it to, handling all the translations required along the way. So it can use faster&#x2F;cheaper models (e.g. DeepSeek v4, GLM 5.2, Kimi K2.6) when possible, and frontier models (Opus 4.8 &amp; GPT 5.5 (&amp; Fable whenever it&#x27;s back)) when necessary.<p>How do we know what model to route to? We trained an RL model on tens of thousands (so far!) of agent traces. We reward the routing model when it selects an LLM that successfully completes the given task.<p>Here&#x27;s an example: if you ask the router to plan a complex change, it will (probably) route that request to Opus 4.8. Subagents exploring the codebase to gather context will be routed to more suitable models (e.g. DeepSeek V4 Flash). Then when you have the plan ready to implement, it will be (most likely) be handed to a quicker model (e.g. GLM 5.2) to carry it out.<p>We&#x27;ve been using this internally for the last month or so. We&#x27;ve saved 40% on tokens vs. what we otherwise would have paid, with no noticeable differences in quality or velocity.<p>The router is source-available under Elastic License 2.0, so you can self-host it. Or if you prefer, you can also use our hosted version: weaverouter.com.<p>I&#x27;ll be here to answer any questions you may have!",
-      "summary": "Show HN: Smart model routing directly in Claude, Codex and Cursor. We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. 점수 131, 반응 83 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "We Can Still Stop California's 3D Printer Surveillance Scheme",
-      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "score": 117,
-      "comments": 14,
-      "text": "",
-      "summary": "We Can Still Stop California's 3D Printer Surveillance Scheme. 점수 117, 반응 14 기준 인기 이슈입니다."
+      "summary": "Ultrasound imaging of the brain. 점수 254, 반응 102 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
       "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
-      "score": 109,
-      "comments": 56,
+      "score": 205,
+      "comments": 117,
       "text": "",
-      "summary": "PlayStation Is Deleting 551 Movies from Customers' Accounts. 점수 109, 반응 56 기준 인기 이슈입니다."
+      "summary": "PlayStation Is Deleting 551 Movies from Customers' Accounts. 점수 205, 반응 117 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Bipartite Matching Is in NC",
-      "url": "https://scottaaronson.blog/?p=9851",
-      "score": 105,
-      "comments": 16,
-      "text": "",
-      "summary": "Bipartite Matching Is in NC. 점수 105, 반응 16 기준 인기 이슈입니다."
+      "title": "Om",
+      "url": "https://daringfireball.net/2026/06/om",
+      "score": 195,
+      "comments": 13,
+      "text": "Related: <i>Om Malik has died</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48678852\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48678852</a> - June 2026 (161 comments)",
+      "summary": "Related: Om Malik has died - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48678852 - June 2026 (161 comments) 점수 195, 반응 13 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "score": 156,
+      "comments": 91,
+      "text": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here&#x27;s a quick demo of running it locally: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM</a>.<p>At Weave, we write most of our code with AI, and it&#x27;s been getting more expensive. This came to a head when Opus 4.7 was released and, thanks to its tokenizer changes, our costs shot up. We knew we didn&#x27;t need Opus for <i>everything</i> but we didn&#x27;t want to lose out on the intelligence for the cases where you really need it. So we decided to build a model router to handle this for us.<p>The Weave Router acts as an Anthropic&#x2F;OpenAI endpoint specifically for coding agents. It looks at every inference request and intelligently (more on that in a sec) decides what model to send it to, handling all the translations required along the way. So it can use faster&#x2F;cheaper models (e.g. DeepSeek v4, GLM 5.2, Kimi K2.6) when possible, and frontier models (Opus 4.8 &amp; GPT 5.5 (&amp; Fable whenever it&#x27;s back)) when necessary.<p>How do we know what model to route to? We trained an RL model on tens of thousands (so far!) of agent traces. We reward the routing model when it selects an LLM that successfully completes the given task.<p>Here&#x27;s an example: if you ask the router to plan a complex change, it will (probably) route that request to Opus 4.8. Subagents exploring the codebase to gather context will be routed to more suitable models (e.g. DeepSeek V4 Flash). Then when you have the plan ready to implement, it will be (most likely) be handed to a quicker model (e.g. GLM 5.2) to carry it out.<p>We&#x27;ve been using this internally for the last month or so. We&#x27;ve saved 40% on tokens vs. what we otherwise would have paid, with no noticeable differences in quality or velocity.<p>The router is source-available under Elastic License 2.0, so you can self-host it. Or if you prefer, you can also use our hosted version: weaverouter.com.<p>I&#x27;ll be here to answer any questions you may have!",
+      "summary": "Show HN: Smart model routing directly in Claude, Codex and Cursor. We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. 점수 156, 반응 91 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The gap between open weights LLMs and closed source LLMs",
       "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "score": 80,
-      "comments": 61,
+      "score": 144,
+      "comments": 118,
       "text": "",
-      "summary": "The gap between open weights LLMs and closed source LLMs. 점수 80, 반응 61 기준 인기 이슈입니다."
+      "summary": "The gap between open weights LLMs and closed source LLMs. 점수 144, 반응 118 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "LaTeX.wasm: LaTeX Engines in Browsers",
-      "url": "https://www.swiftlatex.com/",
-      "score": 77,
-      "comments": 28,
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "score": 141,
+      "comments": 59,
       "text": "",
-      "summary": "LaTeX.wasm: LaTeX Engines in Browsers. 점수 77, 반응 28 기준 인기 이슈입니다."
+      "summary": "Why does kinetic energy increase quadratically, not linearly, with speed? 점수 141, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
-      "url": "https://github.com/DDecoene/WebBaseIII",
+      "title": "What Is a Nomogram and Why Would It Interest Me?",
+      "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+      "score": 97,
+      "comments": 18,
+      "text": "",
+      "summary": "What Is a Nomogram and Why Would It Interest Me?. 점수 97, 반응 18 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+      "url": "https://news.ycombinator.com/item?id=48692474",
       "score": 76,
-      "comments": 26,
-      "text": "",
-      "summary": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter. 점수 76, 반응 26 기준 인기 이슈입니다."
+      "comments": 36,
+      "text": "The github repo under eigenpal is gone. The web site at docx-editor is 503. No idea what&#x27;s going on.",
+      "summary": "The open source DOCX editor submitted to HN a few weeks ago has been deleted. The github repo under eigenpal is gone. The web site at docx-editor is 503. 점수 76, 반응 36 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 20
+      "count": 42
+    },
+    {
+      "keyword": "https",
+      "count": 12
     },
     {
       "keyword": "model",
@@ -243,6 +247,10 @@
     },
     {
       "keyword": "x27",
+      "count": 10
+    },
+    {
+      "keyword": "com",
       "count": 9
     },
     {
@@ -250,7 +258,7 @@
       "count": 6
     },
     {
-      "keyword": "https",
+      "keyword": "href",
       "count": 6
     },
     {
@@ -258,7 +266,11 @@
       "count": 5
     },
     {
-      "keyword": "com",
+      "keyword": "rel",
+      "count": 5
+    },
+    {
+      "keyword": "nofollow",
       "count": 5
     },
     {
@@ -279,18 +291,6 @@
     },
     {
       "keyword": "our",
-      "count": 4
-    },
-    {
-      "keyword": "prompts",
-      "count": 4
-    },
-    {
-      "keyword": "openai",
-      "count": 4
-    },
-    {
-      "keyword": "models",
       "count": 4
     }
   ],
