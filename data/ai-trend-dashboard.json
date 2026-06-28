@@ -1,208 +1,297 @@
 {
-  "updatedAt": "2026-06-28T09:32:21.462146+00:00",
+  "updatedAt": "2026-06-28T11:58:17.851356+00:00",
   "status": "ok",
-  "count": 15,
+  "count": 25,
   "errors": [
-    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
+      "source": "GitHub Repos",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 380798,
+      "comments": 6721,
+      "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "summary": "Your own personal AI assistant. 점수 380798, 반응 6721 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 240363,
+      "comments": 286,
+      "text": "An agentic skills framework & software development methodology that works.",
+      "summary": "An agentic skills framework & software development methodology that works. 점수 240363, 반응 286 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 204635,
+      "comments": 23897,
+      "text": "The agent that grows with you",
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 204635, 반응 23897 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 194340,
+      "comments": 1480,
+      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194340, 반응 1480 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 185191,
+      "comments": 453,
+      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185191, 반응 453 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 164453,
+      "comments": 60,
+      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164453, 반응 60 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "score": 163910,
+      "comments": 2494,
+      "text": "Stable Diffusion web UI",
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163910, 반응 2494 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "score": 156659,
+      "comments": 58,
+      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156659, 반응 58 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 146817,
+      "comments": 846,
+      "text": "Production-ready platform for agentic workflow development.",
+      "summary": "Production-ready platform for agentic workflow development. 점수 146817, 반응 846 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 143289,
+      "comments": 451,
+      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143289, 반응 451 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "score": 141264,
+      "comments": 154,
+      "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141264, 반응 154 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 140379,
+      "comments": 365,
+      "text": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 140379, 반응 365 기준 인기 이슈입니다."
+    },
+    {
       "source": "Hacker News",
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "url": "https://github.com/bikini/exploitarium",
-      "score": 802,
-      "comments": 315,
+      "score": 836,
+      "comments": 326,
       "text": "",
-      "summary": "Anonymous GitHub account mass-dropping undisclosed 0-days. 점수 802, 반응 315 기준 인기 이슈입니다."
+      "summary": "Anonymous GitHub account mass-dropping undisclosed 0-days. 점수 836, 반응 326 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "score": 760,
-      "comments": 320,
+      "score": 770,
+      "comments": 330,
       "text": "",
-      "summary": "DSpark: Speculative decoding accelerates LLM inference [pdf]. 점수 760, 반응 320 기준 인기 이슈입니다."
+      "summary": "DSpark: Speculative decoding accelerates LLM inference [pdf]. 점수 770, 반응 330 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenRA",
       "url": "https://www.openra.net/",
-      "score": 707,
-      "comments": 133,
+      "score": 744,
+      "comments": 140,
       "text": "",
-      "summary": "OpenRA.  점수 707, 반응 133 기준 인기 이슈입니다."
+      "summary": "OpenRA.  점수 744, 반응 140 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Fintech Engineering Handbook",
       "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "score": 558,
-      "comments": 176,
+      "score": 593,
+      "comments": 180,
       "text": "",
-      "summary": "Fintech Engineering Handbook. 점수 558, 반응 176 기준 인기 이슈입니다."
+      "summary": "Fintech Engineering Handbook. 점수 593, 반응 180 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The case for physical media ownership",
       "url": "https://dervis.de/physical/",
-      "score": 435,
-      "comments": 295,
+      "score": 448,
+      "comments": 307,
       "text": "",
-      "summary": "The case for physical media ownership. 점수 435, 반응 295 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Suspicious Discontinuities (2020)",
-      "url": "https://danluu.com/discontinuities/",
-      "score": 239,
-      "comments": 77,
-      "text": "",
-      "summary": "Suspicious Discontinuities (2020). 점수 239, 반응 77 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI learns the “dark art” of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "score": 231,
-      "comments": 151,
-      "text": "",
-      "summary": "AI learns the “dark art” of RFIC design. 점수 231, 반응 151 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Turn your site into a place people can bump into each other",
-      "url": "https://cauenapier.com/blog/townsquare_release/",
-      "score": 226,
-      "comments": 94,
-      "text": "Related: <i>Show HN: TownSquare, a tiny presence layer for websites</i> - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48608570 - June 2026 (166 comments)",
-      "summary": "Turn your site into a place people can bump into each other. Related: Show HN: TownSquare, a tiny presence layer for websites - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48608570 - June 2026 (166 comments) 점수 226, 반응 94 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Asian AI startups launch Mythos-like models",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "score": 225,
-      "comments": 174,
-      "text": "",
-      "summary": "Asian AI startups launch Mythos-like models. 점수 225, 반응 174 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Marfa Public Radio Puts You to Sleep",
-      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "score": 219,
-      "comments": 56,
-      "text": "",
-      "summary": "Marfa Public Radio Puts You to Sleep. 점수 219, 반응 56 기준 인기 이슈입니다."
+      "summary": "The case for physical media ownership. 점수 448, 반응 307 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The best response to AI slop and online noise is from Robin Williams",
       "url": "https://jayacunzo.com/blog/your-move-chief",
-      "score": 214,
-      "comments": 118,
+      "score": 264,
+      "comments": 148,
       "text": "",
-      "summary": "The best response to AI slop and online noise is from Robin Williams. 점수 214, 반응 118 기준 인기 이슈입니다."
+      "summary": "The best response to AI slop and online noise is from Robin Williams. 점수 264, 반응 148 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "score": 263,
+      "comments": 74,
+      "text": "",
+      "summary": "Marfa Public Radio Puts You to Sleep. 점수 263, 반응 74 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Turn your site into a place people can bump into each other",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
+      "score": 252,
+      "comments": 106,
+      "text": "Related: <i>Show HN: TownSquare, a tiny presence layer for websites</i> - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48608570 - June 2026 (166 comments)",
+      "summary": "Turn your site into a place people can bump into each other. Related: Show HN: TownSquare, a tiny presence layer for websites - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48608570 - June 2026 (166 comments) 점수 252, 반응 106 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Suspicious Discontinuities (2020)",
+      "url": "https://danluu.com/discontinuities/",
+      "score": 249,
+      "comments": 84,
+      "text": "",
+      "summary": "Suspicious Discontinuities (2020). 점수 249, 반응 84 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "score": 245,
+      "comments": 180,
+      "text": "",
+      "summary": "Asian AI startups launch Mythos-like models. 점수 245, 반응 180 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI learns the “dark art” of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "score": 242,
+      "comments": 158,
+      "text": "",
+      "summary": "AI learns the “dark art” of RFIC design. 점수 242, 반응 158 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Reducing tick density along recreational trails in Ottawa, Canada",
       "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
-      "score": 198,
-      "comments": 105,
+      "score": 207,
+      "comments": 127,
       "text": "",
-      "summary": "Reducing tick density along recreational trails in Ottawa, Canada. 점수 198, 반응 105 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ford hired AI and sacked humans. It backfired badly",
-      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-      "score": 191,
-      "comments": 111,
-      "text": "",
-      "summary": "Ford hired AI and sacked humans. 점수 191, 반응 111 기준 인기 이슈입니다."
+      "summary": "Reducing tick density along recreational trails in Ottawa, Canada. 점수 207, 반응 127 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Choosing a Public DNS Resolver",
       "url": "https://evilbit.de/dns-resolver-guide.html",
-      "score": 159,
-      "comments": 49,
+      "score": 185,
+      "comments": 64,
       "text": "",
-      "summary": "Choosing a Public DNS Resolver. 점수 159, 반응 49 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
-      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-      "score": 151,
-      "comments": 54,
-      "text": "",
-      "summary": "Post-Mythos Cybersecurity: Keep calm and carry on. 점수 151, 반응 54 기준 인기 이슈입니다."
+      "summary": "Choosing a Public DNS Resolver. 점수 185, 반응 64 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "code",
+      "count": 4
+    },
+    {
+      "keyword": "prompts",
+      "count": 4
+    },
+    {
+      "keyword": "platform",
+      "count": 3
+    },
     {
       "keyword": "x2f",
       "count": 3
     },
     {
-      "keyword": "public",
+      "keyword": "openclaw",
       "count": 2
     },
     {
-      "keyword": "anonymous",
-      "count": 1
+      "keyword": "any",
+      "count": 2
     },
     {
-      "keyword": "github",
-      "count": 1
+      "keyword": "agentic",
+      "count": 2
     },
     {
-      "keyword": "account",
-      "count": 1
+      "keyword": "development",
+      "count": 2
     },
     {
-      "keyword": "mass-dropping",
-      "count": 1
+      "keyword": "agent",
+      "count": 2
     },
     {
-      "keyword": "undisclosed",
-      "count": 1
+      "keyword": "workflow",
+      "count": 2
     },
     {
-      "keyword": "days",
-      "count": 1
+      "keyword": "self-host",
+      "count": 2
     },
     {
-      "keyword": "dspark",
-      "count": 1
+      "keyword": "autogpt",
+      "count": 2
     },
     {
-      "keyword": "speculative",
-      "count": 1
+      "keyword": "tools",
+      "count": 2
     },
     {
-      "keyword": "decoding",
-      "count": 1
+      "keyword": "can",
+      "count": 2
     },
     {
-      "keyword": "accelerates",
-      "count": 1
-    },
-    {
-      "keyword": "llm",
-      "count": 1
-    },
-    {
-      "keyword": "inference",
-      "count": 1
-    },
-    {
-      "keyword": "pdf",
-      "count": 1
+      "keyword": "open",
+      "count": 2
     }
   ],
   "meta": {
