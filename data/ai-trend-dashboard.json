@@ -1,208 +1,297 @@
 {
-  "updatedAt": "2026-06-28T14:15:52.566477+00:00",
+  "updatedAt": "2026-06-28T17:35:16.133743+00:00",
   "status": "ok",
-  "count": 15,
+  "count": 25,
   "errors": [
-    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
-      "source": "Hacker News",
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "score": 878,
-      "comments": 339,
-      "text": "",
-      "summary": "Anonymous GitHub account mass-dropping undisclosed 0-days. 점수 878, 반응 339 기준 인기 이슈입니다."
+      "source": "GitHub Repos",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 380837,
+      "comments": 6736,
+      "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "summary": "Your own personal AI assistant. 점수 380837, 반응 6736 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 240532,
+      "comments": 283,
+      "text": "An agentic skills framework & software development methodology that works.",
+      "summary": "An agentic skills framework & software development methodology that works. 점수 240532, 반응 283 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 204831,
+      "comments": 23984,
+      "text": "The agent that grows with you",
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 204831, 반응 23984 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 194368,
+      "comments": 1482,
+      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194368, 반응 1482 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 185193,
+      "comments": 453,
+      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185193, 반응 453 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 164457,
+      "comments": 60,
+      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164457, 반응 60 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "score": 163913,
+      "comments": 2494,
+      "text": "Stable Diffusion web UI",
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163913, 반응 2494 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "score": 156660,
+      "comments": 58,
+      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156660, 반응 58 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 146849,
+      "comments": 851,
+      "text": "Production-ready platform for agentic workflow development.",
+      "summary": "Production-ready platform for agentic workflow development. 점수 146849, 반응 851 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 143315,
+      "comments": 452,
+      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143315, 반응 452 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "score": 141271,
+      "comments": 154,
+      "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141271, 반응 154 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 140598,
+      "comments": 365,
+      "text": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 140598, 반응 365 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
-      "score": 760,
-      "comments": 142,
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "score": 906,
+      "comments": 356,
       "text": "",
-      "summary": "OpenRA.  점수 760, 반응 142 기준 인기 이슈입니다."
+      "summary": "Anonymous GitHub account mass-dropping undisclosed 0-days. 점수 906, 반응 356 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Marfa Public Radio Puts You to Sleep",
       "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "score": 310,
-      "comments": 83,
+      "score": 357,
+      "comments": 104,
       "text": "",
-      "summary": "Marfa Public Radio Puts You to Sleep. 점수 310, 반응 83 기준 인기 이슈입니다."
+      "summary": "Marfa Public Radio Puts You to Sleep. 점수 357, 반응 104 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Turn your site into a place people can bump into each other",
-      "url": "https://cauenapier.com/blog/townsquare_release/",
-      "score": 270,
-      "comments": 119,
-      "text": "Related: <i>Show HN: TownSquare, a tiny presence layer for websites</i> - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48608570 - June 2026 (166 comments)",
-      "summary": "Turn your site into a place people can bump into each other. Related: Show HN: TownSquare, a tiny presence layer for websites - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48608570 - June 2026 (166 comments) 점수 270, 반응 119 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI learns the “dark art” of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "score": 250,
-      "comments": 162,
+      "title": "EU to legislate about Chat Control behind closed doors",
+      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+      "score": 305,
+      "comments": 178,
       "text": "",
-      "summary": "AI learns the “dark art” of RFIC design. 점수 250, 반응 162 기준 인기 이슈입니다."
+      "summary": "EU to legislate about Chat Control behind closed doors. 점수 305, 반응 178 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Choosing a Public DNS Resolver",
       "url": "https://evilbit.de/dns-resolver-guide.html",
-      "score": 212,
-      "comments": 89,
+      "score": 251,
+      "comments": 106,
       "text": "",
-      "summary": "Choosing a Public DNS Resolver. 점수 212, 반응 89 기준 인기 이슈입니다."
+      "summary": "Choosing a Public DNS Resolver. 점수 251, 반응 106 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Flock cameras track more than your license plate, and they're spreading fast",
+      "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+      "score": 235,
+      "comments": 139,
+      "text": "",
+      "summary": "Flock cameras track more than your license plate, and they're spreading fast. 점수 235, 반응 139 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
       "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "score": 185,
-      "comments": 57,
+      "score": 210,
+      "comments": 63,
       "text": "",
-      "summary": "AMD Strix Halo RDMA Cluster Setup Guide. 점수 185, 반응 57 기준 인기 이슈입니다."
+      "summary": "AMD Strix Halo RDMA Cluster Setup Guide. 점수 210, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "url": "https://decomp-academy.dev",
-      "score": 158,
-      "comments": 59,
-      "text": "Over the past few months I&#x27;ve been heavily involved in the decompilation community. I&#x27;ve been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things worse I had never really touched C nor assembly either.<p>Learning how to decompile was challenging. It&#x27;s difficult to find any good learning resources for it and any open-source projects for this are inactive and&#x2F;or contain little actual learning material.<p>So I put together Decomp Academy! Decomp Academy is an interactive way to learn how to decompile PowerPC assembly back into C. The site runs a live Metrowerks CodeWarrior GC&#x2F;2.0 compiler, converts your C into assembly, and then checks how close your assembly matches the target. If even 1 instruction or bit is off, that&#x27;s a fail. This is the gold standard for video game decompilation and this is much stricter than a normal decompile.<p>As of writing there are 250+ lessons on the site and the lessons start at the very basics so anyone with a little programming experience should be able to jump straight in, even if you&#x27;re not a C expert. Some lessons also have real functions taken from live open source decomp projects (Star Fox Adventures, Mario Party 4, Pikmin, Metroid Prime). The idea being you learn everything you need to know to be able to jump in and contribute to a real decompilation project when done.<p>The site is completely free, open source and you have access to all lessons without having to sign up. All lessons are stored in markdown in the repo (src&#x2F;curriculum), it&#x27;s trivial to add or modify lessons. The site is very new and the lessons are rapidly changing every day with a whole C++ section on the way. The site has already been well received by the decomp community and I&#x27;m happy to share it with HN. I&#x27;m very keen on others to contribute to this project and I hope this becomes the best resource on the internet for learning the art of decompilation. Please let me know what you think!<p>Source: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;JackPriceBurns&#x2F;decomp-academy-fe\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;JackPriceBurns&#x2F;decomp-academy-fe</a>",
-      "summary": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C. Over the past few months I&#x27;ve been heavily involved in the decompilation community. I&#x27;ve been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). 점수 158, 반응 59 기준 인기 이슈입니다."
+      "title": "The curious case of the disappearing Polish S (2015)",
+      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+      "score": 165,
+      "comments": 36,
+      "text": "",
+      "summary": "The curious case of the disappearing Polish S (2015). 점수 165, 반응 36 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
-      "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
-      "score": 104,
-      "comments": 12,
+      "title": "5k Restaurant Menus, Years 1880-1920",
+      "url": "https://pudding.cool/2026/06/menu-collection/",
+      "score": 160,
+      "comments": 37,
       "text": "",
-      "summary": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups. 점수 104, 반응 12 기준 인기 이슈입니다."
+      "summary": "5k Restaurant Menus, Years 1880-1920. 점수 160, 반응 37 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Kids act would require age checks to get online",
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "score": 97,
-      "comments": 87,
+      "title": "EU Open Sources Ten-Year Network Development Planning Tools",
+      "url": "https://github.com/open-energy-transition/open-tyndp",
+      "score": 147,
+      "comments": 34,
       "text": "",
-      "summary": "Kids act would require age checks to get online. 점수 97, 반응 87 기준 인기 이슈입니다."
+      "summary": "EU Open Sources Ten-Year Network Development Planning Tools. 점수 147, 반응 34 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "score": 128,
+      "comments": 88,
+      "text": "",
+      "summary": "A way to exclude sensitive files issue still open for OpenAI Codex. 점수 128, 반응 88 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+      "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+      "score": 118,
+      "comments": 63,
+      "text": "",
+      "summary": "Michigan bill would bar employers from requiring after-hours coms with workers. 점수 118, 반응 63 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google limits Meta's use of its Gemini AI models",
+      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+      "score": 105,
+      "comments": 47,
+      "text": "",
+      "summary": "Google limits Meta's use of its Gemini AI models. 점수 105, 반응 47 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
       "url": "https://github.com/itsthelore/wayfinder-router",
-      "score": 86,
-      "comments": 43,
+      "score": 101,
+      "comments": 50,
       "text": "",
-      "summary": "Wayfinder Router: deterministic routing of queries between local and hosted LLM. 점수 86, 반응 43 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Space Shuttle Endeavour's 20-story vertical display",
-      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
-      "score": 79,
-      "comments": 13,
-      "text": "",
-      "summary": "Space Shuttle Endeavour's 20-story vertical display. 점수 79, 반응 13 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Regular expressions that work “everywhere”",
-      "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
-      "score": 78,
-      "comments": 28,
-      "text": "",
-      "summary": "Regular expressions that work “everywhere”. 점수 78, 반응 28 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Engineering for Bounded Cognition",
-      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
-      "score": 78,
-      "comments": 19,
-      "text": "",
-      "summary": "Engineering for Bounded Cognition. 점수 78, 반응 19 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bashblog – a single bash script to create blogs",
-      "url": "https://github.com/cfenollosa/bashblog",
-      "score": 76,
-      "comments": 54,
-      "text": "",
-      "summary": "Bashblog – a single bash script to create blogs. 점수 76, 반응 54 기준 인기 이슈입니다."
+      "summary": "Wayfinder Router: deterministic routing of queries between local and hosted LLM. 점수 101, 반응 50 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "x2f",
-      "count": 14
-    },
-    {
-      "keyword": "x27",
-      "count": 8
-    },
-    {
-      "keyword": "lessons",
-      "count": 7
-    },
-    {
-      "keyword": "site",
-      "count": 6
-    },
-    {
-      "keyword": "decomp",
-      "count": 6
-    },
-    {
-      "keyword": "decompile",
+      "keyword": "code",
       "count": 4
     },
     {
-      "keyword": "decompilation",
+      "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "assembly",
+      "keyword": "open",
       "count": 4
     },
     {
-      "keyword": "learning",
-      "count": 4
-    },
-    {
-      "keyword": "github",
+      "keyword": "platform",
       "count": 3
     },
     {
-      "keyword": "https",
+      "keyword": "development",
       "count": 3
     },
     {
-      "keyword": "com",
+      "keyword": "tools",
       "count": 3
     },
     {
-      "keyword": "academy",
-      "count": 3
+      "keyword": "openclaw",
+      "count": 2
     },
     {
-      "keyword": "learn",
-      "count": 3
+      "keyword": "any",
+      "count": 2
     },
     {
-      "keyword": "been",
-      "count": 3
+      "keyword": "way",
+      "count": 2
+    },
+    {
+      "keyword": "agentic",
+      "count": 2
+    },
+    {
+      "keyword": "agent",
+      "count": 2
+    },
+    {
+      "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "use",
+      "count": 2
     }
   ],
   "meta": {
