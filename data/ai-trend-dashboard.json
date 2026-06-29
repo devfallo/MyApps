@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T21:43:46.845946+00:00",
+  "updatedAt": "2026-06-29T23:15:50.333069+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 380995,
-      "comments": 6627,
+      "score": 381013,
+      "comments": 6632,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 380995, 반응 6627 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 381013, 반응 6632 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 241459,
+      "score": 241484,
       "comments": 292,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 241459, 반응 292 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 241484, 반응 292 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 205659,
-      "comments": 24387,
+      "score": 205692,
+      "comments": 24422,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 205659, 반응 24387 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 205692, 반응 24422 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 194533,
-      "comments": 1463,
+      "score": 194540,
+      "comments": 1465,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194533, 반응 1463 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194540, 반응 1465 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185212,
+      "score": 185216,
       "comments": 459,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185212, 반응 459 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185216, 반응 459 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164519,
+      "score": 164520,
       "comments": 60,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164519, 반응 60 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164520, 반응 60 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163939,
+      "score": 163940,
       "comments": 2494,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163939, 반응 2494 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163940, 반응 2494 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,154 +82,154 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 146993,
+      "score": 146996,
       "comments": 854,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 146993, 반응 854 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 146996, 반응 854 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 143455,
-      "comments": 241,
+      "score": 143460,
+      "comments": 242,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143455, 반응 241 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143460, 반응 242 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 141462,
-      "comments": 372,
+      "score": 141486,
+      "comments": 373,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 141462, 반응 372 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 141486, 반응 373 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141323,
+      "score": 141324,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141323, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141324, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 439,
-      "comments": 400,
+      "score": 520,
+      "comments": 457,
       "text": "",
-      "summary": "Qwen 3.6 27B is the sweet spot for local development. 점수 439, 반응 400 기준 인기 이슈입니다."
+      "summary": "Qwen 3.6 27B is the sweet spot for local development. 점수 520, 반응 457 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "US Supreme Court rules geofence warrants require constitutional protections",
       "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 331,
-      "comments": 151,
+      "score": 378,
+      "comments": 176,
       "text": "",
-      "summary": "US Supreme Court rules geofence warrants require constitutional protections. 점수 331, 반응 151 기준 인기 이슈입니다."
+      "summary": "US Supreme Court rules geofence warrants require constitutional protections. 점수 378, 반응 176 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 316,
-      "comments": 189,
+      "score": 332,
+      "comments": 206,
       "text": "",
-      "summary": "Rocketlab acquires Iridium. 점수 316, 반응 189 기준 인기 이슈입니다."
+      "summary": "Rocketlab acquires Iridium. 점수 332, 반응 206 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
       "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-      "score": 291,
-      "comments": 149,
+      "score": 329,
+      "comments": 158,
       "text": "",
-      "summary": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing. 점수 291, 반응 149 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
-      "url": "https://twitter.com/i/status/2071277885646868536",
-      "score": 291,
-      "comments": 130,
-      "text": "",
-      "summary": "Instagram is incorporating users' photos in ads for Meta Glasses. 점수 291, 반응 130 기준 인기 이슈입니다."
+      "summary": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing. 점수 329, 반응 158 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
       "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
-      "score": 289,
-      "comments": 72,
+      "score": 321,
+      "comments": 83,
       "text": "",
-      "summary": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage. 점수 289, 반응 72 기준 인기 이슈입니다."
+      "summary": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage. 점수 321, 반응 83 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 212,
+      "comments": 134,
+      "text": "",
+      "summary": ".self: A new top-level domain designed to support self-hosting. 점수 212, 반응 134 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A native graphical shell for SSH",
       "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 191,
-      "comments": 83,
+      "score": 212,
+      "comments": 99,
       "text": "",
-      "summary": "A native graphical shell for SSH. 점수 191, 반응 83 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Halvar's Guide to Entrepreneurship",
-      "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
-      "score": 186,
-      "comments": 42,
-      "text": "",
-      "summary": "Halvar's Guide to Entrepreneurship. 점수 186, 반응 42 기준 인기 이슈입니다."
+      "summary": "A native graphical shell for SSH. 점수 212, 반응 99 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What happens when you run a CUDA kernel?",
       "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "score": 180,
-      "comments": 17,
+      "score": 192,
+      "comments": 24,
       "text": "",
-      "summary": "What happens when you run a CUDA kernel?. 점수 180, 반응 17 기준 인기 이슈입니다."
+      "summary": "What happens when you run a CUDA kernel?. 점수 192, 반응 24 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+      "score": 169,
+      "comments": 75,
+      "text": "",
+      "summary": "30-year sentence for transporting zines is a five-alarm fire for free speech. 점수 169, 반응 75 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
       "url": "https://humphri.es/blog/WATaBoy/",
-      "score": 156,
-      "comments": 22,
+      "score": 165,
+      "comments": 25,
       "text": "",
-      "summary": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter. 점수 156, 반응 22 기준 인기 이슈입니다."
+      "summary": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter. 점수 165, 반응 25 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Sandia National Labs SA3000 8085 CPU",
       "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-      "score": 140,
+      "score": 151,
       "comments": 38,
       "text": "",
-      "summary": "Sandia National Labs SA3000 8085 CPU. 점수 140, 반응 38 기준 인기 이슈입니다."
+      "summary": "Sandia National Labs SA3000 8085 CPU. 점수 151, 반응 38 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 104,
-      "comments": 25,
+      "score": 127,
+      "comments": 28,
       "text": "",
-      "summary": "Ornith-1.0: self-improving open-source models for agentic coding. 점수 104, 반응 25 기준 인기 이슈입니다."
+      "summary": "Ornith-1.0: self-improving open-source models for agentic coding. 점수 127, 반응 28 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Dark Sky Lighting",
       "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-      "score": 101,
-      "comments": 11,
+      "score": 119,
+      "comments": 16,
       "text": "",
-      "summary": "Dark Sky Lighting.  점수 101, 반응 11 기준 인기 이슈입니다."
+      "summary": "Dark Sky Lighting.  점수 119, 반응 16 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -286,11 +286,11 @@
       "count": 2
     },
     {
-      "keyword": "open",
+      "keyword": "free",
       "count": 2
     },
     {
-      "keyword": "web",
+      "keyword": "open",
       "count": 2
     }
   ],
