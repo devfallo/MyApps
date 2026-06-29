@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T11:23:18.191679+00:00",
+  "updatedAt": "2026-06-29T16:10:46.634248+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 380945,
-      "comments": 6585,
+      "score": 380972,
+      "comments": 6628,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 380945, 반응 6585 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 380972, 반응 6628 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 241156,
-      "comments": 289,
+      "score": 241349,
+      "comments": 290,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 241156, 반응 289 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 241349, 반응 290 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 205390,
-      "comments": 24109,
+      "score": 205548,
+      "comments": 24219,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 205390, 반응 24109 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 205548, 반응 24219 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 194465,
-      "comments": 1471,
+      "score": 194505,
+      "comments": 1470,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194465, 반응 1471 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194505, 반응 1470 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185201,
-      "comments": 453,
+      "score": 185208,
+      "comments": 456,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185201, 반응 453 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185208, 반응 456 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164508,
+      "score": 164515,
       "comments": 60,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164508, 반응 60 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164515, 반응 60 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,169 +73,169 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156678,
+      "score": 156689,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156678, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156689, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 146958,
-      "comments": 850,
+      "score": 146987,
+      "comments": 848,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 146958, 반응 850 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 146987, 반응 848 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 143411,
-      "comments": 298,
+      "score": 143434,
+      "comments": 291,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143411, 반응 298 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141300,
-      "comments": 154,
-      "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141300, 반응 154 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143434, 반응 291 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 141144,
-      "comments": 369,
+      "score": 141337,
+      "comments": 370,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 141144, 반응 369 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 141337, 반응 370 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "score": 141313,
+      "comments": 154,
+      "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141313, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GLM 5.2 beats Claude in our benchmarks",
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 885,
-      "comments": 410,
+      "score": 1033,
+      "comments": 472,
       "text": "",
-      "summary": "GLM 5.2 beats Claude in our benchmarks. 점수 885, 반응 410 기준 인기 이슈입니다."
+      "summary": "GLM 5.2 beats Claude in our benchmarks. 점수 1033, 반응 472 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Age verification is just a precursor to automated attribution of speech",
       "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "score": 557,
-      "comments": 318,
+      "score": 815,
+      "comments": 492,
       "text": "",
-      "summary": "Age verification is just a precursor to automated attribution of speech. 점수 557, 반응 318 기준 인기 이슈입니다."
+      "summary": "Age verification is just a precursor to automated attribution of speech. 점수 815, 반응 492 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
       "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "score": 522,
-      "comments": 210,
+      "score": 792,
+      "comments": 335,
       "text": "",
-      "summary": "HackerRank open sourced its ATS. My resume scored 90/100. 점수 522, 반응 210 기준 인기 이슈입니다."
+      "summary": "HackerRank open sourced its ATS. My resume scored 90/100. 점수 792, 반응 335 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The KIDS Act would require age checks to get online",
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "score": 509,
-      "comments": 407,
-      "text": "<a href=\"https:&#x2F;&#x2F;act.eff.org&#x2F;action&#x2F;tell-congress-don-t-force-age-checks-online\" rel=\"nofollow\">https:&#x2F;&#x2F;act.eff.org&#x2F;action&#x2F;tell-congress-don-t-force-age-che...</a>",
-      "summary": "The KIDS Act would require age checks to get online. https:&#x2F;&#x2F;act.eff.org&#x2F;action&#x2F;tell-congress-don-t-force-age-che... 점수 509, 반응 407 기준 인기 이슈입니다."
+      "title": "Pollen tried to remove my article and Google is assisting with it",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "score": 640,
+      "comments": 94,
+      "text": "",
+      "summary": "Pollen tried to remove my article and Google is assisting with it. 점수 640, 반응 94 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I used Claude Code to get a second opinion on my MRI",
       "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 448,
-      "comments": 585,
+      "score": 528,
+      "comments": 651,
       "text": "",
-      "summary": "I used Claude Code to get a second opinion on my MRI. 점수 448, 반응 585 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "score": 422,
-      "comments": 561,
-      "text": "",
-      "summary": "Professor denounces mass AI fraud on an exam at Brown. 점수 422, 반응 561 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Librepods: AirPods liberated",
-      "url": "https://github.com/librepods-org/librepods",
-      "score": 407,
-      "comments": 138,
-      "text": "",
-      "summary": "Librepods: AirPods liberated. 점수 407, 반응 138 기준 인기 이슈입니다."
+      "summary": "I used Claude Code to get a second opinion on my MRI. 점수 528, 반응 651 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
       "url": "https://pudding.cool/2026/06/menu-story/",
-      "score": 376,
-      "comments": 96,
+      "score": 395,
+      "comments": 106,
       "text": "<a href=\"https:&#x2F;&#x2F;pudding.cool&#x2F;2026&#x2F;06&#x2F;menu-collection&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;pudding.cool&#x2F;2026&#x2F;06&#x2F;menu-collection&#x2F;</a>",
-      "summary": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920). https:&#x2F;&#x2F;pudding.cool&#x2F;2026&#x2F;06&#x2F;menu-collection&#x2F; 점수 376, 반응 96 기준 인기 이슈입니다."
+      "summary": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920). https:&#x2F;&#x2F;pudding.cool&#x2F;2026&#x2F;06&#x2F;menu-collection&#x2F; 점수 395, 반응 106 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Historical memory prices 1960-2026",
       "url": "https://dam.stanford.edu/memory-prices.html",
-      "score": 322,
-      "comments": 119,
+      "score": 379,
+      "comments": 144,
       "text": "",
-      "summary": "Historical memory prices 1960-2026. 점수 322, 반응 119 기준 인기 이슈입니다."
+      "summary": "Historical memory prices 1960-2026. 점수 379, 반응 144 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Zanagrams",
-      "url": "https://zanagrams.com/",
-      "score": 299,
-      "comments": 73,
+      "title": "Tidal AI Policy",
+      "url": "https://tidal.com/ai-policy",
+      "score": 182,
+      "comments": 213,
       "text": "",
-      "summary": "Show HN: Zanagrams.  점수 299, 반응 73 기준 인기 이슈입니다."
+      "summary": "Tidal AI Policy.  점수 182, 반응 213 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "url": "https://github.com/openai/codex/issues/2847",
-      "score": 211,
-      "comments": 133,
+      "title": "We found a bug in the hyper HTTP library",
+      "url": "https://blog.cloudflare.com/hyper-bug/",
+      "score": 140,
+      "comments": 62,
       "text": "",
-      "summary": "A way to exclude sensitive files issue still open for OpenAI Codex. 점수 211, 반응 133 기준 인기 이슈입니다."
+      "summary": "We found a bug in the hyper HTTP library. 점수 140, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "score": 200,
-      "comments": 25,
+      "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
+      "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
+      "score": 139,
+      "comments": 62,
       "text": "",
-      "summary": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped. 점수 200, 반응 25 기준 인기 이슈입니다."
+      "summary": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing. 점수 139, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The Boeing 747 begins its final descent",
-      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-      "score": 196,
-      "comments": 285,
+      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
+      "url": "https://twitter.com/i/status/2071277885646868536",
+      "score": 138,
+      "comments": 54,
       "text": "",
-      "summary": "The Boeing 747 begins its final descent. 점수 196, 반응 285 기준 인기 이슈입니다."
+      "summary": "Instagram is incorporating users' photos in ads for Meta Glasses. 점수 138, 반응 54 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+      "score": 131,
+      "comments": 20,
+      "text": "",
+      "summary": "Dissecting Apple's Sparse Image Format (ASIF). 점수 131, 반응 20 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "score": 118,
+      "comments": 76,
+      "text": "",
+      "summary": "Herdr: Agent multiplexer that lives in your terminal. 점수 118, 반응 76 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 20
+      "count": 12
     },
     {
       "keyword": "code",
@@ -246,23 +246,19 @@
       "count": 4
     },
     {
-      "keyword": "open",
-      "count": 4
-    },
-    {
-      "keyword": "https",
-      "count": 4
-    },
-    {
       "keyword": "platform",
       "count": 3
     },
     {
-      "keyword": "claude",
+      "keyword": "agent",
       "count": 3
     },
     {
-      "keyword": "act",
+      "keyword": "open",
+      "count": 3
+    },
+    {
+      "keyword": "claude",
       "count": 3
     },
     {
@@ -274,10 +270,6 @@
       "count": 2
     },
     {
-      "keyword": "way",
-      "count": 2
-    },
-    {
       "keyword": "agentic",
       "count": 2
     },
@@ -286,11 +278,19 @@
       "count": 2
     },
     {
-      "keyword": "agent",
+      "keyword": "workflow",
       "count": 2
     },
     {
-      "keyword": "workflow",
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "our",
       "count": 2
     }
   ],
