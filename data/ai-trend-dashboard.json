@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T20:18:43.771143+00:00",
+  "updatedAt": "2026-06-30T23:37:28.799539+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 381160,
-      "comments": 6734,
+      "score": 381176,
+      "comments": 6747,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 381160, 반응 6734 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 381176, 반응 6747 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 242378,
-      "comments": 297,
+      "score": 242463,
+      "comments": 299,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 242378, 반응 297 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 242463, 반응 299 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 206405,
-      "comments": 24726,
+      "score": 206461,
+      "comments": 24721,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 206405, 반응 24726 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 206461, 반응 24721 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 194685,
-      "comments": 1445,
+      "score": 194693,
+      "comments": 1451,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194685, 반응 1445 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194693, 반응 1451 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185217,
+      "score": 185219,
       "comments": 456,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185217, 반응 456 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185219, 반응 456 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164567,
+      "score": 164569,
       "comments": 59,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164567, 반응 59 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164569, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163951,
+      "score": 163950,
       "comments": 2493,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163951, 반응 2493 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163950, 반응 2493 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,157 +82,165 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 147134,
+      "score": 147144,
       "comments": 860,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 147134, 반응 860 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 147144, 반응 860 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 143579,
-      "comments": 265,
+      "score": 143593,
+      "comments": 268,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143579, 반응 265 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143593, 반응 268 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 142080,
+      "score": 142164,
       "comments": 375,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 142080, 반응 375 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 142164, 반응 375 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141352,
+      "score": 141359,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141352, 반응 154 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 1122,
-      "comments": 699,
-      "text": "",
-      "summary": "Qwen 3.6 27B is the sweet spot for local development. 점수 1122, 반응 699 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141359, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 939,
-      "comments": 251,
+      "score": 1292,
+      "comments": 365,
       "text": "",
-      "summary": "Claude Code is steganographically marking requests. 점수 939, 반응 251 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Free the Icons",
-      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 650,
-      "comments": 239,
-      "text": "",
-      "summary": "Free the Icons.  점수 650, 반응 239 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 649,
-      "comments": 361,
-      "text": "",
-      "summary": ".self: A new top-level domain designed to support self-hosting. 점수 649, 반응 361 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Open Source Low Tech",
-      "url": "https://opensourcelowtech.org/",
-      "score": 586,
-      "comments": 120,
-      "text": "",
-      "summary": "Open Source Low Tech. 점수 586, 반응 120 기준 인기 이슈입니다."
+      "summary": "Claude Code is steganographically marking requests. 점수 1292, 반응 365 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 544,
-      "comments": 284,
+      "score": 797,
+      "comments": 453,
       "text": "",
-      "summary": "Claude Sonnet 5.  점수 544, 반응 284 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The labor share of income in the US is at its lowest post-war level",
-      "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-      "score": 425,
-      "comments": 438,
-      "text": "",
-      "summary": "The labor share of income in the US is at its lowest post-war level. 점수 425, 반응 438 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
-      "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
-      "score": 312,
-      "comments": 144,
-      "text": "",
-      "summary": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'. 점수 312, 반응 144 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "url": "https://karolina.mgdubiel.com/drone/",
-      "score": 277,
-      "comments": 58,
-      "text": "",
-      "summary": "Building a custom octocopter from scratch with no prior hardware experience. 점수 277, 반응 58 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 259,
-      "comments": 76,
-      "text": "",
-      "summary": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active. 점수 259, 반응 76 기준 인기 이슈입니다."
+      "summary": "Claude Sonnet 5.  점수 797, 반응 453 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Science",
       "url": "https://claude.com/product/claude-science",
-      "score": 214,
-      "comments": 80,
+      "score": 326,
+      "comments": 109,
       "text": "",
-      "summary": "Claude Science.  점수 214, 반응 80 기준 인기 이슈입니다."
+      "summary": "Claude Science.  점수 326, 반응 109 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Memory Safe Context Switching",
-      "url": "https://fil-c.org/context_switches",
-      "score": 198,
-      "comments": 30,
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "url": "https://karolina.mgdubiel.com/drone/",
+      "score": 317,
+      "comments": 69,
       "text": "",
-      "summary": "Memory Safe Context Switching. 점수 198, 반응 30 기준 인기 이슈입니다."
+      "summary": "Building a custom octocopter from scratch with no prior hardware experience. 점수 317, 반응 69 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nano Banana 2 Lite",
       "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "score": 192,
-      "comments": 67,
+      "score": 279,
+      "comments": 105,
       "text": "",
-      "summary": "Nano Banana 2 Lite.  점수 192, 반응 67 기준 인기 이슈입니다."
+      "summary": "Nano Banana 2 Lite.  점수 279, 반응 105 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Knoppix",
+      "url": "https://www.knopper.net/knoppix/index-en.html",
+      "score": 234,
+      "comments": 96,
+      "text": "",
+      "summary": "Knoppix.  점수 234, 반응 96 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+      "url": "https://www.gutenberg.org/ebooks/24518",
+      "score": 159,
+      "comments": 52,
+      "text": "",
+      "summary": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852). 점수 159, 반응 52 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I ported Kubernetes to the browser",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "score": 130,
+      "comments": 31,
+      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;webernetes\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;webernetes</a><p><a href=\"https:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;</a>",
+      "summary": "I ported Kubernetes to the browser. https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;webernetes https:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F; 점수 130, 반응 31 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I built a mmWave material classification radar (2025)",
+      "url": "https://gauthier-lechevalier.com/radar",
+      "score": 122,
+      "comments": 33,
+      "text": "",
+      "summary": "I built a mmWave material classification radar (2025). 점수 122, 반응 33 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Amazon seller reveals glimpse of shadow bribery market",
+      "url": "https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers",
+      "score": 99,
+      "comments": 56,
+      "text": "",
+      "summary": "Amazon seller reveals glimpse of shadow bribery market. 점수 99, 반응 56 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
+      "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
+      "score": 90,
+      "comments": 22,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.nikhef.nl&#x2F;en&#x2F;news&#x2F;final-run-for-the-current-lhc-accelerator-but-more-to-come&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nikhef.nl&#x2F;en&#x2F;news&#x2F;final-run-for-the-current-lhc-...</a>",
+      "summary": "CERN bids farewell to the LHC and enters Long Shutdown 3. https:&#x2F;&#x2F;www.nikhef.nl&#x2F;en&#x2F;news&#x2F;final-run-for-the-current-lhc-... 점수 90, 반응 22 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Have you restarted your computer this week?",
+      "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
+      "score": 89,
+      "comments": 196,
+      "text": "",
+      "summary": "Have you restarted your computer this week?. 점수 89, 반응 196 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Waveloop: What Fable left me",
+      "url": "https://neynt.ca/writing/waveloop/",
+      "score": 81,
+      "comments": 22,
+      "text": "",
+      "summary": "Waveloop: What Fable left me. 점수 81, 반응 22 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 25
+    },
+    {
+      "keyword": "https",
+      "count": 6
+    },
     {
       "keyword": "code",
       "count": 5
@@ -246,15 +254,27 @@
       "count": 4
     },
     {
+      "keyword": "ngrok",
+      "count": 4
+    },
+    {
       "keyword": "platform",
       "count": 3
     },
     {
-      "keyword": "development",
+      "keyword": "app",
       "count": 3
     },
     {
-      "keyword": "open",
+      "keyword": "href",
+      "count": 3
+    },
+    {
+      "keyword": "rel",
+      "count": 3
+    },
+    {
+      "keyword": "nofollow",
       "count": 3
     },
     {
@@ -270,27 +290,7 @@
       "count": 2
     },
     {
-      "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "custom",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
+      "keyword": "development",
       "count": 2
     }
   ],
