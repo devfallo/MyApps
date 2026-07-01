@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T21:51:19.000332+00:00",
+  "updatedAt": "2026-07-01T23:43:09.646049+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 381318,
-      "comments": 6745,
+      "score": 381335,
+      "comments": 6744,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 381318, 반응 6745 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 381335, 반응 6744 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 243400,
+      "score": 243429,
       "comments": 295,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 243400, 반응 295 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 243429, 반응 295 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 207219,
-      "comments": 24690,
+      "score": 207264,
+      "comments": 24710,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 207219, 반응 24690 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 207264, 반응 24710 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 194806,
-      "comments": 1431,
+      "score": 194820,
+      "comments": 1434,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194806, 반응 1431 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194820, 반응 1434 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185234,
+      "score": 185238,
       "comments": 459,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185234, 반응 459 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185238, 반응 459 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164598,
+      "score": 164599,
       "comments": 59,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164598, 반응 59 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164599, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163885,
+      "score": 163886,
       "comments": 2493,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163885, 반응 2493 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163886, 반응 2493 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,183 +82,199 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 147276,
+      "score": 147283,
       "comments": 860,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 147276, 반응 860 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 147283, 반응 860 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 143724,
+      "score": 143729,
       "comments": 258,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143724, 반응 258 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143729, 반응 258 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 142736,
-      "comments": 380,
+      "score": 142763,
+      "comments": 381,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 142736, 반응 380 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 142763, 반응 381 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141399,
+      "score": 141404,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141399, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141404, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "For first time, a cell built from scratch grows and divides",
       "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 614,
-      "comments": 210,
+      "score": 677,
+      "comments": 227,
       "text": "<a href=\"https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F;</a>",
-      "summary": "For first time, a cell built from scratch grows and divides. https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F; 점수 614, 반응 210 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Asahi Linux 7.1 Progress Report",
-      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-      "score": 510,
-      "comments": 183,
-      "text": "",
-      "summary": "Asahi Linux 7.1 Progress Report. 점수 510, 반응 183 기준 인기 이슈입니다."
+      "summary": "For first time, a cell built from scratch grows and divides. https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F; 점수 677, 반응 227 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
       "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "score": 474,
-      "comments": 538,
+      "score": 554,
+      "comments": 585,
       "text": "",
-      "summary": "Physical disc production ending in Jan 2028 for new games on PlayStation. 점수 474, 반응 538 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-      "score": 440,
-      "comments": 199,
-      "text": "",
-      "summary": "Sony Deletes 551 Movies PlayStation Owners Paid For. 점수 440, 반응 199 기준 인기 이슈입니다."
+      "summary": "Physical disc production ending in Jan 2028 for new games on PlayStation. 점수 554, 반응 585 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Box3D, an open source 3D physics engine",
       "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-      "score": 356,
-      "comments": 81,
+      "score": 390,
+      "comments": 86,
       "text": "",
-      "summary": "Box3D, an open source 3D physics engine. 점수 356, 반응 81 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "ZCode: Claude Code from the Makers of GLM",
-      "url": "https://zcode.z.ai/cn",
-      "score": 246,
-      "comments": 128,
-      "text": "",
-      "summary": "ZCode: Claude Code from the Makers of GLM. 점수 246, 반응 128 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Internal Combustion Engine (2021)",
-      "url": "https://ciechanow.ski/internal-combustion-engine/",
-      "score": 245,
-      "comments": 55,
-      "text": "",
-      "summary": "Internal Combustion Engine (2021). 점수 245, 반응 55 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
-      "url": "https://blog.cloudflare.com/monetization-gateway/",
-      "score": 209,
-      "comments": 122,
-      "text": "",
-      "summary": "Monetization Gateway: Charge for any resource behind Cloudflare via x402. 점수 209, 반응 122 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "score": 205,
-      "comments": 73,
-      "text": "",
-      "summary": "FFmpeg 9.1's new AAC encoder. 점수 205, 반응 73 기준 인기 이슈입니다."
+      "summary": "Box3D, an open source 3D physics engine. 점수 390, 반응 86 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Fable 5 Is Back",
       "url": "https://twitter.com/claudeai/status/2072402636813607381",
-      "score": 193,
-      "comments": 162,
+      "score": 275,
+      "comments": 249,
       "text": "",
-      "summary": "Fable 5 Is Back.  점수 193, 반응 162 기준 인기 이슈입니다."
+      "summary": "Fable 5 Is Back.  점수 275, 반응 249 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Internal Combustion Engine (2021)",
+      "url": "https://ciechanow.ski/internal-combustion-engine/",
+      "score": 267,
+      "comments": 63,
+      "text": "",
+      "summary": "Internal Combustion Engine (2021). 점수 267, 반응 63 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "score": 254,
+      "comments": 86,
+      "text": "",
+      "summary": "FFmpeg 9.1's new AAC encoder. 점수 254, 반응 86 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
+      "url": "https://blog.cloudflare.com/monetization-gateway/",
+      "score": 230,
+      "comments": 141,
+      "text": "",
+      "summary": "Monetization Gateway: Charge for any resource behind Cloudflare via x402. 점수 230, 반응 141 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What to learn to be a graphics programmer",
       "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-      "score": 164,
-      "comments": 68,
+      "score": 202,
+      "comments": 103,
       "text": "",
-      "summary": "What to learn to be a graphics programmer. 점수 164, 반응 68 기준 인기 이슈입니다."
+      "summary": "What to learn to be a graphics programmer. 점수 202, 반응 103 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ask HN: Who is hiring? (July 2026)",
       "url": "https://news.ycombinator.com/item?id=48747976",
-      "score": 123,
-      "comments": 141,
+      "score": 149,
+      "comments": 156,
       "text": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don&#x27;t reply to job posts to complain about\nsomething. It&#x27;s off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-who-is-hiring\" rel=\"nofollow\">https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-who-is-hiring</a>, <a href=\"https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;</a>,\n<a href=\"http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;</a>, <a href=\"https:&#x2F;&#x2F;hnjobs.emilburzo.com\" rel=\"nofollow\">https:&#x2F;&#x2F;hnjobs.emilburzo.com</a>.<p>Don&#x27;t miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48747975\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48747975</a>",
-      "summary": "Ask HN: Who is hiring? Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. 점수 123, 반응 141 기준 인기 이슈입니다."
+      "summary": "Ask HN: Who is hiring? Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. 점수 149, 반응 156 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "1-Bit Pixel Art Emojis",
-      "url": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
-      "score": 122,
-      "comments": 17,
+      "title": "How We Made IPFS Content Publishing 10x Faster",
+      "url": "https://probelab.io/blog/optimistic-provide/",
+      "score": 137,
+      "comments": 46,
       "text": "",
-      "summary": "1-Bit Pixel Art Emojis. 점수 122, 반응 17 기준 인기 이슈입니다."
+      "summary": "How We Made IPFS Content Publishing 10x Faster. 점수 137, 반응 46 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "url": "https://www.workerowned.info/",
+      "score": 135,
+      "comments": 23,
+      "text": "",
+      "summary": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops. 점수 135, 반응 23 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "score": 118,
+      "comments": 179,
+      "text": "",
+      "summary": "ZCode – Harness for GLM-5.2. 점수 118, 반응 179 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Who wants to be hired? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48747975",
+      "score": 101,
+      "comments": 231,
+      "text": "Share your information if you are looking for work. Please use this format:<p><pre><code>  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n</code></pre>\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.<p>Readers: please only email these addresses to discuss work opportunities.<p>Searchers: try <a href=\"https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-wants-to-be-hired\" rel=\"nofollow\">https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-wants-to-be-hired</a>, <a href=\"https:&#x2F;&#x2F;www.wantstobehired.com\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wantstobehired.com</a>.",
+      "summary": "Ask HN: Who wants to be hired? Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé&#x2F;CV: Email: Please only post if you are personally looking for work. 점수 101, 반응 231 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 44
+      "count": 57
     },
     {
       "keyword": "https",
-      "count": 10
+      "count": 14
     },
     {
       "keyword": "href",
-      "count": 6
-    },
-    {
-      "keyword": "code",
-      "count": 5
-    },
-    {
-      "keyword": "rel",
-      "count": 5
-    },
-    {
-      "keyword": "nofollow",
-      "count": 5
+      "count": 8
     },
     {
       "keyword": "please",
+      "count": 8
+    },
+    {
+      "keyword": "rel",
+      "count": 7
+    },
+    {
+      "keyword": "nofollow",
+      "count": 7
+    },
+    {
+      "keyword": "code",
+      "count": 6
+    },
+    {
+      "keyword": "com",
+      "count": 6
+    },
+    {
+      "keyword": "remote",
+      "count": 5
+    },
+    {
+      "keyword": "work",
+      "count": 5
+    },
+    {
+      "keyword": "only",
       "count": 5
     },
     {
@@ -266,32 +282,16 @@
       "count": 4
     },
     {
-      "keyword": "remote",
+      "keyword": "post",
+      "count": 4
+    },
+    {
+      "keyword": "job",
       "count": 4
     },
     {
       "keyword": "x27",
       "count": 4
-    },
-    {
-      "keyword": "github",
-      "count": 4
-    },
-    {
-      "keyword": "hnjobs",
-      "count": 4
-    },
-    {
-      "keyword": "com",
-      "count": 4
-    },
-    {
-      "keyword": "any",
-      "count": 3
-    },
-    {
-      "keyword": "platform",
-      "count": 3
     }
   ],
   "meta": {
