@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T13:11:32.803351+00:00",
+  "updatedAt": "2026-07-01T16:39:20.726737+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 381265,
-      "comments": 6743,
+      "score": 381295,
+      "comments": 6737,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 381265, 반응 6743 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 381295, 반응 6737 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 243175,
-      "comments": 298,
+      "score": 243312,
+      "comments": 301,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 243175, 반응 298 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 243312, 반응 301 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 206953,
-      "comments": 24540,
+      "score": 207087,
+      "comments": 24599,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 206953, 반응 24540 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 207087, 반응 24599 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 194761,
-      "comments": 1429,
+      "score": 194779,
+      "comments": 1428,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194761, 반응 1429 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194779, 반응 1428 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185226,
-      "comments": 453,
+      "score": 185228,
+      "comments": 456,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185226, 반응 453 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185228, 반응 456 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -64,10 +64,10 @@
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163877,
+      "score": 163884,
       "comments": 2493,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163877, 반응 2493 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163884, 반응 2493 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,179 +82,171 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 147239,
-      "comments": 863,
+      "score": 147263,
+      "comments": 861,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 147239, 반응 863 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 147263, 반응 861 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 143681,
-      "comments": 244,
+      "score": 143696,
+      "comments": 251,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143681, 반응 244 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143696, 반응 251 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 142530,
-      "comments": 377,
+      "score": 142621,
+      "comments": 378,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 142530, 반응 377 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 142621, 반응 378 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141389,
+      "score": 141395,
       "comments": 155,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141389, 반응 155 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141395, 반응 155 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 2209,
-      "comments": 638,
+      "score": 2322,
+      "comments": 693,
       "text": "",
-      "summary": "Claude Code is steganographically marking requests. 점수 2209, 반응 638 기준 인기 이슈입니다."
+      "summary": "Claude Code is steganographically marking requests. 점수 2322, 반응 693 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 1171,
-      "comments": 706,
+      "score": 1216,
+      "comments": 751,
       "text": "",
-      "summary": "Claude Sonnet 5.  점수 1171, 반응 706 기준 인기 이슈입니다."
+      "summary": "Claude Sonnet 5.  점수 1216, 반응 751 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 773,
-      "comments": 478,
+      "score": 844,
+      "comments": 556,
       "text": "",
-      "summary": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. 점수 773, 반응 478 기준 인기 이슈입니다."
+      "summary": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. 점수 844, 반응 556 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
-      "score": 516,
-      "comments": 149,
+      "title": "Most arguments are about ego, not ideas",
+      "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+      "score": 511,
+      "comments": 395,
       "text": "",
-      "summary": "Claude Science.  점수 516, 반응 149 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nano Banana 2 Lite",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "score": 402,
-      "comments": 164,
-      "text": "",
-      "summary": "Nano Banana 2 Lite.  점수 402, 반응 164 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "url": "https://karolina.mgdubiel.com/drone/",
-      "score": 390,
-      "comments": 80,
-      "text": "",
-      "summary": "Building a custom octocopter from scratch with no prior hardware experience. 점수 390, 반응 80 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "score": 341,
-      "comments": 210,
-      "text": "",
-      "summary": "Godot will no longer accept AI-authored code contributions. 점수 341, 반응 210 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I ported Kubernetes to the browser",
-      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-      "score": 304,
-      "comments": 89,
-      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;webernetes\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;webernetes</a><p><a href=\"https:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;</a>",
-      "summary": "I ported Kubernetes to the browser. https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;webernetes https:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F; 점수 304, 반응 89 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
-      "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
-      "score": 272,
-      "comments": 89,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.nikhef.nl&#x2F;en&#x2F;news&#x2F;final-run-for-the-current-lhc-accelerator-but-more-to-come&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nikhef.nl&#x2F;en&#x2F;news&#x2F;final-run-for-the-current-lhc-...</a>",
-      "summary": "CERN bids farewell to the LHC and enters Long Shutdown 3. https:&#x2F;&#x2F;www.nikhef.nl&#x2F;en&#x2F;news&#x2F;final-run-for-the-current-lhc-... 점수 272, 반응 89 기준 인기 이슈입니다."
+      "summary": "Most arguments are about ego, not ideas. 점수 511, 반응 395 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Asahi Linux 7.1 Progress Report",
       "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-      "score": 265,
-      "comments": 55,
+      "score": 431,
+      "comments": 135,
       "text": "",
-      "summary": "Asahi Linux 7.1 Progress Report. 점수 265, 반응 55 기준 인기 이슈입니다."
+      "summary": "Asahi Linux 7.1 Progress Report. 점수 431, 반응 135 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Leanstral 1.5",
-      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-      "score": 259,
-      "comments": 106,
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "score": 351,
+      "comments": 177,
       "text": "",
-      "summary": "Leanstral 1.5.  점수 259, 반응 106 기준 인기 이슈입니다."
+      "summary": "Nintendo has raised its employees base salary by 10%. 점수 351, 반응 177 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google copybara: moving code between repositories",
       "url": "https://github.com/google/copybara",
-      "score": 243,
-      "comments": 45,
+      "score": 278,
+      "comments": 54,
       "text": "",
-      "summary": "Google copybara: moving code between repositories. 점수 243, 반응 45 기준 인기 이슈입니다."
+      "summary": "Google copybara: moving code between repositories. 점수 278, 반응 54 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "How does a pull-back car work? Illustrated teardown",
-      "url": "https://mechanical-pencil.com/products/car",
-      "score": 226,
-      "comments": 38,
+      "title": "ArXiv's Next Chapter",
+      "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+      "score": 234,
+      "comments": 70,
       "text": "",
-      "summary": "How does a pull-back car work? Illustrated teardown. 점수 226, 반응 38 기준 인기 이슈입니다."
+      "summary": "ArXiv's Next Chapter. 점수 234, 반응 70 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "score": 213,
+      "comments": 55,
+      "text": "<a href=\"https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F;</a>",
+      "summary": "For first time, a cell built from scratch grows and divides. https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F; 점수 213, 반응 55 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Newly discovered spider builds spring loaded snare to catch ants",
+      "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+      "score": 197,
+      "comments": 43,
+      "text": "",
+      "summary": "Newly discovered spider builds spring loaded snare to catch ants. 점수 197, 반응 43 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "score": 176,
+      "comments": 216,
+      "text": "",
+      "summary": "Physical disc production ending in Jan 2028 for new games on PlayStation. 점수 176, 반응 216 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Announcing the release of Box3D, an open source 3D physics engine",
+      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+      "score": 169,
+      "comments": 32,
+      "text": "",
+      "summary": "Announcing the release of Box3D, an open source 3D physics engine. 점수 169, 반응 32 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "score": 156,
+      "comments": 65,
+      "text": "",
+      "summary": "Sony Deletes 551 Movies PlayStation Owners Paid For. 점수 156, 반응 65 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 25
+      "count": 10
     },
     {
       "keyword": "code",
-      "count": 7
-    },
-    {
-      "keyword": "https",
       "count": 6
-    },
-    {
-      "keyword": "claude",
-      "count": 5
     },
     {
       "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "ngrok",
+      "keyword": "claude",
       "count": 4
     },
     {
@@ -262,19 +254,7 @@
       "count": 3
     },
     {
-      "keyword": "app",
-      "count": 3
-    },
-    {
-      "keyword": "href",
-      "count": 3
-    },
-    {
-      "keyword": "rel",
-      "count": 3
-    },
-    {
-      "keyword": "nofollow",
+      "keyword": "open",
       "count": 3
     },
     {
@@ -291,6 +271,26 @@
     },
     {
       "keyword": "development",
+      "count": 2
+    },
+    {
+      "keyword": "agent",
+      "count": 2
+    },
+    {
+      "keyword": "grows",
+      "count": 2
+    },
+    {
+      "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
       "count": 2
     }
   ],
