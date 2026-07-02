@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T19:51:56.836127+00:00",
+  "updatedAt": "2026-07-02T21:32:04.243530+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 381470,
-      "comments": 6903,
+      "score": 381474,
+      "comments": 6905,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 381470, 반응 6903 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 381474, 반응 6905 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 244281,
+      "score": 244319,
       "comments": 300,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 244281, 반응 300 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 244319, 반응 300 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 207939,
-      "comments": 25047,
+      "score": 207981,
+      "comments": 25064,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 207939, 반응 25047 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 207981, 반응 25064 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 194920,
+      "score": 194929,
       "comments": 1454,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194920, 반응 1454 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194929, 반응 1454 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185276,
+      "score": 185277,
       "comments": 456,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185276, 반응 456 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185277, 반응 456 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -64,46 +64,46 @@
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163928,
+      "score": 163959,
       "comments": 2493,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163928, 반응 2493 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163959, 반응 2493 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156759,
+      "score": 156760,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156759, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156760, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 147425,
+      "score": 147430,
       "comments": 874,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 147425, 반응 874 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 147430, 반응 874 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 143856,
-      "comments": 275,
+      "score": 143876,
+      "comments": 277,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143856, 반응 275 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143876, 반응 277 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 143201,
+      "score": 143225,
       "comments": 384,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 143201, 반응 384 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 143225, 반응 384 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -118,124 +118,124 @@
       "source": "Hacker News",
       "title": "Android Developer Verification: Threat masquerading as protection",
       "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 1466,
-      "comments": 603,
+      "score": 1527,
+      "comments": 637,
       "text": "",
-      "summary": "Android Developer Verification: Threat masquerading as protection. 점수 1466, 반응 603 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "score": 373,
-      "comments": 158,
-      "text": "",
-      "summary": "Kimi K2.7 Code is generally available in GitHub Copilot. 점수 373, 반응 158 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
-      "score": 324,
-      "comments": 155,
-      "text": "",
-      "summary": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing. 점수 324, 반응 155 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "PeerTube is a free, decentralized and federated video platform",
-      "url": "https://github.com/Chocobozzz/PeerTube",
-      "score": 324,
-      "comments": 124,
-      "text": "",
-      "summary": "PeerTube is a free, decentralized and federated video platform. 점수 324, 반응 124 기준 인기 이슈입니다."
+      "summary": "Android Developer Verification: Threat masquerading as protection. 점수 1527, 반응 637 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
       "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-      "score": 307,
-      "comments": 79,
+      "score": 446,
+      "comments": 136,
       "text": "",
-      "summary": "Spain Orders Blacklist of Palantir from Public and Private Companies. 점수 307, 반응 79 기준 인기 이슈입니다."
+      "summary": "Spain Orders Blacklist of Palantir from Public and Private Companies. 점수 446, 반응 136 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "url": "https://github.com/Chocobozzz/PeerTube",
+      "score": 410,
+      "comments": 176,
+      "text": "",
+      "summary": "PeerTube is a free, decentralized and federated video platform. 점수 410, 반응 176 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "score": 400,
+      "comments": 183,
+      "text": "",
+      "summary": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing. 점수 400, 반응 183 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
       "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 286,
-      "comments": 149,
+      "score": 341,
+      "comments": 164,
       "text": "",
-      "summary": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory. 점수 286, 반응 149 기준 인기 이슈입니다."
+      "summary": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory. 점수 341, 반응 164 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
       "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "score": 285,
-      "comments": 153,
+      "score": 327,
+      "comments": 175,
       "text": "",
-      "summary": "AI can't be listed as inventor on patent applications, Japan's top court rules. 점수 285, 반응 153 기준 인기 이슈입니다."
+      "summary": "AI can't be listed as inventor on patent applications, Japan's top court rules. 점수 327, 반응 175 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The primary purpose of code review is to find code that will be hard to maintain",
       "url": "https://mathstodon.xyz/@mjd/115096720350507897",
-      "score": 268,
-      "comments": 148,
+      "score": 299,
+      "comments": 156,
       "text": "",
-      "summary": "The primary purpose of code review is to find code that will be hard to maintain. 점수 268, 반응 148 기준 인기 이슈입니다."
+      "summary": "The primary purpose of code review is to find code that will be hard to maintain. 점수 299, 반응 156 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How to ask for help from people who don't know you",
       "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-      "score": 237,
-      "comments": 34,
+      "score": 296,
+      "comments": 42,
       "text": "",
-      "summary": "How to ask for help from people who don't know you. 점수 237, 반응 34 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The fall of the theorem economy",
-      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-      "score": 214,
-      "comments": 93,
-      "text": "",
-      "summary": "The fall of the theorem economy. 점수 214, 반응 93 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "CursorBench 3.1",
-      "url": "https://cursor.com/evals",
-      "score": 148,
-      "comments": 85,
-      "text": "",
-      "summary": "CursorBench 3.1.  점수 148, 반응 85 기준 인기 이슈입니다."
+      "summary": "How to ask for help from people who don't know you. 점수 296, 반응 42 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Podman v6.0.0",
       "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 138,
-      "comments": 42,
+      "score": 254,
+      "comments": 96,
       "text": "",
-      "summary": "Podman v6.0.0.  점수 138, 반응 42 기준 인기 이슈입니다."
+      "summary": "Podman v6.0.0.  점수 254, 반응 96 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The fall of the theorem economy",
+      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+      "score": 234,
+      "comments": 99,
+      "text": "",
+      "summary": "The fall of the theorem economy. 점수 234, 반응 99 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Exapunks (2018)",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "score": 162,
+      "comments": 55,
+      "text": "",
+      "summary": "Exapunks (2018).  점수 162, 반응 55 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
       "url": "https://arxiv.org/abs/2607.01232",
-      "score": 115,
-      "comments": 28,
+      "score": 127,
+      "comments": 29,
       "text": "",
-      "summary": "A Single Transformer Layer Matches Full-Parameter RL Train. 점수 115, 반응 28 기준 인기 이슈입니다."
+      "summary": "A Single Transformer Layer Matches Full-Parameter RL Train. 점수 127, 반응 29 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "German button maker searched rivers of American Midwest for valuable shells",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
+      "score": 121,
+      "comments": 39,
+      "text": "",
+      "summary": "German button maker searched rivers of American Midwest for valuable shells. 점수 121, 반응 39 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "code",
-      "count": 7
+      "count": 6
     },
     {
       "keyword": "platform",
