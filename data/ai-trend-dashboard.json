@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T19:48:55.977608+00:00",
+  "updatedAt": "2026-07-03T21:31:18.081537+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 381590,
-      "comments": 7010,
+      "score": 381596,
+      "comments": 7002,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 381590, 반응 7010 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 381596, 반응 7002 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 245423,
+      "score": 245469,
       "comments": 314,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 245423, 반응 314 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 245469, 반응 314 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 208603,
-      "comments": 25375,
+      "score": 208643,
+      "comments": 25391,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 208603, 반응 25375 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 208643, 반응 25391 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 195051,
-      "comments": 1444,
+      "score": 195058,
+      "comments": 1445,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 195051, 반응 1444 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 195058, 반응 1445 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185317,
+      "score": 185321,
       "comments": 462,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185317, 반응 462 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185321, 반응 462 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164683,
+      "score": 164685,
       "comments": 59,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164683, 반응 59 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164685, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,28 +82,28 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 147553,
-      "comments": 879,
+      "score": 147554,
+      "comments": 878,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 147553, 반응 879 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 147554, 반응 878 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 144056,
+      "score": 144067,
       "comments": 290,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 144056, 반응 290 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 144067, 반응 290 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 143653,
+      "score": 143673,
       "comments": 385,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 143653, 반응 385 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 143673, 반응 385 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -118,118 +118,118 @@
       "source": "Hacker News",
       "title": "Half-Baked Product",
       "url": "https://weli.dev/blog/half-baked-product/",
-      "score": 1096,
-      "comments": 339,
+      "score": 1153,
+      "comments": 353,
       "text": "",
-      "summary": "Half-Baked Product.  점수 1096, 반응 339 기준 인기 이슈입니다."
+      "summary": "Half-Baked Product.  점수 1153, 반응 353 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
       "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
-      "score": 427,
-      "comments": 72,
+      "score": 485,
+      "comments": 86,
       "text": "",
-      "summary": "Valve open-source the Steam Machine e-ink screen so you can make your own. 점수 427, 반응 72 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "crustc: entirety of `rustc`, translated to C",
-      "url": "https://github.com/FractalFir/crustc",
-      "score": 371,
-      "comments": 82,
-      "text": "",
-      "summary": "crustc: entirety of `rustc`, translated to C. 점수 371, 반응 82 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Safari MCP server for web developers",
-      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-      "score": 234,
-      "comments": 65,
-      "text": "",
-      "summary": "The Safari MCP server for web developers. 점수 234, 반응 65 기준 인기 이슈입니다."
+      "summary": "Valve open-source the Steam Machine e-ink screen so you can make your own. 점수 485, 반응 86 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
       "url": "https://wordgard.net/",
-      "score": 205,
-      "comments": 76,
+      "score": 226,
+      "comments": 82,
       "text": "",
-      "summary": "Wordgard: In-browser rich-text editor from the creator of ProseMirror. 점수 205, 반응 76 기준 인기 이슈입니다."
+      "summary": "Wordgard: In-browser rich-text editor from the creator of ProseMirror. 점수 226, 반응 82 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Jamesob's guide to running SOTA LLMs locally",
       "url": "https://github.com/jamesob/local-llm",
-      "score": 156,
-      "comments": 64,
+      "score": 212,
+      "comments": 100,
       "text": "",
-      "summary": "Jamesob's guide to running SOTA LLMs locally. 점수 156, 반응 64 기준 인기 이슈입니다."
+      "summary": "Jamesob's guide to running SOTA LLMs locally. 점수 212, 반응 100 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
-      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "score": 122,
-      "comments": 47,
+      "title": "Costco is the anti-Amazon",
+      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+      "score": 188,
+      "comments": 158,
       "text": "",
-      "summary": "PostgreSQL and the OOM killer: Why we use strict memory overcommit. 점수 122, 반응 47 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Supersonic flight returning to US after half-century ban",
-      "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
-      "score": 120,
-      "comments": 141,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.faa.gov&#x2F;newsroom&#x2F;trumps-transportation-secretary-sean-p-duffy-announces-supersonic-flight-coming-us\" rel=\"nofollow\">https:&#x2F;&#x2F;www.faa.gov&#x2F;newsroom&#x2F;trumps-transportation-secretary...</a>",
-      "summary": "Supersonic flight returning to US after half-century ban. https:&#x2F;&#x2F;www.faa.gov&#x2F;newsroom&#x2F;trumps-transportation-secretary... 점수 120, 반응 141 기준 인기 이슈입니다."
+      "summary": "Costco is the anti-Amazon. 점수 188, 반응 158 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "60% Fable cost cut by converting code to images and having the model OCR it",
       "url": "https://github.com/teamchong/pxpipe",
-      "score": 115,
-      "comments": 40,
+      "score": 170,
+      "comments": 66,
       "text": "",
-      "summary": "60% Fable cost cut by converting code to images and having the model OCR it. 점수 115, 반응 40 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
-      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
-      "score": 112,
-      "comments": 6,
-      "text": "",
-      "summary": "Hunting a 16-year-old SQLite WAL bug with TLA+. 점수 112, 반응 6 기준 인기 이슈입니다."
+      "summary": "60% Fable cost cut by converting code to images and having the model OCR it. 점수 170, 반응 66 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Factories are just rooms",
       "url": "https://interconnected.org/home/2026/07/03/factories",
-      "score": 111,
-      "comments": 48,
+      "score": 147,
+      "comments": 63,
       "text": "",
-      "summary": "Factories are just rooms. 점수 111, 반응 48 기준 인기 이슈입니다."
+      "summary": "Factories are just rooms. 점수 147, 반응 63 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+      "score": 141,
+      "comments": 9,
+      "text": "",
+      "summary": "Hunting a 16-year-old SQLite WAL bug with TLA+. 점수 141, 반응 9 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
+      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+      "score": 135,
+      "comments": 71,
+      "text": "",
+      "summary": "PostgreSQL and the OOM killer: Why we use strict memory overcommit. 점수 135, 반응 71 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Supersonic flight returning to US after half-century ban",
+      "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
+      "score": 132,
+      "comments": 161,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.faa.gov&#x2F;newsroom&#x2F;trumps-transportation-secretary-sean-p-duffy-announces-supersonic-flight-coming-us\" rel=\"nofollow\">https:&#x2F;&#x2F;www.faa.gov&#x2F;newsroom&#x2F;trumps-transportation-secretary...</a>",
+      "summary": "Supersonic flight returning to US after half-century ban. https:&#x2F;&#x2F;www.faa.gov&#x2F;newsroom&#x2F;trumps-transportation-secretary... 점수 132, 반응 161 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A peek into Reddit's anti-spam internals",
+      "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+      "score": 128,
+      "comments": 37,
+      "text": "",
+      "summary": "A peek into Reddit's anti-spam internals. 점수 128, 반응 37 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Fall and Rise of Screwworm",
       "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
-      "score": 98,
-      "comments": 41,
+      "score": 119,
+      "comments": 44,
       "text": "",
-      "summary": "The Fall and Rise of Screwworm. 점수 98, 반응 41 기준 인기 이슈입니다."
+      "summary": "The Fall and Rise of Screwworm. 점수 119, 반응 44 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "America, 1926: A forgotten 100-year-old report",
       "url": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
-      "score": 92,
-      "comments": 120,
+      "score": 110,
+      "comments": 150,
       "text": "",
-      "summary": "America, 1926: A forgotten 100-year-old report. 점수 92, 반응 120 기준 인기 이슈입니다."
+      "summary": "America, 1926: A forgotten 100-year-old report. 점수 110, 반응 150 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -247,10 +247,6 @@
     },
     {
       "keyword": "platform",
-      "count": 3
-    },
-    {
-      "keyword": "web",
       "count": 3
     },
     {
@@ -291,6 +287,10 @@
     },
     {
       "keyword": "use",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
       "count": 2
     }
   ],
