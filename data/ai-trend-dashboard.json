@@ -1,235 +1,146 @@
 {
-  "updatedAt": "2026-07-03T04:08:40.887722+00:00",
+  "updatedAt": "2026-07-03T07:36:22.397365+00:00",
   "status": "ok",
-  "count": 25,
+  "count": 15,
   "errors": [
+    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
-      "source": "GitHub Repos",
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "score": 381518,
-      "comments": 6941,
-      "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 381518, 반응 6941 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 244631,
-      "comments": 302,
-      "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 244631, 반응 302 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 208142,
-      "comments": 25133,
-      "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 208142, 반응 25133 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 194963,
-      "comments": 1454,
-      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 194963, 반응 1454 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185291,
-      "comments": 461,
-      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185291, 반응 461 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 164656,
-      "comments": 58,
-      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164656, 반응 58 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163957,
-      "comments": 2493,
-      "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163957, 반응 2493 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Snailclimb/JavaGuide",
-      "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156768,
-      "comments": 58,
-      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156768, 반응 58 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 147470,
-      "comments": 874,
-      "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 147470, 반응 874 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 143921,
-      "comments": 284,
-      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 143921, 반응 284 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "score": 143333,
-      "comments": 384,
-      "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 143333, 반응 384 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141454,
-      "comments": 154,
-      "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141454, 반응 154 기준 인기 이슈입니다."
-    },
-    {
       "source": "Hacker News",
       "title": "Virginia bans sale of geolocation data",
       "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "score": 597,
-      "comments": 102,
+      "score": 713,
+      "comments": 117,
       "text": "",
-      "summary": "Virginia bans sale of geolocation data. 점수 597, 반응 102 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "PeerTube is a free, decentralized and federated video platform",
-      "url": "https://github.com/Chocobozzz/PeerTube",
-      "score": 546,
-      "comments": 249,
-      "text": "",
-      "summary": "PeerTube is a free, decentralized and federated video platform. 점수 546, 반응 249 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How to ask for help from people who don't know you",
-      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-      "score": 434,
-      "comments": 65,
-      "text": "",
-      "summary": "How to ask for help from people who don't know you. 점수 434, 반응 65 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 424,
-      "comments": 190,
-      "text": "",
-      "summary": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory. 점수 424, 반응 190 기준 인기 이슈입니다."
+      "summary": "Virginia bans sale of geolocation data. 점수 713, 반응 117 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Podman v6.0.0",
       "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 419,
-      "comments": 171,
+      "score": 486,
+      "comments": 195,
       "text": "",
-      "summary": "Podman v6.0.0.  점수 419, 반응 171 기준 인기 이슈입니다."
+      "summary": "Podman v6.0.0.  점수 486, 반응 195 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Exapunks (2018)",
-      "url": "https://www.zachtronics.com/exapunks/",
-      "score": 239,
-      "comments": 83,
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "score": 447,
+      "comments": 200,
       "text": "",
-      "summary": "Exapunks (2018).  점수 239, 반응 83 기준 인기 이슈입니다."
+      "summary": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory. 점수 447, 반응 200 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+      "score": 422,
+      "comments": 258,
+      "text": "",
+      "summary": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't. 점수 422, 반응 258 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Immich 3.0",
       "url": "https://github.com/immich-app/immich/discussions/29439",
-      "score": 232,
-      "comments": 116,
+      "score": 335,
+      "comments": 166,
       "text": "",
-      "summary": "Immich 3.0.  점수 232, 반응 116 기준 인기 이슈입니다."
+      "summary": "Immich 3.0.  점수 335, 반응 166 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "An American Privacy Emergency",
       "url": "https://scottaaronson.blog/?p=9902",
-      "score": 211,
-      "comments": 71,
+      "score": 280,
+      "comments": 86,
       "text": "Recent and related:<p><i>Noise infusion banned from statistical products published by Census Bureau</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48517377\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48517377</a> - June 2026 (604 comments)",
-      "summary": "An American Privacy Emergency. Recent and related: Noise infusion banned from statistical products published by Census Bureau - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48517377 - June 2026 (604 comments) 점수 211, 반응 71 기준 인기 이슈입니다."
+      "summary": "An American Privacy Emergency. Recent and related: Noise infusion banned from statistical products published by Census Bureau - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48517377 - June 2026 (604 comments) 점수 280, 반응 86 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Exapunks (2018)",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "score": 272,
+      "comments": 90,
+      "text": "",
+      "summary": "Exapunks (2018).  점수 272, 반응 90 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "crustc: entirety of `rustc`, translated to C",
       "url": "https://github.com/FractalFir/crustc",
-      "score": 180,
-      "comments": 31,
+      "score": 240,
+      "comments": 42,
       "text": "",
-      "summary": "crustc: entirety of `rustc`, translated to C. 점수 180, 반응 31 기준 인기 이슈입니다."
+      "summary": "crustc: entirety of `rustc`, translated to C. 점수 240, 반응 42 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Reality has a surprising amount of detail (2017)",
       "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-      "score": 174,
-      "comments": 65,
+      "score": 230,
+      "comments": 83,
       "text": "",
-      "summary": "Reality has a surprising amount of detail (2017). 점수 174, 반응 65 기준 인기 이슈입니다."
+      "summary": "Reality has a surprising amount of detail (2017). 점수 230, 반응 83 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "CarPlay Is Additive",
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "score": 223,
+      "comments": 263,
+      "text": "",
+      "summary": "CarPlay Is Additive.  점수 223, 반응 263 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Right to Local Intelligence",
+      "url": "https://righttointelligence.org/",
+      "score": 173,
+      "comments": 67,
+      "text": "",
+      "summary": "Right to Local Intelligence. 점수 173, 반응 67 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Postgres transactions are a distributed systems superpower",
       "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
-      "score": 132,
-      "comments": 59,
+      "score": 166,
+      "comments": 68,
       "text": "",
-      "summary": "Postgres transactions are a distributed systems superpower. 점수 132, 반응 59 기준 인기 이슈입니다."
+      "summary": "Postgres transactions are a distributed systems superpower. 점수 166, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
-      "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
-      "score": 117,
-      "comments": 47,
+      "title": "Superpowers 6",
+      "url": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
+      "score": 134,
+      "comments": 51,
       "text": "",
-      "summary": "EFF letter to FTC on X consent order (2 July 2026) [pdf]. 점수 117, 반응 47 기준 인기 이슈입니다."
+      "summary": "Superpowers 6.  점수 134, 반응 51 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Order a burned CD of your own public GitHub repo",
-      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
-      "score": 114,
-      "comments": 86,
+      "title": "EFF letter to FTC on X consent order [pdf]",
+      "url": "https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected",
+      "score": 133,
+      "comments": 49,
       "text": "",
-      "summary": "Order a burned CD of your own public GitHub repo. 점수 114, 반응 86 기준 인기 이슈입니다."
+      "summary": "EFF letter to FTC on X consent order [pdf]. 점수 133, 반응 49 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude-real-video － any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "score": 126,
+      "comments": 41,
+      "text": "",
+      "summary": "Claude-real-video － any LLM can watch a video. 점수 126, 반응 41 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -238,60 +149,60 @@
       "count": 6
     },
     {
-      "keyword": "platform",
-      "count": 4
-    },
-    {
-      "keyword": "code",
-      "count": 4
-    },
-    {
-      "keyword": "prompts",
-      "count": 4
-    },
-    {
-      "keyword": "openclaw",
+      "keyword": "https",
       "count": 2
     },
     {
-      "keyword": "own",
+      "keyword": "news",
       "count": 2
     },
     {
-      "keyword": "any",
+      "keyword": "ycombinator",
       "count": 2
     },
     {
-      "keyword": "agentic",
+      "keyword": "com",
       "count": 2
     },
     {
-      "keyword": "development",
+      "keyword": "item",
       "count": 2
     },
     {
-      "keyword": "agent",
-      "count": 2
+      "keyword": "virginia",
+      "count": 1
     },
     {
-      "keyword": "workflow",
-      "count": 2
+      "keyword": "bans",
+      "count": 1
     },
     {
-      "keyword": "self-host",
-      "count": 2
+      "keyword": "sale",
+      "count": 1
     },
     {
-      "keyword": "autogpt",
-      "count": 2
+      "keyword": "geolocation",
+      "count": 1
     },
     {
-      "keyword": "tools",
-      "count": 2
+      "keyword": "data",
+      "count": 1
     },
     {
-      "keyword": "free",
-      "count": 2
+      "keyword": "podman",
+      "count": 1
+    },
+    {
+      "keyword": "since",
+      "count": 1
+    },
+    {
+      "keyword": "linux",
+      "count": 1
+    },
+    {
+      "keyword": "luks",
+      "count": 1
     }
   ],
   "meta": {
