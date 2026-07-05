@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T15:38:05.346189+00:00",
+  "updatedAt": "2026-07-05T17:31:40.033648+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 381808,
-      "comments": 6944,
+      "score": 381813,
+      "comments": 6941,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 381808, 반응 6944 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 381813, 반응 6941 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 246678,
-      "comments": 326,
+      "score": 246736,
+      "comments": 328,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 246678, 반응 326 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 246736, 반응 328 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 209524,
-      "comments": 25900,
+      "score": 209563,
+      "comments": 25939,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 209524, 반응 25900 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 209563, 반응 25939 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 195275,
-      "comments": 1458,
+      "score": 195283,
+      "comments": 1457,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 195275, 반응 1458 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 195283, 반응 1457 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,184 +55,188 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164757,
+      "score": 164759,
       "comments": 59,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164757, 반응 59 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164759, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 163995,
+      "score": 163994,
       "comments": 2494,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163995, 반응 2494 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 163994, 반응 2494 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156808,
+      "score": 156809,
       "comments": 59,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156808, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156809, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 147758,
-      "comments": 881,
+      "score": 147762,
+      "comments": 880,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 147758, 반응 881 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 147762, 반응 880 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 144889,
+      "score": 144943,
       "comments": 388,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 144889, 반응 388 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 144943, 반응 388 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 144281,
-      "comments": 309,
+      "score": 144290,
+      "comments": 310,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 144281, 반응 309 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 144290, 반응 310 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141551,
+      "score": 141555,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141551, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141555, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 617,
-      "comments": 258,
+      "score": 628,
+      "comments": 265,
       "text": "",
-      "summary": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable. 점수 617, 반응 258 기준 인기 이슈입니다."
+      "summary": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable. 점수 628, 반응 265 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "If you're a button, you have one job",
       "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "score": 402,
-      "comments": 198,
-      "text": "",
-      "summary": "If you're a button, you have one job. 점수 402, 반응 198 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "What ORMs have taught me: just learn SQL (2014)",
-      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-      "score": 247,
-      "comments": 281,
-      "text": "",
-      "summary": "What ORMs have taught me: just learn SQL (2014). 점수 247, 반응 281 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "url": "https://ui.shadcn.com/docs/changelog",
-      "score": 219,
-      "comments": 105,
-      "text": "",
-      "summary": "Shadcn/UI now defaults to Base UI instead of Radix. 점수 219, 반응 105 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "“Beyond the limit”: Satellites and mirrors in space pose threat to the night sky",
-      "url": "https://www.eso.org/public/news/eso2607/",
-      "score": 179,
-      "comments": 277,
-      "text": "",
-      "summary": "“Beyond the limit”: Satellites and mirrors in space pose threat to the night sky. 점수 179, 반응 277 기준 인기 이슈입니다."
+      "score": 468,
+      "comments": 231,
+      "text": "Related: <a href=\"https:&#x2F;&#x2F;aresluna.org&#x2F;show-your-hands-honor&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;aresluna.org&#x2F;show-your-hands-honor&#x2F;</a>",
+      "summary": "If you're a button, you have one job. Related: https:&#x2F;&#x2F;aresluna.org&#x2F;show-your-hands-honor&#x2F; 점수 468, 반응 231 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
-      "score": 134,
-      "comments": 33,
+      "score": 359,
+      "comments": 98,
       "text": "",
-      "summary": "Organic Maps.  점수 134, 반응 33 기준 인기 이슈입니다."
+      "summary": "Organic Maps.  점수 359, 반응 98 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Meta's Un-Stable Signature",
-      "url": "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html",
-      "score": 123,
-      "comments": 18,
+      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "url": "https://ui.shadcn.com/docs/changelog",
+      "score": 237,
+      "comments": 129,
       "text": "",
-      "summary": "Meta's Un-Stable Signature. 점수 123, 반응 18 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]",
-      "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
-      "score": 120,
-      "comments": 8,
-      "text": "",
-      "summary": "The GNU Emacs Architecture: Unlocking the Core [pdf]. 점수 120, 반응 8 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pandoc Lua Filters",
-      "url": "https://pandoc.org/lua-filters.html",
-      "score": 106,
-      "comments": 10,
-      "text": "",
-      "summary": "Pandoc Lua Filters.  점수 106, 반응 10 기준 인기 이슈입니다."
+      "summary": "Shadcn/UI now defaults to Base UI instead of Radix. 점수 237, 반응 129 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Introduction to Compilers and Language Design",
       "url": "https://dthain.github.io/books/compiler/",
-      "score": 104,
-      "comments": 12,
+      "score": 187,
+      "comments": 25,
       "text": "",
-      "summary": "Introduction to Compilers and Language Design. 점수 104, 반응 12 기준 인기 이슈입니다."
+      "summary": "Introduction to Compilers and Language Design. 점수 187, 반응 25 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Atomic Force Microscope [video]",
-      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
-      "score": 102,
-      "comments": 13,
+      "title": "EU Council forces Chat Control via fast-track",
+      "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+      "score": 184,
+      "comments": 84,
       "text": "",
-      "summary": "Atomic Force Microscope [video]. 점수 102, 반응 13 기준 인기 이슈입니다."
+      "summary": "EU Council forces Chat Control via fast-track. 점수 184, 반응 84 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Claude Design System Prompt",
-      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "score": 101,
-      "comments": 27,
+      "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]",
+      "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
+      "score": 146,
+      "comments": 9,
       "text": "",
-      "summary": "Claude Design System Prompt. 점수 101, 반응 27 기준 인기 이슈입니다."
+      "summary": "The GNU Emacs Architecture: Unlocking the Core [pdf]. 점수 146, 반응 9 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta's Un-Stable Signature",
+      "url": "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html",
+      "score": 130,
+      "comments": 21,
+      "text": "",
+      "summary": "Meta's Un-Stable Signature. 점수 130, 반응 21 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Phosh 0.56.0",
       "url": "https://phosh.mobi/releases/rel-0.56.0/",
-      "score": 95,
-      "comments": 24,
+      "score": 127,
+      "comments": 43,
       "text": "",
-      "summary": "Phosh 0.56.0.  점수 95, 반응 24 기준 인기 이슈입니다."
+      "summary": "Phosh 0.56.0.  점수 127, 반응 43 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pandoc Lua Filters",
+      "url": "https://pandoc.org/lua-filters.html",
+      "score": 121,
+      "comments": 10,
+      "text": "",
+      "summary": "Pandoc Lua Filters.  점수 121, 반응 10 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cannabis users face substantially higher risk of heart attack (2025)",
+      "url": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
+      "score": 116,
+      "comments": 150,
+      "text": "",
+      "summary": "Cannabis users face substantially higher risk of heart attack (2025). 점수 116, 반응 150 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Atomic Force Microscope [video]",
+      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "score": 111,
+      "comments": 15,
+      "text": "",
+      "summary": "Atomic Force Microscope [video]. 점수 111, 반응 15 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fast Software, the Best Software (2019)",
+      "url": "https://craigmod.com/essays/fast_software/",
+      "score": 98,
+      "comments": 51,
+      "text": "",
+      "summary": "Fast Software, the Best Software (2019). 점수 98, 반응 51 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 8
+    },
     {
       "keyword": "code",
       "count": 4
@@ -243,6 +247,10 @@
     },
     {
       "keyword": "platform",
+      "count": 3
+    },
+    {
+      "keyword": "software",
       "count": 3
     },
     {
@@ -282,15 +290,7 @@
       "count": 2
     },
     {
-      "keyword": "open",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
+      "keyword": "chat",
       "count": 2
     }
   ],
