@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T11:02:48.245935+00:00",
+  "updatedAt": "2026-07-06T15:54:19.539347+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 381901,
-      "comments": 6428,
+      "score": 381930,
+      "comments": 6423,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 381901, 반응 6428 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 381930, 반응 6423 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 247389,
+      "score": 247567,
       "comments": 337,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 247389, 반응 337 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 247567, 반응 337 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 210023,
-      "comments": 26125,
+      "score": 210189,
+      "comments": 26226,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 210023, 반응 26125 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 210189, 반응 26226 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 195375,
-      "comments": 1465,
+      "score": 195413,
+      "comments": 1467,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 195375, 반응 1465 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 195413, 반응 1467 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185400,
-      "comments": 467,
+      "score": 185401,
+      "comments": 465,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185400, 반응 467 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185401, 반응 465 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 164852,
+      "score": 164892,
       "comments": 59,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164852, 반응 59 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 164892, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,200 +73,184 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156833,
-      "comments": 59,
+      "score": 156835,
+      "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156833, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156835, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 147884,
-      "comments": 878,
+      "score": 147903,
+      "comments": 880,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 147884, 반응 878 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 147903, 반응 880 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 145547,
-      "comments": 389,
+      "score": 145870,
+      "comments": 388,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 145547, 반응 389 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 145870, 반응 388 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 144388,
-      "comments": 320,
+      "score": 144424,
+      "comments": 324,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 144388, 반응 320 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 144424, 반응 324 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141587,
-      "comments": 154,
+      "score": 141601,
+      "comments": 155,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141587, 반응 154 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Organic Maps",
-      "url": "https://organicmaps.app/",
-      "score": 1023,
-      "comments": 317,
-      "text": "",
-      "summary": "Organic Maps.  점수 1023, 반응 317 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenPrinter",
-      "url": "https://www.opentools.studio/",
-      "score": 887,
-      "comments": 224,
-      "text": "",
-      "summary": "OpenPrinter.  점수 887, 반응 224 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "It's not about physical vs. digital games, it's about ownership",
-      "url": "https://popcar.bearblog.dev/its-about-ownership/",
-      "score": 523,
-      "comments": 383,
-      "text": "",
-      "summary": "It's not about physical vs. digital games, it's about ownership. 점수 523, 반응 383 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The future of Flipper Zero development",
-      "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
-      "score": 342,
-      "comments": 147,
-      "text": "",
-      "summary": "The future of Flipper Zero development. 점수 342, 반응 147 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141601, 반응 155 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Has_not_been_viewed_much",
       "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-      "score": 324,
-      "comments": 83,
+      "score": 415,
+      "comments": 109,
       "text": "",
-      "summary": "Has_not_been_viewed_much. 점수 324, 반응 83 기준 인기 이슈입니다."
+      "summary": "Has_not_been_viewed_much. 점수 415, 반응 109 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GPT-5.6 Sol Ultra will be in Codex",
       "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "score": 301,
-      "comments": 242,
+      "score": 377,
+      "comments": 326,
       "text": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575</a>",
-      "summary": "GPT-5.6 Sol Ultra will be in Codex. https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575 , https:&#x2F;&#x2F;xcancel.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575 점수 301, 반응 242 기준 인기 이슈입니다."
+      "summary": "GPT-5.6 Sol Ultra will be in Codex. https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575 , https:&#x2F;&#x2F;xcancel.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575 점수 377, 반응 326 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "score": 248,
-      "comments": 424,
-      "text": "<a href=\"https:&#x2F;&#x2F;archive.md&#x2F;Q9trL\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.md&#x2F;Q9trL</a>",
-      "summary": "Zuckerberg says AI agent development going slower than expected. https:&#x2F;&#x2F;archive.md&#x2F;Q9trL 점수 248, 반응 424 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Starring the Computer",
-      "url": "https://www.starringthecomputer.com/computers.html",
-      "score": 240,
-      "comments": 53,
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "score": 292,
+      "comments": 111,
       "text": "",
-      "summary": "Starring the Computer. 점수 240, 반응 53 기준 인기 이슈입니다."
+      "summary": "Real-time map of Great Britain's rail network. 점수 292, 반응 111 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Completing a computer science degree on Coursera",
-      "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
-      "score": 219,
-      "comments": 136,
+      "title": "Building relationships with customers through support didn't turn out as hoped",
+      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+      "score": 261,
+      "comments": 161,
       "text": "",
-      "summary": "Completing a computer science degree on Coursera. 점수 219, 반응 136 기준 인기 이슈입니다."
+      "summary": "Building relationships with customers through support didn't turn out as hoped. 점수 261, 반응 161 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The great blogging collapse: What happened to 100 successful blogs?",
-      "url": "https://danielstanica.com/posts/Great-Blogging-Collapse",
-      "score": 188,
-      "comments": 142,
+      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+      "url": "https://arxiv.org/abs/2605.20049",
+      "score": 177,
+      "comments": 85,
       "text": "",
-      "summary": "The great blogging collapse: What happened to 100 successful blogs?. 점수 188, 반응 142 기준 인기 이슈입니다."
+      "summary": "Does code cleanliness affect coding agents? A controlled minimal-pair study. 점수 177, 반응 85 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "url": "https://homegames.io",
-      "score": 188,
-      "comments": 46,
-      "text": "I&#x27;m making a platform for simple open source games you can play anywhere.<p>Games are all just JavaScript classes and you can read the source of every game on the platform.<p>I started working on initial &quot;games&quot; (mostly rendering tests) in 2018 and eventually built all of the platform stuff around it to make it easy to share games.<p>There&#x27;s also an in-browser editor available for you to make and publish games all from the browser.<p>Would love some feedback on the games and studio features as well as the platform overall. All of the code is available at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;homegamesio\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;homegamesio</a>",
-      "summary": "An open-source game platform I've been making for 8 years. I&#x27;m making a platform for simple open source games you can play anywhere. Games are all just JavaScript classes and you can read the source of every game on the platform. 점수 188, 반응 46 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
-      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-      "score": 187,
-      "comments": 39,
+      "title": "Road to Elm 1.0",
+      "url": "https://elm-lang.org/news/faster-builds",
+      "score": 173,
+      "comments": 78,
       "text": "",
-      "summary": "Baby Paint and accidentally discovering a new cellular automata. 점수 187, 반응 39 기준 인기 이슈입니다."
+      "summary": "Road to Elm 1.0.  점수 173, 반응 78 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "score": 166,
-      "comments": 103,
+      "title": "Workers Cache",
+      "url": "https://blog.cloudflare.com/workers-cache/",
+      "score": 164,
+      "comments": 63,
       "text": "",
-      "summary": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]. 점수 166, 반응 103 기준 인기 이슈입니다."
+      "summary": "Workers Cache.  점수 164, 반응 63 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Introduction to Genomics for Engineers",
+      "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
+      "score": 140,
+      "comments": 22,
+      "text": "",
+      "summary": "Introduction to Genomics for Engineers. 점수 140, 반응 22 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+      "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+      "score": 136,
+      "comments": 80,
+      "text": "",
+      "summary": "Nintendo announces new product revisions in Europe with replaceable batteries. 점수 136, 반응 80 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "C programmers commit fresh crimes against readability",
+      "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
+      "score": 94,
+      "comments": 14,
+      "text": "",
+      "summary": "C programmers commit fresh crimes against readability. 점수 94, 반응 14 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Clojure 1.13 adds support for checked keys",
+      "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+      "score": 85,
+      "comments": 6,
+      "text": "",
+      "summary": "Clojure 1.13 adds support for checked keys. 점수 85, 반응 6 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Aluminum foil (2021)",
+      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+      "score": 81,
+      "comments": 27,
+      "text": "",
+      "summary": "Aluminum foil (2021). 점수 81, 반응 27 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+      "url": "https://andonlabs.com/blog/fable5-vending-bench",
+      "score": 72,
+      "comments": 26,
+      "text": "",
+      "summary": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability. 점수 72, 반응 26 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 32
-    },
-    {
-      "keyword": "platform",
-      "count": 8
-    },
-    {
-      "keyword": "https",
-      "count": 8
-    },
-    {
-      "keyword": "games",
-      "count": 7
-    },
-    {
-      "keyword": "com",
-      "count": 6
+      "count": 20
     },
     {
       "keyword": "code",
       "count": 5
     },
     {
-      "keyword": "development",
-      "count": 4
-    },
-    {
       "keyword": "prompts",
       "count": 4
     },
     {
-      "keyword": "href",
+      "keyword": "https",
+      "count": 4
+    },
+    {
+      "keyword": "com",
       "count": 4
     },
     {
@@ -278,20 +262,36 @@
       "count": 4
     },
     {
-      "keyword": "rel",
-      "count": 4
+      "keyword": "platform",
+      "count": 3
     },
     {
-      "keyword": "nofollow",
-      "count": 4
+      "keyword": "openclaw",
+      "count": 2
     },
     {
-      "keyword": "all",
-      "count": 4
+      "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "agentic",
+      "count": 2
+    },
+    {
+      "keyword": "development",
+      "count": 2
     },
     {
       "keyword": "agent",
-      "count": 3
+      "count": 2
+    },
+    {
+      "keyword": "workflow",
+      "count": 2
+    },
+    {
+      "keyword": "building",
+      "count": 2
     }
   ],
   "meta": {
