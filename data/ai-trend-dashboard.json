@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T19:55:09.985500+00:00",
+  "updatedAt": "2026-07-08T21:30:53.731737+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 382199,
-      "comments": 6480,
+      "score": 382206,
+      "comments": 6483,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 382199, 반응 6480 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 382206, 반응 6483 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 249707,
+      "score": 249744,
       "comments": 344,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 249707, 반응 344 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 249744, 반응 344 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 211513,
-      "comments": 26917,
+      "score": 211535,
+      "comments": 26926,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 211513, 반응 26917 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 211535, 반응 26926 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 195694,
-      "comments": 1457,
+      "score": 195702,
+      "comments": 1459,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 195694, 반응 1457 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 195702, 반응 1459 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,10 +55,10 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 165096,
+      "score": 165098,
       "comments": 59,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165096, 반응 59 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165098, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,28 +82,28 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 148203,
+      "score": 148208,
       "comments": 818,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 148203, 반응 818 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 148208, 반응 818 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 147775,
+      "score": 147812,
       "comments": 389,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 147775, 반응 389 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 147812, 반응 389 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 144750,
-      "comments": 353,
+      "score": 144757,
+      "comments": 355,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 144750, 반응 353 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 144757, 반응 355 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -118,118 +118,118 @@
       "source": "Hacker News",
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1142,
-      "comments": 189,
+      "score": 1200,
+      "comments": 192,
       "text": "",
-      "summary": "Decoding the obfuscated bash script on a Uniqlo t-shirt. 점수 1142, 반응 189 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "score": 471,
-      "comments": 180,
-      "text": "",
-      "summary": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos. 점수 471, 반응 180 기준 인기 이슈입니다."
+      "summary": "Decoding the obfuscated bash script on a Uniqlo t-shirt. 점수 1200, 반응 192 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Chatto is now Open Source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 441,
-      "comments": 121,
+      "score": 554,
+      "comments": 152,
       "text": "",
-      "summary": "Chatto is now Open Source. 점수 441, 반응 121 기준 인기 이슈입니다."
+      "summary": "Chatto is now Open Source. 점수 554, 반응 152 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GPT‑Live",
       "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 404,
-      "comments": 273,
+      "score": 499,
+      "comments": 344,
       "text": "",
-      "summary": "GPT‑Live.  점수 404, 반응 273 기준 인기 이슈입니다."
+      "summary": "GPT‑Live.  점수 499, 반응 344 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-      "score": 343,
-      "comments": 118,
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "score": 486,
+      "comments": 184,
       "text": "",
-      "summary": "EVE Online's Carbon engine is now open source: Fenris Creations explains why. 점수 343, 반응 118 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
-      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-      "score": 335,
-      "comments": 43,
-      "text": "",
-      "summary": "Structure and Interpretation of Computer Programs Video Lectures (1986). 점수 335, 반응 43 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "url": "https://kb.cert.org/vuls/id/213560",
-      "score": 331,
-      "comments": 114,
-      "text": "",
-      "summary": "Tenda firmware (multiple versions) contains hidden authentication backdoor. 점수 331, 반응 114 기준 인기 이슈입니다."
+      "summary": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos. 점수 486, 반응 184 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
       "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 323,
-      "comments": 77,
+      "score": 358,
+      "comments": 85,
       "text": "",
-      "summary": "Mistral's Robostral Navigate: a state of the art robotics navigation model. 점수 323, 반응 77 기준 인기 이슈입니다."
+      "summary": "Mistral's Robostral Navigate: a state of the art robotics navigation model. 점수 358, 반응 85 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-      "score": 320,
-      "comments": 217,
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "score": 357,
+      "comments": 121,
       "text": "",
-      "summary": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024). 점수 320, 반응 217 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "score": 262,
-      "comments": 215,
-      "text": "",
-      "summary": "Apple to increase spend with Broadcom to produce billions more U.S. 점수 262, 반응 215 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Grok 4.5",
-      "url": "https://x.ai/news/grok-4-5",
-      "score": 259,
-      "comments": 174,
-      "text": "",
-      "summary": "Grok 4.5.  점수 259, 반응 174 기준 인기 이슈입니다."
+      "summary": "EVE Online's Carbon engine is now open source: Fenris Creations explains why. 점수 357, 반응 121 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "TypeScript 7",
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-      "score": 250,
-      "comments": 86,
+      "score": 349,
+      "comments": 129,
       "text": "",
-      "summary": "TypeScript 7.  점수 250, 반응 86 기준 인기 이슈입니다."
+      "summary": "TypeScript 7.  점수 349, 반응 129 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "EU now one step away from reviving private message scanning rules",
+      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
+      "score": 266,
+      "comments": 118,
+      "text": "",
+      "summary": "EU now one step away from reviving private message scanning rules. 점수 266, 반응 118 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
-      "score": 203,
-      "comments": 95,
+      "score": 222,
+      "comments": 104,
       "text": "",
-      "summary": "OpenBSD has a use-after-free allowing local privilege escalation to root. 점수 203, 반응 95 기준 인기 이슈입니다."
+      "summary": "OpenBSD has a use-after-free allowing local privilege escalation to root. 점수 222, 반응 104 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "score": 212,
+      "comments": 116,
+      "text": "",
+      "summary": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence. 점수 212, 반응 116 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cloudflare Meerkat - Globally distributed consensus",
+      "url": "https://blog.cloudflare.com/meerkat-introduction/",
+      "score": 186,
+      "comments": 39,
+      "text": "",
+      "summary": "Cloudflare Meerkat - Globally distributed consensus. 점수 186, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
+      "score": 163,
+      "comments": 75,
+      "text": "",
+      "summary": "PlayStation can delete all your digital games after 3 years of inactivity (EU). 점수 163, 반응 75 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "What Do We Know About the Microplastics Inside Us?",
+      "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
+      "score": 151,
+      "comments": 79,
+      "text": "",
+      "summary": "What Do We Know About the Microplastics Inside Us?. 점수 151, 반응 79 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -258,6 +258,10 @@
       "count": 3
     },
     {
+      "keyword": "now",
+      "count": 3
+    },
+    {
       "keyword": "openclaw",
       "count": 2
     },
@@ -283,10 +287,6 @@
     },
     {
       "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
       "count": 2
     },
     {
