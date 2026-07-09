@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T04:23:23.843705+00:00",
+  "updatedAt": "2026-07-09T07:54:12.337002+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,239 +10,263 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 382241,
-      "comments": 6530,
+      "score": 382265,
+      "comments": 6567,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 382241, 반응 6530 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 382265, 반응 6567 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 250039,
-      "comments": 307,
+      "score": 250235,
+      "comments": 309,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 250039, 반응 307 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 250235, 반응 309 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 211696,
-      "comments": 27013,
+      "score": 211800,
+      "comments": 27065,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 211696, 반응 27013 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 211800, 반응 27065 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 195736,
-      "comments": 1455,
+      "score": 195763,
+      "comments": 1454,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 195736, 반응 1455 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 195763, 반응 1454 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185435,
-      "comments": 475,
+      "score": 185436,
+      "comments": 477,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185435, 반응 475 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185436, 반응 477 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 165109,
-      "comments": 59,
+      "score": 165119,
+      "comments": 60,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165109, 반응 59 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165119, 반응 60 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164048,
+      "score": 164051,
       "comments": 2495,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164048, 반응 2495 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164051, 반응 2495 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156899,
+      "score": 156905,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156899, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156905, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 148241,
-      "comments": 818,
+      "score": 148262,
+      "comments": 819,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 148241, 반응 818 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 148262, 반응 819 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 147935,
-      "comments": 389,
+      "score": 148022,
+      "comments": 390,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 147935, 반응 389 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 148022, 반응 390 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 144785,
-      "comments": 359,
+      "score": 144800,
+      "comments": 362,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 144785, 반응 359 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 144800, 반응 362 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141715,
+      "score": 141724,
       "comments": 154,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141715, 반응 154 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141724, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1329,
-      "comments": 210,
+      "score": 1364,
+      "comments": 213,
       "text": "",
-      "summary": "Decoding the obfuscated bash script on a Uniqlo t-shirt. 점수 1329, 반응 210 기준 인기 이슈입니다."
+      "summary": "Decoding the obfuscated bash script on a Uniqlo t-shirt. 점수 1364, 반응 213 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 810,
-      "comments": 215,
+      "score": 932,
+      "comments": 242,
       "text": "",
-      "summary": "Chatto is now open source. 점수 810, 반응 215 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GPT‑Live",
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 636,
-      "comments": 422,
-      "text": "",
-      "summary": "GPT‑Live.  점수 636, 반응 422 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Grok 4.5",
-      "url": "https://x.ai/news/grok-4-5",
-      "score": 523,
-      "comments": 693,
-      "text": "<a href=\"https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;grok-4-5\" rel=\"nofollow\">https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;grok-4-5</a>",
-      "summary": "https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;grok-4-5 점수 523, 반응 693 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "TypeScript 7",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-      "score": 509,
-      "comments": 203,
-      "text": "",
-      "summary": "TypeScript 7.  점수 509, 반응 203 기준 인기 이슈입니다."
+      "summary": "Chatto is now open source. 점수 932, 반응 242 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
       "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 472,
-      "comments": 96,
+      "score": 713,
+      "comments": 133,
       "text": "",
-      "summary": "John Deere owners will get the right to repair equipment under FTC settlement. 점수 472, 반응 96 기준 인기 이슈입니다."
+      "summary": "John Deere owners will get the right to repair equipment under FTC settlement. 점수 713, 반응 133 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 435,
-      "comments": 97,
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "score": 687,
+      "comments": 449,
       "text": "",
-      "summary": "Mistral's Robostral Navigate: a state of the art robotics navigation model. 점수 435, 반응 97 기준 인기 이슈입니다."
+      "summary": "GPT‑Live.  점수 687, 반응 449 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "score": 597,
+      "comments": 815,
+      "text": "<a href=\"https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;grok-4-5\" rel=\"nofollow\">https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;grok-4-5</a>",
+      "summary": "https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;grok-4-5 점수 597, 반응 815 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "TypeScript 7",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "score": 582,
+      "comments": 230,
+      "text": "",
+      "summary": "TypeScript 7.  점수 582, 반응 230 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Rewriting Bun in Rust",
       "url": "https://bun.com/blog/bun-in-rust",
-      "score": 378,
-      "comments": 203,
+      "score": 515,
+      "comments": 290,
       "text": "",
-      "summary": "Rewriting Bun in Rust. 점수 378, 반응 203 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "FAANG Simulator",
-      "url": "https://www.abeyk.com/escape-the-rat-race/",
-      "score": 343,
-      "comments": 130,
-      "text": "",
-      "summary": "FAANG Simulator.  점수 343, 반응 130 기준 인기 이슈입니다."
+      "summary": "Rewriting Bun in Rust. 점수 515, 반응 290 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cloudflare Drop",
       "url": "https://www.cloudflare.com/drop/",
-      "score": 317,
-      "comments": 152,
+      "score": 391,
+      "comments": 199,
       "text": "",
-      "summary": "Cloudflare Drop.  점수 317, 반응 152 기준 인기 이슈입니다."
+      "summary": "Cloudflare Drop.  점수 391, 반응 199 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Cloudflare Meerkat - Globally distributed consensus",
-      "url": "https://blog.cloudflare.com/meerkat-introduction/",
-      "score": 236,
-      "comments": 47,
+      "title": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
+      "score": 383,
+      "comments": 144,
       "text": "",
-      "summary": "Cloudflare Meerkat - Globally distributed consensus. 점수 236, 반응 47 기준 인기 이슈입니다."
+      "summary": "FAANG Simulator.  점수 383, 반응 144 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
       "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 233,
-      "comments": 87,
+      "score": 266,
+      "comments": 100,
       "text": "Data visualizations are the bridge between user and data.<p>But building AI agents that can generate visualizations reliably can be very tricky:<p>- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliability<p>We figured out it is a limitation on the language issue (not just AI capability thing) -- current visualization languages are a bit too low-level for AI agents, requiring them to explicitly make visual decisions that are supposed to be handled by a good compiler. Flint is a visualization intermediate language to address this issue, allow AI agents to solve this last-mile human-agent interaction problem. It provides a simple semantic-type based specification, and contains a layout optimization engine that can produce good-looking charts (filled with derived low-level details) from simple high-level specs. The result is also very human understandable and adaptable. Flint powers data formulator for generating visualizations (another open source project from microsoft <a href=\"https:&#x2F;&#x2F;data-formulator.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;data-formulator.ai&#x2F;</a>).<p>Flint is available open source, and we built a MCP server that you can directly plug flint in your favorite agent app to play with data.",
-      "summary": "Show HN: Microsoft releases Flint, a visualization language for AI agents. Data visualizations are the bridge between user and data. But building AI agents that can generate visualizations reliably can be very tricky: - simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; - complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliability We figured out it is a limitation on the language issue (not just AI capability thing) -- current visualization languages are a bit too low-level for AI agents, requiring them to explicitly make visual decisions that are supposed to be handled by a good compiler. 점수 233, 반응 87 기준 인기 이슈입니다."
+      "summary": "Show HN: Microsoft releases Flint, a visualization language for AI agents. Data visualizations are the bridge between user and data. But building AI agents that can generate visualizations reliably can be very tricky: - simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; - complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliability We figured out it is a limitation on the language issue (not just AI capability thing) -- current visualization languages are a bit too low-level for AI agents, requiring them to explicitly make visual decisions that are supposed to be handled by a good compiler. 점수 266, 반응 100 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "I think I have LLM burnout",
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
-      "score": 200,
-      "comments": 134,
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "score": 204,
+      "comments": 71,
       "text": "",
-      "summary": "I think I have LLM burnout. 점수 200, 반응 134 기준 인기 이슈입니다."
+      "summary": "Separating signal from noise in coding evaluations. 점수 204, 반응 71 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+      "url": "https://www.yamanote.fun/",
+      "score": 150,
+      "comments": 30,
+      "text": "After visiting Japan for the first time a decade ago I became completely enamoured with Tokyo&#x27;s Yamanote Line railway loop. Particularly the sonic experience of it. Like so many others I fell in love with the charming departure melodies and enjoyed discovering experiences like Yamanot.es (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45045307\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45045307</a>) here on Hacker News when I returned home.<p>But it wasn&#x27;t until my second trip to Tokyo that I truly appreciated how much the door chimes, on-board announcements and train noise were contributing to the rich soundscape that I loved.<p>I returned home and found myself playing YouTube videos of Yamanote Line journeys as I worked. The combination of sonics, ambience and softly spoken Japanese was incredibly soothing to me.<p>But these recordings were often incomplete, poorly captured or out of date, and I wanted something far more comprehensive.<p>So I gathered up all of the constituent parts from Reddit threads, YouTube videos and Japanese fan sites, and set about recreating the experience of riding the Yamanote Line in Logic Pro X. Melody, door chimes and announcement, all stitched together under a bed of train noise and ambience.<p>I turned those soundscapes into an Alexa Skill (<a href=\"https:&#x2F;&#x2F;www.amazon.co.uk&#x2F;Paul-Jackson-Yamanote-Line&#x2F;dp&#x2F;B07S18QRMV\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.co.uk&#x2F;Paul-Jackson-Yamanote-Line&#x2F;dp&#x2F;B07S1...</a>) in 2019 and began to think about a companion website to share the soundscapes with a wider audience.<p>Seven years later and that website is Yamanote.fun: <a href=\"https:&#x2F;&#x2F;www.yamanote.fun&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.yamanote.fun&#x2F;</a>.<p>It&#x27;s a small installable web app that plays the soundscapes like a playlist. All 30 stations and in both directions, since the inner and outer loops use different melodies. You can skip forward or back a station, and there&#x27;s a scrub bar broken into melody &#x2F; chime &#x2F; ambience &#x2F; announcement so you can jump straight to the bit you want. Each station has its own shareable link (yamanote.fun&#x2F;jy13-ikebukuro-inner) that unfurls with the right station name and artwork when you share it.<p>It&#x27;s a progressive web app too, so you can add it to your home screen and it behaves like a native app. There&#x27;s an option to offline the audio too.<p>Under the hood it&#x27;s relatively basic stuff: plain HTML, CSS &amp; JS, audio served from Cloudflare R2 and the site hosted on Netlify. I was impressed to see how far I could get with the free tiers of these services. I designed the whole thing in Figma (I&#x27;m a Product Designer) and used Claude Code to architect and deliver the polished UI, PWA plumbing, offline caching and share-link infrastructure.<p>I would love feedback, particularly from anyone who&#x27;s ridden the real thing.",
+      "summary": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line. After visiting Japan for the first time a decade ago I became completely enamoured with Tokyo&#x27;s Yamanote Line railway loop. Particularly the sonic experience of it. 점수 150, 반응 30 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "score": 127,
+      "comments": 27,
+      "text": "",
+      "summary": "Turning a pile of documents into a searchable useable knowledge base. 점수 127, 반응 27 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 14
+      "count": 40
     },
     {
       "keyword": "can",
-      "count": 8
+      "count": 11
+    },
+    {
+      "keyword": "https",
+      "count": 10
+    },
+    {
+      "keyword": "yamanote",
+      "count": 9
+    },
+    {
+      "keyword": "x27",
+      "count": 9
+    },
+    {
+      "keyword": "code",
+      "count": 5
     },
     {
       "keyword": "open",
+      "count": 5
+    },
+    {
+      "keyword": "app",
+      "count": 5
+    },
+    {
+      "keyword": "href",
       "count": 5
     },
     {
@@ -254,8 +278,12 @@
       "count": 5
     },
     {
-      "keyword": "code",
-      "count": 4
+      "keyword": "but",
+      "count": 5
+    },
+    {
+      "keyword": "fun",
+      "count": 5
     },
     {
       "keyword": "prompts",
@@ -264,34 +292,6 @@
     {
       "keyword": "source",
       "count": 4
-    },
-    {
-      "keyword": "https",
-      "count": 4
-    },
-    {
-      "keyword": "data",
-      "count": 4
-    },
-    {
-      "keyword": "platform",
-      "count": 3
-    },
-    {
-      "keyword": "agent",
-      "count": 3
-    },
-    {
-      "keyword": "cursor",
-      "count": 3
-    },
-    {
-      "keyword": "visualization",
-      "count": 3
-    },
-    {
-      "keyword": "language",
-      "count": 3
     }
   ],
   "meta": {
