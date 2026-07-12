@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T17:17:39.895540+00:00",
+  "updatedAt": "2026-07-12T19:31:11.585597+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "re4/LibreCode",
       "url": "https://github.com/re4/LibreCode",
-      "score": 933101,
-      "comments": 295062,
+      "score": 861512,
+      "comments": 295049,
       "text": "LibreCode - A Ollama cursor like coding / Reversing Interface",
-      "summary": "LibreCode - A Ollama cursor like coding / Reversing Interface 점수 933101, 반응 295062 기준 인기 이슈입니다."
+      "summary": "LibreCode - A Ollama cursor like coding / Reversing Interface 점수 861512, 반응 295049 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 382684,
-      "comments": 6463,
+      "score": 382692,
+      "comments": 6452,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 382684, 반응 6463 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 382692, 반응 6452 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 252919,
-      "comments": 322,
+      "score": 252956,
+      "comments": 323,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 252919, 반응 322 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 252956, 반응 323 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 213624,
-      "comments": 27217,
+      "score": 213664,
+      "comments": 26971,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 213624, 반응 27217 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 213664, 반응 26971 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 196174,
+      "score": 196185,
       "comments": 1454,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196174, 반응 1454 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196185, 반응 1454 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185491,
+      "score": 185492,
       "comments": 498,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185491, 반응 498 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185492, 반응 498 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 165543,
+      "score": 165554,
       "comments": 63,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165543, 반응 63 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165554, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,159 +82,187 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156975,
+      "score": 156974,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156975, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156974, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 149788,
+      "score": 149835,
       "comments": 402,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 149788, 반응 402 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 149835, 반응 402 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 148594,
+      "score": 148602,
       "comments": 953,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 148594, 반응 953 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 148602, 반응 953 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 145146,
+      "score": 145152,
       "comments": 411,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145146, 반응 411 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145152, 반응 411 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 342,
-      "comments": 150,
-      "text": "",
-      "summary": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom. 점수 342, 반응 150 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 315,
-      "comments": 72,
-      "text": "",
-      "summary": "Mesh LLM: distributed AI computing on iroh. 점수 315, 반응 72 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "title": "Old and new apps, via modern coding agents",
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 274,
-      "comments": 75,
+      "score": 350,
+      "comments": 99,
       "text": "",
-      "summary": "Old and new apps, via modern coding agents by Terry Tao. 점수 274, 반응 75 기준 인기 이슈입니다."
+      "summary": "Old and new apps, via modern coding agents. 점수 350, 반응 99 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Vint Cerf, a “father of the Internet”, is retiring",
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "score": 344,
+      "comments": 146,
+      "text": "",
+      "summary": "What xAI's Grok build CLI sends to xAI: A wire-level analysis. 점수 344, 반응 146 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Vint Cerf, “father of the Internet”, is retiring",
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "score": 229,
-      "comments": 129,
+      "score": 254,
+      "comments": 138,
       "text": "",
-      "summary": "Vint Cerf, a “father of the Internet”, is retiring. 점수 229, 반응 129 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "An agent in 100 lines of Lisp",
-      "url": "https://thebeach.dev/posts/lisp-agent/",
-      "score": 213,
-      "comments": 65,
-      "text": "",
-      "summary": "An agent in 100 lines of Lisp. 점수 213, 반응 65 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "score": 192,
-      "comments": 31,
-      "text": "",
-      "summary": "RISCBoy is an open-source portable games console, designed from scratch. 점수 192, 반응 31 기준 인기 이슈입니다."
+      "summary": "Vint Cerf, “father of the Internet”, is retiring. 점수 254, 반응 138 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ghostel.el: Terminal emulator powered by libghostty",
       "url": "https://dakra.github.io/ghostel/",
-      "score": 149,
-      "comments": 26,
+      "score": 232,
+      "comments": 38,
       "text": "",
-      "summary": "Ghostel.el: Terminal emulator powered by libghostty. 점수 149, 반응 26 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "score": 133,
-      "comments": 55,
-      "text": "",
-      "summary": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase. 점수 133, 반응 55 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Protobuf-py: Protobuf for Python, without compromises",
-      "url": "https://buf.build/blog/protobuf-py",
-      "score": 114,
-      "comments": 29,
-      "text": "",
-      "summary": "Protobuf-py: Protobuf for Python, without compromises. 점수 114, 반응 29 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Understanding the Odin Programming Language",
-      "url": "https://odinbook.com/",
-      "score": 98,
-      "comments": 36,
-      "text": "",
-      "summary": "Understanding the Odin Programming Language. 점수 98, 반응 36 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "score": 88,
-      "comments": 72,
-      "text": "",
-      "summary": "AI Boosts Research Careers but Flattens Scientific Discovery. 점수 88, 반응 72 기준 인기 이슈입니다."
+      "summary": "Ghostel.el: Terminal emulator powered by libghostty. 점수 232, 반응 38 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How to Read More Books",
       "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "score": 68,
-      "comments": 30,
+      "score": 166,
+      "comments": 97,
       "text": "",
-      "summary": "How to Read More Books. 점수 68, 반응 30 기준 인기 이슈입니다."
+      "summary": "How to Read More Books. 점수 166, 반응 97 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "score": 139,
+      "comments": 61,
+      "text": "",
+      "summary": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase. 점수 139, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Don't you mean extinct?",
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "score": 127,
+      "comments": 55,
+      "text": "",
+      "summary": "Don't you mean extinct?. 점수 127, 반응 55 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Understanding the Odin Programming Language",
+      "url": "https://odinbook.com/",
+      "score": 122,
+      "comments": 62,
+      "text": "",
+      "summary": "Understanding the Odin Programming Language. 점수 122, 반응 62 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The shingles vaccine may reduce the risk of dementia",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "score": 117,
+      "comments": 96,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;PzPop\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;PzPop</a>",
+      "summary": "The shingles vaccine may reduce the risk of dementia. https:&#x2F;&#x2F;archive.ph&#x2F;PzPop 점수 117, 반응 96 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI boosts research careers but narrow the span of ideas explored: study",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "score": 112,
+      "comments": 86,
+      "text": "",
+      "summary": "AI boosts research careers but narrow the span of ideas explored: study. 점수 112, 반응 86 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "score": 108,
+      "comments": 56,
+      "text": "This started based off of a hunch. We usually use OpenCode, but were &#x27;forced&#x27; to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic&#x27;s endpoint, and captured all requests (and the returned usage blocks).<p>With one caveat (toward the end of the post) we found unambiguously that Claude Code was far more inefficient in terms of its cache strategy and its harness token usage than OpenCode.",
+      "summary": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k. This started based off of a hunch. We usually use OpenCode, but were &#x27;forced&#x27; to use Claude Code for a while due to issues with Meridian. 점수 108, 반응 56 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Unauthenticated RCE in Motorola's MR2600 Router",
       "url": "https://mrbruh.com/motorola/",
-      "score": 56,
-      "comments": 17,
+      "score": 64,
+      "comments": 22,
       "text": "",
-      "summary": "Unauthenticated RCE in Motorola's MR2600 Router. 점수 56, 반응 17 기준 인기 이슈입니다."
+      "summary": "Unauthenticated RCE in Motorola's MR2600 Router. 점수 64, 반응 22 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
+      "url": "https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media",
+      "score": 57,
+      "comments": 63,
+      "text": "",
+      "summary": "Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media. 점수 57, 반응 63 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
+      "keyword": "x2f",
+      "count": 6
+    },
+    {
+      "keyword": "code",
+      "count": 5
+    },
+    {
+      "keyword": "opencode",
+      "count": 5
+    },
+    {
+      "keyword": "claude",
+      "count": 4
+    },
+    {
+      "keyword": "coding",
+      "count": 3
+    },
+    {
       "keyword": "platform",
+      "count": 3
+    },
+    {
+      "keyword": "agentic",
+      "count": 3
+    },
+    {
+      "keyword": "use",
       "count": 3
     },
     {
@@ -242,55 +270,27 @@
       "count": 3
     },
     {
+      "keyword": "sends",
+      "count": 3
+    },
+    {
+      "keyword": "more",
+      "count": 3
+    },
+    {
+      "keyword": "but",
+      "count": 3
+    },
+    {
+      "keyword": "x27",
+      "count": 3
+    },
+    {
+      "keyword": "usage",
+      "count": 3
+    },
+    {
       "keyword": "librecode",
-      "count": 2
-    },
-    {
-      "keyword": "ollama",
-      "count": 2
-    },
-    {
-      "keyword": "coding",
-      "count": 2
-    },
-    {
-      "keyword": "interface",
-      "count": 2
-    },
-    {
-      "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "development",
-      "count": 2
-    },
-    {
-      "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "web",
       "count": 2
     }
   ],
