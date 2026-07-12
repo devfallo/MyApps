@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T06:45:47.815480+00:00",
+  "updatedAt": "2026-07-12T10:00:29.826628+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -8,228 +8,228 @@
   "highlights": [
     {
       "source": "GitHub Repos",
+      "title": "re4/LibreCode",
+      "url": "https://github.com/re4/LibreCode",
+      "score": 837654,
+      "comments": 153848,
+      "text": "LibreCode - A Ollama cursor like coding / Reversing Interface",
+      "summary": "LibreCode - A Ollama cursor like coding / Reversing Interface 점수 837654, 반응 153848 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 382640,
-      "comments": 6399,
+      "score": 382653,
+      "comments": 6389,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 382640, 반응 6399 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 382653, 반응 6389 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 252596,
+      "score": 252703,
       "comments": 320,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 252596, 반응 320 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 252703, 반응 320 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 213387,
-      "comments": 27906,
+      "score": 213440,
+      "comments": 27721,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 213387, 반응 27906 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 213440, 반응 27721 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 196120,
+      "score": 196133,
       "comments": 1451,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196120, 반응 1451 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196133, 반응 1451 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185484,
-      "comments": 497,
+      "score": 185486,
+      "comments": 498,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185484, 반응 497 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185486, 반응 498 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 165463,
-      "comments": 61,
+      "score": 165484,
+      "comments": 62,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165463, 반응 61 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165484, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164196,
-      "comments": 2499,
+      "score": 164193,
+      "comments": 2500,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164196, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164193, 반응 2500 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156961,
+      "score": 156969,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156961, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156969, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 149506,
+      "score": 149599,
       "comments": 400,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 149506, 반응 400 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 149599, 반응 400 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 148542,
-      "comments": 954,
+      "score": 148559,
+      "comments": 955,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 148542, 반응 954 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 148559, 반응 955 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 145108,
+      "score": 145118,
       "comments": 404,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145108, 반응 404 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141820,
-      "comments": 155,
-      "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141820, 반응 155 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145118, 반응 404 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Prefer strict tables in SQLite",
       "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "score": 257,
-      "comments": 128,
+      "score": 289,
+      "comments": 136,
       "text": "",
-      "summary": "Prefer strict tables in SQLite. 점수 257, 반응 128 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "score": 234,
-      "comments": 114,
-      "text": "",
-      "summary": "What xAI's Grok Build CLI Actually Sends to xAI. 점수 234, 반응 114 기준 인기 이슈입니다."
+      "summary": "Prefer strict tables in SQLite. 점수 289, 반응 136 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
       "url": "https://antjs.org",
-      "score": 234,
-      "comments": 102,
+      "score": 269,
+      "comments": 115,
       "text": "Hello HN!<p>I&#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.<p>The goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It&#x27;s still early, and I&#x27;d appreciate any feedback on the overall direction or what you&#x27;d like to see from an e2e alternative to the existing JavaScript stacks.<p>P.S. I’ve shared Ant here before as a runtime; since then, it has grown into the broader ecosystem you see today.",
-      "summary": "Show HN: Ant – A JavaScript runtime and ecosystem. I&#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron. 점수 234, 반응 102 기준 인기 이슈입니다."
+      "summary": "Show HN: Ant – A JavaScript runtime and ecosystem. I&#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron. 점수 269, 반응 115 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
       "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 223,
-      "comments": 73,
+      "score": 262,
+      "comments": 100,
       "text": "",
-      "summary": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom. 점수 223, 반응 73 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "We scaled PgBouncer to 4x throughput",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "score": 197,
-      "comments": 39,
-      "text": "",
-      "summary": "We scaled PgBouncer to 4x throughput. 점수 197, 반응 39 기준 인기 이슈입니다."
+      "summary": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom. 점수 262, 반응 100 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mesh LLM: distributed AI computing on iroh",
       "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 185,
-      "comments": 43,
+      "score": 257,
+      "comments": 58,
       "text": "",
-      "summary": "Mesh LLM: distributed AI computing on iroh. 점수 185, 반응 43 기준 인기 이슈입니다."
+      "summary": "Mesh LLM: distributed AI computing on iroh. 점수 257, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-      "url": "https://shipthatcode.com",
-      "score": 153,
-      "comments": 41,
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "score": 210,
+      "comments": 49,
       "text": "",
-      "summary": "Show HN: Learn by rebuilding Redis, Git, a database from scratch. 점수 153, 반응 41 기준 인기 이슈입니다."
+      "summary": "We scaled PgBouncer to 4x throughput. 점수 210, 반응 49 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "score": 190,
+      "comments": 195,
+      "text": "",
+      "summary": "Modern decor may be straining people's brains. 점수 190, 반응 195 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "UPI: Anatomy of a Payment Transaction",
       "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "score": 151,
-      "comments": 60,
+      "score": 187,
+      "comments": 78,
       "text": "",
-      "summary": "UPI: Anatomy of a Payment Transaction. 점수 151, 반응 60 기준 인기 이슈입니다."
+      "summary": "UPI: Anatomy of a Payment Transaction. 점수 187, 반응 78 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
+      "title": "How Doctors die. It’s not like the rest of us (2016)",
       "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
-      "score": 129,
-      "comments": 70,
+      "score": 178,
+      "comments": 101,
       "text": "",
-      "summary": "It's not like the rest of us, but it should be (2016). 점수 129, 반응 70 기준 인기 이슈입니다."
+      "summary": "It’s not like the rest of us (2016). 점수 178, 반응 101 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
-      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
-      "score": 126,
-      "comments": 12,
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "url": "https://shipthatcode.com",
+      "score": 172,
+      "comments": 50,
       "text": "",
-      "summary": "Biff.graph: structure your Clojure codebase as a queryable graph. 점수 126, 반응 12 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-      "score": 108,
-      "comments": 62,
-      "text": "",
-      "summary": "The early History of the Singular Value Decomposition (1993) [pdf]. 점수 108, 반응 62 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "score": 107,
-      "comments": 17,
-      "text": "",
-      "summary": "RISCBoy is an open-source portable games console, designed from scratch. 점수 107, 반응 17 기준 인기 이슈입니다."
+      "summary": "Show HN: Learn by rebuilding Redis, Git, a database from scratch. 점수 172, 반응 50 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "An agent in 100 lines of Lisp",
       "url": "https://thebeach.dev/posts/lisp-agent/",
-      "score": 104,
-      "comments": 6,
+      "score": 150,
+      "comments": 28,
       "text": "",
-      "summary": "An agent in 100 lines of Lisp. 점수 104, 반응 6 기준 인기 이슈입니다."
+      "summary": "An agent in 100 lines of Lisp. 점수 150, 반응 28 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "score": 139,
+      "comments": 21,
+      "text": "",
+      "summary": "RISCBoy is an open-source portable games console, designed from scratch. 점수 139, 반응 21 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+      "score": 132,
+      "comments": 16,
+      "text": "",
+      "summary": "Biff.graph: structure your Clojure codebase as a queryable graph. 점수 132, 반응 16 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "score": 120,
+      "comments": 64,
+      "text": "",
+      "summary": "The early History of the Singular Value Decomposition (1993) [pdf]. 점수 120, 반응 64 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -246,14 +246,6 @@
       "count": 5
     },
     {
-      "keyword": "code",
-      "count": 4
-    },
-    {
-      "keyword": "prompts",
-      "count": 4
-    },
-    {
       "keyword": "ecosystem",
       "count": 4
     },
@@ -262,11 +254,15 @@
       "count": 4
     },
     {
+      "keyword": "like",
+      "count": 3
+    },
+    {
       "keyword": "any",
       "count": 3
     },
     {
-      "keyword": "agent",
+      "keyword": "prompts",
       "count": 3
     },
     {
@@ -278,19 +274,23 @@
       "count": 3
     },
     {
+      "keyword": "librecode",
+      "count": 2
+    },
+    {
+      "keyword": "ollama",
+      "count": 2
+    },
+    {
+      "keyword": "interface",
+      "count": 2
+    },
+    {
       "keyword": "openclaw",
       "count": 2
     },
     {
       "keyword": "own",
-      "count": 2
-    },
-    {
-      "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "development",
       "count": 2
     }
   ],
