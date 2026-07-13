@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T11:28:14.709412+00:00",
+  "updatedAt": "2026-07-13T15:10:59.864556+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,251 +10,235 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 382779,
-      "comments": 6431,
+      "score": 382812,
+      "comments": 6433,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 382779, 반응 6431 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 382812, 반응 6433 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 253472,
-      "comments": 326,
+      "score": 253631,
+      "comments": 327,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 253472, 반응 326 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 253631, 반응 327 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 214032,
-      "comments": 26347,
+      "score": 214110,
+      "comments": 26146,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 214032, 반응 26347 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 214110, 반응 26146 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 196256,
-      "comments": 1450,
+      "score": 196278,
+      "comments": 1451,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196256, 반응 1450 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196278, 반응 1451 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185509,
-      "comments": 498,
+      "score": 185510,
+      "comments": 499,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185509, 반응 498 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185510, 반응 499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 165605,
-      "comments": 62,
+      "score": 165623,
+      "comments": 61,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165605, 반응 62 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165623, 반응 61 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164213,
-      "comments": 2500,
+      "score": 164218,
+      "comments": 2498,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164213, 반응 2500 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164218, 반응 2498 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156992,
+      "score": 156998,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156992, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156998, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 150155,
+      "score": 150246,
       "comments": 402,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 150155, 반응 402 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 150246, 반응 402 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 148675,
-      "comments": 947,
+      "score": 148694,
+      "comments": 949,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 148675, 반응 947 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 148694, 반응 949 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 145243,
-      "comments": 413,
+      "score": 145270,
+      "comments": 418,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145243, 반응 413 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145270, 반응 418 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141867,
+      "score": 141872,
       "comments": 156,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141867, 반응 156 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: Add flag for AI-generated articles",
-      "url": "https://news.ycombinator.com/item?id=48886741",
-      "score": 731,
-      "comments": 327,
-      "text": "Should HN add the ability to flag articles as AI-generated? This doesn&#x27;t have to act as a regular flag, i.e., it won&#x27;t de-rank the article; it could just show up as an indicator, allowing others (like myself) who don&#x27;t like reading AI-generated text, to skip it.<p>Open questions:<p>1. Why is the regular voting system not enough?<p>2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals.",
-      "summary": "Ask HN: Add flag for AI-generated articles. Should HN add the ability to flag articles as AI-generated? This doesn&#x27;t have to act as a regular flag, i.e., it won&#x27;t de-rank the article; it could just show up as an indicator, allowing others (like myself) who don&#x27;t like reading AI-generated text, to skip it. 점수 731, 반응 327 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 613,
-      "comments": 329,
-      "text": "This started based off of a hunch. We usually use OpenCode, but were &#x27;forced&#x27; to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic&#x27;s endpoint, and captured all requests (and the returned usage blocks).<p>With one caveat (toward the end of the post) we found unambiguously that Claude Code was far more inefficient in terms of its cache strategy and its harness token usage than OpenCode.",
-      "summary": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k. This started based off of a hunch. We usually use OpenCode, but were &#x27;forced&#x27; to use Claude Code for a while due to issues with Meridian. 점수 613, 반응 329 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "score": 480,
-      "comments": 173,
-      "text": "",
-      "summary": "What xAI's Grok build CLI sends to xAI: A wire-level analysis. 점수 480, 반응 173 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How to read more books",
-      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "score": 391,
-      "comments": 209,
-      "text": "",
-      "summary": "How to read more books. 점수 391, 반응 209 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141872, 반응 156 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
       "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "score": 372,
-      "comments": 181,
+      "score": 1002,
+      "comments": 498,
       "text": "",
-      "summary": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke. 점수 372, 반응 181 기준 인기 이슈입니다."
+      "summary": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke. 점수 1002, 반응 498 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Vint Cerf, “father of the Internet”, is retiring",
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "score": 322,
-      "comments": 181,
-      "text": "",
-      "summary": "Vint Cerf, “father of the Internet”, is retiring. 점수 322, 반응 181 기준 인기 이슈입니다."
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "score": 874,
+      "comments": 379,
+      "text": "Should HN add the ability to flag articles as AI-generated? This doesn&#x27;t have to act as a regular flag, i.e., it won&#x27;t de-rank the article; it could just show up as an indicator, allowing others (like myself) who don&#x27;t like reading AI-generated text, to skip it.<p>Open questions:<p>1. Why is the regular voting system not enough?<p>2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals.",
+      "summary": "Ask HN: Add flag for AI-generated articles. Should HN add the ability to flag articles as AI-generated? This doesn&#x27;t have to act as a regular flag, i.e., it won&#x27;t de-rank the article; it could just show up as an indicator, allowing others (like myself) who don&#x27;t like reading AI-generated text, to skip it. 점수 874, 반응 379 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 292,
-      "comments": 125,
-      "text": "UAF = Use After Free (<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer</a>)",
-      "summary": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years. UAF = Use After Free ( https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer ) 점수 292, 반응 125 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tiny Emulators",
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "score": 272,
-      "comments": 23,
+      "title": "How to read more books",
+      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+      "score": 474,
+      "comments": 246,
       "text": "",
-      "summary": "Tiny Emulators.  점수 272, 반응 23 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "LARP – Revenue infrastructure for serious founders",
-      "url": "https://www.larp.website/",
-      "score": 257,
-      "comments": 51,
-      "text": "",
-      "summary": "LARP – Revenue infrastructure for serious founders. 점수 257, 반응 51 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "So you want to learn physics (second edition, 2021)",
-      "url": "https://www.susanrigetti.com/physics",
-      "score": 238,
-      "comments": 42,
-      "text": "",
-      "summary": "So you want to learn physics (second edition, 2021). 점수 238, 반응 42 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "score": 213,
-      "comments": 91,
-      "text": "",
-      "summary": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper. 점수 213, 반응 91 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "url": "https://shellzine.net/cyberpunk-comics/",
-      "score": 203,
-      "comments": 69,
-      "text": "",
-      "summary": "Cyberpunk Comics, Manga and Graphic Novels. 점수 203, 반응 69 기준 인기 이슈입니다."
+      "summary": "How to read more books. 점수 474, 반응 246 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Sam Neill has died",
       "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-      "score": 196,
-      "comments": 45,
+      "score": 372,
+      "comments": 85,
       "text": "",
-      "summary": "Sam Neill has died.  점수 196, 반응 45 기준 인기 이슈입니다."
+      "summary": "Sam Neill has died.  점수 372, 반응 85 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Graph That Should Be Front-Page News",
+      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+      "score": 346,
+      "comments": 198,
+      "text": "",
+      "summary": "The Graph That Should Be Front-Page News. 점수 346, 반응 198 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "score": 345,
+      "comments": 155,
+      "text": "UAF = Use After Free (<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer</a>)",
+      "summary": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years. UAF = Use After Free ( https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer ) 점수 345, 반응 155 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Vint Cerf, “father of the Internet”, is retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "score": 344,
+      "comments": 189,
+      "text": "",
+      "summary": "Vint Cerf, “father of the Internet”, is retiring. 점수 344, 반응 189 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "score": 308,
+      "comments": 26,
+      "text": "",
+      "summary": "Tiny Emulators.  점수 308, 반응 26 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LARP – Revenue infrastructure for serious founders",
+      "url": "https://www.larp.website/",
+      "score": 294,
+      "comments": 70,
+      "text": "",
+      "summary": "LARP – Revenue infrastructure for serious founders. 점수 294, 반응 70 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "So you want to learn physics (second edition, 2021)",
+      "url": "https://www.susanrigetti.com/physics",
+      "score": 286,
+      "comments": 53,
+      "text": "",
+      "summary": "So you want to learn physics (second edition, 2021). 점수 286, 반응 53 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "score": 260,
+      "comments": 108,
+      "text": "",
+      "summary": "Cyberpunk Comics, Manga and Graphic Novels. 점수 260, 반응 108 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "score": 237,
+      "comments": 111,
+      "text": "",
+      "summary": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper. 점수 237, 반응 111 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "score": 202,
+      "comments": 87,
+      "text": "",
+      "summary": "Grok uploaded my user directory to xAI's servers. 점수 202, 반응 87 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
-    {
-      "keyword": "code",
-      "count": 8
-    },
     {
       "keyword": "x2f",
       "count": 8
     },
     {
-      "keyword": "x27",
-      "count": 6
-    },
-    {
-      "keyword": "claude",
-      "count": 5
-    },
-    {
-      "keyword": "opencode",
-      "count": 5
-    },
-    {
-      "keyword": "use",
+      "keyword": "code",
       "count": 4
     },
     {
@@ -263,10 +247,6 @@
     },
     {
       "keyword": "platform",
-      "count": 3
-    },
-    {
-      "keyword": "agentic",
       "count": 3
     },
     {
@@ -286,12 +266,32 @@
       "count": 3
     },
     {
-      "keyword": "sends",
+      "keyword": "should",
       "count": 3
     },
     {
-      "keyword": "usage",
+      "keyword": "x27",
       "count": 3
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "agentic",
+      "count": 2
+    },
+    {
+      "keyword": "development",
+      "count": 2
+    },
+    {
+      "keyword": "workflow",
+      "count": 2
     }
   ],
   "meta": {
