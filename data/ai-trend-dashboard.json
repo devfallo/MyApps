@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T18:07:10.684501+00:00",
+  "updatedAt": "2026-07-13T19:48:51.972686+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 382815,
-      "comments": 6552,
+      "score": 382816,
+      "comments": 6569,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 382815, 반응 6552 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 382816, 반응 6569 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 253706,
-      "comments": 331,
+      "score": 253761,
+      "comments": 332,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 253706, 반응 331 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 253761, 반응 332 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 214177,
-      "comments": 25964,
+      "score": 214205,
+      "comments": 25900,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 214177, 반응 25964 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 214205, 반응 25900 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 196291,
-      "comments": 1448,
+      "score": 196305,
+      "comments": 1451,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196291, 반응 1448 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196305, 반응 1451 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,19 +55,19 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 165632,
+      "score": 165637,
       "comments": 61,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165632, 반응 61 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165637, 반응 61 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164221,
+      "score": 164222,
       "comments": 2498,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164221, 반응 2498 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164222, 반응 2498 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,171 +82,167 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 150316,
+      "score": 150351,
       "comments": 397,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 150316, 반응 397 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 150351, 반응 397 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 148699,
+      "score": 148705,
       "comments": 947,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 148699, 반응 947 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 148705, 반응 947 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 145287,
-      "comments": 426,
+      "score": 145294,
+      "comments": 428,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145287, 반응 426 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145294, 반응 428 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141873,
+      "score": 141876,
       "comments": 156,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141873, 반응 156 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "score": 1235,
-      "comments": 628,
-      "text": "",
-      "summary": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke. 점수 1235, 반응 628 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Graph That Should Be Front-Page News",
-      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-      "score": 532,
-      "comments": 323,
-      "text": "",
-      "summary": "The Graph That Should Be Front-Page News. 점수 532, 반응 323 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141876, 반응 156 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
       "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 369,
-      "comments": 165,
+      "score": 381,
+      "comments": 172,
       "text": "UAF = Use After Free (<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer</a>)",
-      "summary": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years. UAF = Use After Free ( https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer ) 점수 369, 반응 165 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Grok CLI uploaded the whole home directory to GCS",
-      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "score": 301,
-      "comments": 353,
-      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;a_green_being&#x2F;status&#x2F;2076598897779020159\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;a_green_being&#x2F;status&#x2F;2076598897779020159</a>",
-      "summary": "Grok CLI uploaded the whole home directory to GCS. https:&#x2F;&#x2F;xcancel.com&#x2F;a_green_being&#x2F;status&#x2F;2076598897779020159 점수 301, 반응 353 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "url": "https://shellzine.net/cyberpunk-comics/",
-      "score": 275,
-      "comments": 124,
-      "text": "",
-      "summary": "Cyberpunk Comics, Manga and Graphic Novels. 점수 275, 반응 124 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-      "url": "https://jivx.com/densha",
-      "score": 263,
-      "comments": 39,
-      "text": "",
-      "summary": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese. 점수 263, 반응 39 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DOGE is done. What happened to its records?",
-      "url": "https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia",
-      "score": 227,
-      "comments": 178,
-      "text": "",
-      "summary": "What happened to its records?. 점수 227, 반응 178 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Backtrack-Free Cursive",
-      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "score": 221,
-      "comments": 99,
-      "text": "",
-      "summary": "Backtrack-Free Cursive. 점수 221, 반응 99 기준 인기 이슈입니다."
+      "summary": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years. UAF = Use After Free ( https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer ) 점수 381, 반응 172 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "LAPD lets contract with surveillance giant Flock expire",
       "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-      "score": 214,
-      "comments": 129,
+      "score": 328,
+      "comments": 237,
       "text": "",
-      "summary": "LAPD lets contract with surveillance giant Flock expire. 점수 214, 반응 129 기준 인기 이슈입니다."
+      "summary": "LAPD lets contract with surveillance giant Flock expire. 점수 328, 반응 237 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: What Are You Working On? (July 2026)",
-      "url": "https://news.ycombinator.com/item?id=48884984",
-      "score": 209,
-      "comments": 749,
-      "text": "What are you working on?  Any new ideas that you&#x27;re thinking about?",
-      "summary": "Ask HN: What Are You Working On? What are you working on? Any new ideas that you&#x27;re thinking about? 점수 209, 반응 749 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-      "score": 180,
-      "comments": 128,
+      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+      "url": "https://jivx.com/densha",
+      "score": 288,
+      "comments": 49,
       "text": "",
-      "summary": "Interrail: 6,379Km and 13 Countries over 7 weeks. 점수 180, 반응 128 기준 인기 이슈입니다."
+      "summary": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese. 점수 288, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
       "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "score": 160,
-      "comments": 77,
+      "score": 274,
+      "comments": 125,
       "text": "",
-      "summary": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor. 점수 160, 반응 77 기준 인기 이슈입니다."
+      "summary": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor. 점수 274, 반응 125 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Backtrack-Free Cursive",
+      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "score": 229,
+      "comments": 104,
+      "text": "",
+      "summary": "Backtrack-Free Cursive. 점수 229, 반응 104 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: What Are You Working On? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48884984",
+      "score": 223,
+      "comments": 822,
+      "text": "What are you working on?  Any new ideas that you&#x27;re thinking about?",
+      "summary": "Ask HN: What Are You Working On? What are you working on? Any new ideas that you&#x27;re thinking about? 점수 223, 반응 822 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Super Dario",
+      "url": "https://superdario.pawb.de",
+      "score": 198,
+      "comments": 51,
+      "text": "",
+      "summary": "Show HN: Super Dario. 점수 198, 반응 51 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The art and engineering of Sega CD Silpheed",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "score": 160,
+      "comments": 32,
+      "text": "",
+      "summary": "The art and engineering of Sega CD Silpheed. 점수 160, 반응 32 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+      "url": "https://github.com/clawkwork/clawk",
+      "score": 146,
+      "comments": 131,
+      "text": "",
+      "summary": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop. 점수 146, 반응 131 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The social physics of conversation: Communication patterns matter",
       "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
-      "score": 139,
-      "comments": 29,
+      "score": 146,
+      "comments": 34,
       "text": "",
-      "summary": "The social physics of conversation: Communication patterns matter. 점수 139, 반응 29 기준 인기 이슈입니다."
+      "summary": "The social physics of conversation: Communication patterns matter. 점수 146, 반응 34 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "url": "https://github.com/floodtide/dom-docx",
+      "score": 111,
+      "comments": 27,
+      "text": "",
+      "summary": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT). 점수 111, 반응 27 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The 'absolute magic' of Morse code that still connects people globally",
+      "url": "https://www.bbc.com/news/articles/cwye0dlzgejo",
+      "score": 100,
+      "comments": 56,
+      "text": "",
+      "summary": "The 'absolute magic' of Morse code that still connects people globally. 점수 100, 반응 56 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
+      "url": "https://esologic.com/benchmarking-tesla-gpus/",
+      "score": 76,
+      "comments": 24,
+      "text": "",
+      "summary": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads. 점수 76, 반응 24 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 18
+      "count": 8
     },
     {
       "keyword": "code",
-      "count": 4
+      "count": 5
     },
     {
       "keyword": "prompts",
-      "count": 4
-    },
-    {
-      "keyword": "https",
       "count": 4
     },
     {
@@ -259,6 +255,10 @@
     },
     {
       "keyword": "api",
+      "count": 3
+    },
+    {
+      "keyword": "show",
       "count": 3
     },
     {
@@ -282,15 +282,15 @@
       "count": 2
     },
     {
+      "keyword": "native",
+      "count": 2
+    },
+    {
       "keyword": "self-host",
       "count": 2
     },
     {
       "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "use",
       "count": 2
     }
   ],
