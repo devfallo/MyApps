@@ -1,245 +1,160 @@
 {
-  "updatedAt": "2026-07-12T23:09:00.178647+00:00",
+  "updatedAt": "2026-07-13T03:59:35.905011+00:00",
   "status": "ok",
-  "count": 25,
+  "count": 15,
   "errors": [
+    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
-      "source": "GitHub Repos",
-      "title": "re4/LibreCode",
-      "url": "https://github.com/re4/LibreCode",
-      "score": 575242,
-      "comments": 278661,
-      "text": "LibreCode - A Ollama cursor like coding / Reversing Interface",
-      "summary": "LibreCode - A Ollama cursor like coding / Reversing Interface 점수 575242, 반응 278661 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "score": 382694,
-      "comments": 6467,
-      "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 382694, 반응 6467 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 252997,
-      "comments": 323,
-      "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 252997, 반응 323 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 213723,
-      "comments": 26831,
-      "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 213723, 반응 26831 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 196200,
-      "comments": 1455,
-      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196200, 반응 1455 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185496,
-      "comments": 498,
-      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185496, 반응 498 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 165564,
-      "comments": 63,
-      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165564, 반응 63 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164199,
-      "comments": 2501,
-      "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164199, 반응 2501 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Snailclimb/JavaGuide",
-      "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 156974,
-      "comments": 58,
-      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 156974, 반응 58 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "score": 149873,
-      "comments": 402,
-      "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 149873, 반응 402 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 148607,
-      "comments": 953,
-      "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 148607, 반응 953 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 145169,
-      "comments": 412,
-      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145169, 반응 412 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 390,
-      "comments": 111,
-      "text": "",
-      "summary": "Old and new apps, via modern coding agents. 점수 390, 반응 111 기준 인기 이슈입니다."
-    },
-    {
       "source": "Hacker News",
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 379,
-      "comments": 210,
+      "score": 495,
+      "comments": 279,
       "text": "This started based off of a hunch. We usually use OpenCode, but were &#x27;forced&#x27; to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic&#x27;s endpoint, and captured all requests (and the returned usage blocks).<p>With one caveat (toward the end of the post) we found unambiguously that Claude Code was far more inefficient in terms of its cache strategy and its harness token usage than OpenCode.",
-      "summary": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k. This started based off of a hunch. We usually use OpenCode, but were &#x27;forced&#x27; to use Claude Code for a while due to issues with Meridian. 점수 379, 반응 210 기준 인기 이슈입니다."
+      "summary": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k. This started based off of a hunch. We usually use OpenCode, but were &#x27;forced&#x27; to use Claude Code for a while due to issues with Meridian. 점수 495, 반응 279 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "score": 267,
-      "comments": 146,
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "score": 414,
+      "comments": 161,
       "text": "",
-      "summary": "I love LLMs, I hate hype. 점수 267, 반응 146 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ghostel.el: Terminal emulator powered by libghostty",
-      "url": "https://dakra.github.io/ghostel/",
-      "score": 257,
-      "comments": 49,
-      "text": "",
-      "summary": "Ghostel.el: Terminal emulator powered by libghostty. 점수 257, 반응 49 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How to read more books",
-      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "score": 229,
-      "comments": 131,
-      "text": "",
-      "summary": "How to read more books. 점수 229, 반응 131 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The shingles vaccine may reduce the risk of dementia",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-      "score": 197,
-      "comments": 172,
-      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;PzPop\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;PzPop</a>",
-      "summary": "The shingles vaccine may reduce the risk of dementia. https:&#x2F;&#x2F;archive.ph&#x2F;PzPop 점수 197, 반응 172 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Don't you mean extinct?",
-      "url": "https://fabiensanglard.net/extinct/index.html",
-      "score": 172,
-      "comments": 98,
-      "text": "",
-      "summary": "Don't you mean extinct?. 점수 172, 반응 98 기준 인기 이슈입니다."
+      "summary": "What xAI's Grok build CLI sends to xAI: A wire-level analysis. 점수 414, 반응 161 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
       "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-      "score": 166,
-      "comments": 70,
+      "score": 375,
+      "comments": 174,
       "text": "",
-      "summary": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS. 점수 166, 반응 70 기준 인기 이슈입니다."
+      "summary": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS. 점수 375, 반응 174 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Irish datacenters now guzzle 23% of the country's electricity",
-      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
-      "score": 156,
-      "comments": 107,
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "score": 357,
+      "comments": 222,
       "text": "",
-      "summary": "Irish datacenters now guzzle 23% of the country's electricity. 점수 156, 반응 107 기준 인기 이슈입니다."
+      "summary": "I love LLMs, I hate hype. 점수 357, 반응 222 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Vint Cerf, “father of the Internet”, is retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "score": 286,
+      "comments": 164,
+      "text": "",
+      "summary": "Vint Cerf, “father of the Internet”, is retiring. 점수 286, 반응 164 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "LARP – Revenue infrastructure for serious founders",
       "url": "https://www.larp.website/",
-      "score": 113,
-      "comments": 28,
+      "score": 178,
+      "comments": 39,
       "text": "",
-      "summary": "LARP – Revenue infrastructure for serious founders. 점수 113, 반응 28 기준 인기 이슈입니다."
+      "summary": "LARP – Revenue infrastructure for serious founders. 점수 178, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "score": 176,
+      "comments": 123,
+      "text": "Should HN add the ability to flag articles as AI-generated? This doesn&#x27;t have to act as a regular flag, i.e., it won&#x27;t de-rank the article; it could just show up as an indicator, allowing others (like myself) who don&#x27;t like reading AI-generated text, to skip it.<p>Open questions:<p>1. Why is the regular voting system not enough?<p>2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals.",
+      "summary": "Ask HN: Add flag for AI-generated articles. Should HN add the ability to flag articles as AI-generated? This doesn&#x27;t have to act as a regular flag, i.e., it won&#x27;t de-rank the article; it could just show up as an indicator, allowing others (like myself) who don&#x27;t like reading AI-generated text, to skip it. 점수 176, 반응 123 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Tiny Emulators",
       "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "score": 101,
-      "comments": 3,
+      "score": 172,
+      "comments": 10,
       "text": "",
-      "summary": "Tiny Emulators.  점수 101, 반응 3 기준 인기 이슈입니다."
+      "summary": "Tiny Emulators.  점수 172, 반응 10 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
       "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "score": 90,
-      "comments": 21,
+      "score": 154,
+      "comments": 53,
       "text": "",
-      "summary": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper. 점수 90, 반응 21 기준 인기 이슈입니다."
+      "summary": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper. 점수 154, 반응 53 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "score": 130,
+      "comments": 50,
+      "text": "UAF = Use After Free (<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer</a>)",
+      "summary": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years. UAF = Use After Free ( https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer ) 점수 130, 반응 50 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Why write code in 2026",
       "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
-      "score": 85,
-      "comments": 129,
+      "score": 125,
+      "comments": 162,
       "text": "",
-      "summary": "Why write code in 2026. 점수 85, 반응 129 기준 인기 이슈입니다."
+      "summary": "Why write code in 2026. 점수 125, 반응 162 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "So you want to learn physics (second edition, 2021)",
+      "url": "https://www.susanrigetti.com/physics",
+      "score": 122,
+      "comments": 16,
+      "text": "",
+      "summary": "So you want to learn physics (second edition, 2021). 점수 122, 반응 16 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "score": 112,
+      "comments": 48,
+      "text": "",
+      "summary": "I Learned to Read Again. 점수 112, 반응 48 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "score": 108,
+      "comments": 24,
+      "text": "",
+      "summary": "Cyberpunk Comics, Manga and Graphic Novels. 점수 108, 반응 24 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Automation Without Understanding",
+      "url": "https://arxiv.org/abs/2607.06377",
+      "score": 103,
+      "comments": 44,
+      "text": "",
+      "summary": "Automation Without Understanding. 점수 103, 반응 44 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "code",
+      "keyword": "x2f",
+      "count": 8
+    },
+    {
+      "keyword": "x27",
       "count": 6
     },
     {
-      "keyword": "x2f",
-      "count": 6
+      "keyword": "code",
+      "count": 5
     },
     {
       "keyword": "opencode",
@@ -250,15 +165,7 @@
       "count": 4
     },
     {
-      "keyword": "coding",
-      "count": 3
-    },
-    {
-      "keyword": "platform",
-      "count": 3
-    },
-    {
-      "keyword": "agentic",
+      "keyword": "sends",
       "count": 3
     },
     {
@@ -266,31 +173,35 @@
       "count": 3
     },
     {
-      "keyword": "prompts",
-      "count": 3
-    },
-    {
-      "keyword": "x27",
-      "count": 3
-    },
-    {
       "keyword": "usage",
       "count": 3
     },
     {
-      "keyword": "more",
+      "keyword": "flag",
       "count": 3
     },
     {
-      "keyword": "librecode",
+      "keyword": "ai-generated",
+      "count": 3
+    },
+    {
+      "keyword": "reading",
       "count": 2
     },
     {
-      "keyword": "ollama",
+      "keyword": "but",
       "count": 2
     },
     {
-      "keyword": "interface",
+      "keyword": "much",
+      "count": 2
+    },
+    {
+      "keyword": "more",
+      "count": 2
+    },
+    {
+      "keyword": "than",
       "count": 2
     }
   ],
