@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T23:10:39.247605+00:00",
+  "updatedAt": "2026-07-15T03:34:22.824189+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,240 +10,236 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 382944,
-      "comments": 6654,
+      "score": 382955,
+      "comments": 6688,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 382944, 반응 6654 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 382955, 반응 6688 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 254675,
-      "comments": 328,
+      "score": 254791,
+      "comments": 327,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 254675, 반응 328 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 254791, 반응 327 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 214862,
-      "comments": 23829,
+      "score": 214943,
+      "comments": 23624,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 214862, 반응 23829 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 214943, 반응 23624 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 196442,
-      "comments": 1372,
+      "score": 196465,
+      "comments": 1375,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196442, 반응 1372 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196465, 반응 1375 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185538,
+      "score": 185544,
       "comments": 500,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185538, 반응 500 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185544, 반응 500 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 165738,
+      "score": 165754,
       "comments": 63,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165738, 반응 63 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165754, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164234,
+      "score": 164241,
       "comments": 2498,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164234, 반응 2498 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164241, 반응 2498 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157031,
+      "score": 157044,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157031, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157044, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 151022,
-      "comments": 400,
+      "score": 151111,
+      "comments": 402,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 151022, 반응 400 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 151111, 반응 402 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 148837,
-      "comments": 976,
+      "score": 148858,
+      "comments": 964,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 148837, 반응 976 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 148858, 반응 964 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 145433,
-      "comments": 433,
+      "score": 145453,
+      "comments": 435,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145433, 반응 433 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145453, 반응 435 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141921,
+      "score": 141924,
       "comments": 156,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141921, 반응 156 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 665,
-      "comments": 416,
-      "text": "",
-      "summary": "Your 'app' could have been a webpage (so I fixed it for you). 점수 665, 반응 416 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How to stop Claude from saying load-bearing",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 396,
-      "comments": 454,
-      "text": "",
-      "summary": "How to stop Claude from saying load-bearing. 점수 396, 반응 454 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 345,
-      "comments": 341,
-      "text": "",
-      "summary": "Are we offloading too much of our thinking to AI?. 점수 345, 반응 341 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141924, 반응 156 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
-      "score": 338,
-      "comments": 122,
+      "score": 478,
+      "comments": 174,
       "text": "",
-      "summary": "Bonsai 27B: A 27B-Class model that runs on a phone. 점수 338, 반응 122 기준 인기 이슈입니다."
+      "summary": "Bonsai 27B: A 27B-Class model that runs on a phone. 점수 478, 반응 174 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-      "score": 333,
-      "comments": 207,
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "score": 455,
+      "comments": 514,
       "text": "",
-      "summary": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK. 점수 333, 반응 207 기준 인기 이슈입니다."
+      "summary": "How to stop Claude from saying load-bearing. 점수 455, 반응 514 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "score": 397,
+      "comments": 392,
+      "text": "",
+      "summary": "Are we offloading too much of our thinking to AI?. 점수 397, 반응 392 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 295,
-      "comments": 146,
+      "score": 372,
+      "comments": 173,
       "text": "",
-      "summary": "The Tower Keeps Rising. 점수 295, 반응 146 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Punch yourself in the face with reality",
-      "url": "https://adi.bio/reality",
-      "score": 198,
-      "comments": 96,
-      "text": "",
-      "summary": "Punch yourself in the face with reality. 점수 198, 반응 96 기준 인기 이슈입니다."
+      "summary": "The Tower Keeps Rising. 점수 372, 반응 173 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
       "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 184,
-      "comments": 73,
+      "score": 273,
+      "comments": 125,
       "text": "",
-      "summary": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left. 점수 184, 반응 73 기준 인기 이슈입니다."
+      "summary": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left. 점수 273, 반응 125 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
       "url": "https://github.com/juggler-ai/juggler",
-      "score": 155,
-      "comments": 77,
+      "score": 193,
+      "comments": 81,
       "text": "Hello HN, I don&#x27;t post on here much, but wanted to get some eyes on a new project I&#x27;m just launching. I think we definitely need one more AI code agent..<p>I&#x27;m a long-term C++ dev, and over 30+ years I&#x27;ve created some successful audio dev tools (JUCE, the Tracktion DAW, the Cmajor DSP language). All of these came from me getting annoyed with something I had to use, and deciding to have a go at my own take on whatever it was.<p>So Juggler is my attempt at an AI code agent, after spending too many hours loving what the models could do, but hating the CLI experience, and having some opinions of what a better UX might be for this stuff.<p>Lots more blurb on the website and github, but a quick tech dump which might grab your attention if you&#x27;re into these things:<p>A session is a document, not a log file. Each conversation is a Yjs CRDT tree. It can branch into sub-threads (recursively), and you can drill down, backtrack, edit, undo&#x2F;redo, and inspect everything: tool calls, approvals, and the raw context JSON going to the model, etc. The UI is based around Finder-style Miller columns rather than a big doom-scroll, and is quick to navigate.<p>Because it&#x27;s a CRDT behind a local web server, multiple clients can attach P2P to a live session: the native desktop app, a browser tab, or your phone. Run the headless server on the box where the code lives, view it from wherever.<p>Almost everything is a JavaScript plugin: every item in the context (read&#x2F;write&#x2F;bash&#x2F;etc.), the LLM loop strategies, slash commands, and their UIs. You can inspect, fork, or replace any of them. I don&#x27;t do much agent customisation myself, but lots of people do, and I&#x27;d love to see what they think of with this plugin API.<p>Go backend, Wails for windowing (no Electron), plain type-checked JS (strict JSDoc), Yjs for the documents. Usual BYOK provider support: Claude (CLI or API), OpenAI&#x2F;Codex, Gemini, Ollama, OpenRouter, DeepSeek, etc.<p>The app&#x27;s AGPLv3; the extension SDK and bundled extensions are Apache-2.0, so extensions have no copyleft strings attached. No signup, no telemetry, trying to make it frictionless for people to try it out..<p>It&#x27;s very much a beta, and is a one-man side project. It hasn&#x27;t yet had a proper kicking from the real world, but I&#x27;m confident some people with similar preferences to my own will like it!<p><a href=\"https:&#x2F;&#x2F;juggler.studio\" rel=\"nofollow\">https:&#x2F;&#x2F;juggler.studio</a>",
-      "summary": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE. Hello HN, I don&#x27;t post on here much, but wanted to get some eyes on a new project I&#x27;m just launching. I think we definitely need one more AI code agent.. 점수 155, 반응 77 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Opening lines of famous literary works",
-      "url": "https://www.verbaprima.com/",
-      "score": 135,
-      "comments": 78,
-      "text": "This came from an idea that had been knocking around in my head for several years. I had been collecting opening lines of famous works and thought it would be cool to see one everyday as I opened the browser. I tried different styles but landed on the simple background with the text, let the words speak for themselves. Over time i&#x27;ve added more quotes I believe now there are close to 60, so hopefully you can refresh a few times and get a fresh one every time. I hope you guys like it, enjoy!",
-      "summary": "Show HN: Opening lines of famous literary works. This came from an idea that had been knocking around in my head for several years. I had been collecting opening lines of famous works and thought it would be cool to see one everyday as I opened the browser. 점수 135, 반응 78 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "url": "https://2b2t.place/1million",
-      "score": 132,
-      "comments": 38,
-      "text": "",
-      "summary": "The largest available Minecraft world, totalling 15 TB. 점수 132, 반응 38 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-      "score": 130,
-      "comments": 170,
-      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;i&#x2F;article&#x2F;2076957440109625718\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;i&#x2F;article&#x2F;2076957440109625718</a><p><a href=\"https:&#x2F;&#x2F;www.economist.com&#x2F;business&#x2F;2026&#x2F;07&#x2F;14&#x2F;demis-hassabis-has-a-plan-to-harness-ai-safely\" rel=\"nofollow\">https:&#x2F;&#x2F;www.economist.com&#x2F;business&#x2F;2026&#x2F;07&#x2F;14&#x2F;demis-hassabis...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;GOUcN\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;GOUcN</a>",
-      "summary": "Demis Hassabis has a plan to harness AI safely. https:&#x2F;&#x2F;xcancel.com&#x2F;i&#x2F;article&#x2F;2076957440109625718 https:&#x2F;&#x2F;www.economist.com&#x2F;business&#x2F;2026&#x2F;07&#x2F;14&#x2F;demis-hassabis... , https:&#x2F;&#x2F;archive.ph&#x2F;GOUcN 점수 130, 반응 170 기준 인기 이슈입니다."
+      "summary": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE. Hello HN, I don&#x27;t post on here much, but wanted to get some eyes on a new project I&#x27;m just launching. I think we definitely need one more AI code agent.. 점수 193, 반응 81 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I'm a USB-C Maximalist",
       "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-      "score": 120,
-      "comments": 216,
+      "score": 190,
+      "comments": 294,
       "text": "",
-      "summary": "I'm a USB-C Maximalist. 점수 120, 반응 216 기준 인기 이슈입니다."
+      "summary": "I'm a USB-C Maximalist. 점수 190, 반응 294 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "url": "https://2b2t.place/1million",
+      "score": 174,
+      "comments": 59,
+      "text": "",
+      "summary": "The largest available Minecraft world, totalling 15 TB. 점수 174, 반응 59 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "score": 153,
+      "comments": 58,
+      "text": "",
+      "summary": "Vancouver PD website features Quick Escape button that wipes itself from history. 점수 153, 반응 58 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Opening lines of famous literary works",
+      "url": "https://www.verbaprima.com/",
+      "score": 145,
+      "comments": 87,
+      "text": "This came from an idea that had been knocking around in my head for several years. I had been collecting opening lines of famous works and thought it would be cool to see one everyday as I opened the browser. I tried different styles but landed on the simple background with the text, let the words speak for themselves. Over time i&#x27;ve added more quotes I believe now there are close to 60, so hopefully you can refresh a few times and get a fresh one every time. I hope you guys like it, enjoy!",
+      "summary": "Show HN: Opening lines of famous literary works. This came from an idea that had been knocking around in my head for several years. I had been collecting opening lines of famous works and thought it would be cool to see one everyday as I opened the browser. 점수 145, 반응 87 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The kids with phones are alright",
+      "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
+      "score": 143,
+      "comments": 101,
+      "text": "",
+      "summary": "The kids with phones are alright. 점수 143, 반응 101 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How I use HTMX with Go",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "score": 138,
+      "comments": 33,
+      "text": "",
+      "summary": "How I use HTMX with Go. 점수 138, 반응 33 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "score": 121,
+      "comments": 70,
+      "text": "",
+      "summary": "Dependabot version updates introduce default package cooldown. 점수 121, 반응 70 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
-    {
-      "keyword": "x2f",
-      "count": 39
-    },
     {
       "keyword": "x27",
       "count": 13
     },
     {
-      "keyword": "https",
-      "count": 8
+      "keyword": "x2f",
+      "count": 9
     },
     {
       "keyword": "code",
@@ -270,10 +266,6 @@
       "count": 4
     },
     {
-      "keyword": "app",
-      "count": 4
-    },
-    {
       "keyword": "dev",
       "count": 4
     },
@@ -292,6 +284,14 @@
     {
       "keyword": "had",
       "count": 4
+    },
+    {
+      "keyword": "own",
+      "count": 3
+    },
+    {
+      "keyword": "any",
+      "count": 3
     }
   ],
   "meta": {
