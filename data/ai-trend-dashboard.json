@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T14:09:48.210923+00:00",
+  "updatedAt": "2026-07-15T15:49:36.626379+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 383002,
+      "score": 383013,
       "comments": 6729,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 383002, 반응 6729 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 383013, 반응 6729 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 255197,
+      "score": 255247,
       "comments": 325,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 255197, 반응 325 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 255247, 반응 325 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 215255,
-      "comments": 23310,
+      "score": 215300,
+      "comments": 23277,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 215255, 반응 23310 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 215300, 반응 23277 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 196539,
-      "comments": 1396,
+      "score": 196545,
+      "comments": 1397,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196539, 반응 1396 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196545, 반응 1397 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185555,
-      "comments": 497,
+      "score": 185558,
+      "comments": 495,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185555, 반응 497 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185558, 반응 495 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 165803,
+      "score": 165806,
       "comments": 63,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165803, 반응 63 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165806, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164247,
+      "score": 164252,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164247, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164252, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,154 +82,154 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 151360,
+      "score": 151405,
       "comments": 403,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 151360, 반응 403 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 151405, 반응 403 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 148920,
+      "score": 148937,
       "comments": 962,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 148920, 반응 962 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 148937, 반응 962 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 145502,
-      "comments": 440,
+      "score": 145512,
+      "comments": 442,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145502, 반응 440 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145512, 반응 442 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141941,
+      "score": 141944,
       "comments": 156,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141941, 반응 156 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141944, 반응 156 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Jurassic Park computers in excruciating detail",
       "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "score": 664,
-      "comments": 165,
+      "score": 733,
+      "comments": 182,
       "text": "",
-      "summary": "Jurassic Park computers in excruciating detail. 점수 664, 반응 165 기준 인기 이슈입니다."
+      "summary": "Jurassic Park computers in excruciating detail. 점수 733, 반응 182 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "score": 415,
+      "comments": 190,
+      "text": "",
+      "summary": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023). 점수 415, 반응 190 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
       "url": "https://vpd.ca/",
-      "score": 318,
-      "comments": 128,
+      "score": 333,
+      "comments": 131,
       "text": "",
-      "summary": "Vancouver PD website features Quick Escape button that wipes itself from history. 점수 318, 반응 128 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
-      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-      "score": 247,
-      "comments": 100,
-      "text": "",
-      "summary": "Sleep regularity is a stronger predictor of mortality risk than sleep duration. 점수 247, 반응 100 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "score": 188,
-      "comments": 113,
-      "text": "",
-      "summary": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access. 점수 188, 반응 113 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Microsoft has released software updates to plug at least 570 security holes",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "score": 167,
-      "comments": 103,
-      "text": "",
-      "summary": "Microsoft has released software updates to plug at least 570 security holes. 점수 167, 반응 103 기준 인기 이슈입니다."
+      "summary": "Vancouver PD website features Quick Escape button that wipes itself from history. 점수 333, 반응 131 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
       "url": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
-      "score": 105,
-      "comments": 28,
+      "score": 316,
+      "comments": 255,
       "text": "",
-      "summary": "SpaceX bond worth 10% less than issue price – heading for junk bond status. 점수 105, 반응 28 기준 인기 이슈입니다."
+      "summary": "SpaceX bond worth 10% less than issue price – heading for junk bond status. 점수 316, 반응 255 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "score": 200,
+      "comments": 127,
+      "text": "",
+      "summary": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access. 점수 200, 반응 127 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Prioritize mental health, and why communication is so important",
       "url": "https://ramones.dev/posts/mental-health/",
-      "score": 76,
-      "comments": 56,
+      "score": 131,
+      "comments": 75,
       "text": "",
-      "summary": "Prioritize mental health, and why communication is so important. 점수 76, 반응 56 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DSLs Enable Reliable Use of LLMs",
-      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
-      "score": 70,
-      "comments": 42,
-      "text": "",
-      "summary": "DSLs Enable Reliable Use of LLMs. 점수 70, 반응 42 기준 인기 이슈입니다."
+      "summary": "Prioritize mental health, and why communication is so important. 점수 131, 반응 75 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Telegram Serverless",
       "url": "https://core.telegram.org/bots/serverless",
-      "score": 67,
-      "comments": 44,
+      "score": 105,
+      "comments": 60,
       "text": "",
-      "summary": "Telegram Serverless.  점수 67, 반응 44 기준 인기 이슈입니다."
+      "summary": "Telegram Serverless.  점수 105, 반응 60 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Who's running all those tiny RPKI servers?",
-      "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
-      "score": 59,
-      "comments": 9,
+      "title": "Mysteries of Telegram Data Centers",
+      "url": "https://dev.moe/en/3025",
+      "score": 98,
+      "comments": 24,
       "text": "",
-      "summary": "Who's running all those tiny RPKI servers?. 점수 59, 반응 9 기준 인기 이슈입니다."
+      "summary": "Mysteries of Telegram Data Centers. 점수 98, 반응 24 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "score": 93,
+      "comments": 100,
+      "text": "",
+      "summary": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence. 점수 93, 반응 100 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Briar Is in Maintenance Mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "score": 73,
+      "comments": 43,
+      "text": "",
+      "summary": "Briar Is in Maintenance Mode. 점수 73, 반응 43 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Weathergotchi – an open-source climate Tamagotchi",
       "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
-      "score": 42,
+      "score": 67,
+      "comments": 17,
+      "text": "",
+      "summary": "Weathergotchi – an open-source climate Tamagotchi. 점수 67, 반응 17 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Towards a Harness That Can Do Anything",
+      "url": "https://eardatasci.github.io/c/ambiance/index.html",
+      "score": 46,
+      "comments": 25,
+      "text": "",
+      "summary": "Towards a Harness That Can Do Anything. 점수 46, 반응 25 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
+      "url": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/",
+      "score": 46,
       "comments": 12,
       "text": "",
-      "summary": "Weathergotchi – an open-source climate Tamagotchi. 점수 42, 반응 12 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Neverclick: Desktop application for performing mouse actions with your keyboard",
-      "url": "https://github.com/LazoVelko/neverclick",
-      "score": 41,
-      "comments": 38,
-      "text": "",
-      "summary": "Neverclick: Desktop application for performing mouse actions with your keyboard. 점수 41, 반응 38 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
-      "url": "https://cdrom.ca/games/2026/05/30/xd.html",
-      "score": 34,
-      "comments": 2,
-      "text": "",
-      "summary": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS. 점수 34, 반응 2 기준 인기 이슈입니다."
+      "summary": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled. 점수 46, 반응 12 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -258,10 +258,6 @@
       "count": 2
     },
     {
-      "keyword": "software",
-      "count": 2
-    },
-    {
       "keyword": "development",
       "count": 2
     },
@@ -282,15 +278,19 @@
       "count": 2
     },
     {
-      "keyword": "use",
-      "count": 2
-    },
-    {
       "keyword": "tools",
       "count": 2
     },
     {
+      "keyword": "can",
+      "count": 2
+    },
+    {
       "keyword": "open",
+      "count": 2
+    },
+    {
+      "keyword": "web",
       "count": 2
     }
   ],
