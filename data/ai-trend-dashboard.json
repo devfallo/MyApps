@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T19:36:17.985959+00:00",
+  "updatedAt": "2026-07-15T21:14:29.662673+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 383032,
-      "comments": 6752,
+      "score": 383036,
+      "comments": 6750,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 383032, 반응 6752 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 383036, 반응 6750 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 255327,
+      "score": 255352,
       "comments": 312,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 255327, 반응 312 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 255352, 반응 312 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 215385,
-      "comments": 23124,
+      "score": 215412,
+      "comments": 23103,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 215385, 반응 23124 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 215412, 반응 23103 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 196570,
-      "comments": 1393,
+      "score": 196575,
+      "comments": 1395,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196570, 반응 1393 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196575, 반응 1395 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185561,
-      "comments": 493,
+      "score": 185562,
+      "comments": 494,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185561, 반응 493 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185562, 반응 494 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 165817,
+      "score": 165820,
       "comments": 63,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165817, 반응 63 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165820, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164255,
+      "score": 164257,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164255, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164257, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,167 +82,191 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 151475,
+      "score": 151494,
       "comments": 401,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 151475, 반응 401 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 151494, 반응 401 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 148949,
+      "score": 148951,
       "comments": 965,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 148949, 반응 965 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 148951, 반응 965 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 145528,
-      "comments": 443,
+      "score": 145541,
+      "comments": 444,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145528, 반응 443 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145541, 반응 444 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141949,
+      "score": 141953,
       "comments": 156,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141949, 반응 156 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141953, 반응 156 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
       "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-      "score": 576,
-      "comments": 285,
+      "score": 606,
+      "comments": 302,
       "text": "",
-      "summary": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023). 점수 576, 반응 285 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Prioritize mental health, and why communication is so important",
-      "url": "https://ramones.dev/posts/mental-health/",
-      "score": 218,
-      "comments": 143,
-      "text": "",
-      "summary": "Prioritize mental health, and why communication is so important. 점수 218, 반응 143 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mysteries of Telegram Data Centers (2022)",
-      "url": "https://dev.moe/en/3025",
-      "score": 190,
-      "comments": 73,
-      "text": "",
-      "summary": "Mysteries of Telegram Data Centers (2022). 점수 190, 반응 73 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Codex Micro",
-      "url": "https://openai.com/supply/co-lab/work-louder/",
-      "score": 186,
-      "comments": 152,
-      "text": "",
-      "summary": "Codex Micro.  점수 186, 반응 152 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI loses trademark dispute at EU court",
-      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
-      "score": 165,
-      "comments": 114,
-      "text": "",
-      "summary": "OpenAI loses trademark dispute at EU court. 점수 165, 반응 114 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "score": 145,
-      "comments": 77,
-      "text": "",
-      "summary": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU. 점수 145, 반응 77 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Telegram Serverless",
-      "url": "https://core.telegram.org/bots/serverless",
-      "score": 137,
-      "comments": 83,
-      "text": "",
-      "summary": "Telegram Serverless.  점수 137, 반응 83 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "score": 136,
-      "comments": 174,
-      "text": "",
-      "summary": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence. 점수 136, 반응 174 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why I Left Google DeepMind",
-      "url": "https://turntrout.com/why-i-left-google-deepmind",
-      "score": 129,
-      "comments": 58,
-      "text": "",
-      "summary": "Why I Left Google DeepMind. 점수 129, 반응 58 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "score": 128,
-      "comments": 72,
-      "text": "",
-      "summary": "Stripe and Advent have made a joint offer to acquire PayPal – sources. 점수 128, 반응 72 기준 인기 이슈입니다."
+      "summary": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023). 점수 606, 반응 302 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Inkling: Our Open-Weights Model",
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 124,
-      "comments": 49,
+      "score": 351,
+      "comments": 91,
       "text": "",
-      "summary": "Inkling: Our Open-Weights Model. 점수 124, 반응 49 기준 인기 이슈입니다."
+      "summary": "Inkling: Our Open-Weights Model. 점수 351, 반응 91 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Briar is in maintenance mode",
-      "url": "https://briarproject.org/news/2026-maintenance-mode/",
-      "score": 111,
-      "comments": 77,
+      "title": "Prioritize mental health, and why communication is so important",
+      "url": "https://ramones.dev/posts/mental-health/",
+      "score": 252,
+      "comments": 198,
       "text": "",
-      "summary": "Briar is in maintenance mode. 점수 111, 반응 77 기준 인기 이슈입니다."
+      "summary": "Prioritize mental health, and why communication is so important. 점수 252, 반응 198 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "score": 235,
+      "comments": 117,
+      "text": "",
+      "summary": "Stripe and Advent have made a joint offer to acquire PayPal – sources. 점수 235, 반응 117 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Codex Micro",
+      "url": "https://openai.com/supply/co-lab/work-louder/",
+      "score": 231,
+      "comments": 197,
+      "text": "",
+      "summary": "Codex Micro.  점수 231, 반응 197 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mysteries of Telegram Data Centers (2022)",
+      "url": "https://dev.moe/en/3025",
+      "score": 212,
+      "comments": 106,
+      "text": "",
+      "summary": "Mysteries of Telegram Data Centers (2022). 점수 212, 반응 106 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "score": 185,
+      "comments": 104,
+      "text": "",
+      "summary": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU. 점수 185, 반응 104 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Towards a harness that can do anything",
       "url": "https://eardatasci.github.io/c/ambiance/index.html",
-      "score": 111,
-      "comments": 62,
+      "score": 142,
+      "comments": 69,
       "text": "",
-      "summary": "Towards a harness that can do anything. 점수 111, 반응 62 기준 인기 이슈입니다."
+      "summary": "Towards a harness that can do anything. 점수 142, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "My midlife crisis Corolla is fast, furious, and modded",
+      "url": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
+      "score": 133,
+      "comments": 276,
+      "text": "",
+      "summary": "My midlife crisis Corolla is fast, furious, and modded. 점수 133, 반응 276 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Briar is in maintenance mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "score": 127,
+      "comments": 87,
+      "text": "",
+      "summary": "Briar is in maintenance mode. 점수 127, 반응 87 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Collection of Digital Clock Designs",
+      "url": "https://clocks.dev",
+      "score": 109,
+      "comments": 31,
+      "text": "",
+      "summary": "Collection of Digital Clock Designs. 점수 109, 반응 31 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "score": 107,
+      "comments": 35,
+      "text": "I&#x27;ve spent the last few months working on this codec.<p>It has the following characteristics:<p><pre><code>  - SOTA decompression throughput in its ratio class\n  - Decent ratios (comparable to LZ4 at high effort levels)\n  - Slow compression\n</code></pre>\nMost of the gains can be attributed to reducing branches and making decompression very friendly to out-of-order cores, by using a smart format.<p>Results on the tarred Silesia corpus on Intel x86-64 follow:<p><pre><code>  codec       decode      ratio    encode\n  misa77 -0   5219 MB&#x2F;s   42.64%   54.5 MB&#x2F;s\n  misa77 -1   4274 MB&#x2F;s   39.65%   51.2 MB&#x2F;s\n  lz4         2505 MB&#x2F;s   47.59%   371 MB&#x2F;s\n  lz4hc -12   2531 MB&#x2F;s   36.45%   7.31 MB&#x2F;s</code></pre>",
+      "summary": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios). I&#x27;ve spent the last few months working on this codec. It has the following characteristics: - SOTA decompression throughput in its ratio class - Decent ratios (comparable to LZ4 at high effort levels) - Slow compression Most of the gains can be attributed to reducing branches and making decompression very friendly to out-of-order cores, by using a smart format. 점수 107, 반응 35 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Open-source memory for coding agents, synced over SSH",
+      "url": "https://github.com/vshulcz/deja-vu/",
+      "score": 86,
+      "comments": 19,
+      "text": "",
+      "summary": "Open-source memory for coding agents, synced over SSH. 점수 86, 반응 19 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "code",
-      "count": 4
+      "count": 8
+    },
+    {
+      "keyword": "x2f",
+      "count": 8
     },
     {
       "keyword": "prompts",
       "count": 4
     },
     {
+      "keyword": "pre",
+      "count": 4
+    },
+    {
       "keyword": "platform",
+      "count": 3
+    },
+    {
+      "keyword": "can",
+      "count": 3
+    },
+    {
+      "keyword": "misa77",
+      "count": 3
+    },
+    {
+      "keyword": "codec",
+      "count": 3
+    },
+    {
+      "keyword": "lz4",
       "count": 3
     },
     {
@@ -267,30 +291,6 @@
     },
     {
       "keyword": "workflow",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "our",
-      "count": 2
-    },
-    {
-      "keyword": "tools",
-      "count": 2
-    },
-    {
-      "keyword": "can",
-      "count": 2
-    },
-    {
-      "keyword": "open",
       "count": 2
     }
   ],
