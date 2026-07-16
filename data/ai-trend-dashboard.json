@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T17:39:53.686929+00:00",
+  "updatedAt": "2026-07-16T19:33:50.398678+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 383146,
-      "comments": 6757,
+      "score": 383148,
+      "comments": 6766,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 383146, 반응 6757 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 383148, 반응 6766 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 255897,
+      "score": 255876,
       "comments": 315,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 255897, 반응 315 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 255876, 반응 315 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 215891,
-      "comments": 23082,
+      "score": 215913,
+      "comments": 23144,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 215891, 반응 23082 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 215913, 반응 23144 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 196693,
-      "comments": 1367,
+      "score": 196702,
+      "comments": 1370,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196693, 반응 1367 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196702, 반응 1370 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185580,
-      "comments": 498,
+      "score": 185582,
+      "comments": 500,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185580, 반응 498 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185582, 반응 500 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -64,172 +64,172 @@
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164246,
+      "score": 164185,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164246, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164185, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157080,
+      "score": 157079,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157080, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157079, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 151903,
-      "comments": 402,
+      "score": 151941,
+      "comments": 403,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 151903, 반응 402 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 151941, 반응 403 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 149060,
-      "comments": 1008,
+      "score": 149064,
+      "comments": 1011,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 149060, 반응 1008 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 149064, 반응 1011 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 145651,
-      "comments": 449,
+      "score": 145655,
+      "comments": 451,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145651, 반응 449 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145655, 반응 451 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141978,
+      "score": 141980,
       "comments": 157,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141978, 반응 157 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141980, 반응 157 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The lost joy of music piracy",
       "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "score": 643,
-      "comments": 438,
+      "score": 717,
+      "comments": 476,
       "text": "",
-      "summary": "The lost joy of music piracy. 점수 643, 반응 438 기준 인기 이슈입니다."
+      "summary": "The lost joy of music piracy. 점수 717, 반응 476 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kimi K3 is now live",
       "url": "https://www.kimi.com/en",
-      "score": 421,
-      "comments": 211,
+      "score": 598,
+      "comments": 314,
       "text": "",
-      "summary": "Kimi K3 is now live.  점수 421, 반응 211 기준 인기 이슈입니다."
+      "summary": "Kimi K3 is now live.  점수 598, 반응 314 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OnePlus halts operations in USA and Europe",
       "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "score": 410,
-      "comments": 228,
+      "score": 453,
+      "comments": 254,
       "text": "",
-      "summary": "OnePlus halts operations in USA and Europe. 점수 410, 반응 228 기준 인기 이슈입니다."
+      "summary": "OnePlus halts operations in USA and Europe. 점수 453, 반응 254 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Sony deletes a movies from the accounts of people who ‘bought’ them",
+      "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
       "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
-      "score": 369,
-      "comments": 209,
+      "score": 441,
+      "comments": 274,
       "text": "",
-      "summary": "Sony deletes a movies from the accounts of people who ‘bought’ them. 점수 369, 반응 209 기준 인기 이슈입니다."
+      "summary": "Sony deletes more movies from the accounts of people who ‘bought’ them. 점수 441, 반응 274 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How Our Rust-to-Zig Rewrite Is Going",
       "url": "https://rtfeldman.com/rust-to-zig",
-      "score": 218,
-      "comments": 111,
+      "score": 286,
+      "comments": 153,
       "text": "",
-      "summary": "How Our Rust-to-Zig Rewrite Is Going. 점수 218, 반응 111 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
-      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-      "score": 203,
-      "comments": 37,
-      "text": "",
-      "summary": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored. 점수 203, 반응 37 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
-      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
-      "score": 172,
-      "comments": 79,
-      "text": "",
-      "summary": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't. 점수 172, 반응 79 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ente – Opening Our Books",
-      "url": "https://ente.com/open/",
-      "score": 160,
-      "comments": 55,
-      "text": "",
-      "summary": "Ente – Opening Our Books. 점수 160, 반응 55 기준 인기 이슈입니다."
+      "summary": "How Our Rust-to-Zig Rewrite Is Going. 점수 286, 반응 153 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Microsoft Comic Chat is now open source",
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 140,
-      "comments": 39,
+      "score": 268,
+      "comments": 73,
       "text": "",
-      "summary": "Microsoft Comic Chat is now open source. 점수 140, 반응 39 기준 인기 이슈입니다."
+      "summary": "Microsoft Comic Chat is now open source. 점수 268, 반응 73 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Goes-19 weather satellite enters Safe Hold mode",
-      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
-      "score": 100,
-      "comments": 47,
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+      "score": 224,
+      "comments": 45,
       "text": "",
-      "summary": "Goes-19 weather satellite enters Safe Hold mode. 점수 100, 반응 47 기준 인기 이슈입니다."
+      "summary": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored. 점수 224, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
-      "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
-      "score": 98,
-      "comments": 16,
+      "title": "Ente – Opening Our Books",
+      "url": "https://ente.com/open/",
+      "score": 189,
+      "comments": 68,
       "text": "",
-      "summary": "Let's Build PlanetScale from Scratch: Infrastructure. 점수 98, 반응 16 기준 인기 이슈입니다."
+      "summary": "Ente – Opening Our Books. 점수 189, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 67,
-      "comments": 31,
+      "score": 166,
+      "comments": 63,
       "text": "",
-      "summary": "Decoy Font.  점수 67, 반응 31 기준 인기 이슈입니다."
+      "summary": "Decoy Font.  점수 166, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Guide to data tools landscape for developers",
-      "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-      "score": 46,
-      "comments": 12,
+      "title": "Goes-19 weather satellite enters Safe Hold mode",
+      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
+      "score": 120,
+      "comments": 60,
       "text": "",
-      "summary": "Guide to data tools landscape for developers. 점수 46, 반응 12 기준 인기 이슈입니다."
+      "summary": "Goes-19 weather satellite enters Safe Hold mode. 점수 120, 반응 60 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+      "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
+      "score": 119,
+      "comments": 16,
+      "text": "",
+      "summary": "Let's Build PlanetScale from Scratch: Infrastructure. 점수 119, 반응 16 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "score": 101,
+      "comments": 71,
+      "text": "",
+      "summary": "NotebookLM is now Gemini Notebook. 점수 101, 반응 71 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "42% of adults rely on their parents for financial support",
+      "url": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
+      "score": 100,
+      "comments": 107,
+      "text": "",
+      "summary": "42% of adults rely on their parents for financial support. 점수 100, 반응 107 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -242,6 +242,10 @@
       "count": 4
     },
     {
+      "keyword": "now",
+      "count": 4
+    },
+    {
       "keyword": "platform",
       "count": 3
     },
@@ -250,15 +254,7 @@
       "count": 3
     },
     {
-      "keyword": "tools",
-      "count": 3
-    },
-    {
       "keyword": "open",
-      "count": 3
-    },
-    {
-      "keyword": "now",
       "count": 3
     },
     {
@@ -291,6 +287,10 @@
     },
     {
       "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "build",
       "count": 2
     }
   ],
