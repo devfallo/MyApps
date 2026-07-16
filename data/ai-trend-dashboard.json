@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T06:30:54.757950+00:00",
+  "updatedAt": "2026-07-16T10:20:34.070084+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,237 +10,229 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 383077,
-      "comments": 6763,
+      "score": 383100,
+      "comments": 6753,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 383077, 반응 6763 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 383100, 반응 6753 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 255567,
+      "score": 255727,
       "comments": 314,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 255567, 반응 314 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 255727, 반응 314 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 215599,
-      "comments": 23003,
+      "score": 215704,
+      "comments": 23071,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 215599, 반응 23003 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 215704, 반응 23071 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 196618,
-      "comments": 1396,
+      "score": 196637,
+      "comments": 1388,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196618, 반응 1396 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196637, 반응 1388 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185573,
-      "comments": 498,
+      "score": 185576,
+      "comments": 495,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185573, 반응 498 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185576, 반응 495 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 165837,
+      "score": 165846,
       "comments": 63,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165837, 반응 63 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165846, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164272,
+      "score": 164274,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164272, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164274, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157063,
+      "score": 157070,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157063, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157070, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 151656,
-      "comments": 401,
+      "score": 151735,
+      "comments": 402,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 151656, 반응 401 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 151735, 반응 402 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 149006,
-      "comments": 1048,
+      "score": 149029,
+      "comments": 1056,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 149006, 반응 1048 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 149029, 반응 1056 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 145584,
-      "comments": 445,
+      "score": 145608,
+      "comments": 448,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145584, 반응 445 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145608, 반응 448 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 141965,
+      "score": 141969,
       "comments": 156,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141965, 반응 156 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 141969, 반응 156 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Inkling: Our Open-Weights Model",
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 871,
-      "comments": 215,
+      "score": 986,
+      "comments": 249,
       "text": "",
-      "summary": "Inkling: Our Open-Weights Model. 점수 871, 반응 215 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "score": 414,
-      "comments": 225,
-      "text": "",
-      "summary": "Stripe and Advent have made a joint offer to acquire PayPal – sources. 점수 414, 반응 225 기준 인기 이슈입니다."
+      "summary": "Inkling: Our Open-Weights Model. 점수 986, 반응 249 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Grok Build is open source",
       "url": "https://github.com/xai-org/grok-build",
-      "score": 373,
-      "comments": 401,
+      "score": 456,
+      "comments": 500,
       "text": "",
-      "summary": "Grok Build is open source. 점수 373, 반응 401 기준 인기 이슈입니다."
+      "summary": "Grok Build is open source. 점수 456, 반응 500 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "score": 270,
-      "comments": 175,
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "score": 447,
+      "comments": 258,
       "text": "",
-      "summary": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU. 점수 270, 반응 175 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "SQLite should have (Rust-style) editions",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "score": 203,
-      "comments": 79,
-      "text": "",
-      "summary": "SQLite should have (Rust-style) editions. 점수 203, 반응 79 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Firefox in WebAssembly",
-      "url": "https://developer.puter.com/labs/firefox-wasm/",
-      "score": 176,
-      "comments": 91,
-      "text": "This is the entire Firefox browser rendering to a &lt;canvas&gt; element. Gecko, all UI components, and the Spidermonkey JS engine are all compiled and running in WebAssembly.<p>Here are a few things you might find interesting:<p>- This is fully end to end encrypted! We use the WISP protocol for TCP-over-websockets.<p>- There is a novel WASM-&gt;JS JIT for experimental site speedup<p>- This port cost over 25k in opus&#x2F;fable tokens for debugging and JIT research<p>This was just a fun experiment to push the boundaries of WebAssembly. For a more usable &quot;browser in browser&quot; experience, we also built <a href=\"https:&#x2F;&#x2F;github.com&#x2F;HeyPuter&#x2F;browser.js\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;HeyPuter&#x2F;browser.js</a> that eats a bit less RAM.",
-      "summary": "Show HN: Firefox in WebAssembly. This is the entire Firefox browser rendering to a &lt;canvas&gt; element. Gecko, all UI components, and the Spidermonkey JS engine are all compiled and running in WebAssembly. 점수 176, 반응 91 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "score": 149,
-      "comments": 55,
-      "text": "",
-      "summary": "Governments, companies, nonprofits should invest in free, open source AI [pdf]. 점수 149, 반응 55 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I also filed the corners off my MacBook",
-      "url": "https://www.brt.fyi/posts/mac-book-filing/",
-      "score": 114,
-      "comments": 25,
-      "text": "",
-      "summary": "I also filed the corners off my MacBook. 점수 114, 반응 25 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Command Line Interface Guidelines",
-      "url": "https://clig.dev/",
-      "score": 108,
-      "comments": 23,
-      "text": "",
-      "summary": "Command Line Interface Guidelines. 점수 108, 반응 23 기준 인기 이슈입니다."
+      "summary": "Stripe and Advent have made a joint offer to acquire PayPal – sources. 점수 447, 반응 258 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The lost joy of music piracy",
       "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "score": 86,
-      "comments": 18,
+      "score": 334,
+      "comments": 188,
       "text": "",
-      "summary": "The lost joy of music piracy. 점수 86, 반응 18 기준 인기 이슈입니다."
+      "summary": "The lost joy of music piracy. 점수 334, 반응 188 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
-      "url": "https://davidobando.github.io/gsharp/",
-      "score": 77,
-      "comments": 36,
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "score": 289,
+      "comments": 187,
       "text": "",
-      "summary": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics. 점수 77, 반응 36 기준 인기 이슈입니다."
+      "summary": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU. 점수 289, 반응 187 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "score": 71,
-      "comments": 32,
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "score": 277,
+      "comments": 117,
       "text": "",
-      "summary": "LLM Networking with MikroTik. 점수 71, 반응 32 기준 인기 이슈입니다."
+      "summary": "SQLite should have (Rust-style) editions. 점수 277, 반응 117 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "score": 200,
+      "comments": 72,
+      "text": "",
+      "summary": "Governments, companies, nonprofits should invest in free, open source AI [pdf]. 점수 200, 반응 72 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I also filed the corners off my MacBook",
+      "url": "https://www.brt.fyi/posts/mac-book-filing/",
+      "score": 189,
+      "comments": 87,
+      "text": "",
+      "summary": "I also filed the corners off my MacBook. 점수 189, 반응 87 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "score": 136,
+      "comments": 63,
+      "text": "",
+      "summary": "If you want to create a button from scratch, you must first create the universe. 점수 136, 반응 63 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Command Line Interface Guidelines",
+      "url": "https://clig.dev/",
+      "score": 134,
+      "comments": 28,
+      "text": "",
+      "summary": "Command Line Interface Guidelines. 점수 134, 반응 28 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Duskers, the scary command line game, is getting a sequel",
+      "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+      "score": 128,
+      "comments": 39,
+      "text": "",
+      "summary": "Duskers, the scary command line game, is getting a sequel. 점수 128, 반응 39 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bluesky Trademarks ATProto",
       "url": "https://atproto.com/blog/at-protocol-trademark",
-      "score": 66,
-      "comments": 24,
+      "score": 105,
+      "comments": 43,
       "text": "",
-      "summary": "Bluesky Trademarks ATProto. 점수 66, 반응 24 기준 인기 이슈입니다."
+      "summary": "Bluesky Trademarks ATProto. 점수 105, 반응 43 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+      "score": 101,
+      "comments": 17,
+      "text": "",
+      "summary": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored. 점수 101, 반응 17 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
-    {
-      "keyword": "x2f",
-      "count": 9
-    },
-    {
-      "keyword": "browser",
-      "count": 5
-    },
     {
       "keyword": "code",
       "count": 4
@@ -259,10 +251,6 @@
     },
     {
       "keyword": "source",
-      "count": 3
-    },
-    {
-      "keyword": "webassembly",
       "count": 3
     },
     {
@@ -291,6 +279,18 @@
     },
     {
       "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "build",
+      "count": 2
+    },
+    {
+      "keyword": "our",
       "count": 2
     }
   ],
