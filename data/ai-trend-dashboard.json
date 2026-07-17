@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T21:07:42.171274+00:00",
+  "updatedAt": "2026-07-17T23:07:58.183536+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 383283,
-      "comments": 6913,
+      "score": 383290,
+      "comments": 6907,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 383283, 반응 6913 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 383290, 반응 6907 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 256605,
-      "comments": 319,
+      "score": 256635,
+      "comments": 320,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 256605, 반응 319 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 256635, 반응 320 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 216418,
-      "comments": 23411,
+      "score": 216447,
+      "comments": 23428,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 216418, 반응 23411 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 216447, 반응 23428 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 196837,
-      "comments": 1376,
+      "score": 196845,
+      "comments": 1377,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196837, 반응 1376 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196845, 반응 1377 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185587,
-      "comments": 501,
+      "score": 185588,
+      "comments": 502,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185587, 반응 501 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185588, 반응 502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 165909,
+      "score": 165917,
       "comments": 63,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165909, 반응 63 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165917, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,169 +73,169 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157100,
+      "score": 157101,
       "comments": 59,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157100, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157101, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 152378,
-      "comments": 415,
+      "score": 152406,
+      "comments": 414,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 152378, 반응 415 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 152406, 반응 414 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 149173,
+      "score": 149176,
       "comments": 1074,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 149173, 반응 1074 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 149176, 반응 1074 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 145778,
-      "comments": 465,
+      "score": 145783,
+      "comments": 464,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145778, 반응 465 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145783, 반응 464 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 142023,
+      "score": 142027,
       "comments": 157,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 142023, 반응 157 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1981,
-      "comments": 1152,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.kimi.com&#x2F;en\" rel=\"nofollow\">https:&#x2F;&#x2F;www.kimi.com&#x2F;en</a><p>Kimi K3 Intelligence, Performance &amp; Price Analysis: <a href=\"https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3\" rel=\"nofollow\">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3</a>",
-      "summary": "Kimi K3: Open Frontier Intelligence. https:&#x2F;&#x2F;www.kimi.com&#x2F;en Kimi K3 Intelligence, Performance &amp; Price Analysis: https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3 점수 1981, 반응 1152 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 142027, 반응 157 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 898,
-      "comments": 487,
+      "score": 977,
+      "comments": 614,
       "text": "URL already posted: <a href=\"https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status\" rel=\"nofollow\">https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status</a><p>I&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5.<p>Obvs have created an urgent AWS support ticket. Anyone else seeing something like this?<p>Update: Reddit link: <a href=\"https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;aws&#x2F;comments&#x2F;1uyuaw7&#x2F;help_my_bill_skyrocketed_from_around_5_cents_per&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;aws&#x2F;comments&#x2F;1uyuaw7&#x2F;help_my_bill_s...</a>",
-      "summary": "AWS: Inaccurate Estimated Billing Data – $1.7 billion. URL already posted: https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status I&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5. 점수 898, 반응 487 기준 인기 이슈입니다."
+      "summary": "AWS: Inaccurate Estimated Billing Data – $1.7 billion. URL already posted: https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status I&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5. 점수 977, 반응 614 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 685,
-      "comments": 153,
+      "title": "Evidence of inconsistencies in evaluation process and selection of winners",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "score": 426,
+      "comments": 268,
       "text": "",
-      "summary": "Decoy Font.  점수 685, 반응 153 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "score": 344,
-      "comments": 296,
-      "text": "",
-      "summary": "Apple targets dozens of OpenAI employees with legal letters. 점수 344, 반응 296 기준 인기 이슈입니다."
+      "summary": "Evidence of inconsistencies in evaluation process and selection of winners. 점수 426, 반응 268 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The state of open source AI",
       "url": "https://stateofopensource.ai/",
-      "score": 315,
-      "comments": 219,
+      "score": 350,
+      "comments": 249,
       "text": "",
-      "summary": "The state of open source AI. 점수 315, 반응 219 기준 인기 이슈입니다."
+      "summary": "The state of open source AI. 점수 350, 반응 249 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 287,
-      "comments": 200,
+      "score": 330,
+      "comments": 218,
       "text": "",
-      "summary": "First atmosphere found on Earth-like planet in habitable zone of distant star. 점수 287, 반응 200 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pebble Mega Update – July 2026",
-      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "score": 250,
-      "comments": 162,
-      "text": "",
-      "summary": "Pebble Mega Update – July 2026. 점수 250, 반응 162 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "score": 240,
-      "comments": 156,
-      "text": "",
-      "summary": "EEG shows brain can simultaneous encode two speech streams. 점수 240, 반응 156 기준 인기 이슈입니다."
+      "summary": "First atmosphere found on Earth-like planet in habitable zone of distant star. 점수 330, 반응 218 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kimi K3, and what we can still learn from the pelican benchmark",
       "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "score": 205,
-      "comments": 119,
+      "score": 241,
+      "comments": 135,
       "text": "",
-      "summary": "Kimi K3, and what we can still learn from the pelican benchmark. 점수 205, 반응 119 기준 인기 이슈입니다."
+      "summary": "Kimi K3, and what we can still learn from the pelican benchmark. 점수 241, 반응 135 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Camera Chase Vehicle",
-      "url": "https://transistor-man.com/gimbal_camera_rover.html",
-      "score": 186,
-      "comments": 20,
-      "text": "",
-      "summary": "Camera Chase Vehicle. 점수 186, 반응 20 기준 인기 이슈입니다."
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "score": 178,
+      "comments": 13,
+      "text": "Tomorrow is the 15th anniversary of the first day of the Recurse Center (<a href=\"https:&#x2F;&#x2F;www.recurse.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.recurse.com&#x2F;</a>)<p>My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building &quot;OkCupid for jobs.&quot; That idea quickly fizzled, and we spent the better part of a year pivoting between other ideas that also failed.<p>Finally, we made something that we wanted ourselves: a self-directed programming retreat, where people built fun projects, contributed to open source, and helped each other become better programmers.<p>After running two small batches, we launched on HN[1] and got an incredible reception.<p>That post on HN helped us reach beyond our personal networks and meet programmers from around the world, many of whom have since become friends. HN brought us the majority of people who came to our next few batches, and in the years since, HN has remained our #2 source of applicants (after word of mouth).<p>Alas, pg&#x27;s comment[2] on HN when we launched turned out to be prescient: Running free programming retreats isn&#x27;t a billion-dollar business, but it&#x27;s still a worthwhile thing to do, and has positively impacted over 3,000 people so far. And 15 years on I still wake up every day excited to keep working on it.<p>So, thanks HN, for helping make the Recurse Center possible, and for helping me find my life&#x27;s work.<p>[1] <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=3435183\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=3435183</a><p>[2] &quot;This sounds like a crazy plan for a startup, I realize, but this is the right sort of crazy. In fact, the way the Hackruiters think about Hacker School is a lot like the way we initially thought about YC: if it doesn&#x27;t make money, it will at least have been a benevolent thing to do.&quot;",
+      "summary": "Thanks HN for 15 years of support and helping me find my life's work. Tomorrow is the 15th anniversary of the first day of the Recurse Center ( https:&#x2F;&#x2F;www.recurse.com&#x2F; ) My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building &quot;OkCupid for jobs.&quot; That idea quickly fizzled, and we spent the better part of a year pivoting between other ideas that also failed. Finally, we made something that we wanted ourselves: a self-directed programming retreat, where people built fun projects, contributed to open source, and helped each other become better programmers. 점수 178, 반응 13 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Three ways people respond to a problem (other than solving it)",
       "url": "https://improvesomething.today/responses-to-problems/",
-      "score": 154,
-      "comments": 79,
+      "score": 174,
+      "comments": 105,
       "text": "",
-      "summary": "Three ways people respond to a problem (other than solving it). 점수 154, 반응 79 기준 인기 이슈입니다."
+      "summary": "Three ways people respond to a problem (other than solving it). 점수 174, 반응 105 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A Road to Lisp: Which Lisp",
       "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-      "score": 149,
-      "comments": 99,
+      "score": 169,
+      "comments": 114,
       "text": "",
-      "summary": "A Road to Lisp: Which Lisp. 점수 149, 반응 99 기준 인기 이슈입니다."
+      "summary": "A Road to Lisp: Which Lisp. 점수 169, 반응 114 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
       "url": "https://honeypotlive.cc/",
-      "score": 124,
-      "comments": 47,
+      "score": 134,
+      "comments": 48,
       "text": "",
-      "summary": "Show HN: Watch bots interact with an SSH honeypot in real time. 점수 124, 반응 47 기준 인기 이슈입니다."
+      "summary": "Show HN: Watch bots interact with an SSH honeypot in real time. 점수 134, 반응 48 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "score": 131,
+      "comments": 35,
+      "text": "",
+      "summary": "The Zilog Z80 has turned 50. 점수 131, 반응 35 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "score": 125,
+      "comments": 27,
+      "text": "",
+      "summary": "Learning a few things about running SQLite. 점수 125, 반응 27 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Lobste.rs is now running on SQLite",
+      "url": "https://lobste.rs/s/ko1ji1",
+      "score": 105,
+      "comments": 68,
+      "text": "",
+      "summary": "Lobste.rs is now running on SQLite. 점수 105, 반응 68 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "More Bounce to the Ounce",
+      "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+      "score": 101,
+      "comments": 36,
+      "text": "",
+      "summary": "More Bounce to the Ounce. 점수 101, 반응 36 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 37
+      "count": 35
     },
     {
       "keyword": "https",
@@ -243,18 +243,26 @@
     },
     {
       "keyword": "com",
-      "count": 6
+      "count": 8
     },
     {
       "keyword": "aws",
       "count": 6
     },
     {
-      "keyword": "kimi",
-      "count": 5
+      "keyword": "x27",
+      "count": 6
+    },
+    {
+      "keyword": "way",
+      "count": 4
     },
     {
       "keyword": "code",
+      "count": 4
+    },
+    {
+      "keyword": "our",
       "count": 4
     },
     {
@@ -266,19 +274,15 @@
       "count": 4
     },
     {
+      "keyword": "source",
+      "count": 4
+    },
+    {
+      "keyword": "other",
+      "count": 4
+    },
+    {
       "keyword": "href",
-      "count": 4
-    },
-    {
-      "keyword": "www",
-      "count": 4
-    },
-    {
-      "keyword": "rel",
-      "count": 4
-    },
-    {
-      "keyword": "nofollow",
       "count": 4
     },
     {
@@ -286,12 +290,8 @@
       "count": 4
     },
     {
-      "keyword": "platform",
-      "count": 3
-    },
-    {
-      "keyword": "can",
-      "count": 3
+      "keyword": "www",
+      "count": 4
     }
   ],
   "meta": {
