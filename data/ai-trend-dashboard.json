@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T23:07:58.183536+00:00",
+  "updatedAt": "2026-07-18T03:31:30.034521+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 383290,
-      "comments": 6907,
+      "score": 383302,
+      "comments": 6881,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 383290, 반응 6907 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 383302, 반응 6881 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 256635,
+      "score": 256710,
       "comments": 320,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 256635, 반응 320 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 256710, 반응 320 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 216447,
-      "comments": 23428,
+      "score": 216509,
+      "comments": 23512,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 216447, 반응 23428 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 216509, 반응 23512 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 196845,
-      "comments": 1377,
+      "score": 196863,
+      "comments": 1379,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196845, 반응 1377 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 196863, 반응 1379 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,181 +55,181 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 165917,
+      "score": 165927,
       "comments": 63,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165917, 반응 63 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 165927, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164203,
+      "score": 164205,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164203, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164205, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157101,
-      "comments": 59,
+      "score": 157102,
+      "comments": 60,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157101, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157102, 반응 60 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 152406,
+      "score": 152467,
       "comments": 414,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 152406, 반응 414 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 152467, 반응 414 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 149176,
-      "comments": 1074,
+      "score": 149185,
+      "comments": 1058,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 149176, 반응 1074 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 149185, 반응 1058 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 145783,
+      "score": 145799,
       "comments": 464,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145783, 반응 464 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145799, 반응 464 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 142027,
+      "score": 142030,
       "comments": 157,
       "text": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 142027, 반응 157 기준 인기 이슈입니다."
+      "summary": "x1xhlol/system-prompts-and-models-of-ai-tools. FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models 점수 142030, 반응 157 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 977,
-      "comments": 614,
+      "score": 1075,
+      "comments": 652,
       "text": "URL already posted: <a href=\"https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status\" rel=\"nofollow\">https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status</a><p>I&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5.<p>Obvs have created an urgent AWS support ticket. Anyone else seeing something like this?<p>Update: Reddit link: <a href=\"https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;aws&#x2F;comments&#x2F;1uyuaw7&#x2F;help_my_bill_skyrocketed_from_around_5_cents_per&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;aws&#x2F;comments&#x2F;1uyuaw7&#x2F;help_my_bill_s...</a>",
-      "summary": "AWS: Inaccurate Estimated Billing Data – $1.7 billion. URL already posted: https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status I&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5. 점수 977, 반응 614 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Evidence of inconsistencies in evaluation process and selection of winners",
-      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "score": 426,
-      "comments": 268,
-      "text": "",
-      "summary": "Evidence of inconsistencies in evaluation process and selection of winners. 점수 426, 반응 268 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The state of open source AI",
-      "url": "https://stateofopensource.ai/",
-      "score": 350,
-      "comments": 249,
-      "text": "",
-      "summary": "The state of open source AI. 점수 350, 반응 249 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 330,
-      "comments": 218,
-      "text": "",
-      "summary": "First atmosphere found on Earth-like planet in habitable zone of distant star. 점수 330, 반응 218 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "score": 241,
-      "comments": 135,
-      "text": "",
-      "summary": "Kimi K3, and what we can still learn from the pelican benchmark. 점수 241, 반응 135 기준 인기 이슈입니다."
+      "summary": "AWS: Inaccurate Estimated Billing Data – $1.7 billion. URL already posted: https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status I&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5. 점수 1075, 반응 652 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Thanks HN for 15 years of support and helping me find my life's work",
       "url": "https://news.ycombinator.com/item?id=48949551",
-      "score": 178,
-      "comments": 13,
+      "score": 409,
+      "comments": 37,
       "text": "Tomorrow is the 15th anniversary of the first day of the Recurse Center (<a href=\"https:&#x2F;&#x2F;www.recurse.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.recurse.com&#x2F;</a>)<p>My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building &quot;OkCupid for jobs.&quot; That idea quickly fizzled, and we spent the better part of a year pivoting between other ideas that also failed.<p>Finally, we made something that we wanted ourselves: a self-directed programming retreat, where people built fun projects, contributed to open source, and helped each other become better programmers.<p>After running two small batches, we launched on HN[1] and got an incredible reception.<p>That post on HN helped us reach beyond our personal networks and meet programmers from around the world, many of whom have since become friends. HN brought us the majority of people who came to our next few batches, and in the years since, HN has remained our #2 source of applicants (after word of mouth).<p>Alas, pg&#x27;s comment[2] on HN when we launched turned out to be prescient: Running free programming retreats isn&#x27;t a billion-dollar business, but it&#x27;s still a worthwhile thing to do, and has positively impacted over 3,000 people so far. And 15 years on I still wake up every day excited to keep working on it.<p>So, thanks HN, for helping make the Recurse Center possible, and for helping me find my life&#x27;s work.<p>[1] <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=3435183\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=3435183</a><p>[2] &quot;This sounds like a crazy plan for a startup, I realize, but this is the right sort of crazy. In fact, the way the Hackruiters think about Hacker School is a lot like the way we initially thought about YC: if it doesn&#x27;t make money, it will at least have been a benevolent thing to do.&quot;",
-      "summary": "Thanks HN for 15 years of support and helping me find my life's work. Tomorrow is the 15th anniversary of the first day of the Recurse Center ( https:&#x2F;&#x2F;www.recurse.com&#x2F; ) My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building &quot;OkCupid for jobs.&quot; That idea quickly fizzled, and we spent the better part of a year pivoting between other ideas that also failed. Finally, we made something that we wanted ourselves: a self-directed programming retreat, where people built fun projects, contributed to open source, and helped each other become better programmers. 점수 178, 반응 13 기준 인기 이슈입니다."
+      "summary": "Thanks HN for 15 years of support and helping me find my life's work. Tomorrow is the 15th anniversary of the first day of the Recurse Center ( https:&#x2F;&#x2F;www.recurse.com&#x2F; ) My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building &quot;OkCupid for jobs.&quot; That idea quickly fizzled, and we spent the better part of a year pivoting between other ideas that also failed. Finally, we made something that we wanted ourselves: a self-directed programming retreat, where people built fun projects, contributed to open source, and helped each other become better programmers. 점수 409, 반응 37 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "score": 388,
+      "comments": 287,
+      "text": "",
+      "summary": "The state of open source AI. 점수 388, 반응 287 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "score": 388,
+      "comments": 237,
+      "text": "",
+      "summary": "First atmosphere found on Earth-like planet in habitable zone of distant star. 점수 388, 반응 237 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 348,
+      "comments": 236,
+      "text": "",
+      "summary": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse. 점수 348, 반응 236 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "score": 287,
+      "comments": 152,
+      "text": "",
+      "summary": "Kimi K3, and what we can still learn from the pelican benchmark. 점수 287, 반응 152 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Three ways people respond to a problem (other than solving it)",
       "url": "https://improvesomething.today/responses-to-problems/",
-      "score": 174,
-      "comments": 105,
+      "score": 208,
+      "comments": 115,
       "text": "",
-      "summary": "Three ways people respond to a problem (other than solving it). 점수 174, 반응 105 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Road to Lisp: Which Lisp",
-      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-      "score": 169,
-      "comments": 114,
-      "text": "",
-      "summary": "A Road to Lisp: Which Lisp. 점수 169, 반응 114 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-      "url": "https://honeypotlive.cc/",
-      "score": 134,
-      "comments": 48,
-      "text": "",
-      "summary": "Show HN: Watch bots interact with an SSH honeypot in real time. 점수 134, 반응 48 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "score": 131,
-      "comments": 35,
-      "text": "",
-      "summary": "The Zilog Z80 has turned 50. 점수 131, 반응 35 기준 인기 이슈입니다."
+      "summary": "Three ways people respond to a problem (other than solving it). 점수 208, 반응 115 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Learning a few things about running SQLite",
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 125,
-      "comments": 27,
+      "score": 183,
+      "comments": 42,
       "text": "",
-      "summary": "Learning a few things about running SQLite. 점수 125, 반응 27 기준 인기 이슈입니다."
+      "summary": "Learning a few things about running SQLite. 점수 183, 반응 42 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Lobste.rs is now running on SQLite",
-      "url": "https://lobste.rs/s/ko1ji1",
-      "score": 105,
-      "comments": 68,
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "score": 178,
+      "comments": 54,
       "text": "",
-      "summary": "Lobste.rs is now running on SQLite. 점수 105, 반응 68 기준 인기 이슈입니다."
+      "summary": "The Zilog Z80 has turned 50. 점수 178, 반응 54 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "url": "https://honeypotlive.cc/",
+      "score": 147,
+      "comments": 52,
+      "text": "",
+      "summary": "Show HN: Watch bots interact with an SSH honeypot in real time. 점수 147, 반응 52 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "score": 138,
+      "comments": 73,
+      "text": "",
+      "summary": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again. 점수 138, 반응 73 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "More Bounce to the Ounce",
       "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
-      "score": 101,
-      "comments": 36,
+      "score": 119,
+      "comments": 48,
       "text": "",
-      "summary": "More Bounce to the Ounce. 점수 101, 반응 36 기준 인기 이슈입니다."
+      "summary": "More Bounce to the Ounce. 점수 119, 반응 48 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Frank Lloyd Wright’s first home",
+      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+      "score": 87,
+      "comments": 44,
+      "text": "",
+      "summary": "Frank Lloyd Wright’s first home. 점수 87, 반응 44 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
