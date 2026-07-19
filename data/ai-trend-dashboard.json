@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T15:14:39.264496+00:00",
+  "updatedAt": "2026-07-19T17:15:46.260357+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,229 +10,233 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 383467,
-      "comments": 6887,
+      "score": 383474,
+      "comments": 6885,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 383467, 반응 6887 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 383474, 반응 6885 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 257435,
+      "score": 257484,
       "comments": 325,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 257435, 반응 325 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 257484, 반응 325 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 217133,
-      "comments": 23787,
+      "score": 217168,
+      "comments": 23828,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 217133, 반응 23787 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 217168, 반응 23828 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 197044,
-      "comments": 1396,
+      "score": 197051,
+      "comments": 1399,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197044, 반응 1396 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197051, 반응 1399 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185611,
-      "comments": 507,
+      "score": 185614,
+      "comments": 508,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185611, 반응 507 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185614, 반응 508 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166012,
+      "score": 166015,
       "comments": 63,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166012, 반응 63 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166015, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164229,
+      "score": 164231,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164229, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164231, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157121,
+      "score": 157124,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157121, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157124, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 153021,
-      "comments": 423,
+      "score": 153067,
+      "comments": 432,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 153021, 반응 423 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 153067, 반응 432 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 149327,
-      "comments": 1077,
+      "score": 149337,
+      "comments": 1064,
       "text": "Production-ready platform for agentic workflow development.",
-      "summary": "Production-ready platform for agentic workflow development. 점수 149327, 반응 1077 기준 인기 이슈입니다."
+      "summary": "Production-ready platform for agentic workflow development. 점수 149337, 반응 1064 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 145941,
-      "comments": 467,
+      "score": 145956,
+      "comments": 470,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145941, 반응 467 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 145956, 반응 470 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142088,
+      "score": 142090,
       "comments": 437,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142088, 반응 437 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142090, 반응 437 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Transcribe.cpp",
       "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 626,
-      "comments": 132,
+      "score": 656,
+      "comments": 139,
       "text": "",
-      "summary": "Transcribe.cpp.  점수 626, 반응 132 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Kimi K3 Moment",
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "score": 542,
-      "comments": 513,
-      "text": "",
-      "summary": "The Kimi K3 Moment.  점수 542, 반응 513 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "score": 536,
-      "comments": 234,
-      "text": "",
-      "summary": "NYC may require landlords and realtors to disclose the use of AI in listings. 점수 536, 반응 234 기준 인기 이슈입니다."
+      "summary": "Transcribe.cpp.  점수 656, 반응 139 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Speech Recognition and TTS in less than 500kb",
       "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 502,
-      "comments": 69,
+      "score": 516,
+      "comments": 75,
       "text": "",
-      "summary": "Speech Recognition and TTS in less than 500kb. 점수 502, 반응 69 기준 인기 이슈입니다."
+      "summary": "Speech Recognition and TTS in less than 500kb. 점수 516, 반응 75 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Qwen3.8 is launching and going open-weight soon",
+      "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 346,
-      "comments": 180,
-      "text": "",
-      "summary": "Qwen3.8 is launching and going open-weight soon. 점수 346, 반응 180 기준 인기 이슈입니다."
+      "score": 504,
+      "comments": 360,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.qwencloud.com&#x2F;pricing&#x2F;token-plan\" rel=\"nofollow\">https:&#x2F;&#x2F;www.qwencloud.com&#x2F;pricing&#x2F;token-plan</a>",
+      "summary": "https:&#x2F;&#x2F;www.qwencloud.com&#x2F;pricing&#x2F;token-plan 점수 504, 반응 360 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Better and Cheaper Than IPTV",
       "url": "https://github.com/stupside/castor",
-      "score": 258,
-      "comments": 72,
+      "score": 269,
+      "comments": 89,
       "text": "",
-      "summary": "Better and Cheaper Than IPTV. 점수 258, 반응 72 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "score": 254,
-      "comments": 231,
-      "text": "",
-      "summary": "Goodbye, and Thanks for All the Bikesheds. 점수 254, 반응 231 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Codex Resets",
-      "url": "https://codex-resets.com/",
-      "score": 237,
-      "comments": 160,
-      "text": "",
-      "summary": "Codex Resets.  점수 237, 반응 160 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
-      "score": 204,
-      "comments": 168,
-      "text": "",
-      "summary": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day. 점수 204, 반응 168 기준 인기 이슈입니다."
+      "summary": "Better and Cheaper Than IPTV. 점수 269, 반응 89 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 183,
-      "comments": 92,
+      "score": 259,
+      "comments": 116,
       "text": "",
-      "summary": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard. 점수 183, 반응 92 기준 인기 이슈입니다."
+      "summary": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard. 점수 259, 반응 116 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
+      "score": 252,
+      "comments": 168,
+      "text": "",
+      "summary": "Codex Resets.  점수 252, 반응 168 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "score": 217,
+      "comments": 176,
+      "text": "",
+      "summary": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day. 점수 217, 반응 176 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Blender 5.2 LTS",
       "url": "https://www.blender.org/download/releases/5-2/",
-      "score": 164,
-      "comments": 73,
+      "score": 214,
+      "comments": 84,
       "text": "",
-      "summary": "Blender 5.2 LTS.  점수 164, 반응 73 기준 인기 이슈입니다."
+      "summary": "Blender 5.2 LTS.  점수 214, 반응 84 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "score": 208,
+      "comments": 304,
+      "text": "",
+      "summary": "Claude Code uses Bun written in Rust now. 점수 208, 반응 304 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "score": 182,
+      "comments": 89,
+      "text": "",
+      "summary": "OpenAI reduces Codex Model Context Size from 372k to 272k. 점수 182, 반응 89 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mathematicians still don't know the fastest way to multiply numbers",
       "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-      "score": 157,
-      "comments": 92,
+      "score": 175,
+      "comments": 97,
       "text": "",
-      "summary": "Mathematicians still don't know the fastest way to multiply numbers. 점수 157, 반응 92 기준 인기 이슈입니다."
+      "summary": "Mathematicians still don't know the fastest way to multiply numbers. 점수 175, 반응 97 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "score": 164,
+      "comments": 108,
+      "text": "",
+      "summary": "Minecraft: Java Edition now uses SDL3. 점수 164, 반응 108 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Classic Amiga titles, free to download",
       "url": "https://amigafreeware.downer.tech/",
-      "score": 149,
-      "comments": 20,
+      "score": 162,
+      "comments": 21,
       "text": "",
-      "summary": "Classic Amiga titles, free to download. 점수 149, 반응 20 기준 인기 이슈입니다."
+      "summary": "Classic Amiga titles, free to download. 점수 162, 반응 21 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 8
+    },
     {
       "keyword": "platform",
       "count": 4
@@ -274,6 +278,10 @@
       "count": 2
     },
     {
+      "keyword": "code",
+      "count": 2
+    },
+    {
       "keyword": "self-host",
       "count": 2
     },
@@ -282,15 +290,7 @@
       "count": 2
     },
     {
-      "keyword": "use",
-      "count": 2
-    },
-    {
       "keyword": "free",
-      "count": 2
-    },
-    {
-      "keyword": "web",
       "count": 2
     }
   ],
