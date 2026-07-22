@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T19:43:12.624582+00:00",
+  "updatedAt": "2026-07-22T21:29:49.598215+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 383831,
-      "comments": 6956,
+      "score": 383840,
+      "comments": 6964,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 383831, 반응 6956 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 383840, 반응 6964 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 259365,
-      "comments": 329,
+      "score": 259391,
+      "comments": 332,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 259365, 반응 329 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 259391, 반응 332 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 218906,
-      "comments": 24678,
+      "score": 218930,
+      "comments": 24722,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 218906, 반응 24678 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 218930, 반응 24722 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 197488,
+      "score": 197504,
       "comments": 1388,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197488, 반응 1388 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197504, 반응 1388 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185650,
-      "comments": 489,
+      "score": 185651,
+      "comments": 493,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185650, 반응 489 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185651, 반응 493 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166213,
+      "score": 166216,
       "comments": 63,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166213, 반응 63 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166216, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,187 +82,195 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 154470,
-      "comments": 440,
+      "score": 154500,
+      "comments": 439,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 154470, 반응 440 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 154500, 반응 439 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 149794,
-      "comments": 1049,
+      "score": 149805,
+      "comments": 1054,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 149794, 반응 1049 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 149805, 반응 1054 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 146355,
+      "score": 146365,
       "comments": 540,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146355, 반응 540 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146365, 반응 540 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "score": 142336,
-      "comments": 442,
+      "comments": 440,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142336, 반응 442 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142336, 반응 440 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
       "url": "https://bento.page/slides/",
-      "score": 454,
-      "comments": 98,
+      "score": 535,
+      "comments": 118,
       "text": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.<p>To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There&#x27;s no install or cloud login, everything works offline. The default deck is around 560 KB and it doesn&#x27;t need to fetch anything once you got it.<p>Open it in a browser and then you can edit, present, print and save. Share it via email or via Airdrop and all they need is a browser to edit, present and also do live collab on the slides. Drop it in to Claude or ChatGPT to transform existing pptx files into Bento slides. There is no cloud involved, only an encrypted blind relay to allow for shared editing. The relay doesn&#x27;t see any of the data.<p>Check it out at <a href=\"https:&#x2F;&#x2F;bento.page&#x2F;slides&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bento.page&#x2F;slides&#x2F;</a> which takes you straight to the editor.<p>Go to <a href=\"https:&#x2F;&#x2F;bento.page&#x2F;guestbook&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bento.page&#x2F;guestbook&#x2F;</a> to try out the live guestbook to experience share editing &#x2F; collab.<p>There is also a gallery with some sample decks on the website - <a href=\"https:&#x2F;&#x2F;bento.page&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bento.page&#x2F;</a><p>All the code is MIT licensed and you can find it here - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;nyblnet&#x2F;bento\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;nyblnet&#x2F;bento</a> . I used reveal.js with several other libraries (including some homegrown ones), and Claude Code.",
-      "summary": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab). Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness. To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. 점수 454, 반응 98 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "LG to ban residential proxies from smart TV apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "score": 353,
-      "comments": 357,
-      "text": "",
-      "summary": "LG to ban residential proxies from smart TV apps. 점수 353, 반응 357 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-      "url": "https://twitter.com/nikitabier/status/2079787406300266743",
-      "score": 317,
-      "comments": 412,
-      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2079787406300266743\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2079787406300266743</a>",
-      "summary": "Passkeys were invented by engineers with zero understanding of consumer brain. https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2079787406300266743 점수 317, 반응 412 기준 인기 이슈입니다."
+      "summary": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab). Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness. To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. 점수 535, 반응 118 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 275,
-      "comments": 133,
+      "score": 425,
+      "comments": 229,
       "text": "",
-      "summary": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample. 점수 275, 반응 133 기준 인기 이슈입니다."
+      "summary": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample. 점수 425, 반응 229 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+      "url": "https://twitter.com/nikitabier/status/2079787406300266743",
+      "score": 387,
+      "comments": 513,
+      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2079787406300266743\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2079787406300266743</a>",
+      "summary": "Passkeys were invented by engineers with zero understanding of consumer brain. https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2079787406300266743 점수 387, 반응 513 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The startup's Postgres survival guide",
       "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "score": 223,
-      "comments": 116,
+      "score": 263,
+      "comments": 145,
       "text": "",
-      "summary": "The startup's Postgres survival guide. 점수 223, 반응 116 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Intel Starts Shipping High-NA EUV Silicon",
-      "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
-      "score": 218,
-      "comments": 93,
-      "text": "",
-      "summary": "Intel Starts Shipping High-NA EUV Silicon. 점수 218, 반응 93 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Introduction to Formal Verification with Lean Part 1",
-      "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-      "score": 207,
-      "comments": 41,
-      "text": "",
-      "summary": "Introduction to Formal Verification with Lean Part 1. 점수 207, 반응 41 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/",
-      "score": 184,
-      "comments": 72,
-      "text": "",
-      "summary": "Making.  점수 184, 반응 72 기준 인기 이슈입니다."
+      "summary": "The startup's Postgres survival guide. 점수 263, 반응 145 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 156,
-      "comments": 27,
+      "score": 259,
+      "comments": 49,
       "text": "",
-      "summary": "GigaToken: ~1000x faster Language model tokenization. 점수 156, 반응 27 기준 인기 이슈입니다."
+      "summary": "GigaToken: ~1000x faster Language model tokenization. 점수 259, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
-      "url": "https://www.orangecrumbs.com/hall/",
-      "score": 148,
-      "comments": 34,
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "score": 244,
+      "comments": 104,
       "text": "",
-      "summary": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links. 점수 148, 반응 34 기준 인기 이슈입니다."
+      "summary": "Are AI Labs Pelicanmaxxing?. 점수 244, 반응 104 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "John C. Dvorak has died",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "score": 225,
+      "comments": 39,
+      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302</a>",
+      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302 점수 225, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Making",
+      "url": "https://beej.us/blog/data/ai-making/",
+      "score": 224,
+      "comments": 94,
+      "text": "",
+      "summary": "Making.  점수 224, 반응 94 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Introduction to Formal Verification with Lean Part 1",
+      "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+      "score": 218,
+      "comments": 42,
+      "text": "",
+      "summary": "Introduction to Formal Verification with Lean Part 1. 점수 218, 반응 42 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Does creatine make you smarter?",
       "url": "https://dynomight.net/creatine/",
-      "score": 143,
-      "comments": 139,
+      "score": 199,
+      "comments": 199,
       "text": "",
-      "summary": "Does creatine make you smarter?. 점수 143, 반응 139 기준 인기 이슈입니다."
+      "summary": "Does creatine make you smarter?. 점수 199, 반응 199 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "“We have information that Moonshot distilled Fable for the development of K3”",
       "url": "https://twitter.com/mkratsios47/status/2079933645888880708",
-      "score": 138,
-      "comments": 312,
+      "score": 181,
+      "comments": 439,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;mkratsios47&#x2F;status&#x2F;2079933645888880708\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;mkratsios47&#x2F;status&#x2F;2079933645888880708</a>",
-      "summary": "“We have information that Moonshot distilled Fable for the development of K3”. https:&#x2F;&#x2F;xcancel.com&#x2F;mkratsios47&#x2F;status&#x2F;2079933645888880708 점수 138, 반응 312 기준 인기 이슈입니다."
+      "summary": "“We have information that Moonshot distilled Fable for the development of K3”. https:&#x2F;&#x2F;xcancel.com&#x2F;mkratsios47&#x2F;status&#x2F;2079933645888880708 점수 181, 반응 439 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
+      "url": "https://www.orangecrumbs.com/hall/",
+      "score": 163,
+      "comments": 37,
+      "text": "",
+      "summary": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links. 점수 163, 반응 37 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "10 REM\"_(C2SLFF4",
       "url": "https://beej.us/blog/data/mystery-comment/",
-      "score": 132,
-      "comments": 37,
+      "score": 144,
+      "comments": 40,
       "text": "",
-      "summary": "10 REM\"_(C2SLFF4.  점수 132, 반응 37 기준 인기 이슈입니다."
+      "summary": "10 REM\"_(C2SLFF4.  점수 144, 반응 40 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 51
+      "count": 61
     },
     {
       "keyword": "https",
-      "count": 12
+      "count": 14
     },
     {
       "keyword": "bento",
       "count": 11
     },
     {
+      "keyword": "com",
+      "count": 8
+    },
+    {
       "keyword": "href",
-      "count": 6
+      "count": 7
+    },
+    {
+      "keyword": "rel",
+      "count": 7
+    },
+    {
+      "keyword": "nofollow",
+      "count": 7
     },
     {
       "keyword": "page",
       "count": 6
     },
     {
-      "keyword": "rel",
+      "keyword": "xcancel",
       "count": 6
     },
     {
-      "keyword": "nofollow",
-      "count": 6
-    },
-    {
-      "keyword": "com",
+      "keyword": "status",
       "count": 6
     },
     {
@@ -279,14 +287,6 @@
     },
     {
       "keyword": "slides",
-      "count": 4
-    },
-    {
-      "keyword": "xcancel",
-      "count": 4
-    },
-    {
-      "keyword": "status",
       "count": 4
     },
     {
