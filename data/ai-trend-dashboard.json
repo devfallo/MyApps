@@ -1,168 +1,257 @@
 {
-  "updatedAt": "2026-07-22T23:15:04.558294+00:00",
+  "updatedAt": "2026-07-23T03:44:17.602369+00:00",
   "status": "ok",
-  "count": 15,
+  "count": 25,
   "errors": [
-    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
-      "source": "Hacker News",
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "score": 585,
-      "comments": 141,
-      "text": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.<p>To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There&#x27;s no install or cloud login, everything works offline. The default deck is around 560 KB and it doesn&#x27;t need to fetch anything once you got it.<p>Open it in a browser and then you can edit, present, print and save. Share it via email or via Airdrop and all they need is a browser to edit, present and also do live collab on the slides. Drop it in to Claude or ChatGPT to transform existing pptx files into Bento slides. There is no cloud involved, only an encrypted blind relay to allow for shared editing. The relay doesn&#x27;t see any of the data.<p>Check it out at <a href=\"https:&#x2F;&#x2F;bento.page&#x2F;slides&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bento.page&#x2F;slides&#x2F;</a> which takes you straight to the editor.<p>Go to <a href=\"https:&#x2F;&#x2F;bento.page&#x2F;guestbook&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bento.page&#x2F;guestbook&#x2F;</a> to try out the live guestbook to experience share editing &#x2F; collab.<p>There is also a gallery with some sample decks on the website - <a href=\"https:&#x2F;&#x2F;bento.page&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bento.page&#x2F;</a><p>All the code is MIT licensed and you can find it here - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;nyblnet&#x2F;bento\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;nyblnet&#x2F;bento</a> . I used reveal.js with several other libraries (including some homegrown ones), and Claude Code.",
-      "summary": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab). Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness. To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. 점수 585, 반응 141 기준 인기 이슈입니다."
+      "source": "GitHub Repos",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 383851,
+      "comments": 6977,
+      "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "summary": "Your own personal AI assistant. 점수 383851, 반응 6977 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 259528,
+      "comments": 332,
+      "text": "An agentic skills framework & software development methodology that works.",
+      "summary": "An agentic skills framework & software development methodology that works. 점수 259528, 반응 332 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 219034,
+      "comments": 24807,
+      "text": "The agent that grows with you",
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 219034, 반응 24807 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 197543,
+      "comments": 1386,
+      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197543, 반응 1386 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 185647,
+      "comments": 495,
+      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185647, 반응 495 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 166222,
+      "comments": 64,
+      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166222, 반응 64 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "score": 164236,
+      "comments": 2499,
+      "text": "Stable Diffusion web UI",
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164236, 반응 2499 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "score": 157236,
+      "comments": 58,
+      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157236, 반응 58 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 154610,
+      "comments": 438,
+      "text": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 154610, 반응 438 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 149847,
+      "comments": 1058,
+      "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 149847, 반응 1058 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 146390,
+      "comments": 543,
+      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146390, 반응 543 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "score": 142359,
+      "comments": 449,
+      "text": "The agent engineering platform.",
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142359, 반응 449 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "score": 690,
+      "comments": 155,
+      "text": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.<p>To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There&#x27;s no install or cloud login, everything works offline. The default deck is around 560 KB and it doesn&#x27;t need to fetch anything once you got it.<p>Open it in a browser and then you can edit, present, print and save. Share it via email or via Airdrop and all they need is a browser to edit, present and also do live collab on the slides. Drop it in to Claude or ChatGPT to transform existing pptx files into Bento slides. There is no cloud involved, only an encrypted blind relay to allow for shared editing. The relay doesn&#x27;t see any of the data.<p>Check it out at <a href=\"https:&#x2F;&#x2F;bento.page&#x2F;slides&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bento.page&#x2F;slides&#x2F;</a> which takes you straight to the editor.<p>Go to <a href=\"https:&#x2F;&#x2F;bento.page&#x2F;guestbook&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bento.page&#x2F;guestbook&#x2F;</a> to try out the live guestbook to experience share editing &#x2F; collab.<p>There is also a gallery with some sample decks on the website - <a href=\"https:&#x2F;&#x2F;bento.page&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bento.page&#x2F;</a><p>All the code is MIT licensed and you can find it here - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;nyblnet&#x2F;bento\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;nyblnet&#x2F;bento</a> . I used reveal.js with several other libraries (including some homegrown ones), and Claude Code.",
+      "summary": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab). Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness. To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. 점수 690, 반응 155 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 504,
-      "comments": 306,
-      "text": "",
-      "summary": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample. 점수 504, 반응 306 기준 인기 이슈입니다."
+      "score": 674,
+      "comments": 403,
+      "text": "<i>A digestion of the Jacobian conjecture counterexample</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362</a> - July 2026 (133 comments)<p><i>Claude Fable produced a counterexample to the Jacobian Conjecture</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48973869\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48973869</a> - July 2026 (508 comments)",
+      "summary": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample. A digestion of the Jacobian conjecture counterexample - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362 - July 2026 (133 comments) Claude Fable produced a counterexample to the Jacobian Conjecture - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48973869 - July 2026 (508 comments) 점수 674, 반응 403 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "John C. Dvorak has died",
       "url": "https://twitter.com/na_announce/status/2079952538040672302",
-      "score": 412,
-      "comments": 119,
+      "score": 623,
+      "comments": 202,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302</a><p><a href=\"https:&#x2F;&#x2F;www.twit.community&#x2F;t&#x2F;john-c-dvorak-has-passed-away&#x2F;20291\" rel=\"nofollow\">https:&#x2F;&#x2F;www.twit.community&#x2F;t&#x2F;john-c-dvorak-has-passed-away&#x2F;2...</a><p><a href=\"https:&#x2F;&#x2F;www.facebook.com&#x2F;aric.mackey&#x2F;posts&#x2F;john-c-dvorak-19462026john-c-dvorak-a-pioneering-technology-journalist-podcaster&#x2F;10242625420121221&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.facebook.com&#x2F;aric.mackey&#x2F;posts&#x2F;john-c-dvorak-194...</a>",
-      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302 https:&#x2F;&#x2F;www.twit.community&#x2F;t&#x2F;john-c-dvorak-has-passed-away&#x2F;2... https:&#x2F;&#x2F;www.facebook.com&#x2F;aric.mackey&#x2F;posts&#x2F;john-c-dvorak-194... 점수 412, 반응 119 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302 https:&#x2F;&#x2F;www.twit.community&#x2F;t&#x2F;john-c-dvorak-has-passed-away&#x2F;2... https:&#x2F;&#x2F;www.facebook.com&#x2F;aric.mackey&#x2F;posts&#x2F;john-c-dvorak-194... 점수 623, 반응 202 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Are AI Labs Pelicanmaxxing?",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 332,
-      "comments": 131,
+      "score": 417,
+      "comments": 161,
       "text": "",
-      "summary": "Are AI Labs Pelicanmaxxing?. 점수 332, 반응 131 기준 인기 이슈입니다."
+      "summary": "Are AI Labs Pelicanmaxxing?. 점수 417, 반응 161 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 316,
-      "comments": 60,
+      "score": 399,
+      "comments": 79,
       "text": "",
-      "summary": "GigaToken: ~1000x faster Language model tokenization. 점수 316, 반응 60 기준 인기 이슈입니다."
+      "summary": "GigaToken: ~1000x faster Language model tokenization. 점수 399, 반응 79 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The startup's Postgres survival guide",
       "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "score": 289,
-      "comments": 162,
+      "score": 332,
+      "comments": 175,
       "text": "",
-      "summary": "The startup's Postgres survival guide. 점수 289, 반응 162 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/",
-      "score": 248,
-      "comments": 104,
-      "text": "",
-      "summary": "Making.  점수 248, 반응 104 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-      "score": 205,
-      "comments": 44,
-      "text": "",
-      "summary": "I Inspected My Take-Home Interview Project. It Was a Whole Operation. 점수 205, 반응 44 기준 인기 이슈입니다."
+      "summary": "The startup's Postgres survival guide. 점수 332, 반응 175 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "So Reddit has decided that plain HTML is unsafe",
       "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "score": 202,
-      "comments": 197,
+      "score": 317,
+      "comments": 318,
       "text": "",
-      "summary": "So Reddit has decided that plain HTML is unsafe. 점수 202, 반응 197 기준 인기 이슈입니다."
+      "summary": "So Reddit has decided that plain HTML is unsafe. 점수 317, 반응 318 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "score": 304,
+      "comments": 80,
+      "text": "",
+      "summary": "I Inspected My Take-Home Interview Project. It Was a Whole Operation. 점수 304, 반응 80 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Making",
+      "url": "https://beej.us/blog/data/ai-making/",
+      "score": 299,
+      "comments": 117,
+      "text": "",
+      "summary": "Making.  점수 299, 반응 117 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Everyone Should Know SIMD",
       "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "score": 190,
-      "comments": 56,
+      "score": 295,
+      "comments": 81,
       "text": "",
-      "summary": "Everyone Should Know SIMD. 점수 190, 반응 56 기준 인기 이슈입니다."
+      "summary": "Everyone Should Know SIMD. 점수 295, 반응 81 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Back to Kagi",
       "url": "https://blog.melashri.net/micro/back-to-kagi/",
-      "score": 173,
-      "comments": 146,
+      "score": 216,
+      "comments": 166,
       "text": "",
-      "summary": "Back to Kagi.  점수 173, 반응 146 기준 인기 이슈입니다."
+      "summary": "Back to Kagi.  점수 216, 반응 166 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Businesses with ugly AI menu redesigns",
       "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "score": 161,
-      "comments": 125,
+      "score": 202,
+      "comments": 157,
       "text": "",
-      "summary": "Businesses with ugly AI menu redesigns. 점수 161, 반응 125 기준 인기 이슈입니다."
+      "summary": "Businesses with ugly AI menu redesigns. 점수 202, 반응 157 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Nobody knows what a used GPU cluster is worth",
-      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
-      "score": 146,
-      "comments": 123,
-      "text": "",
-      "summary": "Nobody knows what a used GPU cluster is worth. 점수 146, 반응 123 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ghost Cut – or why Cut and Paste is broken everywhere",
-      "url": "https://ishmael.textualize.io/blog/ghost-cut/",
-      "score": 112,
-      "comments": 80,
-      "text": "",
-      "summary": "Ghost Cut – or why Cut and Paste is broken everywhere. 점수 112, 반응 80 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "url": "https://cruciblebench.ai/",
-      "score": 92,
-      "comments": 59,
-      "text": "I&#x27;m the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. We&#x27;ve spent the last several months on nights and weekends running this experiment and writing the paper on just our personal computers with about $99 in API credits.<p>Our experiment did have an interesting leaderboard but even more surprising was the measurements of each LLM. We scored each on four behavioral dimensions, two of which lean heavily on an LLM classifier. When we removed those two, one of the frontier models fell six positions. When we then checked the classifier against a second judge, the per-model agreement between them ranged from 85% to 22%. The aggregate kappa (0.04 on probe detection) indicated the instrument was noisy without saying which models the noise was hitting. The most affected model shared a model family with the classifier. This isn&#x27;t proof of bias, just one observation we recorded.<p>We realize LLM judges can be unreliable, and while it wasn&#x27;t our original intent to test this, it ended up being the most interesting finding. The divergence between the two judges is the finding we think generalizes to other judge-based benchmarks.<p>We emphasize this is just a proof of concept and not a validated benchmark. We prepared a thorough limitations section in the paper, including just 50 runs per model, overlapping CIs among the top models, no human raters, a tiny environment, etc.<p>Everything we did is publicly available, the paper and data are CC BY 4.0, while the code is MIT. The paper, transcripts, code, and complete API billing export  can be found at <a href=\"https:&#x2F;&#x2F;doi.org&#x2F;10.5281&#x2F;zenodo.21386663\" rel=\"nofollow\">https:&#x2F;&#x2F;doi.org&#x2F;10.5281&#x2F;zenodo.21386663</a><p>If you find issues, please let us know, that&#x27;s why we&#x27;re sharing this. We&#x27;re currently designing Phase 2 and want it to be as robust as possible. We&#x27;re looking at human baselines, multiple judges, more objectives, a larger environment, etc.",
-      "summary": "Can a MUD evaluate LLMs? A $99 proof of concept. I&#x27;m the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. 점수 92, 반응 59 기준 인기 이슈입니다."
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "score": 197,
+      "comments": 81,
+      "text": "<a href=\"https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;</a>",
+      "summary": "Quality non-fiction books are the antithesis of AI slop. https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F; 점수 197, 반응 81 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 71
+      "count": 81
     },
     {
       "keyword": "https",
-      "count": 16
+      "count": 20
     },
     {
       "keyword": "bento",
       "count": 11
     },
     {
-      "keyword": "x27",
-      "count": 11
+      "keyword": "href",
+      "count": 10
     },
     {
-      "keyword": "href",
-      "count": 8
+      "keyword": "com",
+      "count": 10
     },
     {
       "keyword": "rel",
@@ -173,35 +262,35 @@
       "count": 8
     },
     {
-      "keyword": "code",
-      "count": 6
-    },
-    {
       "keyword": "page",
       "count": 6
     },
     {
-      "keyword": "com",
-      "count": 6
-    },
-    {
-      "keyword": "can",
+      "keyword": "code",
       "count": 5
     },
     {
-      "keyword": "paper",
-      "count": 5
-    },
-    {
-      "keyword": "our",
+      "keyword": "cloud",
       "count": 4
     },
     {
-      "keyword": "more",
+      "keyword": "claude",
       "count": 4
     },
     {
       "keyword": "need",
+      "count": 4
+    },
+    {
+      "keyword": "slides",
+      "count": 4
+    },
+    {
+      "keyword": "news",
+      "count": 4
+    },
+    {
+      "keyword": "ycombinator",
       "count": 4
     }
   ],
