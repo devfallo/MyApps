@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T19:45:25.666178+00:00",
+  "updatedAt": "2026-07-23T21:28:07.379179+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 383935,
-      "comments": 6959,
+      "score": 383936,
+      "comments": 6964,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 383935, 반응 6959 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 383936, 반응 6964 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 260002,
+      "score": 260025,
       "comments": 316,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 260002, 반응 316 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 260025, 반응 316 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 219443,
-      "comments": 24722,
+      "score": 219468,
+      "comments": 24749,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 219443, 반응 24722 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 219468, 반응 24749 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 197657,
-      "comments": 1382,
+      "score": 197662,
+      "comments": 1383,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197657, 반응 1382 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197662, 반응 1383 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185657,
+      "score": 185659,
       "comments": 494,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185657, 반응 494 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185659, 반응 494 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,225 +73,225 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157255,
+      "score": 157256,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157255, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157256, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 155039,
+      "score": 155072,
       "comments": 440,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 155039, 반응 440 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 155072, 반응 440 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 149980,
-      "comments": 983,
+      "score": 149988,
+      "comments": 984,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 149980, 반응 983 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 149988, 반응 984 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 146486,
-      "comments": 517,
+      "score": 146494,
+      "comments": 528,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146486, 반응 517 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146494, 반응 528 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142439,
-      "comments": 450,
+      "score": 142443,
+      "comments": 449,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142439, 반응 450 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142443, 반응 449 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 628,
-      "comments": 312,
+      "score": 776,
+      "comments": 389,
       "text": "",
-      "summary": "Writing by hand is good for your brain. 점수 628, 반응 312 기준 인기 이슈입니다."
+      "summary": "Writing by hand is good for your brain. 점수 776, 반응 389 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 484,
-      "comments": 472,
+      "score": 586,
+      "comments": 557,
       "text": "<a href=\"https:&#x2F;&#x2F;littletech.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;littletech.org&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0e5&#x2F;lta-open-weight-ai-letter-7-22-26.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0...</a>",
-      "summary": "Startup founders urge U.S. government not to shut off Chinese open weight AI. https:&#x2F;&#x2F;littletech.org&#x2F; https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0... 점수 484, 반응 472 기준 인기 이슈입니다."
+      "summary": "Startup founders urge U.S. government not to shut off Chinese open weight AI. https:&#x2F;&#x2F;littletech.org&#x2F; https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0... 점수 586, 반응 557 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
       "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-      "score": 446,
-      "comments": 213,
+      "score": 514,
+      "comments": 248,
       "text": "",
-      "summary": "AI Companies Are Trying to Hide a Staggering Amount of Debt. 점수 446, 반응 213 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Software rendering in 500 lines of bare C++",
-      "url": "https://haqr.eu/tinyrenderer/",
-      "score": 179,
-      "comments": 30,
-      "text": "",
-      "summary": "Software rendering in 500 lines of bare C++. 점수 179, 반응 30 기준 인기 이슈입니다."
+      "summary": "AI Companies Are Trying to Hide a Staggering Amount of Debt. 점수 514, 반응 248 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What happened to TheNumbers.com",
       "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "score": 162,
-      "comments": 58,
+      "score": 210,
+      "comments": 93,
       "text": "",
-      "summary": "What happened to TheNumbers.com. 점수 162, 반응 58 기준 인기 이슈입니다."
+      "summary": "What happened to TheNumbers.com. 점수 210, 반응 93 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "score": 206,
+      "comments": 36,
+      "text": "",
+      "summary": "Software rendering in 500 lines of bare C++. 점수 206, 반응 36 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Astronomers may have found the first exomoon",
       "url": "https://www.eso.org/public/news/eso2610/",
-      "score": 158,
-      "comments": 56,
+      "score": 172,
+      "comments": 67,
       "text": "",
-      "summary": "Astronomers may have found the first exomoon. 점수 158, 반응 56 기준 인기 이슈입니다."
+      "summary": "Astronomers may have found the first exomoon. 점수 172, 반응 67 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
       "url": "https://learnopengl.com/",
-      "score": 121,
-      "comments": 70,
+      "score": 145,
+      "comments": 77,
       "text": "",
-      "summary": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. 점수 121, 반응 70 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-      "score": 97,
-      "comments": 74,
-      "text": "",
-      "summary": "Why Software Factories Fail (or: harness engineering is not enough). 점수 97, 반응 74 기준 인기 이슈입니다."
+      "summary": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. 점수 145, 반응 77 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The arguments against open source AI are bad",
       "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-      "score": 90,
-      "comments": 62,
+      "score": 137,
+      "comments": 97,
       "text": "",
-      "summary": "The arguments against open source AI are bad. 점수 90, 반응 62 기준 인기 이슈입니다."
+      "summary": "The arguments against open source AI are bad. 점수 137, 반응 97 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
       "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "score": 86,
-      "comments": 79,
+      "score": 131,
+      "comments": 129,
       "text": "",
-      "summary": "Air Force fly AI-controlled F-16. 점수 86, 반응 79 기준 인기 이슈입니다."
+      "summary": "Air Force fly AI-controlled F-16. 점수 131, 반응 129 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "OpenStreetMap: Admin_level for All Countries",
-      "url": "https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries",
-      "score": 77,
-      "comments": 14,
-      "text": "",
-      "summary": "OpenStreetMap: Admin_level for All Countries. 점수 77, 반응 14 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
-      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
-      "score": 69,
-      "comments": 48,
-      "text": "",
-      "summary": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency. 점수 69, 반응 48 기준 인기 이슈입니다."
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "score": 113,
+      "comments": 49,
+      "text": "I’ve been building Echo (<a href=\"https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;</a>), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.<p>It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in advance which models would be useful and how their outputs should be combined.<p>That hypothetical system performed substantially better than any individual model in the pool. Of course, it is not something you can actually deploy because it relies on knowing which decisions were good after seeing the result. Echo is my attempt to recover some of that advantage without having that information in advance.<p>For each request, Echo decides how much computation to allocate, which models should participate, and how their work should be combined. Some prompts may only need a relatively small amount of inference, while others benefit from multiple models working on different parts of the problem.<p>One thing that surprised me while building it was how complementary the models are. A model that is clearly weaker overall can still be extremely useful on particular problems or as part of a combination.<p>On my first evaluation mix, Echo consistently performed better than the best individual model in its pool. It also reached roughly the same aggregate result as Fable, which I used as one of the stronger comparison systems, at around one third of the inference cost.<p>There are still some cases where Echo makes the wrong allocation or combination decision. I’m currently spending a lot of time understanding those failures, as well as testing whether the same approach holds up on coding and agentic tasks where measuring the quality of each decision becomes much harder.<p>I built a chat interface (echo.tracerml.ai) and an OpenAI-compatible API (<a href=\"https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;docs&#x2F;api\" rel=\"nofollow\">https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;docs&#x2F;api</a>) so the system can be tested outside the evaluation setup.<p>Here is a short&#x2F;high level video on how it works: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=lJFJSvOdXhg\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=lJFJSvOdXhg</a><p>I wrote up the evaluation methodology, individual model results, costs and current limitations here: <a href=\"https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;eval\" rel=\"nofollow\">https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;eval</a><p>I would love for you to try it! Especially if you hit any weird failure cases or places where the allocation looks unintuitive.",
+      "summary": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models. I’ve been building Echo ( https:&#x2F;&#x2F;echo.tracerml.ai&#x2F; ), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task. It started with a simple experiment. 점수 113, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Fields Medals 2026",
       "url": "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026",
-      "score": 66,
-      "comments": 19,
+      "score": 96,
+      "comments": 38,
       "text": "",
-      "summary": "Fields Medals 2026.  점수 66, 반응 19 기준 인기 이슈입니다."
+      "summary": "Fields Medals 2026.  점수 96, 반응 38 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building on ATProto",
+      "url": "https://lukekanies.com/writing/building-on-atproto/",
+      "score": 89,
+      "comments": 40,
+      "text": "",
+      "summary": "Building on ATProto.  점수 89, 반응 40 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "score": 81,
+      "comments": 15,
+      "text": "Hi HN, we are Marcos and Harrison, cofounders of Palmier (<a href=\"https:&#x2F;&#x2F;palmier.io\">https:&#x2F;&#x2F;palmier.io</a>). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent. Here are a few demos:<p>- Making some AI transitions: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hbM_-eR1GX4\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hbM_-eR1GX4</a><p>- Multicam editing with Codex: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=SjS2q2LT1q8\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=SjS2q2LT1q8</a><p>- Cutting long form clips into shorts: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=PR66eN2ouuQ\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=PR66eN2ouuQ</a><p>We built Palmier Pro as an internal tool when we were making AI launch videos for other startups. The main problem it solved in the beginning was the back-and-forth between AI generation platform and video editor. The iteration loop was awkward: AI videos → download → import to editor → edit → realize we need to change the AI video → repeat. So we built a minimal video editor where we could let Claude generate AI videos inside the editor.<p>As we gave more and more tools to the agent, we wanted to push to see what else agents can do in the video editing space. So today, your Claude&#x2F;Codex can:<p>- Manage projects inside Palmier Pro<p>- Import media from a public URL or filesystem to the project, and organize them in folders<p>- Search media (by embedding footages using SigLIP2 running locally)<p>- Edit the timeline (tracks&#x2F;clips&#x2F;keyframes operations)<p>- Generate images, videos, sound effects, captions, music<p>- Export videos<p>There are two ways for LLMs to interact with the editor: by connecting to the local MCP server, or using the in-app chat. Both use the same tools and APIs exposed by the video editor.<p>We have seen people using MCP server to connect to their own workflow to automate massive-scale video editing (e.g. given this same podcast style, replicate it with other footages that I have). We have also seen people using the in-app chat where it lives closer to the editor UI, with lower latency for faster iteration.<p>We don&#x27;t believe that AI is going to replace human creativity (nor should it), but where it can really help is in automating the gruntwork in video editing. Most work in the editing workflow is more mechanical than creative. Our vision is to build a video editor where AI can enable more individuals to create.<p>Throughout our experiments, AI is not very good at creative editing, but given a pattern (transcription-based, beat-based), it can do a decent job at rough cut.<p>We built Palmier Pro in Swift as an MVP because we wanted better performance and minimal dependencies (no nodejs&#x2F;webview), with some native macOS APIs like SpeechAnalyzer and CoreML for us to run some models locally. We use SpeechAnalyzer for local transcriber, SigLip2 to embed video frames, beat_this for beat detection, Silero VAD for silence detection, all running locally. The tradeoff is that we don&#x27;t support Linux or Windows at the moment.<p>Palmier Pro is open source and free to try out (macOS 26 only at the moment, though - we&#x27;ll support more platforms over time, but for now are focusing on iterating the core product).<p>No login required except for the AI generation features, which route requests to our backend. We are offering free credits on sign up so you can try out the AI generation as well.<p>We&#x27;d love to hear your feedback!",
+      "summary": "Show HN: Palmier Pro – Open-source macOS video editor built for AI. Hi HN, we are Marcos and Harrison, cofounders of Palmier ( https:&#x2F;&#x2F;palmier.io ). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent. 점수 81, 반응 15 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 17
+      "count": 70
     },
     {
       "keyword": "https",
-      "count": 4
+      "count": 20
     },
     {
-      "keyword": "platform",
-      "count": 3
+      "keyword": "echo",
+      "count": 13
     },
     {
-      "keyword": "software",
-      "count": 3
-    },
-    {
-      "keyword": "prompts",
-      "count": 3
-    },
-    {
-      "keyword": "open",
-      "count": 3
+      "keyword": "video",
+      "count": 12
     },
     {
       "keyword": "com",
-      "count": 3
+      "count": 11
     },
     {
-      "keyword": "openclaw",
-      "count": 2
+      "keyword": "can",
+      "count": 10
     },
     {
-      "keyword": "any",
-      "count": 2
+      "keyword": "href",
+      "count": 10
     },
     {
-      "keyword": "agentic",
-      "count": 2
+      "keyword": "editor",
+      "count": 10
     },
     {
-      "keyword": "agent",
-      "count": 2
+      "keyword": "rel",
+      "count": 9
     },
     {
-      "keyword": "self-host",
-      "count": 2
+      "keyword": "nofollow",
+      "count": 9
     },
     {
-      "keyword": "cloud",
-      "count": 2
+      "keyword": "palmier",
+      "count": 9
     },
     {
-      "keyword": "autogpt",
-      "count": 2
+      "keyword": "models",
+      "count": 8
     },
     {
-      "keyword": "build",
-      "count": 2
+      "keyword": "www",
+      "count": 8
+    },
+    {
+      "keyword": "youtube",
+      "count": 8
+    },
+    {
+      "keyword": "watch",
+      "count": 8
     }
   ],
   "meta": {
