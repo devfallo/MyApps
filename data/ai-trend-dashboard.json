@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T17:51:30.102933+00:00",
+  "updatedAt": "2026-07-24T19:46:42.975276+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384024,
-      "comments": 6969,
+      "score": 384023,
+      "comments": 6970,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384024, 반응 6969 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384023, 반응 6970 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 260503,
+      "score": 260531,
       "comments": 318,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 260503, 반응 318 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 260531, 반응 318 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 219905,
-      "comments": 25044,
+      "score": 219951,
+      "comments": 25039,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 219905, 반응 25044 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 219951, 반응 25039 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 197815,
-      "comments": 1387,
+      "score": 197823,
+      "comments": 1389,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197815, 반응 1387 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197823, 반응 1389 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185674,
-      "comments": 484,
+      "score": 185675,
+      "comments": 483,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185674, 반응 484 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185675, 반응 483 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166299,
+      "score": 166303,
       "comments": 64,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166299, 반응 64 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166303, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164257,
+      "score": 164259,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164257, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164259, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,157 +82,197 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 155474,
+      "score": 155523,
       "comments": 439,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 155474, 반응 439 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 155523, 반응 439 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150116,
+      "score": 150126,
       "comments": 998,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150116, 반응 998 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150126, 반응 998 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 146605,
-      "comments": 455,
+      "score": 146611,
+      "comments": 454,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146605, 반응 455 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146611, 반응 454 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142523,
-      "comments": 452,
+      "score": 142529,
+      "comments": 451,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142523, 반응 452 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142529, 반응 451 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "score": 787,
+      "comments": 442,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card\" rel=\"nofollow\">https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card</a>",
+      "summary": "https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card 점수 787, 반응 442 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "It's getting harder to focus every day",
       "url": "https://glyphack.com/attention/",
-      "score": 561,
-      "comments": 317,
+      "score": 626,
+      "comments": 352,
       "text": "",
-      "summary": "It's getting harder to focus every day. 점수 561, 반응 317 기준 인기 이슈입니다."
+      "summary": "It's getting harder to focus every day. 점수 626, 반응 352 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Flux 3",
       "url": "https://bfl.ai/blog/flux-3",
-      "score": 510,
-      "comments": 121,
+      "score": 531,
+      "comments": 125,
       "text": "",
-      "summary": "Flux 3.  점수 510, 반응 121 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/claude-opus-5-system-card",
-      "score": 377,
-      "comments": 196,
-      "text": "",
-      "summary": "Claude Opus 5.  점수 377, 반응 196 기준 인기 이슈입니다."
+      "summary": "Flux 3.  점수 531, 반응 125 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "My security camera shipped a GitHub admin token in its login page",
       "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 353,
-      "comments": 137,
+      "score": 406,
+      "comments": 150,
       "text": "",
-      "summary": "My security camera shipped a GitHub admin token in its login page. 점수 353, 반응 137 기준 인기 이슈입니다."
+      "summary": "My security camera shipped a GitHub admin token in its login page. 점수 406, 반응 150 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 310,
-      "comments": 84,
+      "score": 362,
+      "comments": 102,
       "text": "",
-      "summary": "India's first privately-developed rocket reaches orbit on dramatic debut launch. 점수 310, 반응 84 기준 인기 이슈입니다."
+      "summary": "India's first privately-developed rocket reaches orbit on dramatic debut launch. 점수 362, 반응 102 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Em dashes are amazing",
+      "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
+      "score": 292,
+      "comments": 258,
+      "text": "",
+      "summary": "Em dashes are amazing. 점수 292, 반응 258 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
       "url": "https://bfl.ai/blog/flux-3-mimic",
-      "score": 280,
-      "comments": 45,
+      "score": 289,
+      "comments": 47,
       "text": "",
-      "summary": "Flux 3 X Mimic: The Next Generation of Video-Action Models. 점수 280, 반응 45 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Cookbook",
-      "url": "https://platform.claude.com/cookbook/",
-      "score": 268,
-      "comments": 133,
-      "text": "",
-      "summary": "Claude Cookbook.  점수 268, 반응 133 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Em dashes are fucking amazing",
-      "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-      "score": 255,
-      "comments": 228,
-      "text": "",
-      "summary": "Em dashes are fucking amazing. 점수 255, 반응 228 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
-      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
-      "score": 222,
-      "comments": 129,
-      "text": "",
-      "summary": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey. 점수 222, 반응 129 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
-      "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
-      "score": 191,
-      "comments": 139,
-      "text": "",
-      "summary": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds. 점수 191, 반응 139 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "score": 151,
-      "comments": 16,
-      "text": "",
-      "summary": "Half-Life 2 running natively on HaikuOS. 점수 151, 반응 16 기준 인기 이슈입니다."
+      "summary": "Flux 3 X Mimic: The Next Generation of Video-Action Models. 점수 289, 반응 47 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Be skeptical of OpenAI's rogue hacker agent story",
       "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 87,
-      "comments": 27,
+      "score": 245,
+      "comments": 106,
       "text": "",
-      "summary": "Be skeptical of OpenAI's rogue hacker agent story. 점수 87, 반응 27 기준 인기 이슈입니다."
+      "summary": "Be skeptical of OpenAI's rogue hacker agent story. 점수 245, 반응 106 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The IBM PC, Part 1: Arrival",
-      "url": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/",
-      "score": 61,
-      "comments": 20,
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "score": 200,
+      "comments": 131,
+      "text": "Letter: <a href=\"https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-Leadership.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L...</a> [pdf]<p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103</a><p><a href=\"https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;silicon-valley-is-completely-divided-over-chinese-ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;silicon-valley-is-completely-div...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;LAkVI\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;LAkVI</a>",
+      "summary": "Nvidia, Microsoft, Meta warn against overregulating open-weight models. Letter: https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L... [pdf] https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103 , https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103 https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;silicon-valley-is-completely-div... 점수 200, 반응 131 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "score": 200,
+      "comments": 30,
       "text": "",
-      "summary": "The IBM PC, Part 1: Arrival. 점수 61, 반응 20 기준 인기 이슈입니다."
+      "summary": "Half-Life 2 running natively on HaikuOS. 점수 200, 반응 30 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "JEP 541: Deprecate the macOS/x64 Port for Removal",
+      "url": "https://openjdk.org/jeps/541",
+      "score": 86,
+      "comments": 80,
+      "text": "",
+      "summary": "JEP 541: Deprecate the macOS/x64 Port for Removal. 점수 86, 반응 80 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Codeberg Divides",
+      "url": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
+      "score": 77,
+      "comments": 95,
+      "text": "",
+      "summary": "Codeberg Divides.  점수 77, 반응 95 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I got into YC (Startup School) by hacking it",
+      "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+      "score": 60,
+      "comments": 33,
+      "text": "",
+      "summary": "I got into YC (Startup School) by hacking it. 점수 60, 반응 33 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 49
+    },
+    {
+      "keyword": "https",
+      "count": 12
+    },
+    {
+      "keyword": "com",
+      "count": 10
+    },
+    {
+      "keyword": "href",
+      "count": 6
+    },
+    {
+      "keyword": "rel",
+      "count": 6
+    },
+    {
+      "keyword": "nofollow",
+      "count": 6
+    },
+    {
+      "keyword": "www",
+      "count": 4
+    },
+    {
+      "keyword": "pdf",
+      "count": 4
+    },
+    {
+      "keyword": "jensenhuang",
+      "count": 4
+    },
+    {
+      "keyword": "status",
+      "count": 4
+    },
     {
       "keyword": "platform",
       "count": 3
@@ -246,52 +286,12 @@
       "count": 3
     },
     {
-      "keyword": "openclaw",
-      "count": 2
+      "keyword": "story",
+      "count": 3
     },
     {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "cloud",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "focus",
-      "count": 2
-    },
-    {
-      "keyword": "chat",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
-      "count": 2
-    },
-    {
-      "keyword": "api",
-      "count": 2
+      "keyword": "nvidia",
+      "count": 3
     }
   ],
   "meta": {
