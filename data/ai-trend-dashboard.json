@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T03:43:51.238808+00:00",
+  "updatedAt": "2026-07-24T06:39:10.447266+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 383961,
-      "comments": 6976,
+      "score": 383972,
+      "comments": 6964,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 383961, 반응 6976 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 383972, 반응 6964 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 260141,
-      "comments": 315,
+      "score": 260213,
+      "comments": 316,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 260141, 반응 315 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 260213, 반응 316 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 219579,
-      "comments": 24834,
+      "score": 219643,
+      "comments": 24883,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 219579, 반응 24834 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 219643, 반응 24883 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 197685,
-      "comments": 1397,
+      "score": 197699,
+      "comments": 1399,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197685, 반응 1397 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197699, 반응 1399 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,181 +55,181 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166271,
+      "score": 166273,
       "comments": 64,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166271, 반응 64 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166273, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164249,
+      "score": 164248,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164249, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164248, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157260,
+      "score": 157265,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157260, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157265, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 155186,
+      "score": 155235,
       "comments": 439,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 155186, 반응 439 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 155235, 반응 439 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150023,
-      "comments": 981,
+      "score": 150040,
+      "comments": 979,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150023, 반응 981 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150040, 반응 979 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 146522,
-      "comments": 497,
+      "score": 146539,
+      "comments": 451,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146522, 반응 497 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146539, 반응 451 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142461,
+      "score": 142477,
       "comments": 450,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142461, 반응 450 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142477, 반응 450 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 1042,
-      "comments": 499,
+      "score": 1190,
+      "comments": 550,
       "text": "",
-      "summary": "Writing by hand is good for your brain. 점수 1042, 반응 499 기준 인기 이슈입니다."
+      "summary": "Writing by hand is good for your brain. 점수 1190, 반응 550 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 774,
-      "comments": 685,
+      "score": 857,
+      "comments": 727,
       "text": "<a href=\"https:&#x2F;&#x2F;littletech.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;littletech.org&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0e5&#x2F;lta-open-weight-ai-letter-7-22-26.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0...</a>",
-      "summary": "Startup founders urge U.S. government not to shut off Chinese open weight AI. https:&#x2F;&#x2F;littletech.org&#x2F; https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0... 점수 774, 반응 685 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-      "score": 625,
-      "comments": 313,
-      "text": "",
-      "summary": "AI Companies Are Trying to Hide a Staggering Amount of Debt. 점수 625, 반응 313 기준 인기 이슈입니다."
+      "summary": "Startup founders urge U.S. government not to shut off Chinese open weight AI. https:&#x2F;&#x2F;littletech.org&#x2F; https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0... 점수 857, 반응 727 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
       "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "score": 413,
-      "comments": 343,
+      "score": 472,
+      "comments": 372,
       "text": "<i>OpenAI and Hugging Face address security incident during model evaluation</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48997548\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48997548</a> - July 2026 (1121 comments)",
-      "summary": "OpenAI’s accidental attack against Hugging Face is science fiction that happened. OpenAI and Hugging Face address security incident during model evaluation - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48997548 - July 2026 (1121 comments) 점수 413, 반응 343 기준 인기 이슈입니다."
+      "summary": "OpenAI’s accidental attack against Hugging Face is science fiction that happened. OpenAI and Hugging Face address security incident during model evaluation - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48997548 - July 2026 (1121 comments) 점수 472, 반응 372 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "98.css",
       "url": "https://jdan.github.io/98.css/#status-bar",
-      "score": 315,
-      "comments": 63,
+      "score": 408,
+      "comments": 99,
       "text": "",
-      "summary": "98.css.  점수 315, 반응 63 기준 인기 이슈입니다."
+      "summary": "98.css.  점수 408, 반응 99 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What happened to TheNumbers.com",
       "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "score": 312,
-      "comments": 136,
+      "score": 345,
+      "comments": 150,
       "text": "",
-      "summary": "What happened to TheNumbers.com. 점수 312, 반응 136 기준 인기 이슈입니다."
+      "summary": "What happened to TheNumbers.com. 점수 345, 반응 150 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
       "url": "https://news.ycombinator.com/item?id=49026810",
-      "score": 263,
-      "comments": 127,
+      "score": 331,
+      "comments": 163,
       "text": "I’ve been building Echo (<a href=\"https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;</a>), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.<p>It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in advance which models would be useful and how their outputs should be combined.<p>That hypothetical system performed substantially better than any individual model in the pool. Of course, it is not something you can actually deploy because it relies on knowing which decisions were good after seeing the result. Echo is my attempt to recover some of that advantage without having that information in advance.<p>For each request, Echo decides how much computation to allocate, which models should participate, and how their work should be combined. Some prompts may only need a relatively small amount of inference, while others benefit from multiple models working on different parts of the problem.<p>One thing that surprised me while building it was how complementary the models are. A model that is clearly weaker overall can still be extremely useful on particular problems or as part of a combination.<p>On my first evaluation mix, Echo consistently performed better than the best individual model in its pool. It also reached roughly the same aggregate result as Fable, which I used as one of the stronger comparison systems, at around one third of the inference cost.<p>There are still some cases where Echo makes the wrong allocation or combination decision. I’m currently spending a lot of time understanding those failures, as well as testing whether the same approach holds up on coding and agentic tasks where measuring the quality of each decision becomes much harder.<p>I built a chat interface (echo.tracerml.ai) and an OpenAI-compatible API (<a href=\"https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;docs&#x2F;api\" rel=\"nofollow\">https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;docs&#x2F;api</a>) so the system can be tested outside the evaluation setup.<p>Here is a short&#x2F;high level video on how it works: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=lJFJSvOdXhg\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=lJFJSvOdXhg</a><p>I wrote up the evaluation methodology, individual model results, costs and current limitations here: <a href=\"https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;eval\" rel=\"nofollow\">https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;eval</a><p>I would love for you to try it! Especially if you hit any weird failure cases or places where the allocation looks unintuitive.",
-      "summary": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models. I’ve been building Echo ( https:&#x2F;&#x2F;echo.tracerml.ai&#x2F; ), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task. It started with a simple experiment. 점수 263, 반응 127 기준 인기 이슈입니다."
+      "summary": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models. I’ve been building Echo ( https:&#x2F;&#x2F;echo.tracerml.ai&#x2F; ), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task. It started with a simple experiment. 점수 331, 반응 163 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Software rendering in 500 lines of bare C++",
-      "url": "https://haqr.eu/tinyrenderer/",
-      "score": 258,
-      "comments": 50,
+      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+      "score": 310,
+      "comments": 179,
       "text": "",
-      "summary": "Software rendering in 500 lines of bare C++. 점수 258, 반응 50 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The arguments against open source AI are bad",
-      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-      "score": 221,
-      "comments": 154,
-      "text": "",
-      "summary": "The arguments against open source AI are bad. 점수 221, 반응 154 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-      "score": 213,
-      "comments": 161,
-      "text": "",
-      "summary": "Why Software Factories Fail (or: harness engineering is not enough). 점수 213, 반응 161 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Astronomers may have found the first exomoon",
-      "url": "https://www.eso.org/public/news/eso2610/",
-      "score": 202,
-      "comments": 76,
-      "text": "",
-      "summary": "Astronomers may have found the first exomoon. 점수 202, 반응 76 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "url": "https://learnopengl.com/",
-      "score": 198,
-      "comments": 104,
-      "text": "",
-      "summary": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. 점수 198, 반응 104 기준 인기 이슈입니다."
+      "summary": "Couple pay >$800k for a gene-editing therapy for their daughter. 점수 310, 반응 179 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Beam Engine",
       "url": "https://glinscott.github.io/beam-engine/",
-      "score": 198,
-      "comments": 60,
+      "score": 274,
+      "comments": 70,
       "text": "",
-      "summary": "The Beam Engine.  점수 198, 반응 60 기준 인기 이슈입니다."
+      "summary": "The Beam Engine.  점수 274, 반응 70 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "score": 273,
+      "comments": 52,
+      "text": "",
+      "summary": "Software rendering in 500 lines of bare C++. 점수 273, 반응 52 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "score": 263,
+      "comments": 193,
+      "text": "",
+      "summary": "Why Software Factories Fail (or: harness engineering is not enough). 점수 263, 반응 193 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "score": 252,
+      "comments": 171,
+      "text": "",
+      "summary": "The arguments against open source AI are bad. 점수 252, 반응 171 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "score": 219,
+      "comments": 236,
+      "text": "",
+      "summary": "Air Force fly AI-controlled F-16. 점수 219, 반응 236 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/",
+      "score": 218,
+      "comments": 110,
+      "text": "",
+      "summary": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. 점수 218, 반응 110 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
