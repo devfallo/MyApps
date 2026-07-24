@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T19:46:42.975276+00:00",
+  "updatedAt": "2026-07-24T21:28:03.674064+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384023,
-      "comments": 6970,
+      "score": 384033,
+      "comments": 6983,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384023, 반응 6970 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384033, 반응 6983 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 260531,
-      "comments": 318,
+      "score": 260559,
+      "comments": 320,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 260531, 반응 318 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 260559, 반응 320 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 219951,
-      "comments": 25039,
+      "score": 219971,
+      "comments": 25110,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 219951, 반응 25039 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 219971, 반응 25110 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 197823,
-      "comments": 1389,
+      "score": 197829,
+      "comments": 1391,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197823, 반응 1389 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197829, 반응 1391 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185675,
+      "score": 185674,
       "comments": 483,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185675, 반응 483 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185674, 반응 483 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -64,10 +64,10 @@
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164259,
+      "score": 164261,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164259, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164261, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,154 +82,154 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 155523,
-      "comments": 439,
+      "score": 155553,
+      "comments": 441,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 155523, 반응 439 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 155553, 반응 441 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150126,
+      "score": 150133,
       "comments": 998,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150126, 반응 998 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150133, 반응 998 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 146611,
-      "comments": 454,
+      "score": 146619,
+      "comments": 455,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146611, 반응 454 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146619, 반응 455 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142529,
+      "score": 142530,
       "comments": 451,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142529, 반응 451 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142530, 반응 451 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 787,
-      "comments": 442,
+      "score": 1026,
+      "comments": 548,
       "text": "<a href=\"https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card\" rel=\"nofollow\">https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card</a>",
-      "summary": "https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card 점수 787, 반응 442 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card 점수 1026, 반응 548 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "It's getting harder to focus every day",
       "url": "https://glyphack.com/attention/",
-      "score": 626,
-      "comments": 352,
+      "score": 671,
+      "comments": 377,
       "text": "",
-      "summary": "It's getting harder to focus every day. 점수 626, 반응 352 기준 인기 이슈입니다."
+      "summary": "It's getting harder to focus every day. 점수 671, 반응 377 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Flux 3",
       "url": "https://bfl.ai/blog/flux-3",
-      "score": 531,
-      "comments": 125,
+      "score": 541,
+      "comments": 128,
       "text": "",
-      "summary": "Flux 3.  점수 531, 반응 125 기준 인기 이슈입니다."
+      "summary": "Flux 3.  점수 541, 반응 128 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "My security camera shipped a GitHub admin token in its login page",
       "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 406,
-      "comments": 150,
+      "score": 445,
+      "comments": 156,
       "text": "",
-      "summary": "My security camera shipped a GitHub admin token in its login page. 점수 406, 반응 150 기준 인기 이슈입니다."
+      "summary": "My security camera shipped a GitHub admin token in its login page. 점수 445, 반응 156 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 362,
-      "comments": 102,
+      "score": 400,
+      "comments": 123,
       "text": "",
-      "summary": "India's first privately-developed rocket reaches orbit on dramatic debut launch. 점수 362, 반응 102 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Em dashes are amazing",
-      "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-      "score": 292,
-      "comments": 258,
-      "text": "",
-      "summary": "Em dashes are amazing. 점수 292, 반응 258 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-      "url": "https://bfl.ai/blog/flux-3-mimic",
-      "score": 289,
-      "comments": 47,
-      "text": "",
-      "summary": "Flux 3 X Mimic: The Next Generation of Video-Action Models. 점수 289, 반응 47 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 245,
-      "comments": 106,
-      "text": "",
-      "summary": "Be skeptical of OpenAI's rogue hacker agent story. 점수 245, 반응 106 기준 인기 이슈입니다."
+      "summary": "India's first privately-developed rocket reaches orbit on dramatic debut launch. 점수 400, 반응 123 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
       "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "score": 200,
-      "comments": 131,
+      "score": 363,
+      "comments": 183,
       "text": "Letter: <a href=\"https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-Leadership.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L...</a> [pdf]<p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103</a><p><a href=\"https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;silicon-valley-is-completely-divided-over-chinese-ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;silicon-valley-is-completely-div...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;LAkVI\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;LAkVI</a>",
-      "summary": "Nvidia, Microsoft, Meta warn against overregulating open-weight models. Letter: https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L... [pdf] https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103 , https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103 https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;silicon-valley-is-completely-div... 점수 200, 반응 131 기준 인기 이슈입니다."
+      "summary": "Nvidia, Microsoft, Meta warn against overregulating open-weight models. Letter: https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L... [pdf] https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103 , https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103 https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;silicon-valley-is-completely-div... 점수 363, 반응 183 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "score": 331,
+      "comments": 172,
+      "text": "",
+      "summary": "Be skeptical of OpenAI's rogue hacker agent story. 점수 331, 반응 172 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "score": 321,
+      "comments": 257,
+      "text": "",
+      "summary": "If coding has been solved, why does software keep getting worse?. 점수 321, 반응 257 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "score": 302,
+      "comments": 222,
+      "text": "",
+      "summary": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey. 점수 302, 반응 222 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "score": 297,
+      "comments": 47,
+      "text": "",
+      "summary": "Flux 3 X Mimic: The Next Generation of Video-Action Models. 점수 297, 반응 47 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Half-Life 2 running natively on HaikuOS",
       "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "score": 200,
-      "comments": 30,
+      "score": 228,
+      "comments": 40,
       "text": "",
-      "summary": "Half-Life 2 running natively on HaikuOS. 점수 200, 반응 30 기준 인기 이슈입니다."
+      "summary": "Half-Life 2 running natively on HaikuOS. 점수 228, 반응 40 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "JEP 541: Deprecate the macOS/x64 Port for Removal",
-      "url": "https://openjdk.org/jeps/541",
-      "score": 86,
-      "comments": 80,
+      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "score": 203,
+      "comments": 240,
       "text": "",
-      "summary": "JEP 541: Deprecate the macOS/x64 Port for Removal. 점수 86, 반응 80 기준 인기 이슈입니다."
+      "summary": "IRGC claims it destroyed Amazon's Bahrain data center. 점수 203, 반응 240 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Codeberg Divides",
-      "url": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
-      "score": 77,
-      "comments": 95,
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "score": 110,
+      "comments": 17,
       "text": "",
-      "summary": "Codeberg Divides.  점수 77, 반응 95 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I got into YC (Startup School) by hacking it",
-      "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-      "score": 60,
-      "comments": 33,
-      "text": "",
-      "summary": "I got into YC (Startup School) by hacking it. 점수 60, 반응 33 기준 인기 이슈입니다."
+      "summary": "Postgres LISTEN/NOTIFY actually scales. 점수 110, 반응 17 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -286,11 +286,11 @@
       "count": 3
     },
     {
-      "keyword": "story",
+      "keyword": "nvidia",
       "count": 3
     },
     {
-      "keyword": "nvidia",
+      "keyword": "story",
       "count": 3
     }
   ],
