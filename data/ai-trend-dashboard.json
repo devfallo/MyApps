@@ -1,146 +1,235 @@
 {
-  "updatedAt": "2026-07-25T14:01:29.815636+00:00",
+  "updatedAt": "2026-07-25T15:19:15.478080+00:00",
   "status": "ok",
-  "count": 15,
+  "count": 25,
   "errors": [
-    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
+      "source": "GitHub Repos",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 384088,
+      "comments": 6997,
+      "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "summary": "Your own personal AI assistant. 점수 384088, 반응 6997 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 260894,
+      "comments": 319,
+      "text": "An agentic skills framework & software development methodology that works.",
+      "summary": "An agentic skills framework & software development methodology that works. 점수 260894, 반응 319 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 220304,
+      "comments": 25184,
+      "text": "The agent that grows with you",
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 220304, 반응 25184 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 197943,
+      "comments": 1401,
+      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 197943, 반응 1401 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 185681,
+      "comments": 485,
+      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185681, 반응 485 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 166348,
+      "comments": 64,
+      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166348, 반응 64 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "score": 164263,
+      "comments": 2499,
+      "text": "Stable Diffusion web UI",
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164263, 반응 2499 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "score": 157298,
+      "comments": 60,
+      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157298, 반응 60 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 155847,
+      "comments": 444,
+      "text": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 155847, 반응 444 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 150210,
+      "comments": 1007,
+      "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150210, 반응 1007 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 146692,
+      "comments": 467,
+      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146692, 반응 467 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "score": 142575,
+      "comments": 445,
+      "text": "The agent engineering platform.",
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142575, 반응 445 기준 인기 이슈입니다."
+    },
+    {
       "source": "Hacker News",
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1669,
-      "comments": 1043,
+      "score": 1690,
+      "comments": 1108,
       "text": "<a href=\"https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card\" rel=\"nofollow\">https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card</a>",
-      "summary": "https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card 점수 1669, 반응 1043 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card 점수 1690, 반응 1108 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "India's first privately-developed rocket reaches orbit on debut launch",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 639,
-      "comments": 180,
+      "score": 649,
+      "comments": 189,
       "text": "",
-      "summary": "India's first privately-developed rocket reaches orbit on debut launch. 점수 639, 반응 180 기준 인기 이슈입니다."
+      "summary": "India's first privately-developed rocket reaches orbit on debut launch. 점수 649, 반응 189 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "My security camera shipped a GitHub admin token in its login page",
       "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 616,
-      "comments": 205,
+      "score": 624,
+      "comments": 206,
       "text": "",
-      "summary": "My security camera shipped a GitHub admin token in its login page. 점수 616, 반응 205 기준 인기 이슈입니다."
+      "summary": "My security camera shipped a GitHub admin token in its login page. 점수 624, 반응 206 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 468,
-      "comments": 212,
+      "score": 561,
+      "comments": 263,
       "text": "",
-      "summary": "Android May Soon Restrict On-Device ADB. 점수 468, 반응 212 기준 인기 이슈입니다."
+      "summary": "Android May Soon Restrict On-Device ADB. 점수 561, 반응 263 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Firefox Containers Preview",
       "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-      "score": 400,
-      "comments": 115,
+      "score": 425,
+      "comments": 119,
       "text": "",
-      "summary": "Firefox Containers Preview. 점수 400, 반응 115 기준 인기 이슈입니다."
+      "summary": "Firefox Containers Preview. 점수 425, 반응 119 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
       "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "score": 382,
-      "comments": 62,
+      "score": 422,
+      "comments": 68,
       "text": "",
-      "summary": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach. 점수 382, 반응 62 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "score": 340,
-      "comments": 64,
-      "text": "",
-      "summary": "Postgres LISTEN/NOTIFY actually scales. 점수 340, 반응 64 기준 인기 이슈입니다."
+      "summary": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach. 점수 422, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
       "url": "https://artificialanalysis.ai/models",
-      "score": 332,
-      "comments": 195,
+      "score": 348,
+      "comments": 204,
       "text": "",
-      "summary": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard. 점수 332, 반응 195 기준 인기 이슈입니다."
+      "summary": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard. 점수 348, 반응 204 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "score": 322,
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "score": 346,
       "comments": 65,
       "text": "",
-      "summary": "Half-Life 2 running natively on HaikuOS. 점수 322, 반응 65 기준 인기 이슈입니다."
+      "summary": "Postgres LISTEN/NOTIFY actually scales. 점수 346, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kimi K3 exploited the latest Redis server",
       "url": "https://twitter.com/fried_rice/status/2080059356322918777",
-      "score": 244,
+      "score": 259,
       "comments": 78,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777</a>",
-      "summary": "Kimi K3 exploited the latest Redis server. https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777 점수 244, 반응 78 기준 인기 이슈입니다."
+      "summary": "Kimi K3 exploited the latest Redis server. https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777 점수 259, 반응 78 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
       "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
-      "score": 237,
+      "score": 249,
       "comments": 45,
       "text": "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVIno\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVIno</a><p><a href=\"https:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-revive-40-year-old-triangular-zipper-concept-now-made-possible-by-3d-printing-creates-shape-shifting-robots-and-deployable-structures-3d-printed-y-zipper-turns-floppy-tentacles-into-rigid-beams-in-seconds\" rel=\"nofollow\">https:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev...</a><p><a href=\"https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2F;31&#x2F;a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2F;31&#x2F;a-zipper-patent-sat-i...</a>",
-      "summary": "An old patent inspired the new \"Y-zipper\", a three-sided fastener. https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVIno https:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev... https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2F;31&#x2F;a-zipper-patent-sat-i... 점수 237, 반응 45 기준 인기 이슈입니다."
+      "summary": "An old patent inspired the new \"Y-zipper\", a three-sided fastener. https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVIno https:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev... https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2F;31&#x2F;a-zipper-patent-sat-i... 점수 249, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
       "url": "https://globaloilnetwork.staffinganalytics.io/",
-      "score": 213,
-      "comments": 102,
+      "score": 226,
+      "comments": 106,
       "text": "OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade.<p>The model:\nThe mechanics are the same as the financial network Eisenberg-Noe: Instead of banks, every country consumes oil interconnected via bilateral trading. Shocks propagate throughout the network, depleting oil reserves when bottleneck nodes (such as the Strait of Hormuz) are blocked.<p>Insights:\nThe interesting part is the mechanics of how the crisis unfolds: for example, France receives 0 oil from Hormuz directly, yet their reserves are depleted faster because other countries reactively increase their safety oil stock, increasing oil price, making stockouts more expensive for everyone.<p>The model also gives price dynamics which are interesting on their own: the price increase is not immediate, it follows sequentially as countries reserves deplete.<p>Some caveats:\n1. For producer nodes, depletion means their export slack is reduced&#x2F;exhausted.\n2. No sanctioned trade (UN Comtrade data)<p>Technical Details:\nThe visualization is 600 lines of flask plus js frontend (LLM assisted visualization with ground-truth matching the original numerical exercise of the paper)<p>Paper with proofs&#x2F;theory:\n<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.17491\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.17491</a>",
-      "summary": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data. OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade. 점수 213, 반응 102 기준 인기 이슈입니다."
+      "summary": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data. OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade. 점수 226, 반응 106 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Designing an Ethernet Switch ASIC",
       "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
-      "score": 204,
-      "comments": 49,
+      "score": 225,
+      "comments": 52,
       "text": "",
-      "summary": "Designing an Ethernet Switch ASIC. 점수 204, 반응 49 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GC and Exceptions in Wasmtime",
-      "url": "https://bytecodealliance.org/articles/wasmtime-gc",
-      "score": 123,
-      "comments": 17,
-      "text": "",
-      "summary": "GC and Exceptions in Wasmtime. 점수 123, 반응 17 기준 인기 이슈입니다."
+      "summary": "Designing an Ethernet Switch ASIC. 점수 225, 반응 52 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "ARC-AGI Leaderboard",
       "url": "https://arcprize.org/leaderboard",
-      "score": 122,
-      "comments": 99,
+      "score": 137,
+      "comments": 112,
       "text": "",
-      "summary": "ARC-AGI Leaderboard.  점수 122, 반응 99 기준 인기 이슈입니다."
+      "summary": "ARC-AGI Leaderboard.  점수 137, 반응 112 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -185,23 +274,23 @@
       "count": 4
     },
     {
+      "keyword": "platform",
+      "count": 3
+    },
+    {
+      "keyword": "prompts",
+      "count": 3
+    },
+    {
+      "keyword": "model",
+      "count": 3
+    },
+    {
       "keyword": "hormuz",
       "count": 3
     },
     {
       "keyword": "trade",
-      "count": 3
-    },
-    {
-      "keyword": "paper",
-      "count": 3
-    },
-    {
-      "keyword": "reserves",
-      "count": 3
-    },
-    {
-      "keyword": "price",
       "count": 3
     }
   ],
