@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T17:15:19.976486+00:00",
+  "updatedAt": "2026-07-26T19:34:18.919337+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,271 +10,235 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384209,
-      "comments": 7058,
+      "score": 384221,
+      "comments": 7068,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384209, 반응 7058 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384221, 반응 7068 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 261483,
+      "score": 261524,
       "comments": 322,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 261483, 반응 322 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 261524, 반응 322 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 220809,
-      "comments": 25590,
+      "score": 220856,
+      "comments": 25628,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 220809, 반응 25590 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 220856, 반응 25628 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198090,
-      "comments": 1409,
+      "score": 198105,
+      "comments": 1408,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198090, 반응 1409 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198105, 반응 1408 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185697,
-      "comments": 492,
+      "score": 185698,
+      "comments": 493,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185697, 반응 492 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185698, 반응 493 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166388,
+      "score": 166390,
       "comments": 64,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166388, 반응 64 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166390, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164278,
+      "score": 164280,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164278, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164280, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157310,
+      "score": 157313,
       "comments": 60,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157310, 반응 60 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157313, 반응 60 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 156333,
-      "comments": 448,
+      "score": 156380,
+      "comments": 447,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 156333, 반응 448 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 156380, 반응 447 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150313,
-      "comments": 993,
+      "score": 150318,
+      "comments": 995,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150313, 반응 993 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150318, 반응 995 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 146804,
-      "comments": 499,
+      "score": 146814,
+      "comments": 493,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146804, 반응 499 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146814, 반응 493 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142621,
-      "comments": 446,
+      "score": 142623,
+      "comments": 447,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142621, 반응 446 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "score": 426,
-      "comments": 325,
-      "text": "",
-      "summary": "The new rules of context engineering for Claude 5 generation models. 점수 426, 반응 325 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A shell colon does nothing. Use it anyway",
-      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-      "score": 335,
-      "comments": 144,
-      "text": "",
-      "summary": "A shell colon does nothing. 점수 335, 반응 144 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "score": 277,
-      "comments": 167,
-      "text": "",
-      "summary": "GrapheneOS protections against data extraction from locked devices. 점수 277, 반응 167 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-      "url": "https://astral.sh/blog/ruff-v0.16.0",
-      "score": 271,
-      "comments": 167,
-      "text": "",
-      "summary": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59. 점수 271, 반응 167 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "An ESP32 based plane radar for my desk",
-      "url": "https://blog.ktz.me/esp32-plane-radar/",
-      "score": 229,
-      "comments": 49,
-      "text": "",
-      "summary": "An ESP32 based plane radar for my desk. 점수 229, 반응 49 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "score": 221,
-      "comments": 173,
-      "text": "",
-      "summary": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]. 점수 221, 반응 173 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-      "score": 217,
-      "comments": 148,
-      "text": "",
-      "summary": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake. 점수 217, 반응 148 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142623, 반응 447 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kill The Cookie Banner",
       "url": "https://killthecookiebanner.eu/",
-      "score": 207,
-      "comments": 119,
+      "score": 546,
+      "comments": 274,
       "text": "",
-      "summary": "Kill The Cookie Banner. 점수 207, 반응 119 기준 인기 이슈입니다."
+      "summary": "Kill The Cookie Banner. 점수 546, 반응 274 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "What is happening to jobs? Separating AI hype from reality",
-      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-      "score": 195,
-      "comments": 264,
+      "title": "A shell colon does nothing. Use it anyway",
+      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "score": 356,
+      "comments": 152,
       "text": "",
-      "summary": "What is happening to jobs? Separating AI hype from reality. 점수 195, 반응 264 기준 인기 이슈입니다."
+      "summary": "A shell colon does nothing. 점수 356, 반응 152 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
-      "url": "https://english.mapn.ro/",
-      "score": 192,
-      "comments": 194,
+      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+      "url": "https://astral.sh/blog/ruff-v0.16.0",
+      "score": 320,
+      "comments": 199,
       "text": "",
-      "summary": "Third Drone Shot Down in Three Days in Romanian Territory. 점수 192, 반응 194 기준 인기 이슈입니다."
+      "summary": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59. 점수 320, 반응 199 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: I mapped every US golf course",
-      "url": "https://golfcoursebrowser.com/",
-      "score": 192,
-      "comments": 115,
-      "text": "I got tired of Googling basic course info, so I made a free directory of every US course<p>Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... <a href=\"https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;</a><p>It&#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.<p>It&#x27;s free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wrong scorecard), you can flag it right on the course page. I actually read those and fix them.<p>Still a lot of missing info, but I&#x27;m filling out more and more each day. The goal is the most complete, and current golf course directory in the world, verified and maintained by actual golfers. I think is attainable in the next few months.\nThe base layer is OpenStreetMap, cross-checked against course websites and enriched with scorecards, USGA rating&#x2F;slope, and public&#x2F;private status. User corrections from golfers who know their home course have beaten every commercial data source we check against.",
-      "summary": "Show HN: I mapped every US golf course. I got tired of Googling basic course info, so I made a free directory of every US course Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F; It&#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP. 점수 192, 반응 115 기준 인기 이슈입니다."
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "score": 315,
+      "comments": 195,
+      "text": "",
+      "summary": "GrapheneOS protections against data extraction from locked devices. 점수 315, 반응 195 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "score": 186,
-      "comments": 19,
+      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+      "score": 258,
+      "comments": 204,
       "text": "",
-      "summary": "Inflect-Micro-v2: complete voice in 9.36M parameters. 점수 186, 반응 19 기준 인기 이슈입니다."
+      "summary": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake. 점수 258, 반응 204 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Cloudflare's new AI traffic options for customers",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-      "score": 170,
-      "comments": 135,
+      "title": "London Gatwick has launched a robotic airport parking service",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "score": 219,
+      "comments": 161,
       "text": "",
-      "summary": "Cloudflare's new AI traffic options for customers. 점수 170, 반응 135 기준 인기 이슈입니다."
+      "summary": "London Gatwick has launched a robotic airport parking service. 점수 219, 반응 161 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "score": 193,
+      "comments": 64,
+      "text": "",
+      "summary": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy. 점수 193, 반응 64 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "score": 143,
+      "comments": 22,
+      "text": "",
+      "summary": "Go Analysis Framework: modular static analysis by go team. 점수 143, 반응 22 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I learned PCB design, 3D printing and C just to listen to music",
+      "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+      "score": 125,
+      "comments": 25,
+      "text": "",
+      "summary": "I learned PCB design, 3D printing and C just to listen to music. 점수 125, 반응 25 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "What's Under Your Feet in New York City?",
+      "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
+      "score": 109,
+      "comments": 17,
+      "text": "",
+      "summary": "What's Under Your Feet in New York City?. 점수 109, 반응 17 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Design is compromise",
+      "url": "https://stephango.com/design-is-compromise",
+      "score": 101,
+      "comments": 42,
+      "text": "",
+      "summary": "Design is compromise. 점수 101, 반응 42 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "An Inside Look at the Token Reseller Market",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "score": 92,
+      "comments": 48,
+      "text": "",
+      "summary": "An Inside Look at the Token Reseller Market. 점수 92, 반응 48 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Strongest El Niño Ever",
+      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
+      "score": 89,
+      "comments": 30,
+      "text": "",
+      "summary": "The Strongest El Niño Ever. 점수 89, 반응 30 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
-    {
-      "keyword": "course",
-      "count": 9
-    },
-    {
-      "keyword": "x2f",
-      "count": 8
-    },
     {
       "keyword": "platform",
       "count": 3
     },
     {
       "keyword": "prompts",
-      "count": 3
-    },
-    {
-      "keyword": "free",
-      "count": 3
-    },
-    {
-      "keyword": "complete",
-      "count": 3
-    },
-    {
-      "keyword": "against",
-      "count": 3
-    },
-    {
-      "keyword": "every",
-      "count": 3
-    },
-    {
-      "keyword": "golf",
-      "count": 3
-    },
-    {
-      "keyword": "info",
-      "count": 3
-    },
-    {
-      "keyword": "x27",
       "count": 3
     },
     {
@@ -286,11 +250,47 @@
       "count": 2
     },
     {
-      "keyword": "way",
+      "keyword": "agentic",
       "count": 2
     },
     {
-      "keyword": "agentic",
+      "keyword": "framework",
+      "count": 2
+    },
+    {
+      "keyword": "agent",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "cloud",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "use",
+      "count": 2
+    },
+    {
+      "keyword": "build",
+      "count": 2
+    },
+    {
+      "keyword": "web",
+      "count": 2
+    },
+    {
+      "keyword": "firecrawl",
+      "count": 2
+    },
+    {
+      "keyword": "api",
       "count": 2
     }
   ],
