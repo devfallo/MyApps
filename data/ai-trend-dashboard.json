@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T03:55:21.017035+00:00",
+  "updatedAt": "2026-07-26T06:48:19.237214+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,236 +10,232 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384132,
-      "comments": 7065,
+      "score": 384147,
+      "comments": 7044,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384132, 반응 7065 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384147, 반응 7044 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 261158,
+      "score": 261223,
       "comments": 322,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 261158, 반응 322 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 261223, 반응 322 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 220533,
-      "comments": 25342,
+      "score": 220585,
+      "comments": 25382,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 220533, 반응 25342 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 220585, 반응 25382 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198015,
+      "score": 198031,
       "comments": 1405,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198015, 반응 1405 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198031, 반응 1405 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185690,
+      "score": 185691,
       "comments": 491,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185690, 반응 491 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185691, 반응 491 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166364,
+      "score": 166371,
       "comments": 64,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166364, 반응 64 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166371, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164274,
+      "score": 164275,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164274, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164275, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157301,
+      "score": 157303,
       "comments": 59,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157301, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157303, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 156038,
-      "comments": 445,
+      "score": 156096,
+      "comments": 446,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 156038, 반응 445 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 156096, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150256,
-      "comments": 992,
+      "score": 150267,
+      "comments": 989,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150256, 반응 992 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150267, 반응 989 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 146740,
-      "comments": 475,
+      "score": 146751,
+      "comments": 478,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146740, 반응 475 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146751, 반응 478 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142589,
+      "score": 142604,
       "comments": 445,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142589, 반응 445 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142604, 반응 445 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Stolen Buttons",
-      "url": "https://anatolyzenkov.com/stolen-buttons",
-      "score": 631,
-      "comments": 154,
+      "title": "Android May Soon Restrict On-Device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "score": 905,
+      "comments": 446,
       "text": "",
-      "summary": "Stolen Buttons.  점수 631, 반응 154 기준 인기 이슈입니다."
+      "summary": "Android May Soon Restrict On-Device ADB. 점수 905, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Open-weight AI is having its Kubernetes moment",
       "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "score": 333,
-      "comments": 265,
+      "score": 362,
+      "comments": 283,
       "text": "",
-      "summary": "Open-weight AI is having its Kubernetes moment. 점수 333, 반응 265 기준 인기 이슈입니다."
+      "summary": "Open-weight AI is having its Kubernetes moment. 점수 362, 반응 283 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Did They Ghost You?",
       "url": "https://didtheyghostyou.com/",
-      "score": 325,
-      "comments": 147,
+      "score": 362,
+      "comments": 163,
       "text": "",
-      "summary": "Did They Ghost You?.  점수 325, 반응 147 기준 인기 이슈입니다."
+      "summary": "Did They Ghost You?.  점수 362, 반응 163 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
       "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
-      "score": 312,
-      "comments": 96,
+      "score": 344,
+      "comments": 98,
       "text": "",
-      "summary": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings. 점수 312, 반응 96 기준 인기 이슈입니다."
+      "summary": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings. 점수 344, 반응 98 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The new rules of context engineering for Claude 5 generation models",
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "score": 196,
-      "comments": 132,
+      "score": 268,
+      "comments": 168,
       "text": "",
-      "summary": "The new rules of context engineering for Claude 5 generation models. 점수 196, 반응 132 기준 인기 이슈입니다."
+      "summary": "The new rules of context engineering for Claude 5 generation models. 점수 268, 반응 168 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Turn And Face The Strange",
       "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-      "score": 157,
-      "comments": 115,
+      "score": 188,
+      "comments": 126,
       "text": "",
-      "summary": "Turn And Face The Strange. 점수 157, 반응 115 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "score": 147,
-      "comments": 57,
-      "text": "",
-      "summary": "GM Backs Sodium Ion Batteries for U.S. 점수 147, 반응 57 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: I made some transistor animations",
-      "url": "https://brandonli.net/semisim/animations",
-      "score": 143,
-      "comments": 15,
-      "text": "Hi HN,\nI made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the electric field, you can do so in the simulation software. The desktop software also has less common devices like IBGTs and SCRs that have similar animations.<p>The last thread about my software was posted here about a year ago: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43942279\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43942279</a>",
-      "summary": "Show HN: I made some transistor animations. Hi HN, I made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. 점수 143, 반응 15 기준 인기 이슈입니다."
+      "summary": "Turn And Face The Strange. 점수 188, 반응 126 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Brolly, a plain-text weather forecast site",
       "url": "https://brolly.sh/forecast/RWFP2qW8",
-      "score": 141,
-      "comments": 45,
+      "score": 170,
+      "comments": 50,
       "text": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.<p>I made <a href=\"https:&#x2F;&#x2F;brolly.sh\" rel=\"nofollow\">https:&#x2F;&#x2F;brolly.sh</a>, a minimalist, plain text weather forecasting site. You can use it to view weather from around the world, with: 7 day forecast; Previous day log (so you can confirm it definitely was cooler &#x2F; hotter &#x2F; wetter &#x2F; drier yesterday!); Hourly rain, wind, temperature, conditions; Hourly UV, air quality and pollen, including pollen type specific forecasts within the EU &#x2F; UK; Location search and last 5 locations; Location specific units.<p>I mostly made the site for myself, if anyone else also benefits from it that’s an added advantage.<p>You can check out the weather in York, UK at <a href=\"https:&#x2F;&#x2F;brolly.sh&#x2F;forecast&#x2F;RWFP2qW8\" rel=\"nofollow\">https:&#x2F;&#x2F;brolly.sh&#x2F;forecast&#x2F;RWFP2qW8</a>, or search for a location at <a href=\"https:&#x2F;&#x2F;brolly.sh\" rel=\"nofollow\">https:&#x2F;&#x2F;brolly.sh</a><p>The site is deliberately styled as a single long scrollable column, to work on mobile phones. You can view it on desktop too, there&#x27;s just a lot of horizontal padding. I naturally took a lot of inspiration from plaintextsports.com. Despite not being a sports fan, I love its aesthetic. But, you&#x27;ll hopefully see that this site isn&#x27;t a rip off, and has its own deliberate look and feel.<p>Visualisations are really important to showing information at a glance. I spent a lot of time designing the different visualisations and making them work with only characters. My favourite is the hourly heat map used for pollen count.<p>It&#x27;s also frustrating to have an interactive site, where you can&#x27;t share a page with a friend and have them see what you&#x27;re seeing. To solve this, all page state (i.e. location, selected day, expanded &#x2F; collapsed sections), is stored in the URL. You can share or bookmark the specific view, and know that you&#x27;ll always be able to come back to it.<p>The site uses PocketBase. It’s written in Go and plain HTML&#x2F;JavaScript&#x2F;CSS. All pages are backend rendered, with light JavaScript to handle re-loading content without page jumps when using interactive features like next &#x2F; previous day navigation. Weather forecasts are fetched from open-meteo.com, which has a very generous free tier. However, I also built a custom LRU cache on top of PocketBase’s SQLite DB to cache forecasts for 5 minutes, and avoid putting unnecessary pressure on the open-meteo API.",
-      "summary": "Show HN: Brolly, a plain-text weather forecast site. The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site. 점수 141, 반응 45 기준 인기 이슈입니다."
+      "summary": "Show HN: Brolly, a plain-text weather forecast site. The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site. 점수 170, 반응 50 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "GDID Windows – Cut the tracker that follows you even under VPN",
-      "url": "https://korben.info/en/gdid-windows-cut-tracker-vpn.html",
-      "score": 120,
-      "comments": 85,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.windowslatest.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;you-cant-fully-disable-microsofts-gdid-windows-11-tracker-but-these-settings-limit-what-it-captures&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.windowslatest.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;you-cant-fully-disa...</a>",
-      "summary": "GDID Windows – Cut the tracker that follows you even under VPN. https:&#x2F;&#x2F;www.windowslatest.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;you-cant-fully-disa... 점수 120, 반응 85 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-      "score": 106,
-      "comments": 69,
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "score": 164,
+      "comments": 67,
       "text": "",
-      "summary": "Producing ammonia and fertiliser using wind power in Morris, Minnesota. 점수 106, 반응 69 기준 인기 이슈입니다."
+      "summary": "GM Backs Sodium Ion Batteries for U.S. 점수 164, 반응 67 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "score": 104,
-      "comments": 65,
+      "title": "JetZero",
+      "url": "https://www.jetzero.aero",
+      "score": 155,
+      "comments": 107,
       "text": "",
-      "summary": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]. 점수 104, 반응 65 기준 인기 이슈입니다."
+      "summary": "JetZero.  점수 155, 반응 107 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I made some transistor animations",
+      "url": "https://brandonli.net/semisim/animations",
+      "score": 155,
+      "comments": 20,
+      "text": "Hi HN,\nI made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the electric field, you can do so in the simulation software. The desktop software also has less common devices like IBGTs and SCRs that have similar animations.<p>The last thread about my software was posted here about a year ago: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43942279\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43942279</a>",
+      "summary": "Show HN: I made some transistor animations. Hi HN, I made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. 점수 155, 반응 20 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
       "url": "https://github.com/slvDev/esp32-ai",
-      "score": 103,
-      "comments": 22,
+      "score": 146,
+      "comments": 29,
       "text": "",
-      "summary": "Running a 28.9M parameter LLM on an $8 microcontroller. 점수 103, 반응 22 기준 인기 이슈입니다."
+      "summary": "Running a 28.9M parameter LLM on an $8 microcontroller. 점수 146, 반응 29 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "score": 129,
+      "comments": 113,
+      "text": "",
+      "summary": "LLM Usage in Debian: Three Proposals. 점수 129, 반응 113 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+      "score": 115,
+      "comments": 80,
+      "text": "",
+      "summary": "Producing ammonia and fertiliser using wind power in Morris, Minnesota. 점수 115, 반응 80 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 43
-    },
-    {
-      "keyword": "https",
-      "count": 10
+      "count": 30
     },
     {
       "keyword": "site",
@@ -247,6 +243,10 @@
     },
     {
       "keyword": "can",
+      "count": 8
+    },
+    {
+      "keyword": "https",
       "count": 8
     },
     {
@@ -258,10 +258,6 @@
       "count": 7
     },
     {
-      "keyword": "com",
-      "count": 6
-    },
-    {
       "keyword": "weather",
       "count": 6
     },
@@ -270,15 +266,15 @@
       "count": 5
     },
     {
-      "keyword": "href",
-      "count": 5
-    },
-    {
       "keyword": "software",
       "count": 4
     },
     {
-      "keyword": "made",
+      "keyword": "forecast",
+      "count": 4
+    },
+    {
+      "keyword": "lot",
       "count": 4
     },
     {
@@ -286,11 +282,15 @@
       "count": 4
     },
     {
-      "keyword": "page",
+      "keyword": "made",
       "count": 4
     },
     {
-      "keyword": "forecast",
+      "keyword": "href",
+      "count": 4
+    },
+    {
+      "keyword": "day",
       "count": 4
     }
   ],
