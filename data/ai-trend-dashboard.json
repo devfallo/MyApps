@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T06:48:19.237214+00:00",
+  "updatedAt": "2026-07-26T10:12:35.381036+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,251 +10,255 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384147,
-      "comments": 7044,
+      "score": 384156,
+      "comments": 7034,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384147, 반응 7044 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384156, 반응 7034 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 261223,
+      "score": 261323,
       "comments": 322,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 261223, 반응 322 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 261323, 반응 322 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 220585,
-      "comments": 25382,
+      "score": 220659,
+      "comments": 25425,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 220585, 반응 25382 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 220659, 반응 25425 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198031,
+      "score": 198047,
       "comments": 1405,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198031, 반응 1405 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198047, 반응 1405 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185691,
-      "comments": 491,
+      "score": 185692,
+      "comments": 492,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185691, 반응 491 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185692, 반응 492 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166371,
+      "score": 166376,
       "comments": 64,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166371, 반응 64 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166376, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164275,
+      "score": 164276,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164275, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164276, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157303,
-      "comments": 59,
+      "score": 157306,
+      "comments": 60,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157303, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157306, 반응 60 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 156096,
+      "score": 156160,
       "comments": 446,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 156096, 반응 446 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 156160, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150267,
-      "comments": 989,
+      "score": 150278,
+      "comments": 991,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150267, 반응 989 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150278, 반응 991 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 146751,
-      "comments": 478,
+      "score": 146763,
+      "comments": 477,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146751, 반응 478 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146763, 반응 477 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142604,
-      "comments": 445,
-      "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142604, 반응 445 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Android May Soon Restrict On-Device ADB",
-      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 905,
+      "score": 142609,
       "comments": 446,
-      "text": "",
-      "summary": "Android May Soon Restrict On-Device ADB. 점수 905, 반응 446 기준 인기 이슈입니다."
+      "text": "The agent engineering platform.",
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142609, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "score": 362,
-      "comments": 283,
+      "title": "Android may soon restrict on-device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "score": 935,
+      "comments": 457,
       "text": "",
-      "summary": "Open-weight AI is having its Kubernetes moment. 점수 362, 반응 283 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Did They Ghost You?",
-      "url": "https://didtheyghostyou.com/",
-      "score": 362,
-      "comments": 163,
-      "text": "",
-      "summary": "Did They Ghost You?.  점수 362, 반응 163 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
-      "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
-      "score": 344,
-      "comments": 98,
-      "text": "",
-      "summary": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings. 점수 344, 반응 98 기준 인기 이슈입니다."
+      "summary": "Android may soon restrict on-device ADB. 점수 935, 반응 457 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The new rules of context engineering for Claude 5 generation models",
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "score": 268,
-      "comments": 168,
+      "score": 332,
+      "comments": 221,
       "text": "",
-      "summary": "The new rules of context engineering for Claude 5 generation models. 점수 268, 반응 168 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Turn And Face The Strange",
-      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-      "score": 188,
-      "comments": 126,
-      "text": "",
-      "summary": "Turn And Face The Strange. 점수 188, 반응 126 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Brolly, a plain-text weather forecast site",
-      "url": "https://brolly.sh/forecast/RWFP2qW8",
-      "score": 170,
-      "comments": 50,
-      "text": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.<p>I made <a href=\"https:&#x2F;&#x2F;brolly.sh\" rel=\"nofollow\">https:&#x2F;&#x2F;brolly.sh</a>, a minimalist, plain text weather forecasting site. You can use it to view weather from around the world, with: 7 day forecast; Previous day log (so you can confirm it definitely was cooler &#x2F; hotter &#x2F; wetter &#x2F; drier yesterday!); Hourly rain, wind, temperature, conditions; Hourly UV, air quality and pollen, including pollen type specific forecasts within the EU &#x2F; UK; Location search and last 5 locations; Location specific units.<p>I mostly made the site for myself, if anyone else also benefits from it that’s an added advantage.<p>You can check out the weather in York, UK at <a href=\"https:&#x2F;&#x2F;brolly.sh&#x2F;forecast&#x2F;RWFP2qW8\" rel=\"nofollow\">https:&#x2F;&#x2F;brolly.sh&#x2F;forecast&#x2F;RWFP2qW8</a>, or search for a location at <a href=\"https:&#x2F;&#x2F;brolly.sh\" rel=\"nofollow\">https:&#x2F;&#x2F;brolly.sh</a><p>The site is deliberately styled as a single long scrollable column, to work on mobile phones. You can view it on desktop too, there&#x27;s just a lot of horizontal padding. I naturally took a lot of inspiration from plaintextsports.com. Despite not being a sports fan, I love its aesthetic. But, you&#x27;ll hopefully see that this site isn&#x27;t a rip off, and has its own deliberate look and feel.<p>Visualisations are really important to showing information at a glance. I spent a lot of time designing the different visualisations and making them work with only characters. My favourite is the hourly heat map used for pollen count.<p>It&#x27;s also frustrating to have an interactive site, where you can&#x27;t share a page with a friend and have them see what you&#x27;re seeing. To solve this, all page state (i.e. location, selected day, expanded &#x2F; collapsed sections), is stored in the URL. You can share or bookmark the specific view, and know that you&#x27;ll always be able to come back to it.<p>The site uses PocketBase. It’s written in Go and plain HTML&#x2F;JavaScript&#x2F;CSS. All pages are backend rendered, with light JavaScript to handle re-loading content without page jumps when using interactive features like next &#x2F; previous day navigation. Weather forecasts are fetched from open-meteo.com, which has a very generous free tier. However, I also built a custom LRU cache on top of PocketBase’s SQLite DB to cache forecasts for 5 minutes, and avoid putting unnecessary pressure on the open-meteo API.",
-      "summary": "Show HN: Brolly, a plain-text weather forecast site. The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site. 점수 170, 반응 50 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "score": 164,
-      "comments": 67,
-      "text": "",
-      "summary": "GM Backs Sodium Ion Batteries for U.S. 점수 164, 반응 67 기준 인기 이슈입니다."
+      "summary": "The new rules of context engineering for Claude 5 generation models. 점수 332, 반응 221 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "JetZero",
       "url": "https://www.jetzero.aero",
-      "score": 155,
-      "comments": 107,
+      "score": 202,
+      "comments": 161,
       "text": "",
-      "summary": "JetZero.  점수 155, 반응 107 기준 인기 이슈입니다."
+      "summary": "JetZero.  점수 202, 반응 161 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: I made some transistor animations",
-      "url": "https://brandonli.net/semisim/animations",
-      "score": 155,
-      "comments": 20,
-      "text": "Hi HN,\nI made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the electric field, you can do so in the simulation software. The desktop software also has less common devices like IBGTs and SCRs that have similar animations.<p>The last thread about my software was posted here about a year ago: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43942279\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43942279</a>",
-      "summary": "Show HN: I made some transistor animations. Hi HN, I made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. 점수 155, 반응 20 기준 인기 이슈입니다."
+      "title": "A shell colon does nothing. Use it anyway",
+      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "score": 199,
+      "comments": 69,
+      "text": "",
+      "summary": "A shell colon does nothing. 점수 199, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "score": 194,
+      "comments": 68,
+      "text": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.<p>I made <a href=\"https:&#x2F;&#x2F;brolly.sh\" rel=\"nofollow\">https:&#x2F;&#x2F;brolly.sh</a>, a minimalist, plain text weather forecasting site. You can use it to view weather from around the world, with: 7 day forecast; Previous day log (so you can confirm it definitely was cooler &#x2F; hotter &#x2F; wetter &#x2F; drier yesterday!); Hourly rain, wind, temperature, conditions; Hourly UV, air quality and pollen, including pollen type specific forecasts within the EU &#x2F; UK; Location search and last 5 locations; Location specific units.<p>I mostly made the site for myself, if anyone else also benefits from it that’s an added advantage.<p>You can check out the weather in York, UK at <a href=\"https:&#x2F;&#x2F;brolly.sh&#x2F;forecast&#x2F;RWFP2qW8\" rel=\"nofollow\">https:&#x2F;&#x2F;brolly.sh&#x2F;forecast&#x2F;RWFP2qW8</a>, or search for a location at <a href=\"https:&#x2F;&#x2F;brolly.sh\" rel=\"nofollow\">https:&#x2F;&#x2F;brolly.sh</a><p>The site is deliberately styled as a single long scrollable column, to work on mobile phones. You can view it on desktop too, there&#x27;s just a lot of horizontal padding. I naturally took a lot of inspiration from plaintextsports.com. Despite not being a sports fan, I love its aesthetic. But, you&#x27;ll hopefully see that this site isn&#x27;t a rip off, and has its own deliberate look and feel.<p>Visualisations are really important to showing information at a glance. I spent a lot of time designing the different visualisations and making them work with only characters. My favourite is the hourly heat map used for pollen count.<p>It&#x27;s also frustrating to have an interactive site, where you can&#x27;t share a page with a friend and have them see what you&#x27;re seeing. To solve this, all page state (i.e. location, selected day, expanded &#x2F; collapsed sections), is stored in the URL. You can share or bookmark the specific view, and know that you&#x27;ll always be able to come back to it.<p>The site uses PocketBase. It’s written in Go and plain HTML&#x2F;JavaScript&#x2F;CSS. All pages are backend rendered, with light JavaScript to handle re-loading content without page jumps when using interactive features like next &#x2F; previous day navigation. Weather forecasts are fetched from open-meteo.com, which has a very generous free tier. However, I also built a custom LRU cache on top of PocketBase’s SQLite DB to cache forecasts for 5 minutes, and avoid putting unnecessary pressure on the open-meteo API.",
+      "summary": "Show HN: Brolly, a plain-text weather forecast site. The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site. 점수 194, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
       "url": "https://github.com/slvDev/esp32-ai",
-      "score": 146,
-      "comments": 29,
+      "score": 190,
+      "comments": 44,
       "text": "",
-      "summary": "Running a 28.9M parameter LLM on an $8 microcontroller. 점수 146, 반응 29 기준 인기 이슈입니다."
+      "summary": "Running a 28.9M parameter LLM on an $8 microcontroller. 점수 190, 반응 44 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I made some transistor animations",
+      "url": "https://brandonli.net/semisim/animations",
+      "score": 184,
+      "comments": 23,
+      "text": "Hi HN,\nI made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the electric field, you can do so in the simulation software. The desktop software also has less common devices like IBGTs and SCRs that have similar animations.<p>The last thread about my software was posted here about a year ago: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43942279\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43942279</a>",
+      "summary": "Show HN: I made some transistor animations. Hi HN, I made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. 점수 184, 반응 23 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "score": 175,
+      "comments": 76,
+      "text": "",
+      "summary": "GM Backs Sodium Ion Batteries for U.S. 점수 175, 반응 76 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "LLM Usage in Debian: Three Proposals",
       "url": "https://www.debian.org/vote/2026/vote_002",
-      "score": 129,
-      "comments": 113,
+      "score": 160,
+      "comments": 143,
       "text": "",
-      "summary": "LLM Usage in Debian: Three Proposals. 점수 129, 반응 113 기준 인기 이슈입니다."
+      "summary": "LLM Usage in Debian: Three Proposals. 점수 160, 반응 143 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-      "score": 115,
-      "comments": 80,
+      "title": "An ESP32 based plane radar for my desk",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "score": 152,
+      "comments": 27,
       "text": "",
-      "summary": "Producing ammonia and fertiliser using wind power in Morris, Minnesota. 점수 115, 반응 80 기준 인기 이슈입니다."
+      "summary": "An ESP32 based plane radar for my desk. 점수 152, 반응 27 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "score": 151,
+      "comments": 104,
+      "text": "",
+      "summary": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]. 점수 151, 반응 104 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "score": 133,
+      "comments": 11,
+      "text": "",
+      "summary": "Inflect-Micro-v2: complete voice in 9.36M parameters. 점수 133, 반응 11 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I mapped every US golf course",
+      "url": "https://golfcoursebrowser.com/",
+      "score": 129,
+      "comments": 71,
+      "text": "I got tired of Googling basic course info, so I made a free directory of every US course<p>Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... <a href=\"https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;</a><p>It&#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.<p>It&#x27;s free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wrong scorecard), you can flag it right on the course page. I actually read those and fix them.<p>Still a lot of missing info, but I&#x27;m filling out more and more each day. The goal is the most complete, and current golf course directory in the world, verified and maintained by actual golfers. I think is attainable in the next few months.\nThe base layer is OpenStreetMap, cross-checked against course websites and enriched with scorecards, USGA rating&#x2F;slope, and public&#x2F;private status. User corrections from golfers who know their home course have beaten every commercial data source we check against.",
+      "summary": "Show HN: I mapped every US golf course. I got tired of Googling basic course info, so I made a free directory of every US course Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F; It&#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP. 점수 129, 반응 71 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 30
+      "count": 38
+    },
+    {
+      "keyword": "https",
+      "count": 10
+    },
+    {
+      "keyword": "x27",
+      "count": 10
+    },
+    {
+      "keyword": "can",
+      "count": 9
     },
     {
       "keyword": "site",
       "count": 9
     },
     {
-      "keyword": "can",
-      "count": 8
-    },
-    {
-      "keyword": "https",
-      "count": 8
+      "keyword": "course",
+      "count": 9
     },
     {
       "keyword": "brolly",
-      "count": 7
-    },
-    {
-      "keyword": "x27",
       "count": 7
     },
     {
@@ -262,36 +266,32 @@
       "count": 6
     },
     {
+      "keyword": "com",
+      "count": 6
+    },
+    {
+      "keyword": "lot",
+      "count": 5
+    },
+    {
+      "keyword": "made",
+      "count": 5
+    },
+    {
+      "keyword": "href",
+      "count": 5
+    },
+    {
+      "keyword": "day",
+      "count": 5
+    },
+    {
       "keyword": "also",
       "count": 5
     },
     {
-      "keyword": "software",
-      "count": 4
-    },
-    {
-      "keyword": "forecast",
-      "count": 4
-    },
-    {
-      "keyword": "lot",
-      "count": 4
-    },
-    {
-      "keyword": "animations",
-      "count": 4
-    },
-    {
-      "keyword": "made",
-      "count": 4
-    },
-    {
-      "keyword": "href",
-      "count": 4
-    },
-    {
-      "keyword": "day",
-      "count": 4
+      "keyword": "page",
+      "count": 5
     }
   ],
   "meta": {
