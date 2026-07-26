@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T19:34:18.919337+00:00",
+  "updatedAt": "2026-07-26T21:11:02.543712+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384221,
-      "comments": 7068,
+      "score": 384222,
+      "comments": 7080,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384221, 반응 7068 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384222, 반응 7080 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 261524,
+      "score": 261539,
       "comments": 322,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 261524, 반응 322 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 261539, 반응 322 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 220856,
-      "comments": 25628,
+      "score": 220880,
+      "comments": 25624,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 220856, 반응 25628 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 220880, 반응 25624 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198105,
+      "score": 198106,
       "comments": 1408,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198105, 반응 1408 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198106, 반응 1408 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185698,
+      "score": 185699,
       "comments": 493,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185698, 반응 493 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185699, 반응 493 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166390,
+      "score": 166391,
       "comments": 64,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166390, 반응 64 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166391, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,154 +82,154 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 156380,
+      "score": 156401,
       "comments": 447,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 156380, 반응 447 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 156401, 반응 447 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150318,
+      "score": 150322,
       "comments": 995,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150318, 반응 995 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150322, 반응 995 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 146814,
-      "comments": 493,
+      "score": 146818,
+      "comments": 500,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146814, 반응 493 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146818, 반응 500 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142623,
-      "comments": 447,
+      "score": 142626,
+      "comments": 446,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142623, 반응 447 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142626, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kill The Cookie Banner",
       "url": "https://killthecookiebanner.eu/",
-      "score": 546,
-      "comments": 274,
+      "score": 660,
+      "comments": 315,
       "text": "",
-      "summary": "Kill The Cookie Banner. 점수 546, 반응 274 기준 인기 이슈입니다."
+      "summary": "Kill The Cookie Banner. 점수 660, 반응 315 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A shell colon does nothing. Use it anyway",
       "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-      "score": 356,
-      "comments": 152,
+      "score": 368,
+      "comments": 155,
       "text": "",
-      "summary": "A shell colon does nothing. 점수 356, 반응 152 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-      "url": "https://astral.sh/blog/ruff-v0.16.0",
-      "score": 320,
-      "comments": 199,
-      "text": "",
-      "summary": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59. 점수 320, 반응 199 기준 인기 이슈입니다."
+      "summary": "A shell colon does nothing. 점수 368, 반응 155 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GrapheneOS protections against data extraction from locked devices",
       "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "score": 315,
-      "comments": 195,
+      "score": 332,
+      "comments": 207,
       "text": "",
-      "summary": "GrapheneOS protections against data extraction from locked devices. 점수 315, 반응 195 기준 인기 이슈입니다."
+      "summary": "GrapheneOS protections against data extraction from locked devices. 점수 332, 반응 207 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
       "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-      "score": 258,
-      "comments": 204,
+      "score": 289,
+      "comments": 233,
       "text": "",
-      "summary": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake. 점수 258, 반응 204 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "London Gatwick has launched a robotic airport parking service",
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "score": 219,
-      "comments": 161,
-      "text": "",
-      "summary": "London Gatwick has launched a robotic airport parking service. 점수 219, 반응 161 기준 인기 이슈입니다."
+      "summary": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake. 점수 289, 반응 233 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
       "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "score": 193,
-      "comments": 64,
+      "score": 249,
+      "comments": 80,
       "text": "",
-      "summary": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy. 점수 193, 반응 64 기준 인기 이슈입니다."
+      "summary": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy. 점수 249, 반응 80 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Go Analysis Framework: modular static analysis by go team",
-      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "score": 143,
-      "comments": 22,
+      "title": "London Gatwick has launched a robotic airport parking service",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "score": 248,
+      "comments": 204,
       "text": "",
-      "summary": "Go Analysis Framework: modular static analysis by go team. 점수 143, 반응 22 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I learned PCB design, 3D printing and C just to listen to music",
-      "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-      "score": 125,
-      "comments": 25,
-      "text": "",
-      "summary": "I learned PCB design, 3D printing and C just to listen to music. 점수 125, 반응 25 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "What's Under Your Feet in New York City?",
-      "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
-      "score": 109,
-      "comments": 17,
-      "text": "",
-      "summary": "What's Under Your Feet in New York City?. 점수 109, 반응 17 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Design is compromise",
-      "url": "https://stephango.com/design-is-compromise",
-      "score": 101,
-      "comments": 42,
-      "text": "",
-      "summary": "Design is compromise. 점수 101, 반응 42 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "An Inside Look at the Token Reseller Market",
-      "url": "https://vectoral.com/blog/token-relay-market",
-      "score": 92,
-      "comments": 48,
-      "text": "",
-      "summary": "An Inside Look at the Token Reseller Market. 점수 92, 반응 48 기준 인기 이슈입니다."
+      "summary": "London Gatwick has launched a robotic airport parking service. 점수 248, 반응 204 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Strongest El Niño Ever",
       "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-      "score": 89,
-      "comments": 30,
+      "score": 164,
+      "comments": 103,
       "text": "",
-      "summary": "The Strongest El Niño Ever. 점수 89, 반응 30 기준 인기 이슈입니다."
+      "summary": "The Strongest El Niño Ever. 점수 164, 반응 103 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "score": 158,
+      "comments": 27,
+      "text": "",
+      "summary": "Go Analysis Framework: modular static analysis by go team. 점수 158, 반응 27 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I learned PCB design, 3D printing and C just to listen to music",
+      "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+      "score": 143,
+      "comments": 31,
+      "text": "",
+      "summary": "I learned PCB design, 3D printing and C just to listen to music. 점수 143, 반응 31 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Design is compromise",
+      "url": "https://stephango.com/design-is-compromise",
+      "score": 135,
+      "comments": 64,
+      "text": "",
+      "summary": "Design is compromise. 점수 135, 반응 64 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "What's Under Your Feet in New York City?",
+      "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
+      "score": 131,
+      "comments": 24,
+      "text": "",
+      "summary": "What's Under Your Feet in New York City?. 점수 131, 반응 24 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rethinking legal education in the AI era",
+      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+      "score": 129,
+      "comments": 86,
+      "text": "",
+      "summary": "Rethinking legal education in the AI era. 점수 129, 반응 86 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The relay market powering token resellers and fraud",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "score": 120,
+      "comments": 59,
+      "text": "",
+      "summary": "The relay market powering token resellers and fraud. 점수 120, 반응 59 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
