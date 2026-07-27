@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T15:13:09.335796+00:00",
+  "updatedAt": "2026-07-27T17:55:09.079089+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,235 +10,239 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384310,
-      "comments": 6801,
+      "score": 384323,
+      "comments": 6799,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384310, 반응 6801 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384323, 반응 6799 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 261964,
+      "score": 262024,
       "comments": 325,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 261964, 반응 325 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 262024, 반응 325 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 221263,
-      "comments": 25775,
+      "score": 221322,
+      "comments": 25827,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 221263, 반응 25775 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 221322, 반응 25827 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198221,
-      "comments": 1386,
+      "score": 198240,
+      "comments": 1385,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198221, 반응 1386 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198240, 반응 1385 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185712,
-      "comments": 494,
+      "score": 185717,
+      "comments": 491,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185712, 반응 494 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185717, 반응 491 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166428,
+      "score": 166430,
       "comments": 61,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166428, 반응 61 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166430, 반응 61 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164291,
+      "score": 164295,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164291, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164295, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157340,
+      "score": 157343,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157340, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157343, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 156871,
-      "comments": 447,
+      "score": 156919,
+      "comments": 442,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 156871, 반응 447 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 156919, 반응 442 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150429,
+      "score": 150437,
       "comments": 984,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150429, 반응 984 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150437, 반응 984 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 146919,
-      "comments": 269,
+      "score": 146943,
+      "comments": 272,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146919, 반응 269 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146943, 반응 272 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142695,
+      "score": 142703,
       "comments": 446,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142695, 반응 446 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142703, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "US citizen charged after GrapheneOS phone wipes during airport search",
       "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 1054,
-      "comments": 809,
+      "score": 1195,
+      "comments": 921,
       "text": "",
-      "summary": "US citizen charged after GrapheneOS phone wipes during airport search. 점수 1054, 반응 809 기준 인기 이슈입니다."
+      "summary": "US citizen charged after GrapheneOS phone wipes during airport search. 점수 1195, 반응 921 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "PGSimCity - How PostgreSQL Works",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "score": 781,
-      "comments": 72,
-      "text": "",
-      "summary": "PGSimCity - How PostgreSQL Works. 점수 781, 반응 72 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "title": "Kimi-K3 on HuggingFace",
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "score": 744,
-      "comments": 341,
-      "text": "",
-      "summary": "Kimi-K3 Releases on HuggingFace 7/27. 점수 744, 반응 341 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI companies are shredding rare books",
-      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-      "score": 449,
-      "comments": 245,
-      "text": "",
-      "summary": "AI companies are shredding rare books. 점수 449, 반응 245 기준 인기 이슈입니다."
+      "score": 1034,
+      "comments": 419,
+      "text": "Related: <i>Kimi-K3 Technical Report [pdf]</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49070985\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49070985</a>",
+      "summary": "Kimi-K3 on HuggingFace. Related: Kimi-K3 Technical Report [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49070985 점수 1034, 반응 419 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Physically accurate black hole you can put in your room",
       "url": "https://blackhole.plav.in",
-      "score": 412,
-      "comments": 151,
+      "score": 448,
+      "comments": 161,
       "text": "We have a black hole at home — with actual relativistic physics, live in your browser.<p>I&#x27;m Sasha (Alexander) Plavin, an astrophysicist at Harvard&#x27;s Black Hole Initiative studying quasars and black hole environments. I work with raytracing&#x2F;radiative transfer simulations professionally, and wanted to make one anyone can play with — so I built this app.<p>Put the black hole onto your screen (any browser), or directly into your room with AR or VR (requires WebXR, for example Chrome on Android, or any VR headset). When looking around, pay attention to unintuitive relativistic effects: rays bending around the black hole, and special relativistic &quot;Doppler boosting&quot; changing brightness depending on the viewing angle — zoom out to see the fast jet where the latter effect is especially pronounced.\nFaint markers show where other viewers are standing right now.<p>Alternatively, put the black hole in front of your camera and watch it lens\nyour actual surroundings. Light winds around the hole, so you see both what&#x27;s in front of you and what&#x27;s behind you at once (when the device and browser allow both camera feeds). The closer to the black hole, the stronger the bending — and the longer the light-travel delay: wave at it and watch the changes propagate inward.\n(unfortunately, WebXR restrictions make AR passthrough and the camera feed mutually exclusive)<p>No signup, basic features work on every device, no data uploaded — the camera feed never leaves your device. Source code: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;aplavin&#x2F;blackhole.plav.in\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;aplavin&#x2F;blackhole.plav.in</a>.<p>Enjoy having a black hole in your room, or use it for education&#x2F;outreach — any questions, feedback, or suggestions are welcome!",
-      "summary": "Show HN: Physically accurate black hole you can put in your room. We have a black hole at home — with actual relativistic physics, live in your browser. I&#x27;m Sasha (Alexander) Plavin, an astrophysicist at Harvard&#x27;s Black Hole Initiative studying quasars and black hole environments. 점수 412, 반응 151 기준 인기 이슈입니다."
+      "summary": "Show HN: Physically accurate black hole you can put in your room. We have a black hole at home — with actual relativistic physics, live in your browser. I&#x27;m Sasha (Alexander) Plavin, an astrophysicist at Harvard&#x27;s Black Hole Initiative studying quasars and black hole environments. 점수 448, 반응 161 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
       "url": "https://beyondloom.com/decker/",
-      "score": 347,
-      "comments": 80,
-      "text": "",
-      "summary": "Decker, a platform that builds on the legacy of Hypercard and classic macOS. 점수 347, 반응 80 기준 인기 이슈입니다."
+      "score": 367,
+      "comments": 91,
+      "text": "Also, interview with creator: <a href=\"https:&#x2F;&#x2F;www.arraycast.com&#x2F;2025&#x2F;01&#x2F;04&#x2F;Decker.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.arraycast.com&#x2F;2025&#x2F;01&#x2F;04&#x2F;Decker.html</a>",
+      "summary": "Decker, a platform that builds on the legacy of Hypercard and classic macOS. Also, interview with creator: https:&#x2F;&#x2F;www.arraycast.com&#x2F;2025&#x2F;01&#x2F;04&#x2F;Decker.html 점수 367, 반응 91 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How is the Bun Rewrite in Rust going?",
       "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "score": 270,
-      "comments": 181,
+      "score": 341,
+      "comments": 262,
       "text": "",
-      "summary": "How is the Bun Rewrite in Rust going?. 점수 270, 반응 181 기준 인기 이슈입니다."
+      "summary": "How is the Bun Rewrite in Rust going?. 점수 341, 반응 262 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kimi-K3 Technical Report [pdf]",
+      "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+      "score": 298,
+      "comments": 108,
+      "text": "Related: <i>Kimi-K3 on HuggingFace</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49065752\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49065752</a>",
+      "summary": "Kimi-K3 Technical Report [pdf]. Related: Kimi-K3 on HuggingFace - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49065752 점수 298, 반응 108 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
       "url": "https://github.com/vercel-labs/scriptc",
-      "score": 232,
-      "comments": 127,
+      "score": 253,
+      "comments": 144,
       "text": "",
-      "summary": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary. 점수 232, 반응 127 기준 인기 이슈입니다."
+      "summary": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary. 점수 253, 반응 144 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "score": 220,
-      "comments": 57,
-      "text": "",
-      "summary": "Introduction to Data-Oriented Design [pdf]. 점수 220, 반응 57 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "score": 209,
-      "comments": 89,
-      "text": "",
-      "summary": "We have proof automation now. 점수 209, 반응 89 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+      "title": "Magnolias are so old that they're pollinated by beetles, not bees (2025)",
       "url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
-      "score": 168,
-      "comments": 67,
+      "score": 232,
+      "comments": 84,
       "text": "",
-      "summary": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees. 점수 168, 반응 67 기준 인기 이슈입니다."
+      "summary": "Magnolias are so old that they're pollinated by beetles, not bees (2025). 점수 232, 반응 84 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Chinese chipmaker shares surge 470%",
-      "url": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
-      "score": 158,
-      "comments": 143,
-      "text": "",
-      "summary": "Chinese chipmaker shares surge 470%. 점수 158, 반응 143 기준 인기 이슈입니다."
+      "title": "AI companies spend record sums on Washington lobbying",
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "score": 186,
+      "comments": 86,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;PASMJ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;PASMJ</a>",
+      "summary": "AI companies spend record sums on Washington lobbying. https:&#x2F;&#x2F;archive.ph&#x2F;PASMJ 점수 186, 반응 86 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "I wanted a clock that never needed setting. Things escalated",
-      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-      "score": 150,
-      "comments": 131,
+      "title": "Should you wash your solar panels?",
+      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+      "score": 160,
+      "comments": 135,
       "text": "",
-      "summary": "I wanted a clock that never needed setting. 점수 150, 반응 131 기준 인기 이슈입니다."
+      "summary": "Should you wash your solar panels?. 점수 160, 반응 135 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+      "score": 159,
+      "comments": 103,
+      "text": "",
+      "summary": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023). 점수 159, 반응 103 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Libsm64: Mario 64 as a library for use in external game engines",
+      "url": "https://github.com/libsm64/libsm64",
+      "score": 120,
+      "comments": 15,
+      "text": "",
+      "summary": "Libsm64: Mario 64 as a library for use in external game engines. 점수 120, 반응 15 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Modern email can be built from borrowed parts",
+      "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+      "score": 114,
+      "comments": 53,
+      "text": "",
+      "summary": "Modern email can be built from borrowed parts. 점수 114, 반응 53 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "hole",
+      "keyword": "x2f",
+      "count": 40
+    },
+    {
+      "keyword": "https",
       "count": 10
     },
     {
-      "keyword": "x2f",
+      "keyword": "hole",
       "count": 10
     },
     {
@@ -246,11 +250,39 @@
       "count": 9
     },
     {
+      "keyword": "com",
+      "count": 8
+    },
+    {
       "keyword": "any",
       "count": 5
     },
     {
+      "keyword": "href",
+      "count": 5
+    },
+    {
       "keyword": "platform",
+      "count": 4
+    },
+    {
+      "keyword": "can",
+      "count": 4
+    },
+    {
+      "keyword": "kimi-k3",
+      "count": 4
+    },
+    {
+      "keyword": "news",
+      "count": 4
+    },
+    {
+      "keyword": "ycombinator",
+      "count": 4
+    },
+    {
+      "keyword": "item",
       "count": 4
     },
     {
@@ -260,38 +292,6 @@
     {
       "keyword": "camera",
       "count": 4
-    },
-    {
-      "keyword": "can",
-      "count": 3
-    },
-    {
-      "keyword": "prompts",
-      "count": 3
-    },
-    {
-      "keyword": "put",
-      "count": 3
-    },
-    {
-      "keyword": "room",
-      "count": 3
-    },
-    {
-      "keyword": "relativistic",
-      "count": 3
-    },
-    {
-      "keyword": "browser",
-      "count": 3
-    },
-    {
-      "keyword": "around",
-      "count": 3
-    },
-    {
-      "keyword": "device",
-      "count": 3
     }
   ],
   "meta": {
