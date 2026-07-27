@@ -1,297 +1,208 @@
 {
-  "updatedAt": "2026-07-26T23:11:35.357062+00:00",
+  "updatedAt": "2026-07-27T04:01:44.262120+00:00",
   "status": "ok",
-  "count": 25,
+  "count": 15,
   "errors": [
+    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
-      "source": "GitHub Repos",
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "score": 384231,
-      "comments": 7095,
-      "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384231, 반응 7095 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 261569,
-      "comments": 322,
-      "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 261569, 반응 322 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 220906,
-      "comments": 25661,
-      "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 220906, 반응 25661 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 198113,
-      "comments": 1408,
-      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198113, 반응 1408 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185698,
-      "comments": 493,
-      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185698, 반응 493 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 166389,
-      "comments": 64,
-      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166389, 반응 64 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164279,
-      "comments": 2499,
-      "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164279, 반응 2499 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Snailclimb/JavaGuide",
-      "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157313,
-      "comments": 60,
-      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157313, 반응 60 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "score": 156434,
-      "comments": 447,
-      "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 156434, 반응 447 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 150324,
-      "comments": 995,
-      "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150324, 반응 995 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 146820,
-      "comments": 407,
-      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 146820, 반응 407 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langchain-ai/langchain",
-      "url": "https://github.com/langchain-ai/langchain",
-      "score": 142625,
-      "comments": 446,
-      "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142625, 반응 446 기준 인기 이슈입니다."
-    },
-    {
       "source": "Hacker News",
       "title": "Kill The Cookie Banner",
       "url": "https://killthecookiebanner.eu/",
-      "score": 749,
-      "comments": 355,
+      "score": 864,
+      "comments": 424,
       "text": "",
-      "summary": "Kill The Cookie Banner. 점수 749, 반응 355 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "score": 360,
-      "comments": 215,
-      "text": "",
-      "summary": "GrapheneOS protections against data extraction from locked devices. 점수 360, 반응 215 기준 인기 이슈입니다."
+      "summary": "Kill The Cookie Banner. 점수 864, 반응 424 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
       "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "score": 313,
-      "comments": 101,
+      "score": 381,
+      "comments": 129,
       "text": "",
-      "summary": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy. 점수 313, 반응 101 기준 인기 이슈입니다."
+      "summary": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy. 점수 381, 반응 129 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "London Gatwick has launched a robotic airport parking service",
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "score": 263,
-      "comments": 220,
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "score": 346,
+      "comments": 218,
       "text": "",
-      "summary": "London Gatwick has launched a robotic airport parking service. 점수 263, 반응 220 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Strongest El Niño Ever",
-      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-      "score": 195,
-      "comments": 171,
-      "text": "",
-      "summary": "The Strongest El Niño Ever. 점수 195, 반응 171 기준 인기 이슈입니다."
+      "summary": "US citizen charged after GrapheneOS phone wipes during airport search. 점수 346, 반응 218 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
       "url": "https://beyondloom.com/decker/",
-      "score": 171,
-      "comments": 37,
+      "score": 253,
+      "comments": 64,
       "text": "",
-      "summary": "Decker, a platform that builds on the legacy of Hypercard and classic macOS. 점수 171, 반응 37 기준 인기 이슈입니다."
+      "summary": "Decker, a platform that builds on the legacy of Hypercard and classic macOS. 점수 253, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Go Analysis Framework: modular static analysis by go team",
-      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "score": 166,
-      "comments": 34,
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "score": 221,
+      "comments": 32,
       "text": "",
-      "summary": "Go Analysis Framework: modular static analysis by go team. 점수 166, 반응 34 기준 인기 이슈입니다."
+      "summary": "PGSimCity - How PostgreSQL Works. 점수 221, 반응 32 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "score": 217,
+      "comments": 124,
+      "text": "",
+      "summary": "French firefighters face 'pyrocumulonimbus' for first time. 점수 217, 반응 124 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Design is compromise",
       "url": "https://stephango.com/design-is-compromise",
-      "score": 164,
-      "comments": 66,
+      "score": 209,
+      "comments": 76,
       "text": "",
-      "summary": "Design is compromise. 점수 164, 반응 66 기준 인기 이슈입니다."
+      "summary": "Design is compromise. 점수 209, 반응 76 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "score": 187,
+      "comments": 44,
+      "text": "",
+      "summary": "Go Analysis Framework: modular static analysis by go team. 점수 187, 반응 44 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I learned PCB design, 3D printing and C just to listen to music",
       "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-      "score": 162,
+      "score": 187,
       "comments": 35,
       "text": "",
-      "summary": "I learned PCB design, 3D printing and C just to listen to music. 점수 162, 반응 35 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "It's not empowering to hand off the details",
-      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-      "score": 154,
-      "comments": 80,
-      "text": "",
-      "summary": "It's not empowering to hand off the details. 점수 154, 반응 80 기준 인기 이슈입니다."
+      "summary": "I learned PCB design, 3D printing and C just to listen to music. 점수 187, 반응 35 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What's Under Your Feet in New York City?",
       "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
-      "score": 148,
-      "comments": 32,
+      "score": 170,
+      "comments": 37,
       "text": "",
-      "summary": "What's Under Your Feet in New York City?. 점수 148, 반응 32 기준 인기 이슈입니다."
+      "summary": "What's Under Your Feet in New York City?. 점수 170, 반응 37 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The relay market powering token resellers and fraud",
       "url": "https://vectoral.com/blog/token-relay-market",
-      "score": 138,
-      "comments": 87,
+      "score": 167,
+      "comments": 99,
       "text": "",
-      "summary": "The relay market powering token resellers and fraud. 점수 138, 반응 87 기준 인기 이슈입니다."
+      "summary": "The relay market powering token resellers and fraud. 점수 167, 반응 99 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "score": 167,
+      "comments": 49,
+      "text": "",
+      "summary": "The New AI Superpowers: Focus and Followthrough. 점수 167, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Reverse Minesweeper",
       "url": "https://sunflowersgame.com/",
-      "score": 120,
-      "comments": 40,
+      "score": 166,
+      "comments": 54,
       "text": "",
-      "summary": "Show HN: Reverse Minesweeper. 점수 120, 반응 40 기준 인기 이슈입니다."
+      "summary": "Show HN: Reverse Minesweeper. 점수 166, 반응 54 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Some more things about Django I've been enjoying",
+      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+      "score": 138,
+      "comments": 85,
+      "text": "",
+      "summary": "Some more things about Django I've been enjoying. 점수 138, 반응 85 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "score": 132,
+      "comments": 38,
+      "text": "",
+      "summary": "Introduction to Data-Oriented Design [pdf]. 점수 132, 반응 38 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "platform",
-      "count": 4
-    },
-    {
-      "keyword": "prompts",
+      "keyword": "design",
       "count": 3
     },
     {
-      "keyword": "openclaw",
+      "keyword": "first",
       "count": 2
     },
     {
-      "keyword": "any",
+      "keyword": "analysis",
       "count": 2
     },
     {
-      "keyword": "agentic",
-      "count": 2
+      "keyword": "kill",
+      "count": 1
     },
     {
-      "keyword": "framework",
-      "count": 2
+      "keyword": "cookie",
+      "count": 1
     },
     {
-      "keyword": "agent",
-      "count": 2
+      "keyword": "banner",
+      "count": 1
     },
     {
-      "keyword": "self-host",
-      "count": 2
+      "keyword": "htmx",
+      "count": 1
     },
     {
-      "keyword": "cloud",
-      "count": 2
+      "keyword": "javascript",
+      "count": 1
     },
     {
-      "keyword": "autogpt",
-      "count": 2
+      "keyword": "library",
+      "count": 1
     },
     {
-      "keyword": "build",
-      "count": 2
+      "keyword": "release",
+      "count": 1
     },
     {
-      "keyword": "web",
-      "count": 2
+      "keyword": "exclusively",
+      "count": 1
     },
     {
-      "keyword": "firecrawl",
-      "count": 2
+      "keyword": "game",
+      "count": 1
     },
     {
-      "keyword": "api",
-      "count": 2
+      "keyword": "boy",
+      "count": 1
     },
     {
-      "keyword": "open-webui",
-      "count": 2
+      "keyword": "citizen",
+      "count": 1
+    },
+    {
+      "keyword": "charged",
+      "count": 1
     }
   ],
   "meta": {
