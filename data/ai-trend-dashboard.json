@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T06:40:05.742684+00:00",
+  "updatedAt": "2026-07-28T10:44:42.340702+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,229 +10,233 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384377,
-      "comments": 6628,
+      "score": 384392,
+      "comments": 6618,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384377, 반응 6628 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384392, 반응 6618 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 262279,
+      "score": 262435,
       "comments": 327,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 262279, 반응 327 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 262435, 반응 327 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 221555,
-      "comments": 25991,
+      "score": 221657,
+      "comments": 26076,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 221555, 반응 25991 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 221657, 반응 26076 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198311,
-      "comments": 1383,
+      "score": 198350,
+      "comments": 1382,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198311, 반응 1383 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198350, 반응 1382 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185727,
-      "comments": 490,
+      "score": 185732,
+      "comments": 485,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185727, 반응 490 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185732, 반응 485 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166458,
+      "score": 166468,
       "comments": 61,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166458, 반응 61 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166468, 반응 61 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164293,
+      "score": 164298,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164293, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164298, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157347,
-      "comments": 59,
+      "score": 157358,
+      "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157347, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157358, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 157183,
-      "comments": 446,
+      "score": 157273,
+      "comments": 448,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 157183, 반응 446 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 157273, 반응 448 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150498,
-      "comments": 965,
+      "score": 150538,
+      "comments": 967,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150498, 반응 965 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150538, 반응 967 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147011,
-      "comments": 298,
+      "score": 147036,
+      "comments": 305,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147011, 반응 298 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147036, 반응 305 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142756,
-      "comments": 447,
+      "score": 142781,
+      "comments": 449,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142756, 반응 447 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142781, 반응 449 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 738,
-      "comments": 1034,
+      "score": 935,
+      "comments": 1351,
       "text": "",
-      "summary": "Our position on open-weights models. 점수 738, 반응 1034 기준 인기 이슈입니다."
+      "summary": "Our position on open-weights models. 점수 935, 반응 1351 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+      "score": 343,
+      "comments": 328,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.inc.com&#x2F;amaya-nichole&#x2F;netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning&#x2F;91380349\" rel=\"nofollow\">https:&#x2F;&#x2F;www.inc.com&#x2F;amaya-nichole&#x2F;netflix-company-retreat-sp...</a>",
+      "summary": "Netflix employee fired for sharing personal details in retreat trust exercise. https:&#x2F;&#x2F;www.inc.com&#x2F;amaya-nichole&#x2F;netflix-company-retreat-sp... 점수 343, 반응 328 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Benchmarking Opus 5 on SlopCodeBench",
       "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "score": 227,
-      "comments": 53,
+      "score": 301,
+      "comments": 68,
       "text": "",
-      "summary": "Benchmarking Opus 5 on SlopCodeBench. 점수 227, 반응 53 기준 인기 이슈입니다."
+      "summary": "Benchmarking Opus 5 on SlopCodeBench. 점수 301, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Using an open model feels surprisingly good",
       "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-      "score": 212,
-      "comments": 66,
+      "score": 285,
+      "comments": 108,
       "text": "",
-      "summary": "Using an open model feels surprisingly good. 점수 212, 반응 66 기준 인기 이슈입니다."
+      "summary": "Using an open model feels surprisingly good. 점수 285, 반응 108 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Paged Out #9 [pdf]",
+      "url": "https://pagedout.institute/download/PagedOut_009.pdf",
+      "score": 246,
+      "comments": 26,
+      "text": "",
+      "summary": "Paged Out #9 [pdf].  점수 246, 반응 26 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "7.1 Earthquake in Japan",
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "score": 231,
+      "comments": 54,
+      "text": "",
+      "summary": "7.1 Earthquake in Japan. 점수 231, 반응 54 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Watching Go's new garbage collector move through the heap",
       "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 197,
-      "comments": 20,
+      "score": 231,
+      "comments": 28,
       "text": "",
-      "summary": "Watching Go's new garbage collector move through the heap. 점수 197, 반응 20 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The computer that helped win World War II",
-      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "score": 194,
-      "comments": 76,
-      "text": "",
-      "summary": "The computer that helped win World War II. 점수 194, 반응 76 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-      "score": 168,
-      "comments": 95,
-      "text": "",
-      "summary": "Glue bonds to nonstick surfaces and wipes clean with ethanol. 점수 168, 반응 95 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-      "score": 165,
-      "comments": 84,
-      "text": "",
-      "summary": "Astronauts describe persistent 'observer' sensation after 6 month missions. 점수 165, 반응 84 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Self-contained highly-portable Python distributions",
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "score": 133,
-      "comments": 29,
-      "text": "",
-      "summary": "Self-contained highly-portable Python distributions. 점수 133, 반응 29 기준 인기 이슈입니다."
+      "summary": "Watching Go's new garbage collector move through the heap. 점수 231, 반응 28 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
       "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "score": 118,
-      "comments": 34,
+      "score": 203,
+      "comments": 54,
       "text": "",
-      "summary": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review. 점수 118, 반응 34 기준 인기 이슈입니다."
+      "summary": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review. 점수 203, 반응 54 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
-      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
-      "score": 94,
-      "comments": 12,
+      "title": "Self-contained highly-portable Python distributions",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "score": 147,
+      "comments": 32,
       "text": "",
-      "summary": "Ray tracing massive amounts of animated geometry using tetrahedral cages. 점수 94, 반응 12 기준 인기 이슈입니다."
+      "summary": "Self-contained highly-portable Python distributions. 점수 147, 반응 32 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Securing Services with Rootless Containers",
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-      "score": 86,
-      "comments": 27,
+      "title": "Vehicle Motion Cues",
+      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+      "score": 126,
+      "comments": 55,
       "text": "",
-      "summary": "Securing Services with Rootless Containers. 점수 86, 반응 27 기준 인기 이슈입니다."
+      "summary": "Vehicle Motion Cues.  점수 126, 반응 55 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
       "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-      "score": 78,
-      "comments": 44,
+      "score": 114,
+      "comments": 72,
       "text": "",
-      "summary": "RTX 2080 Ti Memory Upgrade to 22 GB. 점수 78, 반응 44 기준 인기 이슈입니다."
+      "summary": "RTX 2080 Ti Memory Upgrade to 22 GB. 점수 114, 반응 72 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "DConf 2026 in London",
-      "url": "https://dconf.org/2026/index.html",
-      "score": 72,
-      "comments": 32,
+      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+      "score": 108,
+      "comments": 13,
       "text": "",
-      "summary": "DConf 2026 in London. 점수 72, 반응 32 기준 인기 이슈입니다."
+      "summary": "Ray tracing massive amounts of animated geometry using tetrahedral cages. 점수 108, 반응 13 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Securing Services with Rootless Containers",
+      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+      "score": 99,
+      "comments": 29,
+      "text": "",
+      "summary": "Securing Services with Rootless Containers. 점수 99, 반응 29 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 9
+    },
     {
       "keyword": "platform",
       "count": 3
@@ -251,6 +255,10 @@
     },
     {
       "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "personal",
       "count": 2
     },
     {
@@ -283,14 +291,6 @@
     },
     {
       "keyword": "our",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
       "count": 2
     }
   ],
