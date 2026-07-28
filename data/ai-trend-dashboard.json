@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T19:52:45.697612+00:00",
+  "updatedAt": "2026-07-28T21:31:53.004316+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384428,
-      "comments": 6510,
+      "score": 384431,
+      "comments": 6527,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384428, 반응 6510 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384431, 반응 6527 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 262635,
+      "score": 262654,
       "comments": 327,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 262635, 반응 327 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 262654, 반응 327 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 221847,
-      "comments": 26165,
+      "score": 221871,
+      "comments": 26144,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 221847, 반응 26165 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 221871, 반응 26144 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198416,
-      "comments": 1381,
+      "score": 198429,
+      "comments": 1382,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198416, 반응 1381 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198429, 반응 1382 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,10 +55,10 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166479,
-      "comments": 61,
+      "score": 166482,
+      "comments": 65,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166479, 반응 61 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166482, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,10 +73,10 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 157465,
+      "score": 157479,
       "comments": 451,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 157465, 반응 451 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 157479, 반응 451 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,145 +91,145 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150573,
+      "score": 150577,
       "comments": 971,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150573, 반응 971 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150577, 반응 971 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147100,
-      "comments": 317,
+      "score": 147106,
+      "comments": 310,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147100, 반응 317 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147106, 반응 310 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142814,
+      "score": 142815,
       "comments": 446,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142814, 반응 446 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "7.1 Earthquake in Japan",
-      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 740,
-      "comments": 193,
-      "text": "",
-      "summary": "7.1 Earthquake in Japan. 점수 740, 반응 193 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142815, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New HIV vaccine shows unprecedented success in preclinical study",
       "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 428,
-      "comments": 201,
+      "score": 484,
+      "comments": 219,
       "text": "",
-      "summary": "New HIV vaccine shows unprecedented success in preclinical study. 점수 428, 반응 201 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How to survive boiling water",
-      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-      "score": 385,
-      "comments": 82,
-      "text": "",
-      "summary": "How to survive boiling water. 점수 385, 반응 82 기준 인기 이슈입니다."
+      "summary": "New HIV vaccine shows unprecedented success in preclinical study. 점수 484, 반응 219 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
       "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
-      "score": 292,
-      "comments": 93,
+      "score": 412,
+      "comments": 127,
       "text": "",
-      "summary": "Stop Killing the Internet: No Digital ID and No Age Verification. 점수 292, 반응 93 기준 인기 이슈입니다."
+      "summary": "Stop Killing the Internet: No Digital ID and No Age Verification. 점수 412, 반응 127 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "A walk through of the DeltaNet family of linear attention variants",
-      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-      "score": 255,
-      "comments": 109,
+      "title": "How to survive boiling water",
+      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+      "score": 412,
+      "comments": 90,
       "text": "",
-      "summary": "A walk through of the DeltaNet family of linear attention variants. 점수 255, 반응 109 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
-      "url": "https://arxiv.org/abs/2510.26692",
-      "score": 237,
-      "comments": 101,
-      "text": "",
-      "summary": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025). 점수 237, 반응 101 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "About the security content of macOS Tahoe 26.6",
-      "url": "https://support.apple.com/en-us/128067",
-      "score": 185,
-      "comments": 128,
-      "text": "",
-      "summary": "About the security content of macOS Tahoe 26.6. 점수 185, 반응 128 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Deflock Casa Grande",
-      "url": "https://deflockcg.com/",
-      "score": 162,
-      "comments": 45,
-      "text": "",
-      "summary": "Deflock Casa Grande.  점수 162, 반응 45 기준 인기 이슈입니다."
+      "summary": "How to survive boiling water. 점수 412, 반응 90 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Substack writers, you need a website",
       "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 149,
-      "comments": 107,
+      "score": 303,
+      "comments": 167,
       "text": "",
-      "summary": "Substack writers, you need a website. 점수 149, 반응 107 기준 인기 이슈입니다."
+      "summary": "Substack writers, you need a website. 점수 303, 반응 167 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
-      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-      "score": 149,
-      "comments": 94,
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
+      "url": "https://arxiv.org/abs/2510.26692",
+      "score": 254,
+      "comments": 109,
       "text": "",
-      "summary": "DMARC has been public since 2012 but most company domains still don't enforce it. 점수 149, 반응 94 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
-      "url": "https://www.slow-journalism.com/",
-      "score": 142,
-      "comments": 77,
-      "text": "",
-      "summary": "Delayed Gratification – Proud to Be 'Last to Breaking News'. 점수 142, 반응 77 기준 인기 이슈입니다."
+      "summary": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025). 점수 254, 반응 109 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kimi K3 Architecture Overview and Notes",
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "score": 141,
-      "comments": 16,
+      "score": 219,
+      "comments": 25,
       "text": "",
-      "summary": "Kimi K3 Architecture Overview and Notes. 점수 141, 반응 16 기준 인기 이슈입니다."
+      "summary": "Kimi K3 Architecture Overview and Notes. 점수 219, 반응 25 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "score": 135,
-      "comments": 68,
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "url": "https://www.slow-journalism.com/",
+      "score": 187,
+      "comments": 97,
       "text": "",
-      "summary": "Google's Beyond Zero: Enterprise Security for the AI Era. 점수 135, 반응 68 기준 인기 이슈입니다."
+      "summary": "Delayed Gratification – Proud to Be 'Last to Breaking News'. 점수 187, 반응 97 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
+      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+      "score": 161,
+      "comments": 100,
+      "text": "",
+      "summary": "DMARC has been public since 2012 but most company domains still don't enforce it. 점수 161, 반응 100 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "score": 147,
+      "comments": 50,
+      "text": "",
+      "summary": "Steel Bank Common Lisp version 2.6.7. 점수 147, 반응 50 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zig's Incremental Compilation Internals",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "score": 145,
+      "comments": 106,
+      "text": "",
+      "summary": "Zig's Incremental Compilation Internals. 점수 145, 반응 106 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
+      "url": "https://anthropeum.com/",
+      "score": 120,
+      "comments": 34,
+      "text": "",
+      "summary": "Anthropeum – Where in the world, and when, does this human artifact belong?. 점수 120, 반응 34 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "score": 119,
+      "comments": 63,
+      "text": "",
+      "summary": "Discovering Cryptographic Weaknesses with Claude. 점수 119, 반응 63 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Do I Profile eBPF Code?",
+      "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+      "score": 96,
+      "comments": 6,
+      "text": "",
+      "summary": "How Do I Profile eBPF Code?. 점수 96, 반응 6 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -255,6 +255,10 @@
     },
     {
       "keyword": "agent",
+      "count": 2
+    },
+    {
+      "keyword": "code",
       "count": 2
     },
     {
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "open-webui",
-      "count": 2
-    },
-    {
-      "keyword": "linear",
       "count": 2
     }
   ],
