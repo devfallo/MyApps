@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T14:37:03.151749+00:00",
+  "updatedAt": "2026-07-28T17:45:00.640099+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384407,
-      "comments": 6551,
+      "score": 384420,
+      "comments": 6519,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384407, 반응 6551 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384420, 반응 6519 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 262534,
+      "score": 262599,
       "comments": 327,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 262534, 반응 327 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 262599, 반응 327 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 221753,
-      "comments": 26145,
+      "score": 221812,
+      "comments": 26183,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 221753, 반응 26145 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 221812, 반응 26183 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198377,
-      "comments": 1377,
+      "score": 198401,
+      "comments": 1378,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198377, 반응 1377 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198401, 반응 1378 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185734,
-      "comments": 484,
+      "score": 185736,
+      "comments": 489,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185734, 반응 484 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185736, 반응 489 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166476,
+      "score": 166479,
       "comments": 61,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166476, 반응 61 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166479, 반응 61 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164294,
+      "score": 164295,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164294, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164295, 반응 2499 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 157420,
+      "comments": 451,
+      "text": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 157420, 반응 451 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -80,217 +89,208 @@
     },
     {
       "source": "GitHub Repos",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "score": 157349,
-      "comments": 450,
-      "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 157349, 반응 450 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150550,
-      "comments": 968,
+      "score": 150565,
+      "comments": 967,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150550, 반응 968 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150565, 반응 967 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147063,
-      "comments": 307,
+      "score": 147088,
+      "comments": 311,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147063, 반응 307 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147088, 반응 311 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142797,
-      "comments": 448,
+      "score": 142807,
+      "comments": 445,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142797, 반응 448 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 1059,
-      "comments": 1532,
-      "text": "",
-      "summary": "Our position on open-weights models. 점수 1059, 반응 1532 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142807, 반응 445 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "7.1 Earthquake in Japan",
       "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 518,
-      "comments": 98,
+      "score": 705,
+      "comments": 177,
       "text": "",
-      "summary": "7.1 Earthquake in Japan. 점수 518, 반응 98 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "score": 348,
-      "comments": 96,
-      "text": "",
-      "summary": "Benchmarking Opus 5 on SlopCodeBench. 점수 348, 반응 96 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "score": 256,
-      "comments": 83,
-      "text": "",
-      "summary": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review. 점수 256, 반응 83 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Watching Go's new garbage collector move through the heap",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 250,
-      "comments": 35,
-      "text": "",
-      "summary": "Watching Go's new garbage collector move through the heap. 점수 250, 반응 35 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How to Survive Boiling Water",
-      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-      "score": 193,
-      "comments": 29,
-      "text": "",
-      "summary": "How to Survive Boiling Water. 점수 193, 반응 29 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Vehicle Motion Cues",
-      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-      "score": 169,
-      "comments": 85,
-      "text": "",
-      "summary": "Vehicle Motion Cues.  점수 169, 반응 85 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "About the security content of macOS Tahoe 26.6",
-      "url": "https://support.apple.com/en-us/128067",
-      "score": 147,
-      "comments": 93,
-      "text": "",
-      "summary": "About the security content of macOS Tahoe 26.6. 점수 147, 반응 93 기준 인기 이슈입니다."
+      "summary": "7.1 Earthquake in Japan. 점수 705, 반응 177 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New HIV vaccine shows unprecedented success in preclinical study",
       "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 140,
-      "comments": 43,
+      "score": 359,
+      "comments": 172,
       "text": "",
-      "summary": "New HIV vaccine shows unprecedented success in preclinical study. 점수 140, 반응 43 기준 인기 이슈입니다."
+      "summary": "New HIV vaccine shows unprecedented success in preclinical study. 점수 359, 반응 172 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Kimi K3 Now Available via Telnyx Inference API",
-      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-      "score": 118,
-      "comments": 68,
-      "text": "Moonshot AI released open weights for Kimi K3 today and it&#x27;s live on Telnyx Inference. The architecture and Moonshot&#x27;s own benchmarks are in their technical blog. This post is about running it on Telnyx.<p>What we are adding: K3 is now available via the Telnyx Inference API, hosted on GPUs that we own and operate.<p>This matters due to the size of this model. A 2.8T model needs dedicated infra to serve well. Because we own and operate the GPUs, we can contorl throughput. with no inter-provider hops and no cloud tenant, latency is minimized.\nWe have GPUs in each of the US, EU, APAC, and MENA. Inference runs in the region you pick, with zero data retention. We do not store prompts or completions after the response returns.\nBecause we own the infra, the per-token price reflects the cost of running the model, not the cost of renting someone else&#x27;s plus their margin.<p>We have not benchmarked K3 ourselves yet. Moonshot&#x27;s own numbers and early third-party evaluations put it at frontier level for coding and agentic work, trailing only Claude Fable 5 and GPT 5.6 Sol on aggregate. Full breakdown in their blog.<p>Pricing on Telnyx: $2.70&#x2F;1M input tokens, $13.50&#x2F;1M output tokens, $0.27&#x2F;1M cached input tokens. Prompt caching enabled by default. Served via an OpenAI-compatible endpoint so you can test easily.<p>Model ID: [MODEL_ID] API: <a href=\"https:&#x2F;&#x2F;api.telnyx.com&#x2F;v2&#x2F;ai&#x2F;chat&#x2F;completions\" rel=\"nofollow\">https:&#x2F;&#x2F;api.telnyx.com&#x2F;v2&#x2F;ai&#x2F;chat&#x2F;completions</a> Docs: <a href=\"https:&#x2F;&#x2F;developers.telnyx.com&#x2F;docs&#x2F;inference\" rel=\"nofollow\">https:&#x2F;&#x2F;developers.telnyx.com&#x2F;docs&#x2F;inference</a> Technical blog (Moonshot): <a href=\"https:&#x2F;&#x2F;www.kimi.com&#x2F;blog&#x2F;kimi-k3\" rel=\"nofollow\">https:&#x2F;&#x2F;www.kimi.com&#x2F;blog&#x2F;kimi-k3</a>",
-      "summary": "Kimi K3 Now Available via Telnyx Inference API. Moonshot AI released open weights for Kimi K3 today and it&#x27;s live on Telnyx Inference. The architecture and Moonshot&#x27;s own benchmarks are in their technical blog. 점수 118, 반응 68 기준 인기 이슈입니다."
+      "title": "How to Survive Boiling Water",
+      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+      "score": 321,
+      "comments": 62,
+      "text": "",
+      "summary": "How to Survive Boiling Water. 점수 321, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
-      "url": "https://arsastronomica.com/",
-      "score": 92,
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+      "url": "https://arxiv.org/abs/2510.26692",
+      "score": 205,
+      "comments": 77,
+      "text": "",
+      "summary": "Kimi Linear: An Expressive, Efficient Attention Architecture. 점수 205, 반응 77 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "You Could Have Come Up with Kimi Delta Attention",
+      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "score": 138,
+      "comments": 36,
+      "text": "",
+      "summary": "You Could Have Come Up with Kimi Delta Attention. 점수 138, 반응 36 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
+      "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
+      "score": 128,
+      "comments": 36,
+      "text": "",
+      "summary": "Stop Killing the Internet: No Digital ID and No Age Verification. 점수 128, 반응 36 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+      "score": 116,
+      "comments": 82,
+      "text": "",
+      "summary": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It. 점수 116, 반응 82 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "score": 110,
+      "comments": 62,
+      "text": "",
+      "summary": "Google's Beyond Zero: Enterprise Security for the AI Era. 점수 110, 반응 62 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "score": 89,
+      "comments": 38,
+      "text": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation.<p>This project is also an experiment in avoiding having to trust AI-generated code. A human reviewer only needs to read 93 lines of formal specification and run the Lean checker to certify the correctness of the kernel, skipping the intricate 1000+ lines of AI-written implementation. To prove correctness, AI autonomously wrote over 60,000 lines of Lean proofs, which also never have to be inspected by a human. The Lean checker guarantees conformance to the specification at compile time, with zero trust placed in any LLM. This allows us to treat the implementation and proofs as a black box. I guided the agent through the milestones described in the readme to arrive at the result presented here.<p>Also take a look at the web demo <a href=\"https:&#x2F;&#x2F;schildep.github.io&#x2F;verified-3d-mesh-intersection&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;schildep.github.io&#x2F;verified-3d-mesh-intersection&#x2F;</a>, which runs the verified mesh intersection kernel compiled to WebAssembly in your browser.",
+      "summary": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code. To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation. This project is also an experiment in avoiding having to trust AI-generated code. 점수 89, 반응 38 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zig's Incremental Compilation Internals",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "score": 73,
       "comments": 26,
       "text": "",
-      "summary": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts. 점수 92, 반응 26 기준 인기 이슈입니다."
+      "summary": "Zig's Incremental Compilation Internals. 점수 73, 반응 26 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Mondragon Corporation – a federation of co-operatives",
-      "url": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
-      "score": 85,
-      "comments": 9,
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "url": "https://www.slow-journalism.com/",
+      "score": 69,
+      "comments": 36,
       "text": "",
-      "summary": "Mondragon Corporation – a federation of co-operatives. 점수 85, 반응 9 기준 인기 이슈입니다."
+      "summary": "Delayed Gratification – Proud to Be 'Last to Breaking News'. 점수 69, 반응 36 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Why a $154B CEO just endorsed stripping most Americans of voting rights",
-      "url": "https://fortune.com/2026/07/27/shopify-ceo-voting-rights-stripping-americans-19th-century/",
-      "score": 84,
-      "comments": 92,
+      "title": "Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser",
+      "url": "https://scalatutorials.com",
+      "score": 66,
+      "comments": 26,
       "text": "",
-      "summary": "Why a $154B CEO just endorsed stripping most Americans of voting rights. 점수 84, 반응 92 기준 인기 이슈입니다."
+      "summary": "Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser. 점수 66, 반응 26 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "score": 64,
+      "comments": 6,
+      "text": "",
+      "summary": "Kimi K3 Architecture Overview and Notes. 점수 64, 반응 6 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 31
+      "count": 8
     },
     {
-      "keyword": "telnyx",
-      "count": 9
-    },
-    {
-      "keyword": "api",
-      "count": 7
-    },
-    {
-      "keyword": "model",
-      "count": 7
-    },
-    {
-      "keyword": "own",
-      "count": 6
-    },
-    {
-      "keyword": "inference",
-      "count": 6
-    },
-    {
-      "keyword": "https",
-      "count": 6
-    },
-    {
-      "keyword": "com",
-      "count": 6
-    },
-    {
-      "keyword": "blog",
+      "keyword": "lines",
       "count": 5
     },
     {
-      "keyword": "prompts",
+      "keyword": "verified",
       "count": 4
     },
     {
-      "keyword": "kimi",
+      "keyword": "lean",
       "count": 4
     },
     {
-      "keyword": "moonshot",
-      "count": 4
-    },
-    {
-      "keyword": "x27",
-      "count": 4
+      "keyword": "any",
+      "count": 3
     },
     {
       "keyword": "platform",
       "count": 3
     },
     {
-      "keyword": "agentic",
+      "keyword": "agent",
+      "count": 3
+    },
+    {
+      "keyword": "code",
+      "count": 3
+    },
+    {
+      "keyword": "prompts",
+      "count": 3
+    },
+    {
+      "keyword": "web",
+      "count": 3
+    },
+    {
+      "keyword": "kimi",
+      "count": 3
+    },
+    {
+      "keyword": "trust",
+      "count": 3
+    },
+    {
+      "keyword": "implementation",
+      "count": 3
+    },
+    {
+      "keyword": "mesh",
+      "count": 3
+    },
+    {
+      "keyword": "specification",
       "count": 3
     }
   ],
