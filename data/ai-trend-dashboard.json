@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T23:15:17.860194+00:00",
+  "updatedAt": "2026-07-29T03:40:05.622351+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384437,
-      "comments": 6520,
+      "score": 384441,
+      "comments": 6332,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384437, 반응 6520 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384441, 반응 6332 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 262680,
+      "score": 262810,
       "comments": 328,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 262680, 반응 328 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 262810, 반응 328 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 221885,
-      "comments": 26140,
+      "score": 221974,
+      "comments": 26032,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 221885, 반응 26140 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 221974, 반응 26032 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198435,
-      "comments": 1385,
+      "score": 198461,
+      "comments": 1388,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198435, 반응 1385 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198461, 반응 1388 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185741,
+      "score": 185739,
       "comments": 490,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185741, 반응 490 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185739, 반응 490 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166483,
+      "score": 166485,
       "comments": 66,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166483, 반응 66 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166485, 반응 66 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,163 +73,163 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 157506,
+      "score": 157590,
       "comments": 451,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 157506, 반응 451 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 157590, 반응 451 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157367,
+      "score": 157374,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157367, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157374, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150581,
-      "comments": 973,
+      "score": 150607,
+      "comments": 950,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150581, 반응 973 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150607, 반응 950 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147113,
-      "comments": 313,
+      "score": 147137,
+      "comments": 315,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147113, 반응 313 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147137, 반응 315 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142818,
-      "comments": 447,
+      "score": 142830,
+      "comments": 446,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142818, 반응 447 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142830, 반응 446 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New HIV vaccine shows unprecedented success in preclinical study",
       "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 528,
-      "comments": 230,
+      "score": 587,
+      "comments": 246,
       "text": "",
-      "summary": "New HIV vaccine shows unprecedented success in preclinical study. 점수 528, 반응 230 기준 인기 이슈입니다."
+      "summary": "New HIV vaccine shows unprecedented success in preclinical study. 점수 587, 반응 246 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Substack writers, you need a website",
       "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 362,
-      "comments": 193,
+      "score": 441,
+      "comments": 216,
       "text": "",
-      "summary": "Substack writers, you need a website. 점수 362, 반응 193 기준 인기 이슈입니다."
+      "summary": "Substack writers, you need a website. 점수 441, 반응 216 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
-      "url": "https://arxiv.org/abs/2510.26692",
-      "score": 263,
-      "comments": 114,
+      "title": "Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "score": 385,
+      "comments": 119,
       "text": "",
-      "summary": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025). 점수 263, 반응 114 기준 인기 이슈입니다."
+      "summary": "Codex Security.  점수 385, 반응 119 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kimi K3 Architecture Overview and Notes",
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "score": 262,
-      "comments": 33,
+      "score": 338,
+      "comments": 51,
       "text": "",
-      "summary": "Kimi K3 Architecture Overview and Notes. 점수 262, 반응 33 기준 인기 이슈입니다."
+      "summary": "Kimi K3 Architecture Overview and Notes. 점수 338, 반응 51 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "OpenAI just open-sourced Codex Security",
-      "url": "https://github.com/openai/codex-security",
-      "score": 252,
-      "comments": 49,
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
+      "url": "https://arxiv.org/abs/2510.26692",
+      "score": 290,
+      "comments": 123,
       "text": "",
-      "summary": "OpenAI just open-sourced Codex Security. 점수 252, 반응 49 기준 인기 이슈입니다."
+      "summary": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025). 점수 290, 반응 123 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
       "url": "https://www.slow-journalism.com/",
-      "score": 216,
-      "comments": 120,
+      "score": 251,
+      "comments": 148,
       "text": "",
-      "summary": "Delayed Gratification – Proud to Be 'Last to Breaking News'. 점수 216, 반응 120 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Steel Bank Common Lisp version 2.6.7",
-      "url": "https://sbcl.org/all-news.html?2.6.7",
-      "score": 177,
-      "comments": 73,
-      "text": "",
-      "summary": "Steel Bank Common Lisp version 2.6.7. 점수 177, 반응 73 기준 인기 이슈입니다."
+      "summary": "Delayed Gratification – Proud to Be 'Last to Breaking News'. 점수 251, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Zig's Incremental Compilation Internals",
       "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-      "score": 169,
-      "comments": 126,
+      "score": 207,
+      "comments": 142,
       "text": "",
-      "summary": "Zig's Incremental Compilation Internals. 점수 169, 반응 126 기준 인기 이슈입니다."
+      "summary": "Zig's Incremental Compilation Internals. 점수 207, 반응 142 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "score": 206,
+      "comments": 86,
+      "text": "",
+      "summary": "Steel Bank Common Lisp version 2.6.7. 점수 206, 반응 86 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Discovering Cryptographic Weaknesses with Claude",
       "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "score": 157,
-      "comments": 82,
+      "score": 190,
+      "comments": 132,
       "text": "",
-      "summary": "Discovering Cryptographic Weaknesses with Claude. 점수 157, 반응 82 기준 인기 이슈입니다."
+      "summary": "Discovering Cryptographic Weaknesses with Claude. 점수 190, 반응 132 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
-      "url": "https://anthropeum.com/",
-      "score": 131,
-      "comments": 40,
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "score": 174,
+      "comments": 86,
       "text": "",
-      "summary": "Anthropeum – Where in the world, and when, does this human artifact belong?. 점수 131, 반응 40 기준 인기 이슈입니다."
+      "summary": "Half-Life ported to Mac OS 9. 점수 174, 반응 86 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "score": 172,
+      "comments": 55,
+      "text": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.<p>I figured there was probably a simpler way, so I threw together this userscript to merge the two.<p>1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn&#x27;t require your credentials, is resizable, and is easy to tweak if you want to customize it.<p>2. If you land on an article that has previously been shared on HN, the script finds the existing discussion and adds a button in the top-right to open the panel.<p>Feedback welcome.",
+      "summary": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript. HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth. 점수 172, 반응 55 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
       "url": "https://unawatch.com/",
-      "score": 121,
-      "comments": 80,
+      "score": 151,
+      "comments": 99,
       "text": "",
-      "summary": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly. 점수 121, 반응 80 기준 인기 이슈입니다."
+      "summary": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly. 점수 151, 반응 99 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
       "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-      "score": 118,
-      "comments": 204,
+      "score": 148,
+      "comments": 286,
       "text": "<a href=\"https:&#x2F;&#x2F;www.apple.com&#x2F;shop&#x2F;apple-upgrade\" rel=\"nofollow\">https:&#x2F;&#x2F;www.apple.com&#x2F;shop&#x2F;apple-upgrade</a>",
-      "summary": "The iPhone Upgrade Program is being replaced by Apple Upgrade. https:&#x2F;&#x2F;www.apple.com&#x2F;shop&#x2F;apple-upgrade 점수 118, 반응 204 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
-      "url": "https://github.com/reflex-dev/xy",
-      "score": 104,
-      "comments": 40,
-      "text": "",
-      "summary": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library. 점수 104, 반응 40 기준 인기 이슈입니다."
+      "summary": "The iPhone Upgrade Program is being replaced by Apple Upgrade. https:&#x2F;&#x2F;www.apple.com&#x2F;shop&#x2F;apple-upgrade 점수 148, 반응 286 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -246,6 +246,14 @@
       "count": 3
     },
     {
+      "keyword": "discussion",
+      "count": 3
+    },
+    {
+      "keyword": "article",
+      "count": 3
+    },
+    {
       "keyword": "apple",
       "count": 3
     },
@@ -255,6 +263,10 @@
     },
     {
       "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "way",
       "count": 2
     },
     {
@@ -279,18 +291,6 @@
     },
     {
       "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
-      "count": 2
-    },
-    {
-      "keyword": "api",
       "count": 2
     }
   ],
