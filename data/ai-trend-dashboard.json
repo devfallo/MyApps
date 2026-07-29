@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T19:43:04.829660+00:00",
+  "updatedAt": "2026-07-29T21:11:47.191113+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384476,
-      "comments": 5888,
+      "score": 384485,
+      "comments": 5877,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384476, 반응 5888 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384485, 반응 5877 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 263187,
+      "score": 263213,
       "comments": 332,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 263187, 반응 332 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 263213, 반응 332 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 222269,
-      "comments": 26174,
+      "score": 222291,
+      "comments": 26199,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 222269, 반응 26174 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 222291, 반응 26199 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198568,
-      "comments": 1394,
+      "score": 198576,
+      "comments": 1396,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198568, 반응 1394 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198576, 반응 1396 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,28 +55,28 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166489,
+      "score": 166491,
       "comments": 61,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166489, 반응 61 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166491, 반응 61 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164301,
+      "score": 164302,
       "comments": 2503,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164301, 반응 2503 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164302, 반응 2503 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 157840,
+      "score": 157862,
       "comments": 455,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 157840, 반응 455 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 157862, 반응 455 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,145 +91,145 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150704,
+      "score": 150709,
       "comments": 957,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150704, 반응 957 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150709, 반응 957 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147231,
-      "comments": 329,
+      "score": 147237,
+      "comments": 328,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147231, 반응 329 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147237, 반응 328 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142896,
+      "score": 142899,
       "comments": 447,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142896, 반응 447 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142899, 반응 447 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "KOReader",
       "url": "https://koreader.rocks/",
-      "score": 574,
-      "comments": 186,
+      "score": 608,
+      "comments": 193,
       "text": "",
-      "summary": "KOReader.  점수 574, 반응 186 기준 인기 이슈입니다."
+      "summary": "KOReader.  점수 608, 반응 193 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 467,
-      "comments": 162,
+      "score": 531,
+      "comments": 181,
       "text": "Hi HN,<p>I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.<p>I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.<p>The model’s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inference tools almost impossible on an 8 GB or even 16 GB Mac once the OS, applications, and KV cache are included.<p>The trick is to keep the shared part of the model and the KV cache in RAM, then stream only the routed experts needed for each token from SSD. An SSD is way slower than RAM, so the runtime uses a small expert cache and bounded parallel `pread`. While those reads are in flight, the GPU runs the shared part of the layer.<p>I ran more than 100 experiments. Most didn’t work. A few got me here. The experiments are described in the GitHub repo.<p>It currently generates 5–6 tok&#x2F;s on an 8 GB M2 MacBook Air and 31–35 tok&#x2F;s on an M5 MacBook Pro.<p>I also added an experimental OpenAI-compatible local server. It supports streaming and tool calls, and reuses one prompt prefix from the KV cache.<p>Try it! The Mac app is easy to install. On the first run, it will download 15 GB of weights from Hugging Face. The model is surprisingly capable.<p>I would love any kind of feedback!",
-      "summary": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac. Hi HN, I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal. 점수 467, 반응 162 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "User Interfaces of the Demo Scene",
-      "url": "https://www.datagubbe.se/scenegui/",
-      "score": 372,
-      "comments": 67,
-      "text": "",
-      "summary": "User Interfaces of the Demo Scene. 점수 372, 반응 67 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "More Tailscale tricks for your jailbroken Kindle",
-      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-      "score": 369,
-      "comments": 106,
-      "text": "",
-      "summary": "More Tailscale tricks for your jailbroken Kindle. 점수 369, 반응 106 기준 인기 이슈입니다."
+      "summary": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac. Hi HN, I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal. 점수 531, 반응 181 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Superlogical",
       "url": "https://www.superlogical.com/",
-      "score": 324,
-      "comments": 226,
+      "score": 390,
+      "comments": 265,
       "text": "<a href=\"https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical\" rel=\"nofollow\">https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical</a>",
-      "summary": "https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical 점수 324, 반응 226 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical 점수 390, 반응 265 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
       "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "score": 280,
-      "comments": 211,
+      "score": 303,
+      "comments": 224,
       "text": "",
-      "summary": "Document-borne AI worms can self-propagate through Copilot for Word. 점수 280, 반응 211 기준 인기 이슈입니다."
+      "summary": "Document-borne AI worms can self-propagate through Copilot for Word. 점수 303, 반응 224 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Handbook.md shows that long policy documents do not reliably govern agents",
       "url": "https://arxiv.org/abs/2607.25398",
-      "score": 243,
-      "comments": 155,
+      "score": 263,
+      "comments": 168,
       "text": "",
-      "summary": "Handbook.md shows that long policy documents do not reliably govern agents. 점수 243, 반응 155 기준 인기 이슈입니다."
+      "summary": "Handbook.md shows that long policy documents do not reliably govern agents. 점수 263, 반응 168 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Darktable",
       "url": "https://www.darktable.org/",
-      "score": 208,
-      "comments": 108,
+      "score": 240,
+      "comments": 122,
       "text": "",
-      "summary": "Darktable.  점수 208, 반응 108 기준 인기 이슈입니다."
+      "summary": "Darktable.  점수 240, 반응 122 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 134,
-      "comments": 65,
+      "title": "Kimi K3-256k",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "score": 200,
+      "comments": 45,
       "text": "",
-      "summary": "Keychron announces first open-source firmware for gaming mice. 점수 134, 반응 65 기준 인기 이슈입니다."
+      "summary": "Kimi K3-256k.  점수 200, 반응 45 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 126,
-      "comments": 65,
+      "score": 199,
+      "comments": 108,
       "text": "",
-      "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident. 점수 126, 반응 65 기준 인기 이슈입니다."
+      "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident. 점수 199, 반응 108 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "score": 196,
+      "comments": 83,
+      "text": "",
+      "summary": "Keychron announces first open-source firmware for gaming mice. 점수 196, 반응 83 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Is Down",
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+      "score": 179,
+      "comments": 155,
+      "text": "",
+      "summary": "Claude Is Down.  점수 179, 반응 155 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
       "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "score": 110,
-      "comments": 165,
+      "score": 161,
+      "comments": 208,
       "text": "",
-      "summary": "companies are recruiting electricians and carpenters by the thousands. 점수 110, 반응 165 기준 인기 이슈입니다."
+      "summary": "companies are recruiting electricians and carpenters by the thousands. 점수 161, 반응 208 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
       "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
-      "score": 93,
-      "comments": 5,
+      "score": 98,
+      "comments": 11,
       "text": "",
-      "summary": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem. 점수 93, 반응 5 기준 인기 이슈입니다."
+      "summary": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem. 점수 98, 반응 11 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
       "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-      "score": 75,
-      "comments": 29,
+      "score": 94,
+      "comments": 32,
       "text": "",
-      "summary": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution. 점수 75, 반응 29 기준 인기 이슈입니다."
+      "summary": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution. 점수 94, 반응 32 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -290,7 +290,7 @@
       "count": 3
     },
     {
-      "keyword": "more",
+      "keyword": "superlogical",
       "count": 3
     }
   ],
