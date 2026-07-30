@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T10:33:34.700436+00:00",
+  "updatedAt": "2026-07-30T14:31:54.856772+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384547,
-      "comments": 5771,
+      "score": 384577,
+      "comments": 5794,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384547, 반응 5771 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384577, 반응 5794 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 263663,
+      "score": 263775,
       "comments": 302,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 263663, 반응 302 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 263775, 반응 302 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 222606,
-      "comments": 26034,
+      "score": 222716,
+      "comments": 25961,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 222606, 반응 26034 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 222716, 반응 25961 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198665,
-      "comments": 1393,
+      "score": 198690,
+      "comments": 1396,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198665, 반응 1393 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198690, 반응 1396 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185745,
+      "score": 185750,
       "comments": 510,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185745, 반응 510 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185750, 반응 510 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166523,
+      "score": 166527,
       "comments": 61,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166523, 반응 61 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166527, 반응 61 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164303,
+      "score": 164308,
       "comments": 2503,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164303, 반응 2503 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164308, 반응 2503 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 158111,
-      "comments": 454,
+      "score": 158186,
+      "comments": 455,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 158111, 반응 454 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 158186, 반응 455 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,176 +91,148 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150790,
-      "comments": 937,
+      "score": 150809,
+      "comments": 942,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150790, 반응 937 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150809, 반응 942 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147308,
-      "comments": 354,
+      "score": 147337,
+      "comments": 353,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147308, 반응 354 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147337, 반응 353 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 142982,
-      "comments": 452,
+      "score": 142998,
+      "comments": 451,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142982, 반응 452 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 809,
-      "comments": 284,
-      "text": "Hi HN,<p>I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.<p>I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.<p>The model’s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inference tools almost impossible on an 8 GB or even 16 GB Mac once the OS, applications, and KV cache are included.<p>The trick is to keep the shared part of the model and the KV cache in RAM, then stream only the routed experts needed for each token from SSD. An SSD is way slower than RAM, so the runtime uses a small expert cache and bounded parallel `pread`. While those reads are in flight, the GPU runs the shared part of the layer.<p>I ran more than 100 experiments. Most didn’t work. A few got me here. The experiments are described in the GitHub repo.<p>It currently generates 5–6 tok&#x2F;s on an 8 GB M2 MacBook Air and 31–35 tok&#x2F;s on an M5 MacBook Pro.<p>I also added an experimental OpenAI-compatible local server. It supports streaming and tool calls, and reuses one prompt prefix from the KV cache.<p>Try it! The Mac app is easy to install. On the first run, it will download 15 GB of weights from Hugging Face. The model is surprisingly capable.<p>I would love any kind of feedback!",
-      "summary": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac. Hi HN, I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal. 점수 809, 반응 284 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
-      "score": 708,
-      "comments": 414,
-      "text": "<a href=\"https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical\" rel=\"nofollow\">https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical</a>",
-      "summary": "https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical 점수 708, 반응 414 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 142998, 반응 451 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The coolest use for the Vision Pro",
       "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 682,
-      "comments": 263,
+      "score": 769,
+      "comments": 289,
       "text": "",
-      "summary": "The coolest use for the Vision Pro. 점수 682, 반응 263 기준 인기 이슈입니다."
+      "summary": "The coolest use for the Vision Pro. 점수 769, 반응 289 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI's top startups are barely publishing their research",
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 484,
-      "comments": 246,
+      "score": 562,
+      "comments": 292,
       "text": "",
-      "summary": "AI's top startups are barely publishing their research. 점수 484, 반응 246 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kimi K3-256k",
-      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-      "score": 442,
-      "comments": 129,
-      "text": "",
-      "summary": "Kimi K3-256k.  점수 442, 반응 129 기준 인기 이슈입니다."
+      "summary": "AI's top startups are barely publishing their research. 점수 562, 반응 292 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 390,
-      "comments": 214,
+      "score": 437,
+      "comments": 237,
       "text": "",
-      "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident. 점수 390, 반응 214 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 383,
-      "comments": 153,
-      "text": "",
-      "summary": "Keychron announces first open-source firmware for gaming mice. 점수 383, 반응 153 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
-      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "score": 288,
-      "comments": 356,
-      "text": "",
-      "summary": "companies are recruiting electricians and carpenters by the thousands. 점수 288, 반응 356 기준 인기 이슈입니다."
+      "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident. 점수 437, 반응 237 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "LLM Honeypot",
       "url": "https://llm2human.pages.dev/",
-      "score": 263,
-      "comments": 68,
+      "score": 343,
+      "comments": 94,
       "text": "",
-      "summary": "LLM Honeypot.  점수 263, 반응 68 기준 인기 이슈입니다."
+      "summary": "LLM Honeypot.  점수 343, 반응 94 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Productivity Mirage",
       "url": "https://frantic.im/mirage/",
-      "score": 250,
-      "comments": 98,
+      "score": 311,
+      "comments": 136,
       "text": "",
-      "summary": "The Productivity Mirage. 점수 250, 반응 98 기준 인기 이슈입니다."
+      "summary": "The Productivity Mirage. 점수 311, 반응 136 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
-      "score": 223,
-      "comments": 86,
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "url": "https://remysharp.com/links/2026-07-23-35890312",
+      "score": 226,
+      "comments": 73,
       "text": "",
-      "summary": "The Cold Email.  점수 223, 반응 86 기준 인기 이슈입니다."
+      "summary": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling. 점수 226, 반응 73 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
-      "url": "https://cheapfoodmap.com/",
-      "score": 216,
-      "comments": 194,
-      "text": "I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.<p>It&#x27;s inspried by 거지맵 (Begger&#x27;s Map) a Korean crowdsourced map students use to find cheap eats.<p>Ocverage is heaviest in Texas, since I live in Dallas, but have 1200 meals across 15 US cities. Seed data came from Google Review, 4.2 star or higher with at least 500 reviews, and verified price under $10 per menu item.<p>Things I would love feedback on : whether the price-freshness model makes sense, and what would make you trust the price on a site like this. How to encourage people to update prices, since inflation is making food price very frequent.<p>https:&#x2F;&#x2F;cheapfoodmap.com<p>Any and all suggestion will be super helpful. Thank you!",
-      "summary": "Show HN: CheapFoodMap – A map of good meals under $10. I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only. 점수 216, 반응 194 기준 인기 이슈입니다."
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "score": 201,
+      "comments": 230,
+      "text": "",
+      "summary": "Google will expand age checks on Android worldwide till the end of the year. 점수 201, 반응 230 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
-      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-      "score": 170,
-      "comments": 139,
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "score": 147,
+      "comments": 163,
       "text": "",
-      "summary": "Turning a dumb AC unit smart (without losing my security deposit). 점수 170, 반응 139 기준 인기 이슈입니다."
+      "summary": "GCC steering committee announces AI policy. 점수 147, 반응 163 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ron Gilbert started production on Thimbleweed Park 2",
+      "url": "https://www.grumpygamer.com/twp2_announce/",
+      "score": 125,
+      "comments": 47,
+      "text": "",
+      "summary": "Ron Gilbert started production on Thimbleweed Park 2. 점수 125, 반응 47 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Azulejo",
+      "url": "https://en.wikipedia.org/wiki/Azulejo",
+      "score": 102,
+      "comments": 33,
+      "text": "",
+      "summary": "Azulejo.  점수 102, 반응 33 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gpiozero Flow",
+      "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+      "score": 93,
+      "comments": 29,
+      "text": "",
+      "summary": "Gpiozero Flow.  점수 93, 반응 29 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "score": 62,
+      "comments": 43,
+      "text": "",
+      "summary": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode. 점수 62, 반응 43 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Glass Famine",
+      "url": "https://edconway.substack.com/p/the-glass-famine",
+      "score": 57,
+      "comments": 24,
+      "text": "",
+      "summary": "The Glass Famine.  점수 57, 반응 24 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
-    {
-      "keyword": "x2f",
-      "count": 12
-    },
-    {
-      "keyword": "any",
-      "count": 6
-    },
-    {
-      "keyword": "model",
-      "count": 6
-    },
-    {
-      "keyword": "mac",
-      "count": 5
-    },
-    {
-      "keyword": "ram",
-      "count": 4
-    },
-    {
-      "keyword": "cache",
-      "count": 4
-    },
-    {
-      "keyword": "map",
-      "count": 4
-    },
     {
       "keyword": "platform",
       "count": 3
@@ -270,28 +242,56 @@
       "count": 3
     },
     {
-      "keyword": "use",
-      "count": 3
-    },
-    {
-      "keyword": "build",
-      "count": 3
-    },
-    {
       "keyword": "prompts",
       "count": 3
     },
     {
-      "keyword": "running",
-      "count": 3
+      "keyword": "openclaw",
+      "count": 2
     },
     {
-      "keyword": "bit",
-      "count": 3
+      "keyword": "any",
+      "count": 2
     },
     {
-      "keyword": "run",
-      "count": 3
+      "keyword": "agentic",
+      "count": 2
+    },
+    {
+      "keyword": "code",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "cloud",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "vision",
+      "count": 2
+    },
+    {
+      "keyword": "use",
+      "count": 2
+    },
+    {
+      "keyword": "build",
+      "count": 2
+    },
+    {
+      "keyword": "tools",
+      "count": 2
+    },
+    {
+      "keyword": "web",
+      "count": 2
     }
   ],
   "meta": {
