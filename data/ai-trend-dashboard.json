@@ -1,297 +1,208 @@
 {
-  "updatedAt": "2026-07-31T19:52:14.660782+00:00",
+  "updatedAt": "2026-07-31T21:29:28.628906+00:00",
   "status": "ok",
-  "count": 25,
+  "count": 15,
   "errors": [
+    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
-      "source": "GitHub Repos",
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "score": 384721,
-      "comments": 5797,
-      "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384721, 반응 5797 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 264418,
-      "comments": 310,
-      "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 264418, 반응 310 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 223356,
-      "comments": 26210,
-      "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 223356, 반응 26210 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 198863,
-      "comments": 1399,
-      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198863, 반응 1399 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185743,
-      "comments": 512,
-      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185743, 반응 512 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 166566,
-      "comments": 62,
-      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166566, 반응 62 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164324,
-      "comments": 2499,
-      "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164324, 반응 2499 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "score": 158669,
-      "comments": 465,
-      "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 158669, 반응 465 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Snailclimb/JavaGuide",
-      "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157419,
-      "comments": 57,
-      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157419, 반응 57 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 150924,
-      "comments": 939,
-      "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150924, 반응 939 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 147471,
-      "comments": 409,
-      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147471, 반응 409 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langchain-ai/langchain",
-      "url": "https://github.com/langchain-ai/langchain",
-      "score": 143109,
-      "comments": 458,
-      "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143109, 반응 458 기준 인기 이슈입니다."
+      "source": "Hacker News",
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "score": 685,
+      "comments": 182,
+      "text": "",
+      "summary": "Elevators.  점수 685, 반응 182 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek-V4-Flash Update",
       "url": "https://api-docs.deepseek.com/updates/",
-      "score": 616,
-      "comments": 298,
+      "score": 650,
+      "comments": 307,
       "text": "",
-      "summary": "DeepSeek-V4-Flash Update. 점수 616, 반응 298 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
-      "score": 578,
-      "comments": 157,
-      "text": "",
-      "summary": "Elevators.  점수 578, 반응 157 기준 인기 이슈입니다."
+      "summary": "DeepSeek-V4-Flash Update. 점수 650, 반응 307 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
       "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "score": 466,
-      "comments": 254,
-      "text": "",
-      "summary": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis. 점수 466, 반응 254 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The End of an Era",
-      "url": "https://hughhowey.com/the-end-of-an-era/",
-      "score": 345,
-      "comments": 384,
-      "text": "",
-      "summary": "The End of an Era.  점수 345, 반응 384 기준 인기 이슈입니다."
+      "score": 492,
+      "comments": 271,
+      "text": "<a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Flash-0731\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Flash-0731</a>",
+      "summary": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis. https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Flash-0731 점수 492, 반응 271 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "qm",
       "url": "https://github.com/yc-software/qm",
-      "score": 135,
-      "comments": 38,
+      "score": 270,
+      "comments": 60,
       "text": "",
-      "summary": "qm.  점수 135, 반응 38 기준 인기 이슈입니다."
+      "summary": "qm.  점수 270, 반응 60 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "score": 206,
+      "comments": 78,
+      "text": "",
+      "summary": "Tailscale didn't stop the Hugging Face intrusion. 점수 206, 반응 78 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Big Food vs. the People",
       "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "score": 121,
-      "comments": 77,
+      "score": 152,
+      "comments": 100,
       "text": "",
-      "summary": "Big Food vs. the People.  점수 121, 반응 77 기준 인기 이슈입니다."
+      "summary": "Big Food vs. the People.  점수 152, 반응 100 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Arch Linux disables AUR package adoption",
-      "url": "https://lwn.net/Articles/1086489/",
-      "score": 101,
-      "comments": 70,
+      "title": "Severance",
+      "url": "https://lcamtuf.substack.com/p/severance",
+      "score": 119,
+      "comments": 30,
       "text": "",
-      "summary": "Arch Linux disables AUR package adoption. 점수 101, 반응 70 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "score": 78,
-      "comments": 48,
-      "text": "",
-      "summary": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio. 점수 78, 반응 48 기준 인기 이슈입니다."
+      "summary": "Severance.  점수 119, 반응 30 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
       "url": "https://github.com/sqliteai/waste",
-      "score": 65,
-      "comments": 22,
+      "score": 102,
+      "comments": 40,
       "text": "",
-      "summary": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s. 점수 65, 반응 22 기준 인기 이슈입니다."
+      "summary": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s. 점수 102, 반응 40 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "score": 98,
+      "comments": 61,
+      "text": "",
+      "summary": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio. 점수 98, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The most official water costs $120k a gallon",
+      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+      "score": 93,
+      "comments": 73,
+      "text": "",
+      "summary": "The most official water costs $120k a gallon. 점수 93, 반응 73 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
       "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-      "score": 59,
-      "comments": 17,
+      "score": 78,
+      "comments": 25,
       "text": "",
-      "summary": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion. 점수 59, 반응 17 기준 인기 이슈입니다."
+      "summary": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion. 점수 78, 반응 25 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The C ``Clockwise/Spiral Rule''",
-      "url": "https://c-faq.com/decl/spiral.anderson.html",
-      "score": 50,
-      "comments": 36,
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "score": 73,
+      "comments": 23,
       "text": "",
-      "summary": "The C ``Clockwise/Spiral Rule''. 점수 50, 반응 36 기준 인기 이슈입니다."
+      "summary": "Golang proposal: container/: generic collection types. 점수 73, 반응 23 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: BitBang – Reach machines behind NAT from a browser, no account",
-      "url": "https://github.com/richlegrand/bitbang-cli",
-      "score": 50,
-      "comments": 9,
+      "title": "Dubious research tied to Red Bull has shaped energy drink policy",
+      "url": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
+      "score": 71,
+      "comments": 131,
       "text": "",
-      "summary": "Show HN: BitBang – Reach machines behind NAT from a browser, no account. 점수 50, 반응 9 기준 인기 이슈입니다."
+      "summary": "Dubious research tied to Red Bull has shaped energy drink policy. 점수 71, 반응 131 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
       "url": "https://cgjennings.ca/articles/jpeg-compression/",
-      "score": 50,
-      "comments": 4,
+      "score": 71,
+      "comments": 7,
       "text": "",
-      "summary": "How JPEG works: Interactively explore JPEG's lossy compression methods. 점수 50, 반응 4 기준 인기 이슈입니다."
+      "summary": "How JPEG works: Interactively explore JPEG's lossy compression methods. 점수 71, 반응 7 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "score": 57,
+      "comments": 29,
+      "text": "",
+      "summary": "Everyone is building LLM routers, we deprecated ours. 점수 57, 반응 29 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "platform",
-      "count": 3
+      "keyword": "x2f",
+      "count": 8
     },
     {
-      "keyword": "prompts",
-      "count": 3
-    },
-    {
-      "keyword": "openclaw",
+      "keyword": "https",
       "count": 2
     },
     {
-      "keyword": "any",
+      "keyword": "huggingface",
       "count": 2
     },
     {
-      "keyword": "agentic",
+      "keyword": "deepseek-ai",
       "count": 2
     },
     {
-      "keyword": "works",
+      "keyword": "deepseek-v4-flash-0731",
       "count": 2
     },
     {
-      "keyword": "agent",
+      "keyword": "using",
       "count": 2
     },
     {
-      "keyword": "self-host",
+      "keyword": "ram",
       "count": 2
     },
     {
-      "keyword": "cloud",
+      "keyword": "jpeg",
       "count": 2
     },
     {
-      "keyword": "autogpt",
-      "count": 2
+      "keyword": "elevators",
+      "count": 1
     },
     {
-      "keyword": "build",
-      "count": 2
+      "keyword": "deepseek-v4-flash",
+      "count": 1
     },
     {
-      "keyword": "web",
-      "count": 2
+      "keyword": "update",
+      "count": 1
     },
     {
-      "keyword": "firecrawl",
-      "count": 2
+      "keyword": "deepseek",
+      "count": 1
     },
     {
-      "keyword": "api",
-      "count": 2
+      "keyword": "flash",
+      "count": 1
     },
     {
-      "keyword": "open-webui",
-      "count": 2
+      "keyword": "intelligence",
+      "count": 1
+    },
+    {
+      "keyword": "performance",
+      "count": 1
     }
   ],
   "meta": {
