@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T10:50:22.078155+00:00",
+  "updatedAt": "2026-07-31T14:34:44.792882+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384657,
-      "comments": 5770,
+      "score": 384691,
+      "comments": 5777,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384657, 반응 5770 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384691, 반응 5777 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 264222,
+      "score": 264309,
       "comments": 304,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 264222, 반응 304 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 264309, 반응 304 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 223167,
-      "comments": 26091,
+      "score": 223247,
+      "comments": 26136,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 223167, 반응 26091 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 223247, 반응 26136 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198818,
-      "comments": 1404,
+      "score": 198842,
+      "comments": 1403,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198818, 반응 1404 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198842, 반응 1403 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,190 +55,186 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166553,
+      "score": 166559,
       "comments": 61,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166553, 반응 61 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166559, 반응 61 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164320,
+      "score": 164322,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164320, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164322, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 158528,
-      "comments": 463,
+      "score": 158584,
+      "comments": 464,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 158528, 반응 463 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 158584, 반응 464 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157411,
+      "score": 157414,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157411, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157414, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150886,
-      "comments": 955,
+      "score": 150902,
+      "comments": 938,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150886, 반응 955 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150902, 반응 938 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147422,
-      "comments": 388,
+      "score": 147447,
+      "comments": 405,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147422, 반응 388 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147447, 반응 405 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143075,
-      "comments": 456,
+      "score": 143087,
+      "comments": 459,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143075, 반응 456 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "UEFA and its national associations will not participate in FIFA competitions",
-      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-      "score": 1054,
-      "comments": 569,
-      "text": "",
-      "summary": "UEFA and its national associations will not participate in FIFA competitions. 점수 1054, 반응 569 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143087, 반응 459 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Read this before you buy that TV streaming stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 722,
-      "comments": 436,
+      "score": 763,
+      "comments": 467,
       "text": "",
-      "summary": "Read this before you buy that TV streaming stick. 점수 722, 반응 436 기준 인기 이슈입니다."
+      "summary": "Read this before you buy that TV streaming stick. 점수 763, 반응 467 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Stacked PRs are now live on GitHub",
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 658,
-      "comments": 231,
+      "score": 727,
+      "comments": 251,
       "text": "",
-      "summary": "Stacked PRs are now live on GitHub. 점수 658, 반응 231 기준 인기 이슈입니다."
+      "summary": "Stacked PRs are now live on GitHub. 점수 727, 반응 251 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 564,
-      "comments": 448,
+      "score": 592,
+      "comments": 480,
       "text": "",
-      "summary": "Gemini Robotics 2 brings whole body intelligence to robots. 점수 564, 반응 448 기준 인기 이슈입니다."
+      "summary": "Gemini Robotics 2 brings whole body intelligence to robots. 점수 592, 반응 480 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The session you cannot take with you",
       "url": "https://earendil.com/posts/session-portability/",
-      "score": 385,
-      "comments": 91,
+      "score": 573,
+      "comments": 154,
       "text": "",
-      "summary": "The session you cannot take with you. 점수 385, 반응 91 기준 인기 이슈입니다."
+      "summary": "The session you cannot take with you. 점수 573, 반응 154 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek-V4-Flash Update",
       "url": "https://api-docs.deepseek.com/updates/",
-      "score": 316,
-      "comments": 143,
+      "score": 450,
+      "comments": 232,
       "text": "",
-      "summary": "DeepSeek-V4-Flash Update. 점수 316, 반응 143 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The AI Aesthetic",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-      "score": 312,
-      "comments": 138,
-      "text": "",
-      "summary": "The AI Aesthetic.  점수 312, 반응 138 기준 인기 이슈입니다."
+      "summary": "DeepSeek-V4-Flash Update. 점수 450, 반응 232 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GCC steering committee announces AI policy",
       "url": "https://lwn.net/Articles/1086041/",
-      "score": 303,
-      "comments": 328,
+      "score": 322,
+      "comments": 369,
       "text": "",
-      "summary": "GCC steering committee announces AI policy. 점수 303, 반응 328 기준 인기 이슈입니다."
+      "summary": "GCC steering committee announces AI policy. 점수 322, 반응 369 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "score": 264,
+      "comments": 236,
+      "text": "",
+      "summary": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI. 점수 264, 반응 236 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Economic Benefit of Refactoring",
       "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-      "score": 245,
-      "comments": 105,
+      "score": 263,
+      "comments": 113,
       "text": "",
-      "summary": "The Economic Benefit of Refactoring. 점수 245, 반응 105 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-      "score": 218,
-      "comments": 144,
-      "text": "",
-      "summary": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up. 점수 218, 반응 144 기준 인기 이슈입니다."
+      "summary": "The Economic Benefit of Refactoring. 점수 263, 반응 113 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I flagged two research papers for fake authors and both were accepted as orals",
       "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "score": 209,
-      "comments": 93,
+      "score": 250,
+      "comments": 119,
       "text": "",
-      "summary": "I flagged two research papers for fake authors and both were accepted as orals. 점수 209, 반응 93 기준 인기 이슈입니다."
+      "summary": "I flagged two research papers for fake authors and both were accepted as orals. 점수 250, 반응 119 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Why is everyone trying to build a solid-state battery?",
-      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "score": 196,
-      "comments": 246,
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+      "score": 241,
+      "comments": 110,
       "text": "",
-      "summary": "Why is everyone trying to build a solid-state battery?. 점수 196, 반응 246 기준 인기 이슈입니다."
+      "summary": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis. 점수 241, 반응 110 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The lost civic life of movie rental stores",
-      "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
-      "score": 172,
-      "comments": 225,
+      "title": "The Religion of Speed",
+      "url": "https://graybeard.ing/the-religion-of-speed/",
+      "score": 219,
+      "comments": 112,
       "text": "",
-      "summary": "The lost civic life of movie rental stores. 점수 172, 반응 225 기준 인기 이슈입니다."
+      "summary": "The Religion of Speed. 점수 219, 반응 112 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The End of an Era",
+      "url": "https://hughhowey.com/the-end-of-an-era/",
+      "score": 202,
+      "comments": 221,
+      "text": "",
+      "summary": "The End of an Era.  점수 202, 반응 221 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "url": "https://github.com/openjdk/jdk/pull/31120",
+      "score": 182,
+      "comments": 96,
+      "text": "",
+      "summary": "JEP 401: Value Objects (Preview) merged to OpenJDK master. 점수 182, 반응 96 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "platform",
-      "count": 3
-    },
-    {
-      "keyword": "build",
       "count": 3
     },
     {
@@ -274,7 +270,7 @@
       "count": 2
     },
     {
-      "keyword": "everyone",
+      "keyword": "build",
       "count": 2
     },
     {
@@ -291,6 +287,10 @@
     },
     {
       "keyword": "open-webui",
+      "count": 2
+    },
+    {
+      "keyword": "intelligence",
       "count": 2
     }
   ],
