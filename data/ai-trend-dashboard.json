@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T17:14:40.784591+00:00",
+  "updatedAt": "2026-08-01T19:33:41.082391+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384814,
-      "comments": 5674,
+      "score": 384831,
+      "comments": 5672,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384814, 반응 5674 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384831, 반응 5672 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 264731,
-      "comments": 316,
+      "score": 264756,
+      "comments": 317,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 264731, 반응 316 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 264756, 반응 317 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 223752,
-      "comments": 26492,
+      "score": 223784,
+      "comments": 26507,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 223752, 반응 26492 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 223784, 반응 26507 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198955,
+      "score": 198968,
       "comments": 1402,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198955, 반응 1402 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198968, 반응 1402 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,181 +55,181 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166600,
+      "score": 166601,
       "comments": 62,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166600, 반응 62 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166601, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164329,
+      "score": 164330,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164329, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164330, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 158989,
+      "score": 159024,
       "comments": 468,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 158989, 반응 468 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 159024, 반응 468 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157436,
+      "score": 157440,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157436, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157440, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150994,
+      "score": 151001,
       "comments": 922,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150994, 반응 922 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151001, 반응 922 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147532,
-      "comments": 401,
+      "score": 147540,
+      "comments": 402,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147532, 반응 401 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147540, 반응 402 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143170,
+      "score": 143176,
       "comments": 461,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143170, 반응 461 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143176, 반응 461 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 1509,
-      "comments": 379,
+      "score": 1533,
+      "comments": 382,
       "text": "",
-      "summary": "Elevators.  점수 1509, 반응 379 기준 인기 이슈입니다."
+      "summary": "Elevators.  점수 1533, 반응 382 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "qm – Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "score": 629,
-      "comments": 146,
+      "score": 638,
+      "comments": 150,
       "text": "",
-      "summary": "qm – Multiplayer agent harness for work. 점수 629, 반응 146 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 327,
-      "comments": 210,
-      "text": "",
-      "summary": "Ten advances in mathematics and theoretical computer science. 점수 327, 반응 210 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How to Exist",
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "score": 317,
-      "comments": 186,
-      "text": "",
-      "summary": "How to Exist.  점수 317, 반응 186 기준 인기 이슈입니다."
+      "summary": "qm – Multiplayer agent harness for work. 점수 638, 반응 150 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
       "url": "https://github.com/sqliteai/waste",
-      "score": 302,
-      "comments": 141,
+      "score": 314,
+      "comments": 148,
       "text": "",
-      "summary": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s. 점수 302, 반응 141 기준 인기 이슈입니다."
+      "summary": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s. 점수 314, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "score": 222,
-      "comments": 64,
+      "score": 230,
+      "comments": 65,
       "text": "",
-      "summary": "Flint: A Visualization Language for the AI Era. 점수 222, 반응 64 기준 인기 이슈입니다."
+      "summary": "Flint: A Visualization Language for the AI Era. 점수 230, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Software for One",
       "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "score": 197,
-      "comments": 199,
+      "score": 221,
+      "comments": 223,
       "text": "",
-      "summary": "Software for One.  점수 197, 반응 199 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 169,
-      "comments": 97,
-      "text": "",
-      "summary": "RipGrep musl binaries occasionally segfault during very-large searches. 점수 169, 반응 97 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "RamenHaus",
-      "url": "https://ramen.haus/",
-      "score": 167,
-      "comments": 82,
-      "text": "",
-      "summary": "RamenHaus.  점수 167, 반응 82 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A tiny holdout building in the middle of Macy’s is back in view",
-      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-      "score": 147,
-      "comments": 41,
-      "text": "",
-      "summary": "A tiny holdout building in the middle of Macy’s is back in view. 점수 147, 반응 41 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-      "score": 138,
-      "comments": 68,
-      "text": "",
-      "summary": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention. 점수 138, 반응 68 기준 인기 이슈입니다."
+      "summary": "Software for One.  점수 221, 반응 223 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cursor removed cost information from the usage page and CSV export",
       "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "score": 91,
-      "comments": 36,
+      "score": 214,
+      "comments": 97,
       "text": "",
-      "summary": "Cursor removed cost information from the usage page and CSV export. 점수 91, 반응 36 기준 인기 이슈입니다."
+      "summary": "Cursor removed cost information from the usage page and CSV export. 점수 214, 반응 97 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Manual: •.,:;?·",
-      "url": "https://type.today/en/journal/dots",
-      "score": 89,
-      "comments": 15,
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "score": 207,
+      "comments": 144,
       "text": "",
-      "summary": "Manual: •.,:;?·.  점수 89, 반응 15 기준 인기 이슈입니다."
+      "summary": "RipGrep musl binaries occasionally segfault during very-large searches. 점수 207, 반응 144 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "score": 200,
+      "comments": 114,
+      "text": "",
+      "summary": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention. 점수 200, 반응 114 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "RamenHaus",
+      "url": "https://ramen.haus/",
+      "score": 177,
+      "comments": 90,
+      "text": "",
+      "summary": "RamenHaus.  점수 177, 반응 90 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The tiny holdout building in the middle of Macy’s is back in view",
+      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+      "score": 167,
+      "comments": 49,
+      "text": "",
+      "summary": "The tiny holdout building in the middle of Macy’s is back in view. 점수 167, 반응 49 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "score": 147,
+      "comments": 71,
+      "text": "",
+      "summary": "The development pipeline is a production system. 점수 147, 반응 71 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Art of 64-bit Assembly",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "score": 120,
+      "comments": 65,
+      "text": "",
+      "summary": "The Art of 64-bit Assembly. 점수 120, 반응 65 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A directory of people who love RSS",
+      "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+      "score": 117,
+      "comments": 65,
+      "text": "",
+      "summary": "A directory of people who love RSS. 점수 117, 반응 65 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -262,6 +262,10 @@
       "count": 2
     },
     {
+      "keyword": "development",
+      "count": 2
+    },
+    {
       "keyword": "building",
       "count": 2
     },
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "firecrawl",
-      "count": 2
-    },
-    {
-      "keyword": "api",
       "count": 2
     }
   ],
