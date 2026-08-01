@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T15:19:01.465233+00:00",
+  "updatedAt": "2026-08-01T17:14:40.784591+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,241 +10,229 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384795,
-      "comments": 5677,
+      "score": 384814,
+      "comments": 5674,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384795, 반응 5677 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384814, 반응 5674 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 264696,
+      "score": 264731,
       "comments": 316,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 264696, 반응 316 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 264731, 반응 316 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 223704,
-      "comments": 26440,
+      "score": 223752,
+      "comments": 26492,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 223704, 반응 26440 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 223752, 반응 26492 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 198944,
+      "score": 198955,
       "comments": 1402,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198944, 반응 1402 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 198955, 반응 1402 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "score": 185746,
-      "comments": 518,
+      "comments": 524,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185746, 반응 518 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185746, 반응 524 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166594,
+      "score": 166600,
       "comments": 62,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166594, 반응 62 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166600, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164326,
+      "score": 164329,
       "comments": 2499,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164326, 반응 2499 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164329, 반응 2499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 158956,
-      "comments": 467,
+      "score": 158989,
+      "comments": 468,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 158956, 반응 467 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 158989, 반응 468 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157430,
+      "score": 157436,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157430, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157436, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 150986,
-      "comments": 938,
+      "score": 150994,
+      "comments": 922,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150986, 반응 938 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 150994, 반응 922 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147525,
-      "comments": 407,
+      "score": 147532,
+      "comments": 401,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147525, 반응 407 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147532, 반응 401 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143165,
+      "score": 143170,
       "comments": 461,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143165, 반응 461 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143170, 반응 461 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 1464,
-      "comments": 368,
+      "score": 1509,
+      "comments": 379,
       "text": "",
-      "summary": "Elevators.  점수 1464, 반응 368 기준 인기 이슈입니다."
+      "summary": "Elevators.  점수 1509, 반응 379 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "qm – Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "score": 614,
-      "comments": 140,
+      "score": 629,
+      "comments": 146,
       "text": "",
-      "summary": "qm – Multiplayer agent harness for work. 점수 614, 반응 140 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How to Exist",
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "score": 290,
-      "comments": 168,
-      "text": "",
-      "summary": "How to Exist.  점수 290, 반응 168 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-      "url": "https://github.com/sqliteai/waste",
-      "score": 289,
-      "comments": 129,
-      "text": "",
-      "summary": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s. 점수 289, 반응 129 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Big Food vs. the People",
-      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "score": 252,
-      "comments": 158,
-      "text": "",
-      "summary": "Big Food vs. the People.  점수 252, 반응 158 기준 인기 이슈입니다."
+      "summary": "qm – Multiplayer agent harness for work. 점수 629, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 246,
-      "comments": 175,
+      "score": 327,
+      "comments": 210,
       "text": "",
-      "summary": "Ten advances in mathematics and theoretical computer science. 점수 246, 반응 175 기준 인기 이슈입니다."
+      "summary": "Ten advances in mathematics and theoretical computer science. 점수 327, 반응 210 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The most official water costs $120k a gallon",
-      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-      "score": 212,
-      "comments": 167,
+      "title": "How to Exist",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "score": 317,
+      "comments": 186,
       "text": "",
-      "summary": "The most official water costs $120k a gallon. 점수 212, 반응 167 기준 인기 이슈입니다."
+      "summary": "How to Exist.  점수 317, 반응 186 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "score": 211,
-      "comments": 106,
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "url": "https://github.com/sqliteai/waste",
+      "score": 302,
+      "comments": 141,
       "text": "",
-      "summary": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio. 점수 211, 반응 106 기준 인기 이슈입니다."
+      "summary": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s. 점수 302, 반응 141 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "score": 198,
-      "comments": 59,
+      "score": 222,
+      "comments": 64,
       "text": "",
-      "summary": "Flint: A Visualization Language for the AI Era. 점수 198, 반응 59 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-      "score": 179,
-      "comments": 52,
-      "text": "",
-      "summary": "June in Servo: real world compat, media queries, SharedWorker, and more. 점수 179, 반응 52 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Progressive Web Components",
-      "url": "https://arielsalminen.com/2026/progressive-web-components/",
-      "score": 176,
-      "comments": 42,
-      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;arielsalminen&#x2F;elena\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;arielsalminen&#x2F;elena</a><p><a href=\"https:&#x2F;&#x2F;elenajs.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;elenajs.com&#x2F;</a>",
-      "summary": "Progressive Web Components. https:&#x2F;&#x2F;github.com&#x2F;arielsalminen&#x2F;elena https:&#x2F;&#x2F;elenajs.com&#x2F; 점수 176, 반응 42 기준 인기 이슈입니다."
+      "summary": "Flint: A Visualization Language for the AI Era. 점수 222, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Software for One",
       "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "score": 172,
-      "comments": 175,
+      "score": 197,
+      "comments": 199,
       "text": "",
-      "summary": "Software for One.  점수 172, 반응 175 기준 인기 이슈입니다."
+      "summary": "Software for One.  점수 197, 반응 199 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The Absurdity of Albert Camus",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-      "score": 155,
-      "comments": 71,
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "score": 169,
+      "comments": 97,
       "text": "",
-      "summary": "The Absurdity of Albert Camus. 점수 155, 반응 71 기준 인기 이슈입니다."
+      "summary": "RipGrep musl binaries occasionally segfault during very-large searches. 점수 169, 반응 97 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "RamenHaus",
+      "url": "https://ramen.haus/",
+      "score": 167,
+      "comments": 82,
+      "text": "",
+      "summary": "RamenHaus.  점수 167, 반응 82 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A tiny holdout building in the middle of Macy’s is back in view",
+      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+      "score": 147,
+      "comments": 41,
+      "text": "",
+      "summary": "A tiny holdout building in the middle of Macy’s is back in view. 점수 147, 반응 41 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "score": 138,
+      "comments": 68,
+      "text": "",
+      "summary": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention. 점수 138, 반응 68 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cursor removed cost information from the usage page and CSV export",
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "score": 91,
+      "comments": 36,
+      "text": "",
+      "summary": "Cursor removed cost information from the usage page and CSV export. 점수 91, 반응 36 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Manual: •.,:;?·",
+      "url": "https://type.today/en/journal/dots",
+      "score": 89,
+      "comments": 15,
+      "text": "",
+      "summary": "Manual: •.,:;?·.  점수 89, 반응 15 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
-    {
-      "keyword": "x2f",
-      "count": 14
-    },
-    {
-      "keyword": "https",
-      "count": 4
-    },
-    {
-      "keyword": "com",
-      "count": 4
-    },
     {
       "keyword": "platform",
       "count": 3
@@ -255,10 +243,6 @@
     },
     {
       "keyword": "prompts",
-      "count": 3
-    },
-    {
-      "keyword": "web",
       "count": 3
     },
     {
@@ -278,6 +262,10 @@
       "count": 2
     },
     {
+      "keyword": "building",
+      "count": 2
+    },
+    {
       "keyword": "self-host",
       "count": 2
     },
@@ -291,6 +279,18 @@
     },
     {
       "keyword": "build",
+      "count": 2
+    },
+    {
+      "keyword": "web",
+      "count": 2
+    },
+    {
+      "keyword": "firecrawl",
+      "count": 2
+    },
+    {
+      "keyword": "api",
       "count": 2
     }
   ],
