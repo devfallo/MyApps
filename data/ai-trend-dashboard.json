@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T17:15:19.557008+00:00",
+  "updatedAt": "2026-08-02T19:34:25.426080+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 384928,
-      "comments": 5586,
+      "score": 384942,
+      "comments": 5556,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 384928, 반응 5586 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 384942, 반응 5556 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 265074,
-      "comments": 321,
+      "score": 265098,
+      "comments": 323,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 265074, 반응 321 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 265098, 반응 323 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 224199,
-      "comments": 26726,
+      "score": 224243,
+      "comments": 26769,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 224199, 반응 26726 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 224243, 반응 26769 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 199067,
-      "comments": 1402,
+      "score": 199073,
+      "comments": 1405,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199067, 반응 1402 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199073, 반응 1405 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,166 +73,170 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 159425,
+      "score": 159483,
       "comments": 470,
       "text": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The API to search, scrape, and interact with the web at scale. 점수 159425, 반응 470 기준 인기 이슈입니다."
+      "summary": "The API to search, scrape, and interact with the web at scale. 점수 159483, 반응 470 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157470,
+      "score": 157471,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157470, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157471, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 151079,
-      "comments": 930,
+      "score": 151092,
+      "comments": 933,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151079, 반응 930 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151092, 반응 933 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147624,
-      "comments": 405,
+      "score": 147632,
+      "comments": 406,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147624, 반응 405 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147632, 반응 406 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143234,
-      "comments": 462,
+      "score": 143236,
+      "comments": 459,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143234, 반응 462 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143236, 반응 459 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Diátaxis",
       "url": "https://diataxis.fr/",
-      "score": 454,
-      "comments": 53,
+      "score": 488,
+      "comments": 56,
       "text": "",
-      "summary": "Diátaxis.  점수 454, 반응 53 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 412,
-      "comments": 234,
-      "text": "",
-      "summary": "Seedance 2.5.  점수 412, 반응 234 기준 인기 이슈입니다."
+      "summary": "Diátaxis.  점수 488, 반응 56 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Go 1.27 Interactive Tour",
       "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 304,
-      "comments": 154,
+      "score": 331,
+      "comments": 162,
       "text": "",
-      "summary": "Go 1.27 Interactive Tour. 점수 304, 반응 154 기준 인기 이슈입니다."
+      "summary": "Go 1.27 Interactive Tour. 점수 331, 반응 162 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
       "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "score": 268,
-      "comments": 82,
+      "score": 293,
+      "comments": 96,
       "text": "",
-      "summary": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built. 점수 268, 반응 82 기준 인기 이슈입니다."
+      "summary": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built. 점수 293, 반응 96 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
       "score": 188,
-      "comments": 92,
-      "text": "",
-      "summary": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300. 점수 188, 반응 92 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "US Treasury undertakes historic intervention in yen market",
-      "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
-      "score": 157,
-      "comments": 108,
-      "text": "",
-      "summary": "US Treasury undertakes historic intervention in yen market. 점수 157, 반응 108 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "score": 131,
-      "comments": 19,
-      "text": "Hi HN! I&#x27;ve been working on Bor, an open-source system for centralized Linux desktop management.<p>Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS&#x2F;gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.<p>Version 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixes.<p>I&#x27;d love feedback on the architecture, policy model, and whether this is something you&#x27;d consider for managing Linux workstations.",
-      "summary": "Show HN: Bor – Open-source policy management for Linux desktops. I&#x27;ve been working on Bor, an open-source system for centralized Linux desktop management. Bor consists of a lightweight Go agent and a central server. 점수 131, 반응 19 기준 인기 이슈입니다."
+      "comments": 151,
+      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2083749667410727319\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2083749667410727319</a>",
+      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2083749667410727319 점수 188, 반응 151 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
       "url": "https://meshdiff.com/",
-      "score": 131,
+      "score": 147,
       "comments": 13,
       "text": "",
-      "summary": "Meshdiff – visually compare two STL versions in the browser, client-side. 점수 131, 반응 13 기준 인기 이슈입니다."
+      "summary": "Meshdiff – visually compare two STL versions in the browser, client-side. 점수 147, 반응 13 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+      "score": 146,
+      "comments": 19,
+      "text": "Hi HN! I&#x27;ve been working on Bor, an open-source system for centralized Linux desktop management.<p>Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS&#x2F;gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.<p>Version 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixes.<p>I&#x27;d love feedback on the architecture, policy model, and whether this is something you&#x27;d consider for managing Linux workstations.",
+      "summary": "Show HN: Bor – Open-source policy management for Linux desktops. I&#x27;ve been working on Bor, an open-source system for centralized Linux desktop management. Bor consists of a lightweight Go agent and a central server. 점수 146, 반응 19 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How the words we teach English language learners changed",
+      "url": "https://pudding.cool/2026/07/essential-words/",
+      "score": 143,
+      "comments": 79,
+      "text": "",
+      "summary": "How the words we teach English language learners changed. 점수 143, 반응 79 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Holocloth",
       "url": "https://holocloth.vercel.app",
-      "score": 104,
-      "comments": 19,
+      "score": 139,
+      "comments": 25,
       "text": "",
-      "summary": "Holocloth.  점수 104, 반응 19 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "score": 96,
-      "comments": 23,
-      "text": "",
-      "summary": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge. 점수 96, 반응 23 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Twenty Years of RISC OS Open",
-      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "score": 95,
-      "comments": 15,
-      "text": "",
-      "summary": "Twenty Years of RISC OS Open. 점수 95, 반응 15 기준 인기 이슈입니다."
+      "summary": "Holocloth.  점수 139, 반응 25 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A Rant About “Technology” (2005)",
       "url": "https://www.ursulakleguin.com/a-rant-about-technology",
-      "score": 92,
-      "comments": 51,
+      "score": 123,
+      "comments": 67,
       "text": "",
-      "summary": "A Rant About “Technology” (2005). 점수 92, 반응 51 기준 인기 이슈입니다."
+      "summary": "A Rant About “Technology” (2005). 점수 123, 반응 67 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-      "score": 92,
-      "comments": 9,
+      "title": "Twenty Years of RISC OS Open",
+      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+      "score": 119,
+      "comments": 20,
       "text": "",
-      "summary": "MkLinux and the pimped-out Apple Workgroup Server 9150. 점수 92, 반응 9 기준 인기 이슈입니다."
+      "summary": "Twenty Years of RISC OS Open. 점수 119, 반응 20 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Folding Paper Globes",
+      "url": "https://foldingglobes.com/globes",
+      "score": 110,
+      "comments": 23,
+      "text": "",
+      "summary": "Folding Paper Globes. 점수 110, 반응 23 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "url": "https://fstar-lang.org/",
+      "score": 109,
+      "comments": 37,
+      "text": "",
+      "summary": "F*: A general-purpose proof-oriented programming language. 점수 109, 반응 37 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://publicdomainreview.org/essay/ars-notoria/",
+      "score": 106,
+      "comments": 26,
+      "text": "",
+      "summary": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge. 점수 106, 반응 26 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 11
+    },
     {
       "keyword": "platform",
       "count": 3
@@ -243,6 +247,10 @@
     },
     {
       "keyword": "prompts",
+      "count": 3
+    },
+    {
+      "keyword": "karpathy",
       "count": 3
     },
     {
@@ -283,14 +291,6 @@
     },
     {
       "keyword": "cloud",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
       "count": 2
     }
   ],
