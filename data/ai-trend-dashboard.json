@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T14:38:52.872971+00:00",
+  "updatedAt": "2026-08-04T18:03:05.626838+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 385111,
-      "comments": 5496,
+      "score": 385122,
+      "comments": 5490,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 385111, 반응 5496 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 385122, 반응 5490 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 266177,
-      "comments": 329,
+      "score": 266312,
+      "comments": 330,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 266177, 반응 329 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 266312, 반응 330 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 225307,
-      "comments": 27557,
+      "score": 225401,
+      "comments": 27779,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 225307, 반응 27557 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 225401, 반응 27779 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 199301,
-      "comments": 1392,
+      "score": 199324,
+      "comments": 1385,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199301, 반응 1392 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199324, 반응 1385 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185810,
-      "comments": 527,
+      "score": 185813,
+      "comments": 529,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185810, 반응 527 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185813, 반응 529 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166729,
+      "score": 166730,
       "comments": 62,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166729, 반응 62 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166730, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,208 +73,168 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 160709,
-      "comments": 479,
+      "score": 160864,
+      "comments": 480,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 160709, 반응 479 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 160864, 반응 480 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157512,
+      "score": 157516,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157512, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157516, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 151322,
-      "comments": 925,
+      "score": 151334,
+      "comments": 930,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151322, 반응 925 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151334, 반응 930 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147820,
-      "comments": 433,
+      "score": 147840,
+      "comments": 439,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147820, 반응 433 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147840, 반응 439 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143404,
-      "comments": 454,
+      "score": 143417,
+      "comments": 455,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143404, 반응 454 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143417, 반응 455 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 1151,
-      "comments": 481,
+      "score": 1272,
+      "comments": 522,
       "text": "",
-      "summary": "LLMs reward expertise. 점수 1151, 반응 481 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 665,
-      "comments": 216,
-      "text": "",
-      "summary": "Devtools must be open source. 점수 665, 반응 216 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 581,
-      "comments": 868,
-      "text": "",
-      "summary": "Ten advances in mathematics and theoretical computer science. 점수 581, 반응 868 기준 인기 이슈입니다."
+      "summary": "LLMs reward expertise. 점수 1272, 반응 522 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI-Generated Images Discourage Me from Reading Your Blog",
       "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "score": 470,
-      "comments": 271,
+      "score": 660,
+      "comments": 399,
       "text": "",
-      "summary": "AI-Generated Images Discourage Me from Reading Your Blog. 점수 470, 반응 271 기준 인기 이슈입니다."
+      "summary": "AI-Generated Images Discourage Me from Reading Your Blog. 점수 660, 반응 399 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Twenty Years of Pandoc",
-      "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-      "score": 339,
-      "comments": 41,
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "score": 608,
+      "comments": 891,
       "text": "",
-      "summary": "Twenty Years of Pandoc. 점수 339, 반응 41 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "FFmpeg 9.0",
-      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "score": 328,
-      "comments": 63,
-      "text": "",
-      "summary": "FFmpeg 9.0.  점수 328, 반응 63 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "score": 253,
-      "comments": 89,
-      "text": "",
-      "summary": "There Will Come Soft Rains (1950) [pdf]. 점수 253, 반응 89 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "score": 250,
-      "comments": 115,
-      "text": "",
-      "summary": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone. 점수 250, 반응 115 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "score": 247,
-      "comments": 61,
-      "text": "",
-      "summary": "Smaller, faster, safer: running Kimi and GLM at scale. 점수 247, 반응 61 기준 인기 이슈입니다."
+      "summary": "Ten advances in mathematics and theoretical computer science. 점수 608, 반응 891 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Xbox goes down. You can't play games you own on disc",
       "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "score": 235,
-      "comments": 238,
+      "score": 418,
+      "comments": 487,
       "text": "",
-      "summary": "You can't play games you own on disc. 점수 235, 반응 238 기준 인기 이슈입니다."
+      "summary": "You can't play games you own on disc. 점수 418, 반응 487 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-      "score": 219,
-      "comments": 58,
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "score": 295,
+      "comments": 108,
       "text": "",
-      "summary": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04). 점수 219, 반응 58 기준 인기 이슈입니다."
+      "summary": "There Will Come Soft Rains (1950) [pdf]. 점수 295, 반응 108 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "score": 294,
+      "comments": 64,
+      "text": "",
+      "summary": "DeepSeek V4 Flash on a Single AMD MI300X. 점수 294, 반응 64 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "score": 283,
+      "comments": 129,
+      "text": "",
+      "summary": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone. 점수 283, 반응 129 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
       "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "score": 210,
-      "comments": 155,
+      "score": 252,
+      "comments": 188,
       "text": "",
-      "summary": "Amazonian civilization had estimated 3M people in 3% of forest area. 점수 210, 반응 155 기준 인기 이슈입니다."
+      "summary": "Amazonian civilization had estimated 3M people in 3% of forest area. 점수 252, 반응 188 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: Who is hiring? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156683",
-      "score": 203,
-      "comments": 188,
-      "text": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don&#x27;t reply to job posts to complain about\nsomething. It&#x27;s off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-who-is-hiring\" rel=\"nofollow\">https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-who-is-hiring</a>, <a href=\"https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;</a>,\n<a href=\"http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;</a>, <a href=\"https:&#x2F;&#x2F;hnjobs.emilburzo.com\" rel=\"nofollow\">https:&#x2F;&#x2F;hnjobs.emilburzo.com</a>.<p>Don&#x27;t miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49156682\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49156682</a>",
-      "summary": "Ask HN: Who is hiring? Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. 점수 203, 반응 188 기준 인기 이슈입니다."
+      "title": "Harness Engineering for Self-Improvement",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "score": 237,
+      "comments": 50,
+      "text": "",
+      "summary": "Harness Engineering for Self-Improvement. 점수 237, 반응 50 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "score": 224,
+      "comments": 59,
+      "text": "Hello HN!<p>I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.<p>I&#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has.<p>The methodology might be a bit shaky, but hopefully the result is as helpful for others as I have found it! There&#x27;s lots of room for improvements (see the Future Work section), but I&#x27;m really happy with how it turned out.",
+      "summary": "Show HN: Simple algorithm and color space to generate diverse skin tones. I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy. I&#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. 점수 224, 반응 59 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "score": 167,
+      "comments": 83,
+      "text": "",
+      "summary": "Keyv and friends compromised in active Shai-Hulud supply chain attack. 점수 167, 반응 83 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "score": 138,
+      "comments": 100,
+      "text": "",
+      "summary": "Apple says more ex-employees may have taken confidential data to OpenAI. 점수 138, 반응 100 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+      "score": 128,
+      "comments": 42,
+      "text": "",
+      "summary": "Online ad giant Adform was hacked, proving once again why ad blockers are needed. 점수 128, 반응 42 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "x2f",
-      "count": 34
-    },
-    {
-      "keyword": "https",
-      "count": 8
-    },
-    {
-      "keyword": "please",
-      "count": 5
-    },
-    {
-      "keyword": "href",
-      "count": 5
-    },
-    {
-      "keyword": "remote",
-      "count": 4
-    },
-    {
-      "keyword": "x27",
-      "count": 4
-    },
-    {
-      "keyword": "rel",
-      "count": 4
-    },
-    {
-      "keyword": "nofollow",
-      "count": 4
-    },
-    {
-      "keyword": "github",
-      "count": 4
-    },
-    {
-      "keyword": "hnjobs",
-      "count": 4
-    },
-    {
-      "keyword": "com",
+      "keyword": "space",
       "count": 4
     },
     {
@@ -286,12 +246,52 @@
       "count": 3
     },
     {
-      "keyword": "only",
+      "keyword": "there",
       "count": 3
     },
     {
-      "keyword": "post",
+      "keyword": "color",
       "count": 3
+    },
+    {
+      "keyword": "but",
+      "count": 3
+    },
+    {
+      "keyword": "x27",
+      "count": 3
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "own",
+      "count": 2
+    },
+    {
+      "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "way",
+      "count": 2
+    },
+    {
+      "keyword": "agentic",
+      "count": 2
+    },
+    {
+      "keyword": "development",
+      "count": 2
+    },
+    {
+      "keyword": "methodology",
+      "count": 2
+    },
+    {
+      "keyword": "agent",
+      "count": 2
     }
   ],
   "meta": {
