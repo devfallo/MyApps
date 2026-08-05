@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T10:45:53.663344+00:00",
+  "updatedAt": "2026-08-05T14:32:19.471163+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,233 +10,229 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 385204,
-      "comments": 5517,
+      "score": 385229,
+      "comments": 5532,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 385204, 반응 5517 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 385229, 반응 5532 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 266894,
-      "comments": 322,
+      "score": 267035,
+      "comments": 324,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 266894, 반응 322 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 267035, 반응 324 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 225785,
-      "comments": 28104,
+      "score": 225873,
+      "comments": 28223,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 225785, 반응 28104 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 225873, 반응 28223 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 199407,
-      "comments": 1394,
+      "score": 199426,
+      "comments": 1402,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199407, 반응 1394 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199426, 반응 1402 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185825,
-      "comments": 525,
+      "score": 185829,
+      "comments": 526,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185825, 반응 525 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185829, 반응 526 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166759,
+      "score": 166765,
       "comments": 62,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166759, 반응 62 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166765, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164401,
+      "score": 164403,
       "comments": 2501,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164401, 반응 2501 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164403, 반응 2501 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 161376,
+      "score": 161486,
       "comments": 476,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 161376, 반응 476 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 161486, 반응 476 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157538,
-      "comments": 60,
+      "score": 157543,
+      "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157538, 반응 60 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157543, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 151414,
-      "comments": 939,
+      "score": 151435,
+      "comments": 942,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151414, 반응 939 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151435, 반응 942 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147913,
-      "comments": 452,
+      "score": 147935,
+      "comments": 456,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147913, 반응 452 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147935, 반응 456 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143477,
-      "comments": 455,
+      "score": 143487,
+      "comments": 456,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143477, 반응 455 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "score": 1384,
-      "comments": 80,
-      "text": "",
-      "summary": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years. 점수 1384, 반응 80 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "score": 662,
-      "comments": 692,
-      "text": "",
-      "summary": "You can't play games you own on disc. 점수 662, 반응 692 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143487, 반응 456 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 541,
-      "comments": 93,
+      "score": 578,
+      "comments": 100,
       "text": "Hello HN!<p>I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.<p>I&#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has.<p>The methodology might be a bit shaky, but hopefully the result is as helpful for others as I have found it! There&#x27;s lots of room for improvements (see the Future Work section), but I&#x27;m really happy with how it turned out.",
-      "summary": "Show HN: Simple algorithm and color space to generate diverse skin tones. I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy. I&#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. 점수 541, 반응 93 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "score": 427,
-      "comments": 110,
-      "text": "",
-      "summary": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation. 점수 427, 반응 110 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "score": 388,
-      "comments": 403,
-      "text": "",
-      "summary": "There Will Come Soft Rains (1950) [pdf]. 점수 388, 반응 403 기준 인기 이슈입니다."
+      "summary": "Show HN: Simple algorithm and color space to generate diverse skin tones. I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy. I&#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. 점수 578, 반응 100 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Pi's Minimalism Is Its Advantage",
       "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "score": 381,
-      "comments": 163,
+      "score": 467,
+      "comments": 236,
       "text": "",
-      "summary": "Pi's Minimalism Is Its Advantage. 점수 381, 반응 163 기준 인기 이슈입니다."
+      "summary": "Pi's Minimalism Is Its Advantage. 점수 467, 반응 236 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Waymo in Dallas",
-      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-      "score": 296,
-      "comments": 528,
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "score": 460,
+      "comments": 120,
       "text": "",
-      "summary": "Waymo in Dallas.  점수 296, 반응 528 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "score": 283,
-      "comments": 64,
-      "text": "",
-      "summary": "libexpat now funded by the City of Munich for up to 6 months. 점수 283, 반응 64 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "score": 250,
-      "comments": 194,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.interpol.int&#x2F;Media&#x2F;Documents&#x2F;Publications&#x2F;Cybercrime&#x2F;African-Cyberthreat-Assessment-Report-2026\" rel=\"nofollow\">https:&#x2F;&#x2F;www.interpol.int&#x2F;Media&#x2F;Documents&#x2F;Publications&#x2F;Cyberc...</a>",
-      "summary": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol. https:&#x2F;&#x2F;www.interpol.int&#x2F;Media&#x2F;Documents&#x2F;Publications&#x2F;Cyberc... 점수 250, 반응 194 기준 인기 이슈입니다."
+      "summary": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation. 점수 460, 반응 120 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Stateless MCP has recaptured my interest",
       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-      "score": 232,
-      "comments": 120,
+      "score": 321,
+      "comments": 181,
       "text": "",
-      "summary": "Stateless MCP has recaptured my interest. 점수 232, 반응 120 기준 인기 이슈입니다."
+      "summary": "Stateless MCP has recaptured my interest. 점수 321, 반응 181 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "score": 218,
-      "comments": 180,
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+      "score": 235,
+      "comments": 110,
       "text": "",
-      "summary": "Eight Myths on Software Engineering and GenAI. 점수 218, 반응 180 기준 인기 이슈입니다."
+      "summary": "Civilian plane crash in New Mexico tied to military GPS blocking. 점수 235, 반응 110 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "We finally learned to center a div, then browsers added sidebars",
-      "url": "https://seg6.space/posts/center-div/",
-      "score": 137,
-      "comments": 117,
+      "title": "Helsinki Hacker News Meetup",
+      "url": "https://calpaterson.com/helsinki-hn.html",
+      "score": 162,
+      "comments": 113,
       "text": "",
-      "summary": "We finally learned to center a div, then browsers added sidebars. 점수 137, 반응 117 기준 인기 이슈입니다."
+      "summary": "Helsinki Hacker News Meetup. 점수 162, 반응 113 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
-      "url": "https://deepgrove.ai/maple-preview",
-      "score": 123,
-      "comments": 36,
+      "title": "“Gravity is worth asking about”",
+      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+      "score": 161,
+      "comments": 100,
       "text": "",
-      "summary": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone. 점수 123, 반응 36 기준 인기 이슈입니다."
+      "summary": "“Gravity is worth asking about”. 점수 161, 반응 100 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "score": 151,
+      "comments": 22,
+      "text": "",
+      "summary": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay. 점수 151, 반응 22 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "score": 135,
+      "comments": 82,
+      "text": "",
+      "summary": "Position: LLMs Can't Jump. 점수 135, 반응 82 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+      "score": 97,
+      "comments": 33,
+      "text": "",
+      "summary": "TIME Is Serving AI Bots a Different Website, with Ads Built In. 점수 97, 반응 33 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "score": 78,
+      "comments": 12,
+      "text": "",
+      "summary": "Zero-Mem: Zero-Token Memory Operations for LLM Agents. 점수 78, 반응 12 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why the Legendary Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "score": 63,
+      "comments": 37,
+      "text": "",
+      "summary": "Why the Legendary Erdős Problems Are Falling to AI. 점수 63, 반응 37 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Scaling NumPy on Free-Threaded Python",
+      "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+      "score": 57,
+      "comments": 11,
+      "text": "",
+      "summary": "Scaling NumPy on Free-Threaded Python. 점수 57, 반응 11 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
-    {
-      "keyword": "x2f",
-      "count": 13
-    },
     {
       "keyword": "space",
       "count": 4
@@ -258,23 +254,15 @@
       "count": 3
     },
     {
-      "keyword": "there",
-      "count": 3
-    },
-    {
       "keyword": "x27",
       "count": 3
     },
     {
-      "keyword": "interpol",
+      "keyword": "built",
       "count": 3
     },
     {
       "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "own",
       "count": 2
     },
     {
@@ -290,7 +278,19 @@
       "count": 2
     },
     {
-      "keyword": "software",
+      "keyword": "development",
+      "count": 2
+    },
+    {
+      "keyword": "methodology",
+      "count": 2
+    },
+    {
+      "keyword": "agent",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
       "count": 2
     }
   ],
