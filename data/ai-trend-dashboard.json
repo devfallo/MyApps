@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T17:53:21.351423+00:00",
+  "updatedAt": "2026-08-05T19:54:20.669063+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 385253,
-      "comments": 5499,
+      "score": 385252,
+      "comments": 5516,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 385253, 반응 5499 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 385252, 반응 5516 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 267167,
+      "score": 267209,
       "comments": 324,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 267167, 반응 324 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 267209, 반응 324 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 225971,
-      "comments": 28263,
+      "score": 225999,
+      "comments": 28297,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 225971, 반응 28263 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 225999, 반응 28297 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 199452,
-      "comments": 1414,
+      "score": 199465,
+      "comments": 1415,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199452, 반응 1414 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199465, 반응 1415 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185830,
-      "comments": 526,
+      "score": 185831,
+      "comments": 525,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185830, 반응 526 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185831, 반응 525 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166771,
+      "score": 166774,
       "comments": 63,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166771, 반응 63 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166774, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164410,
+      "score": 164411,
       "comments": 2501,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164410, 반응 2501 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164411, 반응 2501 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 161608,
-      "comments": 477,
+      "score": 161667,
+      "comments": 478,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 161608, 반응 477 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 161667, 반응 478 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,151 +91,191 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 151452,
-      "comments": 944,
+      "score": 151459,
+      "comments": 945,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151452, 반응 944 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151459, 반응 945 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147953,
-      "comments": 476,
+      "score": 147960,
+      "comments": 479,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147953, 반응 476 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147960, 반응 479 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143495,
-      "comments": 459,
+      "score": 143498,
+      "comments": 455,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143495, 반응 459 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143498, 반응 455 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
       "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-      "score": 352,
-      "comments": 172,
+      "score": 405,
+      "comments": 198,
       "text": "",
-      "summary": "Civilian plane crash in New Mexico tied to military GPS blocking. 점수 352, 반응 172 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Stateless MCP has recaptured my interest",
-      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-      "score": 351,
-      "comments": 200,
-      "text": "",
-      "summary": "Stateless MCP has recaptured my interest. 점수 351, 반응 200 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google DeepMind CEO Demis Hassabis is stepping down",
-      "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
-      "score": 322,
-      "comments": 184,
-      "text": "",
-      "summary": "Google DeepMind CEO Demis Hassabis is stepping down. 점수 322, 반응 184 기준 인기 이슈입니다."
+      "summary": "Civilian plane crash in New Mexico tied to military GPS blocking. 점수 405, 반응 198 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "score": 311,
-      "comments": 175,
+      "score": 366,
+      "comments": 202,
       "text": "",
-      "summary": "Cloudflare OS: an open platform for agents, apps, and work. 점수 311, 반응 175 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
-      "url": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
-      "score": 258,
-      "comments": 127,
-      "text": "",
-      "summary": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search. 점수 258, 반응 127 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Jeff Dean leaving Alphabet",
-      "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
-      "score": 235,
-      "comments": 52,
-      "text": "",
-      "summary": "Jeff Dean leaving Alphabet. 점수 235, 반응 52 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Position: LLMs Can't Jump",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "score": 183,
-      "comments": 128,
-      "text": "",
-      "summary": "Position: LLMs Can't Jump. 점수 183, 반응 128 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
-      "score": 183,
-      "comments": 72,
-      "text": "",
-      "summary": "TIME Is Serving AI Bots a Different Website, with Ads Built In. 점수 183, 반응 72 기준 인기 이슈입니다."
+      "summary": "Cloudflare OS: an open platform for agents, apps, and work. 점수 366, 반응 202 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "score": 171,
-      "comments": 66,
+      "score": 355,
+      "comments": 205,
       "text": "",
-      "summary": "Discovery Loop.  점수 171, 반응 66 기준 인기 이슈입니다."
+      "summary": "Discovery Loop.  점수 355, 반응 205 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Qwen 3.0 Image Pro",
-      "url": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
-      "score": 143,
-      "comments": 40,
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "score": 207,
+      "comments": 141,
       "text": "",
-      "summary": "Qwen 3.0 Image Pro.  점수 143, 반응 40 기준 인기 이슈입니다."
+      "summary": "Position: LLMs Can't Jump. 점수 207, 반응 141 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and You",
-      "url": "https://sightlessscribbles.com/disability-dongle/",
-      "score": 106,
-      "comments": 75,
-      "text": "",
-      "summary": "The \"Disability Dongle\": Why Silicon Valley Hates Me and You. 점수 106, 반응 75 기준 인기 이슈입니다."
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "score": 206,
+      "comments": 368,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassabis-ai\" rel=\"nofollow\">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassa...</a><p><a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leaders...</a><p><a href=\"https:&#x2F;&#x2F;www.discoveryloop.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.discoveryloop.com&#x2F;</a>, <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49184960\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49184960</a><p><a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724</a>",
+      "summary": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs. https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassa... https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leaders... 점수 206, 반응 368 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Oracle Just Halved Its Always Free ARM Limits",
+      "title": "Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18",
       "url": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
-      "score": 104,
-      "comments": 68,
+      "score": 149,
+      "comments": 102,
       "text": "",
-      "summary": "Oracle Just Halved Its Always Free ARM Limits. 점수 104, 반응 68 기준 인기 이슈입니다."
+      "summary": "Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18. 점수 149, 반응 102 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Aristotle quotes on virtue, knowledge, and happiness",
       "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-      "score": 104,
-      "comments": 30,
+      "score": 128,
+      "comments": 50,
       "text": "",
-      "summary": "Aristotle quotes on virtue, knowledge, and happiness. 점수 104, 반응 30 기준 인기 이슈입니다."
+      "summary": "Aristotle quotes on virtue, knowledge, and happiness. 점수 128, 반응 50 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "score": 86,
+      "comments": 18,
+      "text": "",
+      "summary": "Zed DeltaDB.  점수 86, 반응 18 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Western Sahara",
+      "url": "https://en.wikipedia.org/wiki/Western_Sahara",
+      "score": 83,
+      "comments": 51,
+      "text": "",
+      "summary": "Western Sahara.  점수 83, 반응 51 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Valley of Webhooks",
+      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+      "score": 80,
+      "comments": 32,
+      "text": "",
+      "summary": "The Valley of Webhooks. 점수 80, 반응 32 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+      "score": 76,
+      "comments": 25,
+      "text": "",
+      "summary": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast. 점수 76, 반응 25 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Entropy of a Markov Chain",
+      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+      "score": 75,
+      "comments": 3,
+      "text": "",
+      "summary": "The Entropy of a Markov Chain. 점수 75, 반응 3 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building an Advanced Agentic Harness",
+      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+      "score": 72,
+      "comments": 37,
+      "text": "",
+      "summary": "Building an Advanced Agentic Harness. 점수 72, 반응 37 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
+      "keyword": "x2f",
+      "count": 53
+    },
+    {
+      "keyword": "https",
+      "count": 12
+    },
+    {
+      "keyword": "com",
+      "count": 12
+    },
+    {
+      "keyword": "href",
+      "count": 6
+    },
+    {
+      "keyword": "www",
+      "count": 6
+    },
+    {
+      "keyword": "rel",
+      "count": 5
+    },
+    {
+      "keyword": "nofollow",
+      "count": 5
+    },
+    {
       "keyword": "platform",
       "count": 4
+    },
+    {
+      "keyword": "jeffdean",
+      "count": 4
+    },
+    {
+      "keyword": "status",
+      "count": 4
+    },
+    {
+      "keyword": "agentic",
+      "count": 3
     },
     {
       "keyword": "prompts",
@@ -250,47 +290,7 @@
       "count": 2
     },
     {
-      "keyword": "agentic",
-      "count": 2
-    },
-    {
       "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "cloud",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "can",
-      "count": 2
-    },
-    {
-      "keyword": "free",
-      "count": 2
-    },
-    {
-      "keyword": "open",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
       "count": 2
     }
   ],
