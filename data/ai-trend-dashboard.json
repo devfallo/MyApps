@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T23:17:49.104652+00:00",
+  "updatedAt": "2026-08-05T03:32:36.308768+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,231 +10,263 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 385134,
-      "comments": 5511,
+      "score": 385155,
+      "comments": 5527,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 385134, 반응 5511 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 385155, 반응 5527 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 266445,
-      "comments": 324,
+      "score": 266596,
+      "comments": 325,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 266445, 반응 324 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 266596, 반응 325 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 225474,
-      "comments": 27881,
+      "score": 225583,
+      "comments": 27968,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 225474, 반응 27881 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 225583, 반응 27968 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 199344,
-      "comments": 1393,
+      "score": 199370,
+      "comments": 1395,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199344, 반응 1393 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199370, 반응 1395 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 185811,
+      "score": 185817,
       "comments": 528,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185811, 반응 528 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 185817, 반응 528 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166736,
+      "score": 166741,
       "comments": 62,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166736, 반응 62 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166741, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164388,
+      "score": 164391,
       "comments": 2501,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164388, 반응 2501 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164391, 반응 2501 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 161013,
-      "comments": 480,
+      "score": 161134,
+      "comments": 477,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 161013, 반응 480 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 161134, 반응 477 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157517,
-      "comments": 58,
+      "score": 157519,
+      "comments": 59,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157517, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157519, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 151339,
-      "comments": 931,
+      "score": 151361,
+      "comments": 932,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151339, 반응 931 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151361, 반응 932 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 147851,
-      "comments": 442,
+      "score": 147872,
+      "comments": 447,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147851, 반응 442 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 147872, 반응 447 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143424,
-      "comments": 457,
+      "score": 143438,
+      "comments": 456,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143424, 반응 457 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143438, 반응 456 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "score": 709,
-      "comments": 42,
+      "score": 1042,
+      "comments": 57,
       "text": "",
-      "summary": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years. 점수 709, 반응 42 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "score": 560,
-      "comments": 604,
-      "text": "",
-      "summary": "You can't play games you own on disc. 점수 560, 반응 604 기준 인기 이슈입니다."
+      "summary": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years. 점수 1042, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 437,
-      "comments": 86,
+      "score": 474,
+      "comments": 90,
       "text": "Hello HN!<p>I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.<p>I&#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has.<p>The methodology might be a bit shaky, but hopefully the result is as helpful for others as I have found it! There&#x27;s lots of room for improvements (see the Future Work section), but I&#x27;m really happy with how it turned out.",
-      "summary": "Show HN: Simple algorithm and color space to generate diverse skin tones. I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy. I&#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. 점수 437, 반응 86 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "score": 359,
-      "comments": 87,
-      "text": "",
-      "summary": "DeepSeek V4 Flash on a Single AMD MI300X. 점수 359, 반응 87 기준 인기 이슈입니다."
+      "summary": "Show HN: Simple algorithm and color space to generate diverse skin tones. I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy. I&#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. 점수 474, 반응 90 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "There Will Come Soft Rains (1950) [pdf]",
       "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "score": 339,
-      "comments": 373,
+      "score": 357,
+      "comments": 386,
       "text": "",
-      "summary": "There Will Come Soft Rains (1950) [pdf]. 점수 339, 반응 373 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "score": 318,
-      "comments": 243,
-      "text": "",
-      "summary": "Apple says more ex-employees may have taken confidential data to OpenAI. 점수 318, 반응 243 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Harness engineering for self-improvement",
-      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-      "score": 296,
-      "comments": 66,
-      "text": "",
-      "summary": "Harness engineering for self-improvement. 점수 296, 반응 66 기준 인기 이슈입니다."
+      "summary": "There Will Come Soft Rains (1950) [pdf]. 점수 357, 반응 386 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "score": 270,
-      "comments": 68,
+      "score": 329,
+      "comments": 79,
       "text": "",
-      "summary": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation. 점수 270, 반응 68 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "score": 225,
-      "comments": 113,
-      "text": "",
-      "summary": "Keyv and friends compromised in active Shai-Hulud supply chain attack. 점수 225, 반응 113 기준 인기 이슈입니다."
+      "summary": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation. 점수 329, 반응 79 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Waymo in Dallas",
       "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-      "score": 217,
-      "comments": 260,
+      "score": 266,
+      "comments": 408,
       "text": "",
-      "summary": "Waymo in Dallas.  점수 217, 반응 260 기준 인기 이슈입니다."
+      "summary": "Waymo in Dallas.  점수 266, 반응 408 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "score": 236,
+      "comments": 126,
+      "text": "",
+      "summary": "Keyv and friends compromised in active Shai-Hulud supply chain attack. 점수 236, 반응 126 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "score": 204,
+      "comments": 118,
+      "text": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;willdepue&#x2F;status&#x2F;2084750925013434768\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;willdepue&#x2F;status&#x2F;2084750925013434768</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;willdepue&#x2F;status&#x2F;2084750925013434768\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;willdepue&#x2F;status&#x2F;2084750925013434768</a><p><a href=\"https:&#x2F;&#x2F;gwern.net&#x2F;guardian-angel\" rel=\"nofollow\">https:&#x2F;&#x2F;gwern.net&#x2F;guardian-angel</a>",
+      "summary": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel. https:&#x2F;&#x2F;twitter.com&#x2F;willdepue&#x2F;status&#x2F;2084750925013434768 , https:&#x2F;&#x2F;xcancel.com&#x2F;willdepue&#x2F;status&#x2F;2084750925013434768 https:&#x2F;&#x2F;gwern.net&#x2F;guardian-angel 점수 204, 반응 118 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
       "score": 172,
-      "comments": 37,
+      "comments": 17,
       "text": "",
-      "summary": "Thanks FedEx, This Is Why We Keep Getting Phished (2024). 점수 172, 반응 37 기준 인기 이슈입니다."
+      "summary": "libexpat now funded by the City of Munich for up to 6 months. 점수 172, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Why some people mow a lawn better than others",
-      "url": "https://pudding.cool/2026/06/mow/",
-      "score": 157,
-      "comments": 141,
-      "text": "",
-      "summary": "Why some people mow a lawn better than others. 점수 157, 반응 141 기준 인기 이슈입니다."
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "score": 155,
+      "comments": 117,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.interpol.int&#x2F;Media&#x2F;Documents&#x2F;Publications&#x2F;Cybercrime&#x2F;African-Cyberthreat-Assessment-Report-2026\" rel=\"nofollow\">https:&#x2F;&#x2F;www.interpol.int&#x2F;Media&#x2F;Documents&#x2F;Publications&#x2F;Cyberc...</a>",
+      "summary": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol. https:&#x2F;&#x2F;www.interpol.int&#x2F;Media&#x2F;Documents&#x2F;Publications&#x2F;Cyberc... 점수 155, 반응 117 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Oxide Computer raises $445M (SEC Form D)",
-      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-      "score": 144,
-      "comments": 57,
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "score": 151,
+      "comments": 54,
       "text": "",
-      "summary": "Oxide Computer raises $445M (SEC Form D). 점수 144, 반응 57 기준 인기 이슈입니다."
+      "summary": "Pi's Minimalism Is Its Advantage. 점수 151, 반응 54 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "score": 102,
+      "comments": 62,
+      "text": "",
+      "summary": "Eight Myths on Software Engineering and GenAI. 점수 102, 반응 62 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "url": "https://seg6.space/posts/center-div/",
+      "score": 78,
+      "comments": 65,
+      "text": "",
+      "summary": "We finally learned to center a div, then browsers added sidebars. 점수 78, 반응 65 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+      "url": "https://deepgrove.ai/maple-preview",
+      "score": 67,
+      "comments": 20,
+      "text": "",
+      "summary": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone. 점수 67, 반응 20 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
+      "keyword": "x2f",
+      "count": 39
+    },
+    {
+      "keyword": "https",
+      "count": 8
+    },
+    {
       "keyword": "space",
+      "count": 4
+    },
+    {
+      "keyword": "href",
+      "count": 4
+    },
+    {
+      "keyword": "com",
+      "count": 4
+    },
+    {
+      "keyword": "willdepue",
+      "count": 4
+    },
+    {
+      "keyword": "status",
+      "count": 4
+    },
+    {
+      "keyword": "rel",
+      "count": 4
+    },
+    {
+      "keyword": "nofollow",
       "count": 4
     },
     {
@@ -260,38 +292,6 @@
     {
       "keyword": "x27",
       "count": 3
-    },
-    {
-      "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "own",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "way",
-      "count": 2
-    },
-    {
-      "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "development",
-      "count": 2
-    },
-    {
-      "keyword": "methodology",
-      "count": 2
-    },
-    {
-      "keyword": "agent",
-      "count": 2
     }
   ],
   "meta": {
