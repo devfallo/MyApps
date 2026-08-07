@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T20:58:33.858768+00:00",
+  "updatedAt": "2026-08-07T22:55:06.420550+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,226 +10,226 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 385468,
-      "comments": 5584,
+      "score": 385479,
+      "comments": 5588,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 385468, 반응 5584 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 385479, 반응 5588 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 268687,
+      "score": 268719,
       "comments": 323,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 268687, 반응 323 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 268719, 반응 323 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 227044,
-      "comments": 29426,
+      "score": 227071,
+      "comments": 29455,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 227044, 반응 29426 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 227071, 반응 29455 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 199728,
-      "comments": 1406,
+      "score": 199734,
+      "comments": 1404,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199728, 반응 1406 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199734, 반응 1404 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186283,
+      "score": 186305,
       "comments": 504,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186283, 반응 504 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186305, 반응 504 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166860,
+      "score": 166859,
       "comments": 64,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166860, 반응 64 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166859, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164436,
+      "score": 164435,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164436, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164435, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 162852,
+      "score": 162884,
       "comments": 490,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 162852, 반응 490 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 162884, 반응 490 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157608,
+      "score": 157607,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157608, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157607, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 151716,
+      "score": 151721,
       "comments": 931,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151716, 반응 931 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151721, 반응 931 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148174,
-      "comments": 519,
+      "score": 148176,
+      "comments": 521,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148174, 반응 519 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148176, 반응 521 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143646,
-      "comments": 445,
+      "score": 143650,
+      "comments": 443,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143646, 반응 445 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143650, 반응 443 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 864,
-      "comments": 648,
+      "score": 873,
+      "comments": 657,
       "text": "<a href=\"https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am...</a><p><a href=\"https:&#x2F;&#x2F;chatjimmy.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;chatjimmy.ai&#x2F;</a>",
-      "summary": "AMD acquires Taalas to boost inference performance by etching models in silicon. https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am... https:&#x2F;&#x2F;chatjimmy.ai&#x2F; 점수 864, 반응 648 기준 인기 이슈입니다."
+      "summary": "AMD acquires Taalas to boost inference performance by etching models in silicon. https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am... https:&#x2F;&#x2F;chatjimmy.ai&#x2F; 점수 873, 반응 657 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 691,
-      "comments": 372,
+      "score": 704,
+      "comments": 383,
       "text": "<a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-p...</a><p><a href=\"https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;new-mexico-court-meta\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;new-mexic...</a><p><a href=\"https:&#x2F;&#x2F;www.kob.com&#x2F;new-mexico&#x2F;nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.kob.com&#x2F;new-mexico&#x2F;nm-court-orders-meta-to-pay-5...</a><p><a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cd7lz3wr2rlo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cd7lz3wr2rlo</a><p><a href=\"https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;meta-ordered-to-pay-942-million-to-...</a>",
-      "summary": "New Mexico court orders Meta to pay $567m over harms to children’s mental health. https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-p... https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;new-mexic... 점수 691, 반응 372 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A year of fighting scrapers on my 1.5 million-page website",
-      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "score": 329,
-      "comments": 312,
-      "text": "",
-      "summary": "A year of fighting scrapers on my 1.5 million-page website. 점수 329, 반응 312 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "São Paulo resident transforms degraded area into urban forest",
-      "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
-      "score": 307,
-      "comments": 115,
-      "text": "<a href=\"https:&#x2F;&#x2F;thursd.com&#x2F;articles&#x2F;helio-da-silva-sao-paulo-tiquatira-linear-park\" rel=\"nofollow\">https:&#x2F;&#x2F;thursd.com&#x2F;articles&#x2F;helio-da-silva-sao-paulo-tiquati...</a>",
-      "summary": "São Paulo resident transforms degraded area into urban forest. https:&#x2F;&#x2F;thursd.com&#x2F;articles&#x2F;helio-da-silva-sao-paulo-tiquati... 점수 307, 반응 115 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "score": 270,
-      "comments": 192,
-      "text": "",
-      "summary": "Oracle bans AI-generated code from OpenJDK. 점수 270, 반응 192 기준 인기 이슈입니다."
+      "summary": "New Mexico court orders Meta to pay $567m over harms to children’s mental health. https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-p... https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;new-mexic... 점수 704, 반응 383 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 257,
-      "comments": 157,
+      "score": 360,
+      "comments": 221,
       "text": "",
-      "summary": "DeepSeek V4 Flash 0731. 점수 257, 반응 157 기준 인기 이슈입니다."
+      "summary": "DeepSeek V4 Flash 0731. 점수 360, 반응 221 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "score": 203,
-      "comments": 89,
+      "title": "A year of fighting scrapers on my 1.5 million-page website",
+      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+      "score": 348,
+      "comments": 328,
       "text": "",
-      "summary": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD. 점수 203, 반응 89 기준 인기 이슈입니다."
+      "summary": "A year of fighting scrapers on my 1.5 million-page website. 점수 348, 반응 328 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "score": 335,
+      "comments": 233,
+      "text": "",
+      "summary": "Oracle bans AI-generated code from OpenJDK. 점수 335, 반응 233 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "São Paulo resident transforms degraded area into urban forest",
+      "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
+      "score": 319,
+      "comments": 118,
+      "text": "<a href=\"https:&#x2F;&#x2F;thursd.com&#x2F;articles&#x2F;helio-da-silva-sao-paulo-tiquatira-linear-park\" rel=\"nofollow\">https:&#x2F;&#x2F;thursd.com&#x2F;articles&#x2F;helio-da-silva-sao-paulo-tiquati...</a>",
+      "summary": "São Paulo resident transforms degraded area into urban forest. https:&#x2F;&#x2F;thursd.com&#x2F;articles&#x2F;helio-da-silva-sao-paulo-tiquati... 점수 319, 반응 118 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "score": 190,
-      "comments": 308,
+      "score": 307,
+      "comments": 443,
       "text": "",
-      "summary": "What happens if an entire class of workers loses faith in their careers. 점수 190, 반응 308 기준 인기 이슈입니다."
+      "summary": "What happens if an entire class of workers loses faith in their careers. 점수 307, 반응 443 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Wyzer Programming Language",
-      "url": "https://github.com/Wyzer-Lang/wyzer",
-      "score": 155,
-      "comments": 90,
-      "text": "So i&#x27;ve been working on this project since a few days (or months i should say), it&#x27;s called wyzer (meaning wiser) it&#x27;s a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. Instead of borrow checkers and lifetimes wyzer has linear&#x2F;affine types and a perceus reference counting which is computationally much simpler for an LSP to understand as well<p>after 5 months of research and a few weeks of development i am soon going to release version 0.1.0 of it, if you would like to contribute to it you&#x27;re most welcome!",
-      "summary": "Show HN: Wyzer Programming Language. So i&#x27;ve been working on this project since a few days (or months i should say), it&#x27;s called wyzer (meaning wiser) it&#x27;s a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. 점수 155, 반응 90 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "2027 memory capacity is reportedly sold out",
-      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "score": 138,
-      "comments": 123,
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "score": 223,
+      "comments": 96,
       "text": "",
-      "summary": "2027 memory capacity is reportedly sold out. 점수 138, 반응 123 기준 인기 이슈입니다."
+      "summary": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD. 점수 223, 반응 96 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "App Store Rejection of the Week: Dark Hours",
       "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-      "score": 130,
-      "comments": 44,
+      "score": 215,
+      "comments": 117,
       "text": "",
-      "summary": "App Store Rejection of the Week: Dark Hours. 점수 130, 반응 44 기준 인기 이슈입니다."
+      "summary": "App Store Rejection of the Week: Dark Hours. 점수 215, 반응 117 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Assembly Hall of Shame",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "score": 127,
-      "comments": 30,
+      "score": 200,
+      "comments": 44,
       "text": "",
-      "summary": "Assembly Hall of Shame. 점수 127, 반응 30 기준 인기 이슈입니다."
+      "summary": "Assembly Hall of Shame. 점수 200, 반응 44 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "score": 187,
+      "comments": 168,
+      "text": "",
+      "summary": "2027 memory capacity is reportedly sold out. 점수 187, 반응 168 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "score": 163,
+      "comments": 97,
+      "text": "So i&#x27;ve been working on this project since a few days (or months i should say), it&#x27;s called wyzer (meaning wiser) it&#x27;s a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. Instead of borrow checkers and lifetimes wyzer has linear&#x2F;affine types and a perceus reference counting which is computationally much simpler for an LSP to understand as well<p>after 5 months of research and a few weeks of development i am soon going to release version 0.1.0 of it, if you would like to contribute to it you&#x27;re most welcome!",
+      "summary": "Show HN: Wyzer Programming Language. So i&#x27;ve been working on this project since a few days (or months i should say), it&#x27;s called wyzer (meaning wiser) it&#x27;s a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. 점수 163, 반응 97 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
       "url": "https://blog.cloudflare.com/kitesurf/",
-      "score": 123,
-      "comments": 31,
+      "score": 142,
+      "comments": 40,
       "text": "",
-      "summary": "Kitesurf: Agent-first browser that runs in V8 isolates. 점수 123, 반응 31 기준 인기 이슈입니다."
+      "summary": "Kitesurf: Agent-first browser that runs in V8 isolates. 점수 142, 반응 40 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
