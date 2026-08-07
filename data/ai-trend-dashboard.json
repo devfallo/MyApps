@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T17:07:09.284493+00:00",
+  "updatedAt": "2026-08-07T19:14:47.164191+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 385459,
-      "comments": 5573,
+      "score": 385467,
+      "comments": 5577,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 385459, 반응 5573 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 385467, 반응 5577 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 268615,
+      "score": 268664,
       "comments": 326,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 268615, 반응 326 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 268664, 반응 326 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 226986,
-      "comments": 29386,
+      "score": 227023,
+      "comments": 29394,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 226986, 반응 29386 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 227023, 반응 29394 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 199700,
-      "comments": 1403,
+      "score": 199716,
+      "comments": 1405,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199700, 반응 1403 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199716, 반응 1405 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186251,
-      "comments": 506,
+      "score": 186264,
+      "comments": 501,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186251, 반응 506 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186264, 반응 501 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -64,172 +64,172 @@
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164433,
+      "score": 164435,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164433, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164435, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 162769,
-      "comments": 485,
+      "score": 162812,
+      "comments": 484,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 162769, 반응 485 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 162812, 반응 484 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157606,
+      "score": 157607,
       "comments": 57,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157606, 반응 57 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157607, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 151707,
-      "comments": 930,
+      "score": 151713,
+      "comments": 931,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151707, 반응 930 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151713, 반응 931 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148149,
-      "comments": 512,
+      "score": 148165,
+      "comments": 517,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148149, 반응 512 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148165, 반응 517 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143630,
-      "comments": 452,
+      "score": 143642,
+      "comments": 444,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143630, 반응 452 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143642, 반응 444 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 804,
-      "comments": 610,
+      "score": 847,
+      "comments": 637,
       "text": "<a href=\"https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am...</a><p><a href=\"https:&#x2F;&#x2F;chatjimmy.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;chatjimmy.ai&#x2F;</a>",
-      "summary": "AMD acquires Taalas to boost inference performance by etching models in silicon. https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am... https:&#x2F;&#x2F;chatjimmy.ai&#x2F; 점수 804, 반응 610 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "score": 779,
-      "comments": 747,
-      "text": "",
-      "summary": "US strikes $1.2B deal to pay German firm to halt offshore wind projects. 점수 779, 반응 747 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 598,
-      "comments": 472,
-      "text": "",
-      "summary": "Taste Is All That's Left. 점수 598, 반응 472 기준 인기 이슈입니다."
+      "summary": "AMD acquires Taalas to boost inference performance by etching models in silicon. https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am... https:&#x2F;&#x2F;chatjimmy.ai&#x2F; 점수 847, 반응 637 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 566,
-      "comments": 320,
+      "score": 644,
+      "comments": 356,
       "text": "<a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-p...</a><p><a href=\"https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;new-mexico-court-meta\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;new-mexic...</a><p><a href=\"https:&#x2F;&#x2F;www.kob.com&#x2F;new-mexico&#x2F;nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.kob.com&#x2F;new-mexico&#x2F;nm-court-orders-meta-to-pay-5...</a><p><a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cd7lz3wr2rlo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cd7lz3wr2rlo</a><p><a href=\"https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;meta-ordered-to-pay-942-million-to-...</a>",
-      "summary": "New Mexico court orders Meta to pay $567m over harms to children’s mental health. https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-p... https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;new-mexic... 점수 566, 반응 320 기준 인기 이슈입니다."
+      "summary": "New Mexico court orders Meta to pay $567m over harms to children’s mental health. https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-p... https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;new-mexic... 점수 644, 반응 356 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "score": 626,
+      "comments": 497,
+      "text": "",
+      "summary": "Taste Is All That's Left. 점수 626, 반응 497 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GitHub Actions and Pages are experiencing degraded availability",
       "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "score": 466,
-      "comments": 390,
+      "score": 482,
+      "comments": 401,
       "text": "<a href=\"https:&#x2F;&#x2F;www.githubstatus.com&#x2F;uptime&#x2F;br0l2tvcx85d\" rel=\"nofollow\">https:&#x2F;&#x2F;www.githubstatus.com&#x2F;uptime&#x2F;br0l2tvcx85d</a>",
-      "summary": "GitHub Actions and Pages are experiencing degraded availability. https:&#x2F;&#x2F;www.githubstatus.com&#x2F;uptime&#x2F;br0l2tvcx85d 점수 466, 반응 390 기준 인기 이슈입니다."
+      "summary": "GitHub Actions and Pages are experiencing degraded availability. https:&#x2F;&#x2F;www.githubstatus.com&#x2F;uptime&#x2F;br0l2tvcx85d 점수 482, 반응 401 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "score": 290,
-      "comments": 232,
+      "score": 301,
+      "comments": 247,
       "text": "",
-      "summary": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users. 점수 290, 반응 232 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "score": 287,
-      "comments": 56,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o</a>, <a href=\"https:&#x2F;&#x2F;archive.is&#x2F;YDn6S\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;YDn6S</a>",
-      "summary": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun. https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o , https:&#x2F;&#x2F;archive.is&#x2F;YDn6S 점수 287, 반응 56 기준 인기 이슈입니다."
+      "summary": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users. 점수 301, 반응 247 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "São Paulo resident transforms degraded area into urban forest",
       "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
-      "score": 261,
-      "comments": 102,
+      "score": 296,
+      "comments": 113,
       "text": "<a href=\"https:&#x2F;&#x2F;thursd.com&#x2F;articles&#x2F;helio-da-silva-sao-paulo-tiquatira-linear-park\" rel=\"nofollow\">https:&#x2F;&#x2F;thursd.com&#x2F;articles&#x2F;helio-da-silva-sao-paulo-tiquati...</a>",
-      "summary": "São Paulo resident transforms degraded area into urban forest. https:&#x2F;&#x2F;thursd.com&#x2F;articles&#x2F;helio-da-silva-sao-paulo-tiquati... 점수 261, 반응 102 기준 인기 이슈입니다."
+      "summary": "São Paulo resident transforms degraded area into urban forest. https:&#x2F;&#x2F;thursd.com&#x2F;articles&#x2F;helio-da-silva-sao-paulo-tiquati... 점수 296, 반응 113 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "99% of My Website Traffic Is Bots",
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "score": 296,
+      "comments": 60,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o</a>, <a href=\"https:&#x2F;&#x2F;archive.is&#x2F;YDn6S\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;YDn6S</a>",
+      "summary": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun. https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o , https:&#x2F;&#x2F;archive.is&#x2F;YDn6S 점수 296, 반응 60 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A year of fighting scrapers on my 1.5 million-page website",
       "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "score": 218,
-      "comments": 213,
+      "score": 289,
+      "comments": 277,
       "text": "",
-      "summary": "99% of My Website Traffic Is Bots. 점수 218, 반응 213 기준 인기 이슈입니다."
+      "summary": "A year of fighting scrapers on my 1.5 million-page website. 점수 289, 반응 277 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
       "url": "https://provenmetal.com",
-      "score": 218,
-      "comments": 152,
+      "score": 221,
+      "comments": 153,
       "text": "Hey HN, we’re Will &amp; Johnny from ProvenMetal (<a href=\"https:&#x2F;&#x2F;provenmetal.com\">https:&#x2F;&#x2F;provenmetal.com</a>). You send us design files or specs and we give you assembled boards domestically in days.<p>The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production.<p>Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades. What is left is mostly small family run manufacturers (CMs) that have been operating in largely the same, labor intensive way since the early 2000’s.<p>When you place an order through a CM it typically takes several days to receive a quote and complete design for manufacture review, and then you have to source all of the components (the hardest part) and bare boards yourself, then wait anywhere from a few days to several weeks for the assembly and testing of those boards.<p>We started off assembling circuit boards out of a garage with prosumer grade equipment (NeoDen YY1, Glenbrook X-ray, solder paste stencils, and manual rework stations). We believed that by owning the manufacturing process, we could turn all the front of house automations inwards. But here’s the thing… manufacturing circuit boards with prosumer grade equipment out of a garage takes a huge amount of time. Suddenly we were spending 90% of our time assembling circuit boards instead of growing the business. We were completely capacity constrained, with fancy software automations that are not the binding constraint at low volumes.<p>Then we got our heads out of the weeds, took a step back, and realized that we were trying to solve the wrong bottlenecks.<p>These manufacturers are good at manufacturing and terrible at the front of house (quoting, DFM review, and part procurement). When you look at the full process, you realize that assembly is not the bottleneck. So we stopped trying to solve the problem that we can’t solve at this stage.<p>We measured the bottlenecks and nailed down the ones that we are best positioned to solve right now.<p>When a customer wants a domestically manufactured circuit board, it is not a straight forward process. We are making that process easy through front of house automation. A customer gives us their design files, and we automatically procure components, and co-ordinate bare board fabs and assembly houses to get quotes, design review, and manufacturing completed in a very tight loop.<p>How we solve part procurement (you can’t assemble boards with no parts!): When a user places an order with us, our system automatically sources their bill of materials across US and overseas distributors. However, when we work with customers during the design process, our plug-ins interact with KiCAD and Altium, sending the BOM to our ordering platform, which allows us to automatically procure components before layout is finalized.<p>KiCAD plugin: (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;proven-metal&#x2F;provenmetal-kicad\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;proven-metal&#x2F;provenmetal-kicad</a>)<p>Altium plugin: (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;proven-metal&#x2F;provenmetal-altium\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;proven-metal&#x2F;provenmetal-altium</a>)<p>This enables us to order long lead time parts in advance, suggest alternatives if parts are out of stock, and solve the biggest bottleneck in the process. We store parts in our hq in SF, and then kit the boards and route them through our network. We also do long term storage of parts for long lead time items.<p>How we solve endless emails: Every manufacturer wants the same information in a different shape. There’s usually a few days of back and forth emailing to achieve clarity. We’re building a profile per manufacturer and sending the order to fit their requirements. This may sound trivial but it removes a multi-day round trip on most orders, which on a quick-turn build is a meaningful share of the time.<p>How to solve design review: Each manufacturer has individual capability sheets, and so we have a heuristic harness that Fable 5 uses to check the board for DFM issues. We’re building a streamlined process for end-to-end pcb manufacturing, but is that enough to solve the supply chain? Not a chance. Capacity is the problem, and no amount of smart software will solve it. We’re extracting real slack from the system today, that slack is finite, and at some volume the only remaining move is adding physical capacity. We think that’s where this goes.<p>We charge a simple margin on the order value depending on order complexity with fully transparent quote breakdowns. We took our first paying order in less than a week and we’ve done roughly $70k across 11 orders in 6 weeks.<p>We are very interested in your opinion. We’re working in a problem space that has problems everywhere, we’re constantly pulled in wild directions regarding which problems we solve and how we go about solving them. What do you know that we can learn from?",
-      "summary": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks. Hey HN, we’re Will &amp; Johnny from ProvenMetal ( https:&#x2F;&#x2F;provenmetal.com ). You send us design files or specs and we give you assembled boards domestically in days. 점수 218, 반응 152 기준 인기 이슈입니다."
+      "summary": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks. Hey HN, we’re Will &amp; Johnny from ProvenMetal ( https:&#x2F;&#x2F;provenmetal.com ). You send us design files or specs and we give you assembled boards domestically in days. 점수 221, 반응 153 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Welcoming the Nepalese Government to Have I Been Pwned",
       "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "score": 196,
-      "comments": 31,
+      "score": 203,
+      "comments": 33,
       "text": "",
-      "summary": "Welcoming the Nepalese Government to Have I Been Pwned. 점수 196, 반응 31 기준 인기 이슈입니다."
+      "summary": "Welcoming the Nepalese Government to Have I Been Pwned. 점수 203, 반응 33 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
       "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "score": 183,
-      "comments": 55,
+      "score": 197,
+      "comments": 59,
       "text": "",
-      "summary": "Bioengineered chewing gum may offer a way to fight HPV and other microbes. 점수 183, 반응 55 기준 인기 이슈입니다."
+      "summary": "Bioengineered chewing gum may offer a way to fight HPV and other microbes. 점수 197, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
-      "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
-      "score": 143,
-      "comments": 34,
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "score": 183,
+      "comments": 110,
       "text": "",
-      "summary": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]. 점수 143, 반응 34 기준 인기 이슈입니다."
+      "summary": "Oracle bans AI-generated code from OpenJDK. 점수 183, 반응 110 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "score": 167,
+      "comments": 77,
+      "text": "",
+      "summary": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD. 점수 167, 반응 77 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
