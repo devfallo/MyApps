@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T20:51:08.770834+00:00",
+  "updatedAt": "2026-08-09T22:49:30.353139+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 385690,
-      "comments": 5642,
+      "score": 385694,
+      "comments": 5649,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 385690, 반응 5642 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 385694, 반응 5649 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 269686,
+      "score": 269697,
       "comments": 325,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 269686, 반응 325 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 269697, 반응 325 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 227899,
-      "comments": 30071,
+      "score": 227916,
+      "comments": 30103,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 227899, 반응 30071 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 227916, 반응 30103 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 199972,
+      "score": 199982,
       "comments": 1415,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199972, 반응 1415 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199982, 반응 1415 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186458,
+      "score": 186461,
       "comments": 502,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186458, 반응 502 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186461, 반응 502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166924,
+      "score": 166925,
       "comments": 64,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166924, 반응 64 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166925, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164462,
+      "score": 164461,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164462, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164461, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 164119,
+      "score": 164152,
       "comments": 499,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 164119, 반응 499 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 164152, 반응 499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,150 +91,154 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 151867,
-      "comments": 997,
+      "score": 151866,
+      "comments": 998,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151867, 반응 997 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151866, 반응 998 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148324,
+      "score": 148325,
       "comments": 549,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148324, 반응 549 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148325, 반응 549 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143810,
+      "score": 143811,
       "comments": 428,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143810, 반응 428 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143811, 반응 428 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mea Culpa – Dark Hours",
       "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "score": 467,
-      "comments": 216,
+      "score": 518,
+      "comments": 237,
       "text": "",
-      "summary": "Mea Culpa – Dark Hours. 점수 467, 반응 216 기준 인기 이슈입니다."
+      "summary": "Mea Culpa – Dark Hours. 점수 518, 반응 237 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
       "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-      "score": 205,
-      "comments": 179,
+      "score": 292,
+      "comments": 248,
       "text": "",
-      "summary": "Windows 11's built-in Weather app wastes more than 1 GB of RAM. 점수 205, 반응 179 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "There Are Magic Hexagons of Every Order",
-      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-      "score": 172,
-      "comments": 24,
-      "text": "",
-      "summary": "There Are Magic Hexagons of Every Order. 점수 172, 반응 24 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
-      "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
-      "score": 165,
-      "comments": 76,
-      "text": "",
-      "summary": "Analyzing data from Silicon Valley ventures and founders prosecuted for fraud. 점수 165, 반응 76 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
-      "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
-      "score": 159,
-      "comments": 51,
-      "text": "",
-      "summary": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone. 점수 159, 반응 51 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
-      "url": "https://github.com/jmarshall23/msword",
-      "score": 152,
-      "comments": 64,
-      "text": "",
-      "summary": "Microsoft Word for Windows 1.1a, Native X64 Port. 점수 152, 반응 64 기준 인기 이슈입니다."
+      "summary": "Windows 11's built-in Weather app wastes more than 1 GB of RAM. 점수 292, 반응 248 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 122,
-      "comments": 63,
+      "score": 259,
+      "comments": 141,
       "text": "",
-      "summary": "How I use LLMs to learn complex topics. 점수 122, 반응 63 기준 인기 이슈입니다."
+      "summary": "How I use LLMs to learn complex topics. 점수 259, 반응 141 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "There Are Magic Hexagons of Every Order",
+      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+      "score": 176,
+      "comments": 28,
+      "text": "",
+      "summary": "There Are Magic Hexagons of Every Order. 점수 176, 반응 28 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Everything you do is being recorded",
       "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "score": 120,
-      "comments": 113,
+      "score": 161,
+      "comments": 137,
       "text": "",
-      "summary": "Everything you do is being recorded. 점수 120, 반응 113 기준 인기 이슈입니다."
+      "summary": "Everything you do is being recorded. 점수 161, 반응 137 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+      "url": "https://github.com/jmarshall23/msword",
+      "score": 158,
+      "comments": 66,
+      "text": "",
+      "summary": "Microsoft Word for Windows 1.1a, Native X64 Port. 점수 158, 반응 66 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cool URIs Don't Change (1998)",
       "url": "https://www.w3.org/Provider/Style/URI",
-      "score": 112,
-      "comments": 21,
+      "score": 150,
+      "comments": 30,
       "text": "",
-      "summary": "Cool URIs Don't Change (1998). 점수 112, 반응 21 기준 인기 이슈입니다."
+      "summary": "Cool URIs Don't Change (1998). 점수 150, 반응 30 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ask HN: What are you working on? (August 2026)",
       "url": "https://news.ycombinator.com/item?id=49233423",
-      "score": 99,
-      "comments": 379,
+      "score": 140,
+      "comments": 518,
       "text": "What are you working on?  What have you been curious about lately?",
-      "summary": "Ask HN: What are you working on? What are you working on? What have you been curious about lately? 점수 99, 반응 379 기준 인기 이슈입니다."
+      "summary": "Ask HN: What are you working on? What are you working on? What have you been curious about lately? 점수 140, 반응 518 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "score": 127,
+      "comments": 98,
+      "text": "",
+      "summary": "Taxi drivers rarely die of Alzheimer's. 점수 127, 반응 98 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
       "url": "https://kibotronics.net/unlisted/lilly-machines/",
-      "score": 99,
-      "comments": 51,
+      "score": 110,
+      "comments": 67,
       "text": "",
-      "summary": "Lilly on solid state intelligence and the elimination of man (1978). 점수 99, 반응 51 기준 인기 이슈입니다."
+      "summary": "Lilly on solid state intelligence and the elimination of man (1978). 점수 110, 반응 67 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Reviving a four year old reMarkable 2",
       "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-      "score": 92,
-      "comments": 77,
+      "score": 106,
+      "comments": 83,
       "text": "",
-      "summary": "Reviving a four year old reMarkable 2. 점수 92, 반응 77 기준 인기 이슈입니다."
+      "summary": "Reviving a four year old reMarkable 2. 점수 106, 반응 83 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "FCC moves to ban Lidar-equipped foreign drones from US",
-      "url": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
-      "score": 92,
-      "comments": 65,
+      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+      "score": 98,
+      "comments": 16,
       "text": "",
-      "summary": "FCC moves to ban Lidar-equipped foreign drones from US. 점수 92, 반응 65 기준 인기 이슈입니다."
+      "summary": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5. 점수 98, 반응 16 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenChamber: An Agentic Development Environment",
+      "url": "https://openchamber.dev/",
+      "score": 88,
+      "comments": 46,
+      "text": "",
+      "summary": "OpenChamber: An Agentic Development Environment. 점수 88, 반응 46 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "platform",
+      "count": 3
+    },
+    {
+      "keyword": "agentic",
       "count": 3
     },
     {
@@ -250,7 +254,7 @@
       "count": 2
     },
     {
-      "keyword": "agentic",
+      "keyword": "development",
       "count": 2
     },
     {
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "firecrawl",
-      "count": 2
-    },
-    {
-      "keyword": "api",
       "count": 2
     }
   ],
