@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T02:28:21.715799+00:00",
+  "updatedAt": "2026-08-09T05:17:57.589495+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,236 +10,232 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 385582,
-      "comments": 5638,
+      "score": 385590,
+      "comments": 5648,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 385582, 반응 5638 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 385590, 반응 5648 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 269341,
+      "score": 269398,
       "comments": 324,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 269341, 반응 324 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 269398, 반응 324 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 227550,
-      "comments": 29743,
+      "score": 227598,
+      "comments": 29836,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 227550, 반응 29743 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 227598, 반응 29836 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 199871,
-      "comments": 1410,
+      "score": 199880,
+      "comments": 1411,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199871, 반응 1410 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199880, 반응 1411 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186440,
+      "score": 186442,
       "comments": 502,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186440, 반응 502 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186442, 반응 502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166898,
+      "score": 166905,
       "comments": 64,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166898, 반응 64 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166905, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164451,
+      "score": 164453,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164451, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164453, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 163452,
+      "score": 163523,
       "comments": 498,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 163452, 반응 498 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 163523, 반응 498 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157625,
+      "score": 157628,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157625, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157628, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 151807,
-      "comments": 925,
+      "score": 151812,
+      "comments": 953,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151807, 반응 925 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151812, 반응 953 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148267,
-      "comments": 535,
+      "score": 148269,
+      "comments": 536,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148267, 반응 535 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148269, 반응 536 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143747,
+      "score": 143755,
       "comments": 430,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143747, 반응 430 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "“Code was never the hard part” is an insult to all programmers",
-      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-      "score": 590,
-      "comments": 367,
-      "text": "",
-      "summary": "“Code was never the hard part” is an insult to all programmers. 점수 590, 반응 367 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Danish high schoolers will have to verbally defend written assignments",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-      "score": 518,
-      "comments": 246,
-      "text": "",
-      "summary": "Danish high schoolers will have to verbally defend written assignments. 점수 518, 반응 246 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "score": 393,
-      "comments": 118,
-      "text": "",
-      "summary": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones. 점수 393, 반응 118 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143755, 반응 430 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "_for-sale DNS records",
       "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "score": 355,
-      "comments": 132,
+      "score": 373,
+      "comments": 137,
       "text": "",
-      "summary": "_for-sale DNS records. 점수 355, 반응 132 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hardware backdoors in some x86 CPUs",
-      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-      "score": 350,
-      "comments": 94,
-      "text": "",
-      "summary": "Hardware backdoors in some x86 CPUs. 점수 350, 반응 94 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "score": 347,
-      "comments": 355,
-      "text": "",
-      "summary": "Timeline of the OpenAI accidental attack against Hugging Face. 점수 347, 반응 355 기준 인기 이슈입니다."
+      "summary": "_for-sale DNS records. 점수 373, 반응 137 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Fastmail offers EU data region",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "score": 328,
-      "comments": 149,
+      "score": 356,
+      "comments": 178,
       "text": "",
-      "summary": "Fastmail offers EU data region. 점수 328, 반응 149 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-      "score": 253,
-      "comments": 397,
-      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;W2tpE\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;W2tpE</a>",
-      "summary": "US Military's cyber command unit grapples with cluster of deaths by suicide. https:&#x2F;&#x2F;archive.ph&#x2F;W2tpE 점수 253, 반응 397 기준 인기 이슈입니다."
+      "summary": "Fastmail offers EU data region. 점수 356, 반응 178 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
       "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-      "score": 224,
-      "comments": 164,
+      "score": 252,
+      "comments": 183,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;un1c0rnioz&#x2F;status&#x2F;2084686552299634805\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;un1c0rnioz&#x2F;status&#x2F;2084686552299634805</a>",
-      "summary": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength. https:&#x2F;&#x2F;xcancel.com&#x2F;un1c0rnioz&#x2F;status&#x2F;2084686552299634805 점수 224, 반응 164 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Can Intel finally beat ARM on performance per Watt?",
-      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-      "score": 170,
-      "comments": 104,
-      "text": "",
-      "summary": "Can Intel finally beat ARM on performance per Watt?. 점수 170, 반응 104 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Triton: DirectX 11 Driver for QEMU",
-      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-      "score": 140,
-      "comments": 25,
-      "text": "",
-      "summary": "Triton: DirectX 11 Driver for QEMU. 점수 140, 반응 25 기준 인기 이슈입니다."
+      "summary": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength. https:&#x2F;&#x2F;xcancel.com&#x2F;un1c0rnioz&#x2F;status&#x2F;2084686552299634805 점수 252, 반응 183 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "My server is a phone now",
       "url": "https://seg6.space/posts/phone-server/",
-      "score": 117,
-      "comments": 50,
+      "score": 200,
+      "comments": 81,
       "text": "",
-      "summary": "My server is a phone now. 점수 117, 반응 50 기준 인기 이슈입니다."
+      "summary": "My server is a phone now. 점수 200, 반응 81 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-      "score": 103,
-      "comments": 81,
+      "title": "Can Intel finally beat ARM on performance per Watt?",
+      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+      "score": 182,
+      "comments": 141,
       "text": "",
-      "summary": "Gateway 2000's hilariously bad ads in the 90s (Part II). 점수 103, 반응 81 기준 인기 이슈입니다."
+      "summary": "Can Intel finally beat ARM on performance per Watt?. 점수 182, 반응 141 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Triton: DirectX 11 Driver for QEMU",
+      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "score": 157,
+      "comments": 30,
+      "text": "",
+      "summary": "Triton: DirectX 11 Driver for QEMU. 점수 157, 반응 30 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Improving Heuristics for A* Pathfinding",
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "score": 143,
+      "comments": 15,
+      "text": "",
+      "summary": "Improving Heuristics for A* Pathfinding. 점수 143, 반응 15 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+      "url": "https://shopify.engineering/scaling-inventory-reservations",
+      "score": 116,
+      "comments": 70,
+      "text": "",
+      "summary": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled. 점수 116, 반응 70 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "score": 112,
+      "comments": 26,
+      "text": "",
+      "summary": "Open-source interactive map for the Aug 12 total solar eclipse. 점수 112, 반응 26 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+      "url": "https://os8088.com/",
+      "score": 102,
+      "comments": 39,
+      "text": "",
+      "summary": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386. 점수 102, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dithered QR Codes",
+      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "score": 97,
+      "comments": 13,
+      "text": "",
+      "summary": "Dithered QR Codes.  점수 97, 반응 13 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Message your other Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "score": 94,
+      "comments": 39,
+      "text": "",
+      "summary": "Message your other Claude Code sessions. 점수 94, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Making difficulty curves in games",
+      "url": "http://www.davetech.co.uk/difficultycurves",
+      "score": 87,
+      "comments": 34,
+      "text": "",
+      "summary": "Making difficulty curves in games. 점수 87, 반응 34 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 16
-    },
-    {
-      "keyword": "https",
-      "count": 4
+      "count": 10
     },
     {
       "keyword": "platform",
@@ -291,6 +287,10 @@
     },
     {
       "keyword": "web",
+      "count": 2
+    },
+    {
+      "keyword": "firecrawl",
       "count": 2
     }
   ],
