@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T22:49:30.353139+00:00",
+  "updatedAt": "2026-08-10T02:33:58.167341+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,229 +10,233 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 385694,
-      "comments": 5649,
+      "score": 385706,
+      "comments": 5652,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 385694, 반응 5649 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 385706, 반응 5652 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 269697,
-      "comments": 325,
+      "score": 269762,
+      "comments": 326,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 269697, 반응 325 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 269762, 반응 326 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 227916,
-      "comments": 30103,
+      "score": 227974,
+      "comments": 30199,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 227916, 반응 30103 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 227974, 반응 30199 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 199982,
-      "comments": 1415,
+      "score": 200003,
+      "comments": 1418,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 199982, 반응 1415 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200003, 반응 1418 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186461,
+      "score": 186465,
       "comments": 502,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186461, 반응 502 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186465, 반응 502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 166925,
+      "score": 166926,
       "comments": 64,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166925, 반응 64 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 166926, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164461,
+      "score": 164463,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164461, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164463, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 164152,
+      "score": 164245,
       "comments": 499,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 164152, 반응 499 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 164245, 반응 499 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157634,
+      "score": 157636,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157634, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157636, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 151866,
-      "comments": 998,
+      "score": 151886,
+      "comments": 994,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151866, 반응 998 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 151886, 반응 994 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148325,
-      "comments": 549,
+      "score": 148337,
+      "comments": 551,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148325, 반응 549 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148337, 반응 551 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 143811,
+      "score": 143820,
       "comments": 428,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143811, 반응 428 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 143820, 반응 428 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mea Culpa – Dark Hours",
       "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "score": 518,
-      "comments": 237,
+      "score": 565,
+      "comments": 256,
       "text": "",
-      "summary": "Mea Culpa – Dark Hours. 점수 518, 반응 237 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-      "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-      "score": 292,
-      "comments": 248,
-      "text": "",
-      "summary": "Windows 11's built-in Weather app wastes more than 1 GB of RAM. 점수 292, 반응 248 기준 인기 이슈입니다."
+      "summary": "Mea Culpa – Dark Hours. 점수 565, 반응 256 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 259,
-      "comments": 141,
+      "score": 442,
+      "comments": 257,
       "text": "",
-      "summary": "How I use LLMs to learn complex topics. 점수 259, 반응 141 기준 인기 이슈입니다."
+      "summary": "How I use LLMs to learn complex topics. 점수 442, 반응 257 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "There Are Magic Hexagons of Every Order",
-      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-      "score": 176,
-      "comments": 28,
+      "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+      "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+      "score": 381,
+      "comments": 317,
       "text": "",
-      "summary": "There Are Magic Hexagons of Every Order. 점수 176, 반응 28 기준 인기 이슈입니다."
+      "summary": "Windows 11's built-in Weather app wastes more than 1 GB of RAM. 점수 381, 반응 317 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Everything you do is being recorded",
       "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "score": 161,
-      "comments": 137,
-      "text": "",
-      "summary": "Everything you do is being recorded. 점수 161, 반응 137 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
-      "url": "https://github.com/jmarshall23/msword",
-      "score": 158,
-      "comments": 66,
-      "text": "",
-      "summary": "Microsoft Word for Windows 1.1a, Native X64 Port. 점수 158, 반응 66 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cool URIs Don't Change (1998)",
-      "url": "https://www.w3.org/Provider/Style/URI",
-      "score": 150,
-      "comments": 30,
-      "text": "",
-      "summary": "Cool URIs Don't Change (1998). 점수 150, 반응 30 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49233423",
-      "score": 140,
-      "comments": 518,
-      "text": "What are you working on?  What have you been curious about lately?",
-      "summary": "Ask HN: What are you working on? What are you working on? What have you been curious about lately? 점수 140, 반응 518 기준 인기 이슈입니다."
+      "score": 220,
+      "comments": 173,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;JxaZ7\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;JxaZ7</a>",
+      "summary": "Everything you do is being recorded. https:&#x2F;&#x2F;archive.is&#x2F;JxaZ7 점수 220, 반응 173 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "score": 127,
-      "comments": 98,
+      "score": 194,
+      "comments": 144,
       "text": "",
-      "summary": "Taxi drivers rarely die of Alzheimer's. 점수 127, 반응 98 기준 인기 이슈입니다."
+      "summary": "Taxi drivers rarely die of Alzheimer's. 점수 194, 반응 144 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "score": 189,
+      "comments": 44,
+      "text": "",
+      "summary": "Cool URIs Don't Change (1998). 점수 189, 반응 44 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "score": 178,
+      "comments": 669,
+      "text": "What are you working on?  What have you been curious about lately?",
+      "summary": "Ask HN: What are you working on? What are you working on? What have you been curious about lately? 점수 178, 반응 669 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
       "url": "https://kibotronics.net/unlisted/lilly-machines/",
-      "score": 110,
-      "comments": 67,
+      "score": 127,
+      "comments": 85,
       "text": "",
-      "summary": "Lilly on solid state intelligence and the elimination of man (1978). 점수 110, 반응 67 기준 인기 이슈입니다."
+      "summary": "Lilly on solid state intelligence and the elimination of man (1978). 점수 127, 반응 85 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Reviving a four year old reMarkable 2",
       "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-      "score": 106,
-      "comments": 83,
+      "score": 125,
+      "comments": 87,
       "text": "",
-      "summary": "Reviving a four year old reMarkable 2. 점수 106, 반응 83 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-      "score": 98,
-      "comments": 16,
-      "text": "",
-      "summary": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5. 점수 98, 반응 16 기준 인기 이슈입니다."
+      "summary": "Reviving a four year old reMarkable 2. 점수 125, 반응 87 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenChamber: An Agentic Development Environment",
       "url": "https://openchamber.dev/",
-      "score": 88,
-      "comments": 46,
+      "score": 111,
+      "comments": 57,
       "text": "",
-      "summary": "OpenChamber: An Agentic Development Environment. 점수 88, 반응 46 기준 인기 이슈입니다."
+      "summary": "OpenChamber: An Agentic Development Environment. 점수 111, 반응 57 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+      "score": 106,
+      "comments": 16,
+      "text": "",
+      "summary": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5. 점수 106, 반응 16 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Hacker's Renaissance (2025)",
+      "url": "https://phrack.org/issues/72/19#article",
+      "score": 97,
+      "comments": 69,
+      "text": "",
+      "summary": "The Hacker's Renaissance (2025). 점수 97, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+      "url": "https://halfhill.com/byte/1998-12_alpha.html",
+      "score": 85,
+      "comments": 67,
+      "text": "",
+      "summary": "The Alpha 21264 CPU: NT's Greatest RISC (1998). 점수 85, 반응 67 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 6
+    },
     {
       "keyword": "platform",
       "count": 3
@@ -259,10 +263,6 @@
     },
     {
       "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "native",
       "count": 2
     },
     {
