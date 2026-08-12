@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T17:11:39.078807+00:00",
+  "updatedAt": "2026-08-12T19:20:34.462377+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,236 +10,240 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 386055,
-      "comments": 5544,
+      "score": 386064,
+      "comments": 5537,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 386055, 반응 5544 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 386064, 반응 5537 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 271167,
-      "comments": 336,
+      "score": 271196,
+      "comments": 333,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 271167, 반응 336 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 271196, 반응 333 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 229459,
-      "comments": 31397,
+      "score": 229497,
+      "comments": 31486,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 229459, 반응 31397 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 229497, 반응 31486 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 200362,
-      "comments": 1315,
+      "score": 200372,
+      "comments": 1316,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200362, 반응 1315 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200372, 반응 1316 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "score": 186557,
-      "comments": 508,
+      "comments": 509,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186557, 반응 508 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186557, 반응 509 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167048,
+      "score": 167057,
       "comments": 64,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167048, 반응 64 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167057, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 166328,
-      "comments": 498,
+      "score": 166365,
+      "comments": 500,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 166328, 반응 498 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 166365, 반응 500 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164496,
-      "comments": 2503,
+      "score": 164499,
+      "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164496, 반응 2503 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164499, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157728,
+      "score": 157730,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157728, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157730, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 152225,
-      "comments": 1071,
+      "score": 152233,
+      "comments": 1067,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152225, 반응 1071 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152233, 반응 1067 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148592,
-      "comments": 371,
+      "score": 148605,
+      "comments": 372,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148592, 반응 371 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148605, 반응 372 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144087,
-      "comments": 426,
+      "score": 144088,
+      "comments": 421,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144087, 반응 426 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "2026 Eclipse Webcams",
-      "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 364,
-      "comments": 86,
-      "text": "",
-      "summary": "2026 Eclipse Webcams. 점수 364, 반응 86 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI is removing the middle class of software engineering",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "score": 354,
-      "comments": 293,
-      "text": "",
-      "summary": "AI is removing the middle class of software engineering. 점수 354, 반응 293 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144088, 반응 421 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 335,
-      "comments": 47,
+      "score": 527,
+      "comments": 84,
       "text": "",
-      "summary": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug. 점수 335, 반응 47 기준 인기 이슈입니다."
+      "summary": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug. 점수 527, 반응 84 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI is removing the middle class of software engineering",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "score": 504,
+      "comments": 416,
+      "text": "",
+      "summary": "AI is removing the middle class of software engineering. 점수 504, 반응 416 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "score": 433,
+      "comments": 149,
+      "text": "",
+      "summary": "DeepSeek V4 Pro 0813. 점수 433, 반응 149 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "score": 411,
+      "comments": 105,
+      "text": "",
+      "summary": "2026 Eclipse Webcams. 점수 411, 반응 105 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "License plate reader searches should require a warrant",
       "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "score": 292,
-      "comments": 187,
+      "score": 399,
+      "comments": 252,
       "text": "",
-      "summary": "License plate reader searches should require a warrant. 점수 292, 반응 187 기준 인기 이슈입니다."
+      "summary": "License plate reader searches should require a warrant. 점수 399, 반응 252 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "score": 264,
+      "comments": 68,
+      "text": "<a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8</a>",
+      "summary": "https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8 점수 264, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
       "url": "https://woxi.ad-si.com",
-      "score": 196,
-      "comments": 29,
+      "score": 223,
+      "comments": 32,
       "text": "Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.<p>Compared with wolframscript &#x2F; Mathematica, the main differences are:<p>- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processes\n- Embeddable - It can run in a browser via WASM or be embedded into another application as a scripting language<p>A more detailed comparison with Mathematica is available here:\n<a href=\"https:&#x2F;&#x2F;woxi.ad-si.com&#x2F;docs&#x2F;comparison&#x2F;mathematica&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;woxi.ad-si.com&#x2F;docs&#x2F;comparison&#x2F;mathematica&#x2F;</a>.<p>Conformance is ensured with ~26&#x27;000 unit tests and ~900 .wls script snapshot tests.<p>The current focus is on fixing remaining edge cases, improving performance, and growing the community.<p>If you use the Wolfram Language, I&#x27;d be particularly interested in feedback on compatibility and missing functionality.\nContributions and bug reports are also very welcome: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;ad-si&#x2F;Woxi\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ad-si&#x2F;Woxi</a>",
-      "summary": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation. Woxi is an interpreter for the Wolfram Language written in Rust. It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module. 점수 196, 반응 29 기준 인기 이슈입니다."
+      "summary": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation. Woxi is an interpreter for the Wolfram Language written in Rust. It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module. 점수 223, 반응 32 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What sort of maths are LLMs good at?",
       "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "score": 191,
-      "comments": 87,
+      "score": 208,
+      "comments": 105,
       "text": "",
-      "summary": "What sort of maths are LLMs good at?. 점수 191, 반응 87 기준 인기 이슈입니다."
+      "summary": "What sort of maths are LLMs good at?. 점수 208, 반응 105 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Qwen/Qwen3.8-2.4T-A95B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 153,
-      "comments": 51,
+      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "score": 184,
+      "comments": 159,
       "text": "",
-      "summary": "Qwen/Qwen3.8-2.4T-A95B. 점수 153, 반응 51 기준 인기 이슈입니다."
+      "summary": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index. 점수 184, 반응 159 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "score": 181,
+      "comments": 200,
+      "text": "",
+      "summary": "Grok 4.6.  점수 181, 반응 200 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Why Tiny JPEGs Look Different in Chrome",
       "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 133,
-      "comments": 24,
+      "score": 179,
+      "comments": 35,
       "text": "",
-      "summary": "Why Tiny JPEGs Look Different in Chrome. 점수 133, 반응 24 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
-      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-      "score": 122,
-      "comments": 9,
-      "text": "",
-      "summary": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons. 점수 122, 반응 9 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-      "score": 120,
-      "comments": 86,
-      "text": "",
-      "summary": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook. 점수 120, 반응 86 기준 인기 이슈입니다."
+      "summary": "Why Tiny JPEGs Look Different in Chrome. 점수 179, 반응 35 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
-      "score": 110,
-      "comments": 55,
+      "score": 155,
+      "comments": 99,
       "text": "",
-      "summary": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot. 점수 110, 반응 55 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Delphi 13 Community Edition Is Now Available",
-      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-      "score": 108,
-      "comments": 80,
-      "text": "",
-      "summary": "Delphi 13 Community Edition Is Now Available. 점수 108, 반응 80 기준 인기 이슈입니다."
+      "summary": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot. 점수 155, 반응 99 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Tim King, AmigaDOS developer, has died",
       "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 105,
-      "comments": 20,
+      "score": 149,
+      "comments": 23,
       "text": "",
-      "summary": "Tim King, AmigaDOS developer, has died. 점수 105, 반응 20 기준 인기 이슈입니다."
+      "summary": "Tim King, AmigaDOS developer, has died. 점수 149, 반응 23 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 21
+      "count": 29
     },
     {
       "keyword": "woxi",
       "count": 9
+    },
+    {
+      "keyword": "https",
+      "count": 6
     },
     {
       "keyword": "mathematica",
@@ -251,10 +255,6 @@
     },
     {
       "keyword": "language",
-      "count": 4
-    },
-    {
-      "keyword": "https",
       "count": 4
     },
     {
@@ -282,16 +282,16 @@
       "count": 3
     },
     {
-      "keyword": "community",
+      "keyword": "qwen3",
       "count": 3
     },
     {
-      "keyword": "comparison",
+      "keyword": "href",
       "count": 3
     },
     {
-      "keyword": "openclaw",
-      "count": 2
+      "keyword": "rel",
+      "count": 3
     }
   ],
   "meta": {
