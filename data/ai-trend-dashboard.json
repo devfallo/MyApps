@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T21:02:33.246884+00:00",
+  "updatedAt": "2026-08-12T23:01:14.507131+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 386072,
-      "comments": 5524,
+      "score": 386075,
+      "comments": 5529,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 386072, 반응 5524 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 386075, 반응 5529 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 271218,
-      "comments": 328,
+      "score": 271237,
+      "comments": 314,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 271218, 반응 328 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 271237, 반응 314 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 229526,
-      "comments": 31476,
+      "score": 229549,
+      "comments": 31505,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 229526, 반응 31476 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 229549, 반응 31505 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 200378,
-      "comments": 1316,
+      "score": 200388,
+      "comments": 1317,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200378, 반응 1316 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200388, 반응 1317 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186559,
-      "comments": 509,
+      "score": 186562,
+      "comments": 507,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186559, 반응 509 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186562, 반응 507 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167059,
-      "comments": 64,
+      "score": 167060,
+      "comments": 65,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167059, 반응 64 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167060, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 166401,
+      "score": 166428,
       "comments": 501,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 166401, 반응 501 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 166428, 반응 501 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,168 +82,184 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157730,
+      "score": 157731,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157730, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157731, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 152238,
-      "comments": 1070,
+      "score": 152245,
+      "comments": 1071,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152238, 반응 1070 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152245, 반응 1071 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148609,
-      "comments": 373,
+      "score": 148612,
+      "comments": 372,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148609, 반응 373 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148612, 반응 372 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144092,
-      "comments": 416,
+      "score": 144097,
+      "comments": 412,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144092, 반응 416 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144097, 반응 412 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 617,
-      "comments": 98,
+      "score": 708,
+      "comments": 114,
       "text": "",
-      "summary": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug. 점수 617, 반응 98 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI is removing the middle class of software engineering?",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "score": 599,
-      "comments": 485,
-      "text": "",
-      "summary": "AI is removing the middle class of software engineering?. 점수 599, 반응 485 기준 인기 이슈입니다."
+      "summary": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug. 점수 708, 반응 114 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 552,
-      "comments": 198,
+      "score": 663,
+      "comments": 232,
       "text": "",
-      "summary": "DeepSeek V4 Pro 0813. 점수 552, 반응 198 기준 인기 이슈입니다."
+      "summary": "DeepSeek V4 Pro 0813. 점수 663, 반응 232 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "score": 656,
+      "comments": 565,
+      "text": "",
+      "summary": "AI is removing the middle class of software engineering?. 점수 656, 반응 565 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "License plate reader searches should require a warrant",
       "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "score": 460,
-      "comments": 285,
+      "score": 499,
+      "comments": 311,
       "text": "",
-      "summary": "License plate reader searches should require a warrant. 점수 460, 반응 285 기준 인기 이슈입니다."
+      "summary": "License plate reader searches should require a warrant. 점수 499, 반응 311 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 433,
-      "comments": 116,
+      "score": 449,
+      "comments": 123,
       "text": "",
-      "summary": "2026 Eclipse Webcams. 점수 433, 반응 116 기준 인기 이슈입니다."
+      "summary": "2026 Eclipse Webcams. 점수 449, 반응 123 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 356,
-      "comments": 79,
+      "score": 431,
+      "comments": 93,
       "text": "<a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8</a>",
-      "summary": "https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8 점수 356, 반응 79 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8 점수 431, 반응 93 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Grok 4.6",
       "url": "https://x.ai/news/grok-4-6",
-      "score": 278,
-      "comments": 291,
+      "score": 341,
+      "comments": 349,
       "text": "",
-      "summary": "Grok 4.6.  점수 278, 반응 291 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "score": 240,
-      "comments": 229,
-      "text": "",
-      "summary": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index. 점수 240, 반응 229 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "url": "https://woxi.ad-si.com",
-      "score": 234,
-      "comments": 33,
-      "text": "Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.<p>Compared with wolframscript &#x2F; Mathematica, the main differences are:<p>- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processes\n- Embeddable - It can run in a browser via WASM or be embedded into another application as a scripting language<p>A more detailed comparison with Mathematica is available here:\n<a href=\"https:&#x2F;&#x2F;woxi.ad-si.com&#x2F;docs&#x2F;comparison&#x2F;mathematica&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;woxi.ad-si.com&#x2F;docs&#x2F;comparison&#x2F;mathematica&#x2F;</a>.<p>Conformance is ensured with ~26&#x27;000 unit tests and ~900 .wls script snapshot tests.<p>The current focus is on fixing remaining edge cases, improving performance, and growing the community.<p>If you use the Wolfram Language, I&#x27;d be particularly interested in feedback on compatibility and missing functionality.\nContributions and bug reports are also very welcome: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;ad-si&#x2F;Woxi\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ad-si&#x2F;Woxi</a>",
-      "summary": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation. Woxi is an interpreter for the Wolfram Language written in Rust. It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module. 점수 234, 반응 33 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "What sort of maths are LLMs good at?",
-      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "score": 217,
-      "comments": 118,
-      "text": "",
-      "summary": "What sort of maths are LLMs good at?. 점수 217, 반응 118 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why tiny JPEGs look different in Chrome",
-      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 203,
-      "comments": 44,
-      "text": "",
-      "summary": "Why tiny JPEGs look different in Chrome. 점수 203, 반응 44 기준 인기 이슈입니다."
+      "summary": "Grok 4.6.  점수 341, 반응 349 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Delta",
       "url": "https://zed.dev/blog/introducing-delta",
-      "score": 199,
-      "comments": 74,
+      "score": 306,
+      "comments": 98,
       "text": "",
-      "summary": "Delta.  점수 199, 반응 74 기준 인기 이슈입니다."
+      "summary": "Delta.  점수 306, 반응 98 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "score": 184,
-      "comments": 121,
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "score": 294,
+      "comments": 282,
       "text": "",
-      "summary": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot. 점수 184, 반응 121 기준 인기 이슈입니다."
+      "summary": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index. 점수 294, 반응 282 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "score": 246,
+      "comments": 39,
+      "text": "Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.<p>Compared with wolframscript &#x2F; Mathematica, the main differences are:<p>- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processes\n- Embeddable - It can run in a browser via WASM or be embedded into another application as a scripting language<p>A more detailed comparison with Mathematica is available here:\n<a href=\"https:&#x2F;&#x2F;woxi.ad-si.com&#x2F;docs&#x2F;comparison&#x2F;mathematica&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;woxi.ad-si.com&#x2F;docs&#x2F;comparison&#x2F;mathematica&#x2F;</a>.<p>Conformance is ensured with ~26&#x27;000 unit tests and ~900 .wls script snapshot tests.<p>The current focus is on fixing remaining edge cases, improving performance, and growing the community.<p>If you use the Wolfram Language, I&#x27;d be particularly interested in feedback on compatibility and missing functionality.\nContributions and bug reports are also very welcome: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;ad-si&#x2F;Woxi\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ad-si&#x2F;Woxi</a>",
+      "summary": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation. Woxi is an interpreter for the Wolfram Language written in Rust. It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module. 점수 246, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "score": 238,
+      "comments": 335,
+      "text": "<a href=\"https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_disgusting_facebook_devs&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_dis...</a><p><a href=\"https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-bloc...</a>",
+      "summary": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook. https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_dis... https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-bloc... 점수 238, 반응 335 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why tiny JPEGs look different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "score": 230,
+      "comments": 53,
+      "text": "",
+      "summary": "Why tiny JPEGs look different in Chrome. 점수 230, 반응 53 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "score": 224,
+      "comments": 128,
+      "text": "",
+      "summary": "What sort of maths are LLMs good at?. 점수 224, 반응 128 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 29
+      "count": 53
+    },
+    {
+      "keyword": "https",
+      "count": 10
     },
     {
       "keyword": "woxi",
       "count": 9
     },
     {
-      "keyword": "https",
+      "keyword": "com",
       "count": 6
+    },
+    {
+      "keyword": "href",
+      "count": 5
+    },
+    {
+      "keyword": "rel",
+      "count": 5
+    },
+    {
+      "keyword": "nofollow",
+      "count": 5
     },
     {
       "keyword": "mathematica",
@@ -262,10 +278,6 @@
       "count": 4
     },
     {
-      "keyword": "com",
-      "count": 4
-    },
-    {
       "keyword": "platform",
       "count": 3
     },
@@ -279,18 +291,6 @@
     },
     {
       "keyword": "prompts",
-      "count": 3
-    },
-    {
-      "keyword": "qwen3",
-      "count": 3
-    },
-    {
-      "keyword": "href",
-      "count": 3
-    },
-    {
-      "keyword": "rel",
       "count": 3
     }
   ],
