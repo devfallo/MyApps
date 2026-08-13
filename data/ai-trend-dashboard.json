@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T11:10:52.368165+00:00",
+  "updatedAt": "2026-08-13T13:47:46.780337+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 386148,
-      "comments": 5507,
+      "score": 386165,
+      "comments": 5531,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 386148, 반응 5507 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 386165, 반응 5531 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 271495,
-      "comments": 322,
+      "score": 271557,
+      "comments": 323,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 271495, 반응 322 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 271557, 반응 323 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 229865,
-      "comments": 31623,
+      "score": 229918,
+      "comments": 31695,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 229865, 반응 31623 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 229918, 반응 31695 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 200467,
-      "comments": 1307,
+      "score": 200476,
+      "comments": 1308,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200467, 반응 1307 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200476, 반응 1308 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186582,
-      "comments": 510,
+      "score": 186585,
+      "comments": 511,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186582, 반응 510 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186585, 반응 511 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -64,172 +64,172 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 166714,
+      "score": 166772,
       "comments": 507,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 166714, 반응 507 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 166772, 반응 507 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164507,
+      "score": 164505,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164507, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164505, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157764,
+      "score": 157763,
       "comments": 58,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157764, 반응 58 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157763, 반응 58 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 152320,
-      "comments": 1074,
+      "score": 152338,
+      "comments": 1076,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152320, 반응 1074 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152338, 반응 1076 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148668,
-      "comments": 374,
+      "score": 148673,
+      "comments": 378,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148668, 반응 374 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148673, 반응 378 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144152,
-      "comments": 413,
+      "score": 144160,
+      "comments": 410,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144152, 반응 413 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144160, 반응 410 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 1065,
-      "comments": 198,
+      "score": 1118,
+      "comments": 210,
       "text": "",
-      "summary": "Tracking down the 16-year-old WAL-reset SQLite bug. 점수 1065, 반응 198 기준 인기 이슈입니다."
+      "summary": "Tracking down the 16-year-old WAL-reset SQLite bug. 점수 1118, 반응 210 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 946,
-      "comments": 394,
+      "score": 986,
+      "comments": 424,
       "text": "<a href=\"https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro\" rel=\"nofollow\">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro</a><p><a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024</a>",
-      "summary": "DeepSeek V4 Pro 0813. https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F; https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024 , https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024 점수 946, 반응 394 기준 인기 이슈입니다."
+      "summary": "DeepSeek V4 Pro 0813. https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F; https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024 , https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024 점수 986, 반응 424 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 641,
-      "comments": 149,
+      "score": 681,
+      "comments": 159,
       "text": "<a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8</a>",
-      "summary": "https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8 점수 641, 반응 149 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "score": 568,
-      "comments": 206,
-      "text": "",
-      "summary": "Delta.  점수 568, 반응 206 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "score": 563,
-      "comments": 508,
-      "text": "<a href=\"https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;grok-4-6-benchmarks-and-analysis\" rel=\"nofollow\">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;grok-4-6-benchmarks-a...</a>",
-      "summary": "https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;grok-4-6-benchmarks-a... 점수 563, 반응 508 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8 점수 681, 반응 159 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
       "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-      "score": 538,
-      "comments": 644,
+      "score": 621,
+      "comments": 740,
       "text": "<a href=\"https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_disgusting_facebook_devs&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_dis...</a><p><a href=\"https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-bloc...</a>",
-      "summary": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook. https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_dis... https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-bloc... 점수 538, 반응 644 기준 인기 이슈입니다."
+      "summary": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook. https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_dis... https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-bloc... 점수 621, 반응 740 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "score": 610,
+      "comments": 224,
+      "text": "",
+      "summary": "Delta.  점수 610, 반응 224 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "score": 596,
+      "comments": 553,
+      "text": "<a href=\"https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;grok-4-6-benchmarks-and-analysis\" rel=\"nofollow\">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;grok-4-6-benchmarks-a...</a>",
+      "summary": "https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;grok-4-6-benchmarks-a... 점수 596, 반응 553 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 493,
-      "comments": 133,
+      "score": 501,
+      "comments": 134,
       "text": "",
-      "summary": "2026 Eclipse Webcams. 점수 493, 반응 133 기준 인기 이슈입니다."
+      "summary": "2026 Eclipse Webcams. 점수 501, 반응 134 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Why tiny JPEGs look different in Chrome",
       "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 313,
-      "comments": 66,
+      "score": 323,
+      "comments": 67,
       "text": "",
-      "summary": "Why tiny JPEGs look different in Chrome. 점수 313, 반응 66 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "score": 281,
-      "comments": 210,
-      "text": "",
-      "summary": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot. 점수 281, 반응 210 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tim King, AmigaDOS developer, has died",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 277,
-      "comments": 34,
-      "text": "",
-      "summary": "Tim King, AmigaDOS developer, has died. 점수 277, 반응 34 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Shade Map",
-      "url": "https://shademap.app",
-      "score": 210,
-      "comments": 53,
-      "text": "",
-      "summary": "Shade Map.  점수 210, 반응 53 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "score": 207,
-      "comments": 139,
-      "text": "",
-      "summary": "HTML over WebSockets: real-time SPAs with barely any JavaScript. 점수 207, 반응 139 기준 인기 이슈입니다."
+      "summary": "Why tiny JPEGs look different in Chrome. 점수 323, 반응 67 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
       "url": "https://openai.com/codex/",
-      "score": 178,
-      "comments": 98,
+      "score": 291,
+      "comments": 193,
       "text": "",
-      "summary": "ChatGPT Desktop (Codex Desktop) for Linux. 점수 178, 반응 98 기준 인기 이슈입니다."
+      "summary": "ChatGPT Desktop (Codex Desktop) for Linux. 점수 291, 반응 193 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "score": 288,
+      "comments": 35,
+      "text": "",
+      "summary": "Tim King, AmigaDOS developer, has died. 점수 288, 반응 35 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "score": 227,
+      "comments": 164,
+      "text": "",
+      "summary": "HTML over WebSockets: real-time SPAs with barely any JavaScript. 점수 227, 반응 164 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mushroom behind 'tiny people' hallucinations identified",
+      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+      "score": 222,
+      "comments": 181,
+      "text": "",
+      "summary": "Mushroom behind 'tiny people' hallucinations identified. 점수 222, 반응 181 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Principia Mathematica is modern and insightful",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "score": 221,
+      "comments": 96,
+      "text": "",
+      "summary": "Principia Mathematica is modern and insightful. 점수 221, 반응 96 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
