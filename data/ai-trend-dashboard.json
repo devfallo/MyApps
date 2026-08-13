@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T13:47:46.780337+00:00",
+  "updatedAt": "2026-08-13T15:14:14.583370+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 386165,
-      "comments": 5531,
+      "score": 386176,
+      "comments": 5548,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 386165, 반응 5531 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 386176, 반응 5548 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 271557,
-      "comments": 323,
+      "score": 271599,
+      "comments": 324,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 271557, 반응 323 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 271599, 반응 324 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 229918,
-      "comments": 31695,
+      "score": 229959,
+      "comments": 31738,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 229918, 반응 31695 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 229959, 반응 31738 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 200476,
-      "comments": 1308,
+      "score": 200484,
+      "comments": 1306,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200476, 반응 1308 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200484, 반응 1306 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,19 +55,19 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167080,
+      "score": 167082,
       "comments": 65,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167080, 반응 65 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167082, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 166772,
+      "score": 166811,
       "comments": 507,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 166772, 반응 507 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 166811, 반응 507 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,174 +91,174 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 152338,
-      "comments": 1076,
+      "score": 152343,
+      "comments": 1079,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152338, 반응 1076 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152343, 반응 1079 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148673,
-      "comments": 378,
+      "score": 148681,
+      "comments": 379,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148673, 반응 378 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148681, 반응 379 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144160,
-      "comments": 410,
+      "score": 144166,
+      "comments": 407,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144160, 반응 410 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 1118,
-      "comments": 210,
-      "text": "",
-      "summary": "Tracking down the 16-year-old WAL-reset SQLite bug. 점수 1118, 반응 210 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144166, 반응 407 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 986,
-      "comments": 424,
+      "score": 1004,
+      "comments": 430,
       "text": "<a href=\"https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro\" rel=\"nofollow\">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro</a><p><a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024</a>",
-      "summary": "DeepSeek V4 Pro 0813. https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F; https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024 , https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024 점수 986, 반응 424 기준 인기 이슈입니다."
+      "summary": "DeepSeek V4 Pro 0813. https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F; https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-pro https:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024 , https:&#x2F;&#x2F;xcancel.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024 점수 1004, 반응 430 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 681,
-      "comments": 159,
+      "score": 692,
+      "comments": 161,
       "text": "<a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8</a>",
-      "summary": "https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8 점수 681, 반응 159 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-      "score": 621,
-      "comments": 740,
-      "text": "<a href=\"https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_disgusting_facebook_devs&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_dis...</a><p><a href=\"https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-bloc...</a>",
-      "summary": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook. https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_dis... https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-bloc... 점수 621, 반응 740 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8 점수 692, 반응 161 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Delta",
       "url": "https://zed.dev/blog/introducing-delta",
-      "score": 610,
-      "comments": 224,
+      "score": 627,
+      "comments": 229,
       "text": "",
-      "summary": "Delta.  점수 610, 반응 224 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "score": 596,
-      "comments": 553,
-      "text": "<a href=\"https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;grok-4-6-benchmarks-and-analysis\" rel=\"nofollow\">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;grok-4-6-benchmarks-a...</a>",
-      "summary": "https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;grok-4-6-benchmarks-a... 점수 596, 반응 553 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "2026 Eclipse Webcams",
-      "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 501,
-      "comments": 134,
-      "text": "",
-      "summary": "2026 Eclipse Webcams. 점수 501, 반응 134 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why tiny JPEGs look different in Chrome",
-      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 323,
-      "comments": 67,
-      "text": "",
-      "summary": "Why tiny JPEGs look different in Chrome. 점수 323, 반응 67 기준 인기 이슈입니다."
+      "summary": "Delta.  점수 627, 반응 229 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
       "url": "https://openai.com/codex/",
-      "score": 291,
-      "comments": 193,
+      "score": 328,
+      "comments": 231,
       "text": "",
-      "summary": "ChatGPT Desktop (Codex Desktop) for Linux. 점수 291, 반응 193 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tim King, AmigaDOS developer, has died",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 288,
-      "comments": 35,
-      "text": "",
-      "summary": "Tim King, AmigaDOS developer, has died. 점수 288, 반응 35 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "score": 227,
-      "comments": 164,
-      "text": "",
-      "summary": "HTML over WebSockets: real-time SPAs with barely any JavaScript. 점수 227, 반응 164 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "score": 222,
-      "comments": 181,
-      "text": "",
-      "summary": "Mushroom behind 'tiny people' hallucinations identified. 점수 222, 반응 181 기준 인기 이슈입니다."
+      "summary": "ChatGPT Desktop (Codex Desktop) for Linux. 점수 328, 반응 231 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Principia Mathematica is modern and insightful",
       "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "score": 221,
-      "comments": 96,
+      "score": 237,
+      "comments": 116,
       "text": "",
-      "summary": "Principia Mathematica is modern and insightful. 점수 221, 반응 96 기준 인기 이슈입니다."
+      "summary": "Principia Mathematica is modern and insightful. 점수 237, 반응 116 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "score": 230,
+      "comments": 259,
+      "text": "",
+      "summary": "Deutsche Bank becomes first foreign yuan clearing bank in Europe. 점수 230, 반응 259 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DeepSeek Harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "score": 212,
+      "comments": 93,
+      "text": "",
+      "summary": "DeepSeek Harness.  점수 212, 반응 93 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Antiqua–Fraktur dispute",
+      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+      "score": 135,
+      "comments": 56,
+      "text": "",
+      "summary": "Antiqua–Fraktur dispute. 점수 135, 반응 56 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gloomberb",
+      "url": "https://gloom.sh/",
+      "score": 89,
+      "comments": 21,
+      "text": "",
+      "summary": "Gloomberb.  점수 89, 반응 21 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "score": 79,
+      "comments": 47,
+      "text": "",
+      "summary": "Choosing an AI model: one prompt, 11 models, different results. 점수 79, 반응 47 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The lattice of sets of natural numbers is rich (2021)",
+      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+      "score": 78,
+      "comments": 13,
+      "text": "",
+      "summary": "The lattice of sets of natural numbers is rich (2021). 점수 78, 반응 13 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "score": 76,
+      "comments": 59,
+      "text": "",
+      "summary": "AI agents lie, cheat and steal. That is putting off users. 점수 76, 반응 59 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "score": 74,
+      "comments": 9,
+      "text": "",
+      "summary": "Spaghettifying DRAM.  점수 74, 반응 9 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 74
+      "count": 42
     },
     {
       "keyword": "https",
-      "count": 16
-    },
-    {
-      "keyword": "href",
-      "count": 8
+      "count": 10
     },
     {
       "keyword": "com",
-      "count": 8
+      "count": 6
+    },
+    {
+      "keyword": "href",
+      "count": 5
     },
     {
       "keyword": "rel",
-      "count": 8
+      "count": 5
     },
     {
       "keyword": "nofollow",
-      "count": 8
+      "count": 5
     },
     {
-      "keyword": "artificialanalysis",
+      "keyword": "deepseek",
       "count": 4
     },
     {
@@ -270,10 +270,6 @@
       "count": 4
     },
     {
-      "keyword": "any",
-      "count": 3
-    },
-    {
       "keyword": "platform",
       "count": 3
     },
@@ -282,7 +278,7 @@
       "count": 3
     },
     {
-      "keyword": "deepseek",
+      "keyword": "models",
       "count": 3
     },
     {
@@ -291,6 +287,10 @@
     },
     {
       "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
       "count": 2
     }
   ],
