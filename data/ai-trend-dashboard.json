@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:45:19.306574+00:00",
+  "updatedAt": "2026-08-14T22:40:40.705832+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 386319,
-      "comments": 5545,
+      "score": 386326,
+      "comments": 5557,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 386319, 반응 5545 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 386326, 반응 5557 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 272154,
+      "score": 272165,
       "comments": 331,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 272154, 반응 331 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 272165, 반응 331 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 230613,
-      "comments": 32165,
+      "score": 230634,
+      "comments": 32170,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 230613, 반응 32165 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 230634, 반응 32170 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 200649,
-      "comments": 1297,
+      "score": 200656,
+      "comments": 1298,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200649, 반응 1297 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200656, 반응 1298 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,28 +55,28 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 167405,
-      "comments": 507,
+      "score": 167429,
+      "comments": 508,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 167405, 반응 507 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 167429, 반응 508 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167125,
+      "score": 167127,
       "comments": 65,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167125, 반응 65 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167127, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164515,
+      "score": 164514,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164515, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164514, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,145 +91,145 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 152460,
-      "comments": 981,
+      "score": 152462,
+      "comments": 980,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152460, 반응 981 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152462, 반응 980 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148799,
+      "score": 148801,
       "comments": 393,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148799, 반응 393 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148801, 반응 393 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144266,
+      "score": 144271,
       "comments": 411,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144266, 반응 411 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144271, 반응 411 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 982,
-      "comments": 491,
+      "score": 1010,
+      "comments": 499,
       "text": "",
-      "summary": "GLM-5.3: Frontier coding with emergent cyber capabilities. 점수 982, 반응 491 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Every Fucking Website (2020)",
-      "url": "https://lxe.github.io/everywebsite/",
-      "score": 647,
-      "comments": 371,
-      "text": "",
-      "summary": "Every Fucking Website (2020). 점수 647, 반응 371 기준 인기 이슈입니다."
+      "summary": "GLM-5.3: Frontier coding with emergent cyber capabilities. 점수 1010, 반응 499 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 641,
-      "comments": 419,
+      "score": 763,
+      "comments": 498,
       "text": "",
-      "summary": "Qwen 3.8 27B.  점수 641, 반응 419 기준 인기 이슈입니다."
+      "summary": "Qwen 3.8 27B.  점수 763, 반응 498 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Every Fucking Website (2020)",
+      "url": "https://lxe.github.io/everywebsite/",
+      "score": 699,
+      "comments": 390,
+      "text": "",
+      "summary": "Every Fucking Website (2020). 점수 699, 반응 390 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Why does Opus 5 feel worse to work with?",
       "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "score": 609,
-      "comments": 571,
+      "score": 696,
+      "comments": 642,
       "text": "",
-      "summary": "Why does Opus 5 feel worse to work with?. 점수 609, 반응 571 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DeepSeek peak/off-peak pricing update",
-      "url": "https://api-docs.deepseek.com/news/news260813/",
-      "score": 230,
-      "comments": 122,
-      "text": "",
-      "summary": "DeepSeek peak/off-peak pricing update. 점수 230, 반응 122 기준 인기 이슈입니다."
+      "summary": "Why does Opus 5 feel worse to work with?. 점수 696, 반응 642 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Seven books I keep close because I love them",
       "url": "https://blog.plover.com/2026/08/02/",
-      "score": 230,
-      "comments": 97,
+      "score": 278,
+      "comments": 121,
       "text": "",
-      "summary": "Seven books I keep close because I love them. 점수 230, 반응 97 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Don't classify, hallucinate",
-      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-      "score": 193,
-      "comments": 80,
-      "text": "",
-      "summary": "Don't classify, hallucinate. 점수 193, 반응 80 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "France's top court blocks social media ban for under-15s",
-      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-      "score": 169,
-      "comments": 112,
-      "text": "",
-      "summary": "France's top court blocks social media ban for under-15s. 점수 169, 반응 112 기준 인기 이슈입니다."
+      "summary": "Seven books I keep close because I love them. 점수 278, 반응 121 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "score": 164,
-      "comments": 110,
+      "score": 221,
+      "comments": 138,
       "text": "",
-      "summary": "Google is making private AI practical with homomorphic encryption. 점수 164, 반응 110 기준 인기 이슈입니다."
+      "summary": "Google is making private AI practical with homomorphic encryption. 점수 221, 반응 138 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Don't classify, hallucinate",
+      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+      "score": 209,
+      "comments": 82,
+      "text": "",
+      "summary": "Don't classify, hallucinate. 점수 209, 반응 82 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RustDesk now supports true unattended remote access on Wayland",
       "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "score": 150,
-      "comments": 58,
+      "score": 184,
+      "comments": 85,
       "text": "",
-      "summary": "RustDesk now supports true unattended remote access on Wayland. 점수 150, 반응 58 기준 인기 이슈입니다."
+      "summary": "RustDesk now supports true unattended remote access on Wayland. 점수 184, 반응 85 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Introducing Toast 1",
       "url": "https://www.mixedbread.com/blog/toast-1",
-      "score": 141,
-      "comments": 42,
+      "score": 161,
+      "comments": 56,
       "text": "",
-      "summary": "Introducing Toast 1.  점수 141, 반응 42 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The TEMU-Fication of Software, Digital Goods and Services",
-      "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
-      "score": 110,
-      "comments": 79,
-      "text": "",
-      "summary": "The TEMU-Fication of Software, Digital Goods and Services. 점수 110, 반응 79 기준 인기 이슈입니다."
+      "summary": "Introducing Toast 1.  점수 161, 반응 56 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
-      "score": 99,
-      "comments": 10,
+      "score": 153,
+      "comments": 14,
       "text": "",
-      "summary": "AI by Hand.  점수 99, 반응 10 기준 인기 이슈입니다."
+      "summary": "AI by Hand.  점수 153, 반응 14 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "score": 136,
+      "comments": 34,
+      "text": "",
+      "summary": "Firefox is now the last major browser that still supports uBlock Origin. 점수 136, 반응 34 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The TEMU-Fication of Software, Digital Goods and Services",
+      "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+      "score": 128,
+      "comments": 90,
+      "text": "",
+      "summary": "The TEMU-Fication of Software, Digital Goods and Services. 점수 128, 반응 90 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "score": 122,
+      "comments": 52,
+      "text": "",
+      "summary": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone. 점수 122, 반응 52 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -239,6 +239,10 @@
     },
     {
       "keyword": "prompts",
+      "count": 3
+    },
+    {
+      "keyword": "supports",
       "count": 3
     },
     {
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "api",
-      "count": 2
-    },
-    {
-      "keyword": "web",
       "count": 2
     }
   ],
