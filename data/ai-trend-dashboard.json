@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T12:58:40.426529+00:00",
+  "updatedAt": "2026-08-15T14:38:58.057009+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 386360,
-      "comments": 5541,
+      "score": 386365,
+      "comments": 5534,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 386360, 반응 5541 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 386365, 반응 5534 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 272360,
+      "score": 272381,
       "comments": 334,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 272360, 반응 334 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 272381, 반응 334 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 230885,
-      "comments": 32000,
+      "score": 230923,
+      "comments": 32051,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 230885, 반응 32000 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 230923, 반응 32051 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 200700,
+      "score": 200708,
       "comments": 1302,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200700, 반응 1302 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200708, 반응 1302 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186607,
+      "score": 186608,
       "comments": 520,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186607, 반응 520 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186608, 반응 520 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 167618,
+      "score": 167653,
       "comments": 507,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 167618, 반응 507 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 167653, 반응 507 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167156,
+      "score": 167168,
       "comments": 65,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167156, 반응 65 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167168, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164498,
+      "score": 164499,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164498, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164499, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,148 +91,152 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 152491,
-      "comments": 976,
+      "score": 152501,
+      "comments": 980,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152491, 반응 976 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152501, 반응 980 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148833,
+      "score": 148838,
       "comments": 387,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148833, 반응 387 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148838, 반응 387 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144254,
+      "score": 144259,
       "comments": 409,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144254, 반응 409 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144259, 반응 409 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "score": 1235,
-      "comments": 470,
+      "score": 1354,
+      "comments": 520,
       "text": "",
-      "summary": "Firefox is now the last major browser that still supports uBlock Origin. 점수 1235, 반응 470 기준 인기 이슈입니다."
+      "summary": "Firefox is now the last major browser that still supports uBlock Origin. 점수 1354, 반응 520 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 1209,
-      "comments": 721,
+      "score": 1245,
+      "comments": 732,
       "text": "",
-      "summary": "Qwen 3.8 27B.  점수 1209, 반응 721 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "url": "https://z.ai/blog/glm-5.3",
-      "score": 1106,
-      "comments": 543,
-      "text": "",
-      "summary": "GLM-5.3: Frontier coding with emergent cyber capabilities. 점수 1106, 반응 543 기준 인기 이슈입니다."
+      "summary": "Qwen 3.8 27B.  점수 1245, 반응 732 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "score": 428,
-      "comments": 257,
+      "score": 446,
+      "comments": 265,
       "text": "",
-      "summary": "Google is making private AI practical with homomorphic encryption. 점수 428, 반응 257 기준 인기 이슈입니다."
+      "summary": "Google is making private AI practical with homomorphic encryption. 점수 446, 반응 265 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Going Dark, and the era of law enforcement hacking",
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "score": 373,
-      "comments": 174,
+      "score": 392,
+      "comments": 189,
       "text": "",
-      "summary": "Going Dark, and the era of law enforcement hacking. 점수 373, 반응 174 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "score": 331,
-      "comments": 24,
-      "text": "",
-      "summary": "AI by Hand.  점수 331, 반응 24 기준 인기 이슈입니다."
+      "summary": "Going Dark, and the era of law enforcement hacking. 점수 392, 반응 189 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RustDesk now supports true unattended remote access on Wayland",
       "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "score": 317,
-      "comments": 129,
+      "score": 323,
+      "comments": 135,
       "text": "",
-      "summary": "RustDesk now supports true unattended remote access on Wayland. 점수 317, 반응 129 기준 인기 이슈입니다."
+      "summary": "RustDesk now supports true unattended remote access on Wayland. 점수 323, 반응 135 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Maximizing the value of your Claude Code sessions",
       "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "score": 260,
-      "comments": 139,
+      "score": 282,
+      "comments": 157,
       "text": "",
-      "summary": "Maximizing the value of your Claude Code sessions. 점수 260, 반응 139 기준 인기 이슈입니다."
+      "summary": "Maximizing the value of your Claude Code sessions. 점수 282, 반응 157 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The other Sean Byrne doesn't exist",
       "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "score": 247,
-      "comments": 122,
+      "score": 274,
+      "comments": 135,
       "text": "",
-      "summary": "The other Sean Byrne doesn't exist. 점수 247, 반응 122 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Introducing Toast 1",
-      "url": "https://www.mixedbread.com/blog/toast-1",
-      "score": 210,
-      "comments": 64,
-      "text": "",
-      "summary": "Introducing Toast 1.  점수 210, 반응 64 기준 인기 이슈입니다."
+      "summary": "The other Sean Byrne doesn't exist. 점수 274, 반응 135 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
       "score": 207,
-      "comments": 51,
+      "comments": 53,
       "text": "",
-      "summary": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia. 점수 207, 반응 51 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "score": 204,
-      "comments": 86,
-      "text": "",
-      "summary": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone. 점수 204, 반응 86 기준 인기 이슈입니다."
+      "summary": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia. 점수 207, 반응 53 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "eigendrum",
       "url": "https://eigendrum.com/#p=circle",
-      "score": 188,
-      "comments": 53,
+      "score": 200,
+      "comments": 57,
       "text": "",
-      "summary": "eigendrum.  점수 188, 반응 53 기준 인기 이슈입니다."
+      "summary": "eigendrum.  점수 200, 반응 57 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "score": 142,
+      "comments": 45,
+      "text": "",
+      "summary": "Auto-research with codex: How I achieved a 232x Faster Kernel. 점수 142, 반응 45 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Coin-sized device can hack a Boeing 737",
+      "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+      "score": 114,
+      "comments": 83,
+      "text": "",
+      "summary": "Coin-sized device can hack a Boeing 737. 점수 114, 반응 83 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "url": "https://baselashraf81.github.io/eigendrum/",
+      "score": 80,
+      "comments": 15,
+      "text": "",
+      "summary": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum. 점수 80, 반응 15 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "score": 78,
+      "comments": 20,
+      "text": "",
+      "summary": "Show HN: ThoughtDAG – An editable context graph for LLM conversations. 점수 78, 반응 20 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "any",
+      "count": 3
+    },
     {
       "keyword": "platform",
       "count": 3
@@ -250,19 +254,11 @@
       "count": 2
     },
     {
-      "keyword": "any",
-      "count": 2
-    },
-    {
       "keyword": "agentic",
       "count": 2
     },
     {
       "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "capabilities",
       "count": 2
     },
     {
@@ -286,11 +282,15 @@
       "count": 2
     },
     {
+      "keyword": "can",
+      "count": 2
+    },
+    {
       "keyword": "firecrawl",
       "count": 2
     },
     {
-      "keyword": "api",
+      "keyword": "context",
       "count": 2
     }
   ],
