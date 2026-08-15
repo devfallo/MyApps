@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T20:38:30.969596+00:00",
+  "updatedAt": "2026-08-15T22:36:55.172204+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 386392,
-      "comments": 5542,
+      "score": 386398,
+      "comments": 5536,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 386392, 반응 5542 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 386398, 반응 5536 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 272471,
+      "score": 272489,
       "comments": 336,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 272471, 반응 336 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 272489, 반응 336 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 231029,
-      "comments": 32168,
+      "score": 231060,
+      "comments": 32199,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 231029, 반응 32168 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 231060, 반응 32199 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 200761,
+      "score": 200770,
       "comments": 1302,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200761, 반응 1302 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200770, 반응 1302 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186617,
+      "score": 186620,
       "comments": 517,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186617, 반응 517 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186620, 반응 517 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 167760,
+      "score": 167779,
       "comments": 508,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 167760, 반응 508 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 167779, 반응 508 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167197,
+      "score": 167207,
       "comments": 65,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167197, 반응 65 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167207, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164501,
+      "score": 164503,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164501, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164503, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,145 +91,145 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 152531,
+      "score": 152542,
       "comments": 975,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152531, 반응 975 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152542, 반응 975 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148860,
-      "comments": 396,
+      "score": 148870,
+      "comments": 398,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148860, 반응 396 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148870, 반응 398 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144275,
+      "score": 144281,
       "comments": 410,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144275, 반응 410 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 1332,
-      "comments": 759,
-      "text": "",
-      "summary": "Qwen 3.8 27B.  점수 1332, 반응 759 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The other Sean Byrne doesn't exist",
-      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "score": 346,
-      "comments": 170,
-      "text": "",
-      "summary": "The other Sean Byrne doesn't exist. 점수 346, 반응 170 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144281, 반응 410 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
       "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "score": 330,
-      "comments": 82,
-      "text": "",
-      "summary": "Auto-research with codex: How I achieved a 232x Faster Kernel. 점수 330, 반응 82 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 233,
-      "comments": 155,
-      "text": "",
-      "summary": "Semaglutide linked to 26% lower 5-year predicted dementia risk. 점수 233, 반응 155 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "score": 227,
-      "comments": 199,
-      "text": "",
-      "summary": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them. 점수 227, 반응 199 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Working with AI Feels More Like Leadership Than Coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "score": 207,
-      "comments": 148,
-      "text": "",
-      "summary": "Working with AI Feels More Like Leadership Than Coding. 점수 207, 반응 148 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
-      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "score": 159,
-      "comments": 54,
-      "text": "",
-      "summary": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis. 점수 159, 반응 54 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
-      "url": "https://baselashraf81.github.io/eigendrum/",
-      "score": 158,
+      "score": 366,
       "comments": 83,
-      "text": "Hi HN, I built Eigendrum, a web tool that solves the 2D wave equation for arbitrary shapes so you can hear what they sound like as drums.<p>How it works:\n* Solves -∇²u = λu using finite element analysis (Kφ = λMφ) on a triangle mesh.\n* Validated to &lt;0.1% error against closed-form solutions for circles (Bessel zeros) and rectangles.\n* Sound model factors in strike location, Rayleigh damping, and mallet width.\n* Includes Kac drums I &amp; II to demonstrate identical sound spectra from different geometries.\n* No frameworks, build steps, or dependencies.<p>Repo and tests: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;BaselAshraf81&#x2F;eigendrum\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;BaselAshraf81&#x2F;eigendrum</a><p>Happy to answer any questions about the FEM solver or Web Audio setup!<p><a href=\"https:&#x2F;&#x2F;eigendrum.com&#x2F;#p=circle\" rel=\"nofollow\">https:&#x2F;&#x2F;eigendrum.com&#x2F;#p=circle</a>",
-      "summary": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum. Hi HN, I built Eigendrum, a web tool that solves the 2D wave equation for arbitrary shapes so you can hear what they sound like as drums. How it works: * Solves -∇²u = λu using finite element analysis (Kφ = λMφ) on a triangle mesh. 점수 158, 반응 83 기준 인기 이슈입니다."
+      "text": "",
+      "summary": "Auto-research with codex: How I achieved a 232x Faster Kernel. 점수 366, 반응 83 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The mathematical beauty of hyperbezier curves",
-      "url": "https://linebender.org/blog/hyperbezier/",
-      "score": 154,
-      "comments": 22,
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "score": 340,
+      "comments": 296,
       "text": "",
-      "summary": "The mathematical beauty of hyperbezier curves. 점수 154, 반응 22 기준 인기 이슈입니다."
+      "summary": "AI has access to a vastly larger working memory than the human brain. 점수 340, 반응 296 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "score": 297,
+      "comments": 200,
+      "text": "",
+      "summary": "Semaglutide linked to lower predicted dementia risk. 점수 297, 반응 200 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Working with AI feels more like leadership than coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "score": 234,
+      "comments": 165,
+      "text": "",
+      "summary": "Working with AI feels more like leadership than coding. 점수 234, 반응 165 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RISC-V: They Should Have Known Better",
       "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "score": 149,
-      "comments": 259,
+      "score": 197,
+      "comments": 282,
       "text": "",
-      "summary": "RISC-V: They Should Have Known Better. 점수 149, 반응 259 기준 인기 이슈입니다."
+      "summary": "RISC-V: They Should Have Known Better. 점수 197, 반응 282 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "score": 188,
+      "comments": 64,
+      "text": "",
+      "summary": "At-home test for infected ticks could improve Lyme Disease diagnosis. 점수 188, 반응 64 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "url": "https://baselashraf81.github.io/eigendrum/",
+      "score": 185,
+      "comments": 86,
+      "text": "Hi HN, I built Eigendrum, a web tool that solves the 2D wave equation for arbitrary shapes so you can hear what they sound like as drums.<p>How it works:\n* Solves -∇²u = λu using finite element analysis (Kφ = λMφ) on a triangle mesh.\n* Validated to &lt;0.1% error against closed-form solutions for circles (Bessel zeros) and rectangles.\n* Sound model factors in strike location, Rayleigh damping, and mallet width.\n* Includes Kac drums I &amp; II to demonstrate identical sound spectra from different geometries.\n* No frameworks, build steps, or dependencies.<p>Repo and tests: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;BaselAshraf81&#x2F;eigendrum\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;BaselAshraf81&#x2F;eigendrum</a><p>Happy to answer any questions about the FEM solver or Web Audio setup!<p><a href=\"https:&#x2F;&#x2F;eigendrum.com&#x2F;#p=circle\" rel=\"nofollow\">https:&#x2F;&#x2F;eigendrum.com&#x2F;#p=circle</a>",
+      "summary": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum. Hi HN, I built Eigendrum, a web tool that solves the 2D wave equation for arbitrary shapes so you can hear what they sound like as drums. How it works: * Solves -∇²u = λu using finite element analysis (Kφ = λMφ) on a triangle mesh. 점수 185, 반응 86 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The mathematical beauty of hyperbezier curves",
+      "url": "https://linebender.org/blog/hyperbezier/",
+      "score": 172,
+      "comments": 29,
+      "text": "",
+      "summary": "The mathematical beauty of hyperbezier curves. 점수 172, 반응 29 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "score": 138,
+      "comments": 39,
+      "text": "",
+      "summary": "A spectre is haunting Unicode. 점수 138, 반응 39 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
       "url": "https://www.nature.com/articles/d41586-026-02448-x",
-      "score": 115,
-      "comments": 42,
+      "score": 136,
+      "comments": 65,
       "text": "",
-      "summary": "A controversial Alzheimer's surgery is said to reverse symptoms. 점수 115, 반응 42 기준 인기 이슈입니다."
+      "summary": "A controversial Alzheimer's surgery is said to reverse symptoms. 점수 136, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
-      "url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
-      "score": 111,
-      "comments": 70,
+      "title": "The Dutch community where people live on strips of land in a lake",
+      "url": "https://www.core77.com/posts/144869",
+      "score": 100,
+      "comments": 47,
       "text": "",
-      "summary": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace. 점수 111, 반응 70 기준 인기 이슈입니다."
+      "summary": "The Dutch community where people live on strips of land in a lake. 점수 100, 반응 47 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "A Spectre Is Haunting Unicode",
-      "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "score": 103,
-      "comments": 25,
+      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+      "url": "https://uecker.codeberg.page/2026-07-14.html",
+      "score": 85,
+      "comments": 45,
       "text": "",
-      "summary": "A Spectre Is Haunting Unicode. 점수 103, 반응 25 기준 인기 이슈입니다."
+      "summary": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II. 점수 85, 반응 45 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Möbius strips and differential equations",
+      "url": "https://hidden-phenomena.com/articles/monodromy",
+      "score": 67,
+      "comments": 13,
+      "text": "",
+      "summary": "Möbius strips and differential equations. 점수 67, 반응 13 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
