@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T01:56:59.541484+00:00",
+  "updatedAt": "2026-08-16T03:12:38.506447+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 386405,
-      "comments": 5537,
+      "score": 386417,
+      "comments": 5542,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 386405, 반응 5537 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 386417, 반응 5542 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 272512,
+      "score": 272526,
       "comments": 336,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 272512, 반응 336 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 272526, 반응 336 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 231102,
-      "comments": 32243,
+      "score": 231120,
+      "comments": 32261,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 231102, 반응 32243 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 231120, 반응 32261 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 200786,
-      "comments": 1302,
+      "score": 200793,
+      "comments": 1301,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200786, 반응 1302 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200793, 반응 1301 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186623,
+      "score": 186625,
       "comments": 517,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186623, 반응 517 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186625, 반응 517 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 167822,
+      "score": 167832,
       "comments": 508,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 167822, 반응 508 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 167832, 반응 508 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167223,
+      "score": 167230,
       "comments": 65,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167223, 반응 65 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167230, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164503,
+      "score": 164504,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164503, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164504, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,178 +91,154 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 152554,
-      "comments": 977,
+      "score": 152555,
+      "comments": 976,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152554, 반응 977 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152555, 반응 976 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148880,
-      "comments": 399,
+      "score": 148884,
+      "comments": 401,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148880, 반응 399 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148884, 반응 401 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144295,
+      "score": 144296,
       "comments": 410,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144295, 반응 410 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144296, 반응 410 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI has access to a vastly larger working memory than the human brain",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "score": 412,
-      "comments": 371,
+      "score": 427,
+      "comments": 377,
       "text": "",
-      "summary": "AI has access to a vastly larger working memory than the human brain. 점수 412, 반응 371 기준 인기 이슈입니다."
+      "summary": "AI has access to a vastly larger working memory than the human brain. 점수 427, 반응 377 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
       "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "score": 395,
-      "comments": 86,
+      "score": 401,
+      "comments": 89,
       "text": "",
-      "summary": "Auto-research with codex: How I achieved a 232x Faster Kernel. 점수 395, 반응 86 기준 인기 이슈입니다."
+      "summary": "Auto-research with codex: How I achieved a 232x Faster Kernel. 점수 401, 반응 89 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Semaglutide linked to lower predicted dementia risk",
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 349,
-      "comments": 242,
+      "score": 363,
+      "comments": 255,
       "text": "",
-      "summary": "Semaglutide linked to lower predicted dementia risk. 점수 349, 반응 242 기준 인기 이슈입니다."
+      "summary": "Semaglutide linked to lower predicted dementia risk. 점수 363, 반응 255 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Working with AI feels more like leadership than coding",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "score": 268,
-      "comments": 174,
+      "score": 275,
+      "comments": 177,
       "text": "",
-      "summary": "Working with AI feels more like leadership than coding. 점수 268, 반응 174 기준 인기 이슈입니다."
+      "summary": "Working with AI feels more like leadership than coding. 점수 275, 반응 177 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RISC-V: They Should Have Known Better",
       "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "score": 233,
-      "comments": 298,
+      "score": 244,
+      "comments": 309,
       "text": "",
-      "summary": "RISC-V: They Should Have Known Better. 점수 233, 반응 298 기준 인기 이슈입니다."
+      "summary": "RISC-V: They Should Have Known Better. 점수 244, 반응 309 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
       "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "score": 211,
-      "comments": 77,
+      "score": 220,
+      "comments": 81,
       "text": "",
-      "summary": "At-home test for infected ticks could improve Lyme Disease diagnosis. 점수 211, 반응 77 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
-      "url": "https://baselashraf81.github.io/eigendrum/",
-      "score": 205,
-      "comments": 96,
-      "text": "Hi HN, I built Eigendrum, a web tool that solves the 2D wave equation for arbitrary shapes so you can hear what they sound like as drums.<p>How it works:\n* Solves -∇²u = λu using finite element analysis (Kφ = λMφ) on a triangle mesh.\n* Validated to &lt;0.1% error against closed-form solutions for circles (Bessel zeros) and rectangles.\n* Sound model factors in strike location, Rayleigh damping, and mallet width.\n* Includes Kac drums I &amp; II to demonstrate identical sound spectra from different geometries.\n* No frameworks, build steps, or dependencies.<p>Repo and tests: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;BaselAshraf81&#x2F;eigendrum\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;BaselAshraf81&#x2F;eigendrum</a><p>Happy to answer any questions about the FEM solver or Web Audio setup!<p><a href=\"https:&#x2F;&#x2F;eigendrum.com&#x2F;#p=circle\" rel=\"nofollow\">https:&#x2F;&#x2F;eigendrum.com&#x2F;#p=circle</a>",
-      "summary": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum. Hi HN, I built Eigendrum, a web tool that solves the 2D wave equation for arbitrary shapes so you can hear what they sound like as drums. How it works: * Solves -∇²u = λu using finite element analysis (Kφ = λMφ) on a triangle mesh. 점수 205, 반응 96 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The mathematical beauty of hyperbezier curves",
-      "url": "https://linebender.org/blog/hyperbezier/",
-      "score": 188,
-      "comments": 37,
-      "text": "",
-      "summary": "The mathematical beauty of hyperbezier curves. 점수 188, 반응 37 기준 인기 이슈입니다."
+      "summary": "At-home test for infected ticks could improve Lyme Disease diagnosis. 점수 220, 반응 81 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A spectre is haunting Unicode",
       "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "score": 171,
-      "comments": 57,
+      "score": 183,
+      "comments": 62,
       "text": "",
-      "summary": "A spectre is haunting Unicode. 점수 171, 반응 57 기준 인기 이슈입니다."
+      "summary": "A spectre is haunting Unicode. 점수 183, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Abdominal fat predicts heart disease risk better than BMI",
       "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "score": 153,
-      "comments": 114,
+      "score": 174,
+      "comments": 126,
       "text": "",
-      "summary": "Abdominal fat predicts heart disease risk better than BMI. 점수 153, 반응 114 기준 인기 이슈입니다."
+      "summary": "Abdominal fat predicts heart disease risk better than BMI. 점수 174, 반응 126 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "score": 89,
-      "comments": 44,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2</a>",
-      "summary": "AI in drug discovery – what it is, where we stand and the path forward. https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2 점수 89, 반응 44 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cultivating a state of mind where new ideas are born (2023)",
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "score": 79,
-      "comments": 22,
+      "title": "Asus Bike Booster",
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "score": 131,
+      "comments": 63,
       "text": "",
-      "summary": "Cultivating a state of mind where new ideas are born (2023). 점수 79, 반응 22 기준 인기 이슈입니다."
+      "summary": "Asus Bike Booster.  점수 131, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
       "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-      "score": 78,
-      "comments": 31,
+      "score": 105,
+      "comments": 57,
       "text": "",
-      "summary": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter. 점수 78, 반응 31 기준 인기 이슈입니다."
+      "summary": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter. 점수 105, 반응 57 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "score": 105,
+      "comments": 52,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2</a>",
+      "summary": "AI in drug discovery – what it is, where we stand and the path forward. https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2 점수 105, 반응 52 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "score": 97,
+      "comments": 27,
+      "text": "",
+      "summary": "Cultivating a state of mind where new ideas are born (2023). 점수 97, 반응 27 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+      "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+      "score": 72,
+      "comments": 18,
+      "text": "",
+      "summary": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977. 점수 72, 반응 18 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 22
-    },
-    {
-      "keyword": "eigendrum",
-      "count": 6
-    },
-    {
-      "keyword": "https",
-      "count": 6
-    },
-    {
-      "keyword": "com",
-      "count": 6
-    },
-    {
-      "keyword": "any",
-      "count": 4
-    },
-    {
-      "keyword": "web",
-      "count": 4
+      "count": 8
     },
     {
       "keyword": "platform",
-      "count": 3
-    },
-    {
-      "keyword": "build",
       "count": 3
     },
     {
@@ -274,24 +250,48 @@
       "count": 3
     },
     {
-      "keyword": "like",
-      "count": 3
+      "keyword": "openclaw",
+      "count": 2
     },
     {
-      "keyword": "sound",
-      "count": 3
+      "keyword": "any",
+      "count": 2
     },
     {
-      "keyword": "href",
-      "count": 3
+      "keyword": "agentic",
+      "count": 2
     },
     {
-      "keyword": "rel",
-      "count": 3
+      "keyword": "agent",
+      "count": 2
     },
     {
-      "keyword": "nofollow",
-      "count": 3
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "cloud",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "build",
+      "count": 2
+    },
+    {
+      "keyword": "firecrawl",
+      "count": 2
+    },
+    {
+      "keyword": "api",
+      "count": 2
+    },
+    {
+      "keyword": "web",
+      "count": 2
     }
   ],
   "meta": {
