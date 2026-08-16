@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T06:58:59.611460+00:00",
+  "updatedAt": "2026-08-16T08:46:29.773643+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 386424,
-      "comments": 5521,
+      "score": 386429,
+      "comments": 5538,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 386424, 반응 5521 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 386429, 반응 5538 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 272575,
+      "score": 272592,
       "comments": 338,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 272575, 반응 338 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 272592, 반응 338 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 231182,
-      "comments": 32314,
+      "score": 231213,
+      "comments": 32334,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 231182, 반응 32314 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 231213, 반응 32334 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 200811,
+      "score": 200818,
       "comments": 1301,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200811, 반응 1301 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200818, 반응 1301 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,181 +55,181 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 167894,
+      "score": 167929,
       "comments": 509,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 167894, 반응 509 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 167929, 반응 509 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167240,
+      "score": 167241,
       "comments": 65,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167240, 반응 65 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167241, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164512,
+      "score": 164516,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164512, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164516, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157781,
+      "score": 157782,
       "comments": 60,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157781, 반응 60 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157782, 반응 60 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 152568,
-      "comments": 977,
+      "score": 152572,
+      "comments": 978,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152568, 반응 977 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152572, 반응 978 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148894,
+      "score": 148898,
       "comments": 403,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148894, 반응 403 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148898, 반응 403 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144313,
+      "score": 144316,
       "comments": 410,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144313, 반응 410 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144316, 반응 410 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI has access to a vastly larger working memory than the human brain",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "score": 471,
-      "comments": 405,
+      "score": 486,
+      "comments": 415,
       "text": "",
-      "summary": "AI has access to a vastly larger working memory than the human brain. 점수 471, 반응 405 기준 인기 이슈입니다."
+      "summary": "AI has access to a vastly larger working memory than the human brain. 점수 486, 반응 415 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Semaglutide linked to lower predicted dementia risk",
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 405,
-      "comments": 282,
+      "score": 419,
+      "comments": 291,
       "text": "",
-      "summary": "Semaglutide linked to lower predicted dementia risk. 점수 405, 반응 282 기준 인기 이슈입니다."
+      "summary": "Semaglutide linked to lower predicted dementia risk. 점수 419, 반응 291 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Asus Bike Booster",
       "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "score": 300,
-      "comments": 164,
+      "score": 356,
+      "comments": 215,
       "text": "",
-      "summary": "Asus Bike Booster.  점수 300, 반응 164 기준 인기 이슈입니다."
+      "summary": "Asus Bike Booster.  점수 356, 반응 215 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RISC-V: They Should Have Known Better",
       "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "score": 278,
-      "comments": 338,
+      "score": 297,
+      "comments": 359,
       "text": "",
-      "summary": "RISC-V: They Should Have Known Better. 점수 278, 반응 338 기준 인기 이슈입니다."
+      "summary": "RISC-V: They Should Have Known Better. 점수 297, 반응 359 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
       "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "score": 248,
-      "comments": 86,
+      "score": 253,
+      "comments": 89,
       "text": "",
-      "summary": "At-home test for infected ticks could improve Lyme Disease diagnosis. 점수 248, 반응 86 기준 인기 이슈입니다."
+      "summary": "At-home test for infected ticks could improve Lyme Disease diagnosis. 점수 253, 반응 89 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Abdominal fat predicts heart disease risk better than BMI",
       "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "score": 227,
-      "comments": 167,
+      "score": 249,
+      "comments": 179,
       "text": "<a href=\"https:&#x2F;&#x2F;pmc.ncbi.nlm.nih.gov&#x2F;articles&#x2F;PMC13470613&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;pmc.ncbi.nlm.nih.gov&#x2F;articles&#x2F;PMC13470613&#x2F;</a>",
-      "summary": "Abdominal fat predicts heart disease risk better than BMI. https:&#x2F;&#x2F;pmc.ncbi.nlm.nih.gov&#x2F;articles&#x2F;PMC13470613&#x2F; 점수 227, 반응 167 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A spectre is haunting Unicode",
-      "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "score": 207,
-      "comments": 71,
-      "text": "",
-      "summary": "A spectre is haunting Unicode. 점수 207, 반응 71 기준 인기 이슈입니다."
+      "summary": "Abdominal fat predicts heart disease risk better than BMI. https:&#x2F;&#x2F;pmc.ncbi.nlm.nih.gov&#x2F;articles&#x2F;PMC13470613&#x2F; 점수 249, 반응 179 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
       "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-      "score": 176,
-      "comments": 98,
+      "score": 224,
+      "comments": 118,
       "text": "",
-      "summary": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter. 점수 176, 반응 98 기준 인기 이슈입니다."
+      "summary": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter. 점수 224, 반응 118 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "score": 219,
+      "comments": 76,
+      "text": "",
+      "summary": "A spectre is haunting Unicode. 점수 219, 반응 76 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cultivating a state of mind where new ideas are born (2023)",
       "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "score": 144,
-      "comments": 33,
+      "score": 162,
+      "comments": 39,
       "text": "",
-      "summary": "Cultivating a state of mind where new ideas are born (2023). 점수 144, 반응 33 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "score": 129,
-      "comments": 64,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2</a>",
-      "summary": "AI in drug discovery – what it is, where we stand and the path forward. https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2 점수 129, 반응 64 기준 인기 이슈입니다."
+      "summary": "Cultivating a state of mind where new ideas are born (2023). 점수 162, 반응 39 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
       "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "score": 117,
-      "comments": 8,
+      "score": 140,
+      "comments": 10,
       "text": "",
-      "summary": "Asynchronous I/O in DuckDB: Work, Thread, Work. 점수 117, 반응 8 기준 인기 이슈입니다."
+      "summary": "Asynchronous I/O in DuckDB: Work, Thread, Work. 점수 140, 반응 10 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "score": 136,
+      "comments": 72,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2</a>",
+      "summary": "AI in drug discovery – what it is, where we stand and the path forward. https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2 점수 136, 반응 72 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Software Engineering fundamentals matter more",
       "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-      "score": 86,
-      "comments": 23,
+      "score": 116,
+      "comments": 54,
       "text": "",
-      "summary": "Software Engineering fundamentals matter more. 점수 86, 반응 23 기준 인기 이슈입니다."
+      "summary": "Software Engineering fundamentals matter more. 점수 116, 반응 54 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A fortuitous decade as an indie software developer",
       "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
-      "score": 66,
+      "score": 79,
       "comments": 9,
       "text": "",
-      "summary": "A fortuitous decade as an indie software developer. 점수 66, 반응 9 기준 인기 이슈입니다."
+      "summary": "A fortuitous decade as an indie software developer. 점수 79, 반응 9 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
