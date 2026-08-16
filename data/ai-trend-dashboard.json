@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:46:32.190891+00:00",
+  "updatedAt": "2026-08-16T20:37:31.549306+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 386457,
-      "comments": 5582,
+      "score": 386460,
+      "comments": 5597,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 386457, 반응 5582 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 386460, 반응 5597 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 272751,
+      "score": 272774,
       "comments": 340,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 272751, 반응 340 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 272774, 반응 340 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 231419,
-      "comments": 32376,
+      "score": 231446,
+      "comments": 32397,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 231419, 반응 32376 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 231446, 반응 32397 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 200884,
+      "score": 200894,
       "comments": 1303,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200884, 반응 1303 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200894, 반응 1303 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186644,
+      "score": 186646,
       "comments": 515,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186644, 반응 515 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186646, 반응 515 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 168121,
+      "score": 168144,
       "comments": 512,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 168121, 반응 512 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 168144, 반응 512 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167268,
+      "score": 167280,
       "comments": 65,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167268, 반응 65 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167280, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164530,
+      "score": 164533,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164530, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164533, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,150 +91,154 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 152618,
+      "score": 152626,
       "comments": 984,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152618, 반응 984 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152626, 반응 984 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148951,
-      "comments": 411,
+      "score": 148956,
+      "comments": 414,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148951, 반응 411 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148956, 반응 414 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144345,
+      "score": 144349,
       "comments": 410,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144345, 반응 410 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144349, 반응 410 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Asus Bike Booster",
       "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "score": 566,
-      "comments": 393,
+      "score": 584,
+      "comments": 408,
       "text": "",
-      "summary": "Asus Bike Booster.  점수 566, 반응 393 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 469,
-      "comments": 370,
-      "text": "",
-      "summary": "Semaglutide linked to lower predicted dementia risk. 점수 469, 반응 370 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-      "score": 390,
-      "comments": 267,
-      "text": "",
-      "summary": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter. 점수 390, 반응 267 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 363,
-      "comments": 154,
-      "text": "",
-      "summary": "Claude: System Prompts. 점수 363, 반응 154 기준 인기 이슈입니다."
+      "summary": "Asus Bike Booster.  점수 584, 반응 408 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Firefox for iOS now has a native adblocker",
       "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-      "score": 349,
-      "comments": 146,
+      "score": 423,
+      "comments": 185,
       "text": "",
-      "summary": "Firefox for iOS now has a native adblocker. 점수 349, 반응 146 기준 인기 이슈입니다."
+      "summary": "Firefox for iOS now has a native adblocker. 점수 423, 반응 185 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Software Engineering fundamentals matter more",
-      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-      "score": 275,
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "score": 418,
       "comments": 182,
       "text": "",
-      "summary": "Software Engineering fundamentals matter more. 점수 275, 반응 182 기준 인기 이슈입니다."
+      "summary": "Claude: System Prompts. 점수 418, 반응 182 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
       "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-      "score": 264,
-      "comments": 100,
+      "score": 304,
+      "comments": 113,
       "text": "",
-      "summary": "Research papers using \"kidney disappointment\" instead of \"kidney failure\". 점수 264, 반응 100 기준 인기 이슈입니다."
+      "summary": "Research papers using \"kidney disappointment\" instead of \"kidney failure\". 점수 304, 반응 113 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
       "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "score": 253,
-      "comments": 27,
+      "score": 260,
+      "comments": 28,
       "text": "",
-      "summary": "Asynchronous I/O in DuckDB: Work, Thread, Work. 점수 253, 반응 27 기준 인기 이슈입니다."
+      "summary": "Asynchronous I/O in DuckDB: Work, Thread, Work. 점수 260, 반응 28 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Cultivating a state of mind where new ideas are born (2023)",
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "score": 244,
-      "comments": 58,
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "score": 187,
+      "comments": 106,
       "text": "",
-      "summary": "Cultivating a state of mind where new ideas are born (2023). 점수 244, 반응 58 기준 인기 이슈입니다."
+      "summary": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\". 점수 187, 반응 106 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "score": 148,
-      "comments": 58,
+      "score": 175,
+      "comments": 66,
       "text": "",
-      "summary": "The AI Credit Resale Economy. 점수 148, 반응 58 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Chestnut – eGPU dock with open-source firmware",
-      "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
-      "score": 115,
-      "comments": 29,
-      "text": "",
-      "summary": "Chestnut – eGPU dock with open-source firmware. 점수 115, 반응 29 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Does anyone run Postgres without PgBouncer?",
-      "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-      "score": 110,
-      "comments": 74,
-      "text": "",
-      "summary": "Does anyone run Postgres without PgBouncer?. 점수 110, 반응 74 기준 인기 이슈입니다."
+      "summary": "The AI Credit Resale Economy. 점수 175, 반응 66 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The weekend is 100 years old",
       "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
-      "score": 99,
-      "comments": 59,
+      "score": 141,
+      "comments": 78,
       "text": "",
-      "summary": "The weekend is 100 years old. 점수 99, 반응 59 기준 인기 이슈입니다."
+      "summary": "The weekend is 100 years old. 점수 141, 반응 78 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Does anyone run Postgres without PgBouncer?",
+      "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+      "score": 122,
+      "comments": 79,
+      "text": "",
+      "summary": "Does anyone run Postgres without PgBouncer?. 점수 122, 반응 79 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Chestnut – eGPU dock with open-source firmware",
+      "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+      "score": 121,
+      "comments": 34,
+      "text": "",
+      "summary": "Chestnut – eGPU dock with open-source firmware. 점수 121, 반응 34 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+      "score": 118,
+      "comments": 82,
+      "text": "",
+      "summary": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core. 점수 118, 반응 82 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "score": 111,
+      "comments": 30,
+      "text": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.",
+      "summary": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers. A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and then disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. 점수 111, 반응 30 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Models Are Getting Dumber on Purpose",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "score": 107,
+      "comments": 62,
+      "text": "",
+      "summary": "Models Are Getting Dumber on Purpose. 점수 107, 반응 62 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "prompts",
+      "count": 4
+    },
+    {
+      "keyword": "analytics",
       "count": 4
     },
     {
@@ -246,15 +250,15 @@
       "count": 2
     },
     {
+      "keyword": "own",
+      "count": 2
+    },
+    {
       "keyword": "any",
       "count": 2
     },
     {
       "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "software",
       "count": 2
     },
     {
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "api",
-      "count": 2
-    },
-    {
-      "keyword": "web",
       "count": 2
     }
   ],
