@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T10:48:02.481642+00:00",
+  "updatedAt": "2026-08-17T13:05:12.453450+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,229 +10,233 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 386509,
-      "comments": 5601,
+      "score": 386514,
+      "comments": 5626,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 386509, 반응 5601 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 386514, 반응 5626 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 272995,
-      "comments": 343,
+      "score": 273044,
+      "comments": 344,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 272995, 반응 343 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 273044, 반응 344 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 231756,
-      "comments": 32533,
+      "score": 231807,
+      "comments": 32575,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 231756, 반응 32533 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 231807, 반응 32575 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 200941,
-      "comments": 1307,
+      "score": 200946,
+      "comments": 1311,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200941, 반응 1307 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 200946, 반응 1311 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186634,
+      "score": 186637,
       "comments": 509,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186634, 반응 509 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186637, 반응 509 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 168371,
-      "comments": 514,
+      "score": 168415,
+      "comments": 517,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 168371, 반응 514 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 168415, 반응 517 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167291,
+      "score": 167293,
       "comments": 65,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167291, 반응 65 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167293, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164527,
+      "score": 164531,
       "comments": 2502,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164527, 반응 2502 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164531, 반응 2502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157813,
+      "score": 157815,
       "comments": 59,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157813, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157815, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 152673,
-      "comments": 1007,
+      "score": 152686,
+      "comments": 1002,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152673, 반응 1007 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152686, 반응 1002 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 148983,
+      "score": 148994,
       "comments": 351,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148983, 반응 351 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 148994, 반응 351 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144367,
+      "score": 144388,
       "comments": 417,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144367, 반응 417 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144388, 반응 417 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude: System Prompts",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 669,
-      "comments": 256,
+      "score": 695,
+      "comments": 268,
       "text": "",
-      "summary": "Claude: System Prompts. 점수 669, 반응 256 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A third world engineer responds to “RISC-V: They should have known better”",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "score": 523,
-      "comments": 270,
-      "text": "",
-      "summary": "A third world engineer responds to “RISC-V: They should have known better”. 점수 523, 반응 270 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-      "url": "https://news.ycombinator.com/item?id=49322107",
-      "score": 520,
-      "comments": 143,
-      "text": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.",
-      "summary": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers. A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and then disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. 점수 520, 반응 143 기준 인기 이슈입니다."
+      "summary": "Claude: System Prompts. 점수 695, 반응 268 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "score": 512,
-      "comments": 238,
+      "score": 599,
+      "comments": 289,
       "text": "",
-      "summary": "Qwen 3.8 27B is excellent, but it defaults to overthinking things. 점수 512, 반응 238 기준 인기 이슈입니다."
+      "summary": "Qwen 3.8 27B is excellent, but it defaults to overthinking things. 점수 599, 반응 289 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "score": 366,
-      "comments": 224,
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "score": 559,
+      "comments": 167,
+      "text": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.",
+      "summary": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers. A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and then disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. 점수 559, 반응 167 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "score": 555,
+      "comments": 282,
       "text": "",
-      "summary": "Stripe will reportedly acquire OpenRouter for $7B+. 점수 366, 반응 224 기준 인기 이슈입니다."
+      "summary": "A third world engineer responds to “RISC-V: They should have known better”. 점수 555, 반응 282 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "score": 295,
-      "comments": 293,
+      "score": 416,
+      "comments": 400,
       "text": "",
-      "summary": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing. 점수 295, 반응 293 기준 인기 이슈입니다."
+      "summary": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing. 점수 416, 반응 400 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "score": 294,
-      "comments": 119,
+      "score": 303,
+      "comments": 123,
       "text": "",
-      "summary": "The AI Credit Resale Economy. 점수 294, 반응 119 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Low-Tech Ceramic Water Filter",
-      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-      "score": 191,
-      "comments": 54,
-      "text": "",
-      "summary": "Low-Tech Ceramic Water Filter. 점수 191, 반응 54 기준 인기 이슈입니다."
+      "summary": "The AI Credit Resale Economy. 점수 303, 반응 123 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GIMP Development Update",
       "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-      "score": 183,
-      "comments": 132,
+      "score": 217,
+      "comments": 183,
       "text": "",
-      "summary": "GIMP Development Update. 점수 183, 반응 132 기준 인기 이슈입니다."
+      "summary": "GIMP Development Update. 점수 217, 반응 183 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Protobuf has LSP support",
       "url": "https://buf.build/blog/protobuf-lsp",
-      "score": 156,
-      "comments": 107,
+      "score": 163,
+      "comments": 114,
       "text": "",
-      "summary": "Protobuf has LSP support. 점수 156, 반응 107 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Reticulum – Decentralized Mesh Network",
-      "url": "https://reticulum.network/",
-      "score": 133,
-      "comments": 41,
-      "text": "",
-      "summary": "Reticulum – Decentralized Mesh Network. 점수 133, 반응 41 기준 인기 이슈입니다."
+      "summary": "Protobuf has LSP support. 점수 163, 반응 114 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
       "url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
-      "score": 127,
-      "comments": 81,
+      "score": 158,
+      "comments": 105,
       "text": "",
-      "summary": "How do I permanently disable random Google Photos popup to backup photos? 점수 127, 반응 81 기준 인기 이슈입니다."
+      "summary": "How do I permanently disable random Google Photos popup to backup photos? 점수 158, 반응 105 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Reticulum – Decentralized Mesh Network",
+      "url": "https://reticulum.network/",
+      "score": 157,
+      "comments": 55,
+      "text": "",
+      "summary": "Reticulum – Decentralized Mesh Network. 점수 157, 반응 55 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "On A.I. regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "score": 137,
+      "comments": 242,
+      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;DarioAmodei&#x2F;status&#x2F;2088758816376807762\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;DarioAmodei&#x2F;status&#x2F;2088758816376807762</a>",
+      "summary": "regulation and messaging. https:&#x2F;&#x2F;xcancel.com&#x2F;DarioAmodei&#x2F;status&#x2F;2088758816376807762 점수 137, 반응 242 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
       "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-      "score": 121,
+      "score": 129,
+      "comments": 54,
+      "text": "",
+      "summary": "SIMD in the 90s: Programming Intel's Pentium MMX. 점수 129, 반응 54 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linear algebra done right",
+      "url": "https://linear.axler.net/",
+      "score": 119,
       "comments": 50,
       "text": "",
-      "summary": "SIMD in the 90s: Programming Intel's Pentium MMX. 점수 121, 반응 50 기준 인기 이슈입니다."
+      "summary": "Linear algebra done right. 점수 119, 반응 50 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 10
+    },
     {
       "keyword": "prompts",
       "count": 4
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "firecrawl",
-      "count": 2
-    },
-    {
-      "keyword": "api",
       "count": 2
     }
   ],
