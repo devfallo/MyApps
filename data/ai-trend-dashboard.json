@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T08:54:04.906325+00:00",
+  "updatedAt": "2026-08-19T10:45:45.317077+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,37 +10,37 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 386734,
-      "comments": 5769,
+      "score": 386750,
+      "comments": 5776,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 386734, 반응 5769 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 386750, 반응 5776 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 273893,
-      "comments": 287,
+      "score": 273955,
+      "comments": 288,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 273893, 반응 287 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 273955, 반응 288 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 232746,
-      "comments": 33407,
+      "score": 232789,
+      "comments": 33435,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 232746, 반응 33407 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 232789, 반응 33435 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 201155,
-      "comments": 1133,
+      "score": 201159,
+      "comments": 1065,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 201155, 반응 1133 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 201159, 반응 1065 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -55,28 +55,28 @@
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 169324,
+      "score": 169372,
       "comments": 525,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 169324, 반응 525 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 169372, 반응 525 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167505,
+      "score": 167518,
       "comments": 66,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167505, 반응 66 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167518, 반응 66 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164578,
+      "score": 164575,
       "comments": 2501,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164578, 반응 2501 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164575, 반응 2501 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,145 +91,145 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 152883,
-      "comments": 985,
+      "score": 152891,
+      "comments": 992,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152883, 반응 985 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 152891, 반응 992 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 149207,
+      "score": 149215,
       "comments": 376,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 149207, 반응 376 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 149215, 반응 376 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144532,
-      "comments": 407,
+      "score": 144541,
+      "comments": 408,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144532, 반응 407 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144541, 반응 408 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 1159,
-      "comments": 623,
+      "score": 1188,
+      "comments": 631,
       "text": "",
-      "summary": "The Amazon tax.  점수 1159, 반응 623 기준 인기 이슈입니다."
+      "summary": "The Amazon tax.  점수 1188, 반응 631 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
-      "score": 545,
-      "comments": 151,
+      "score": 739,
+      "comments": 213,
       "text": "",
-      "summary": "OpenLogi.  점수 545, 반응 151 기준 인기 이슈입니다."
+      "summary": "OpenLogi.  점수 739, 반응 213 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Being ambitious and being a dad",
       "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "score": 469,
-      "comments": 276,
+      "score": 524,
+      "comments": 334,
       "text": "",
-      "summary": "Being ambitious and being a dad. 점수 469, 반응 276 기준 인기 이슈입니다."
+      "summary": "Being ambitious and being a dad. 점수 524, 반응 334 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How does IKEA come up with names for its products?",
       "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "score": 338,
-      "comments": 216,
+      "score": 352,
+      "comments": 247,
       "text": "",
-      "summary": "How does IKEA come up with names for its products?. 점수 338, 반응 216 기준 인기 이슈입니다."
+      "summary": "How does IKEA come up with names for its products?. 점수 352, 반응 247 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "And then the men with guns tell you to do it anyway",
       "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-      "score": 308,
-      "comments": 195,
+      "score": 327,
+      "comments": 212,
       "text": "",
-      "summary": "And then the men with guns tell you to do it anyway. 점수 308, 반응 195 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 263,
-      "comments": 103,
-      "text": "",
-      "summary": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome. 점수 263, 반응 103 기준 인기 이슈입니다."
+      "summary": "And then the men with guns tell you to do it anyway. 점수 327, 반응 212 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cerebras CS-4",
       "url": "https://www.cerebras.ai/cs4",
-      "score": 255,
-      "comments": 179,
+      "score": 293,
+      "comments": 202,
       "text": "",
-      "summary": "Cerebras CS-4.  점수 255, 반응 179 기준 인기 이슈입니다."
+      "summary": "Cerebras CS-4.  점수 293, 반응 202 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 246,
-      "comments": 31,
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "score": 286,
+      "comments": 107,
       "text": "",
-      "summary": "Turbovec – Google's TurboQuant for vector search in Rust. 점수 246, 반응 31 기준 인기 이슈입니다."
+      "summary": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome. 점수 286, 반응 107 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
       "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-      "score": 230,
-      "comments": 167,
+      "score": 274,
+      "comments": 210,
       "text": "",
-      "summary": "Scientists stunned by children's lung recovery in ultra low emission zone. 점수 230, 반응 167 기준 인기 이슈입니다."
+      "summary": "Scientists stunned by children's lung recovery in ultra low emission zone. 점수 274, 반응 210 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "score": 252,
+      "comments": 31,
+      "text": "",
+      "summary": "Turbovec – Google's TurboQuant for vector search in Rust. 점수 252, 반응 31 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Meta's blockbuster trial draws parallels to big tobacco",
       "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-      "score": 224,
-      "comments": 171,
+      "score": 239,
+      "comments": 191,
       "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;a3165\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;a3165</a>",
-      "summary": "Meta's blockbuster trial draws parallels to big tobacco. https:&#x2F;&#x2F;archive.ph&#x2F;a3165 점수 224, 반응 171 기준 인기 이슈입니다."
+      "summary": "Meta's blockbuster trial draws parallels to big tobacco. https:&#x2F;&#x2F;archive.ph&#x2F;a3165 점수 239, 반응 191 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Finger: the 1971 social network that never died",
       "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-      "score": 206,
-      "comments": 63,
+      "score": 221,
+      "comments": 69,
       "text": "",
-      "summary": "Finger: the 1971 social network that never died. 점수 206, 반응 63 기준 인기 이슈입니다."
+      "summary": "Finger: the 1971 social network that never died. 점수 221, 반응 69 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
       "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-      "score": 192,
-      "comments": 152,
+      "score": 206,
+      "comments": 162,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;kuberwastaken&#x2F;status&#x2F;2089377982536388964\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;kuberwastaken&#x2F;status&#x2F;2089377982536388964</a><p><a href=\"https:&#x2F;&#x2F;cdn.kuber.studio&#x2F;chat&#x2F;hp-laser-1008a-driver\" rel=\"nofollow\">https:&#x2F;&#x2F;cdn.kuber.studio&#x2F;chat&#x2F;hp-laser-1008a-driver</a>",
-      "summary": "Claude writing a macOS driver for my obscure HP printer built only for Windows. https:&#x2F;&#x2F;xcancel.com&#x2F;kuberwastaken&#x2F;status&#x2F;2089377982536388964 https:&#x2F;&#x2F;cdn.kuber.studio&#x2F;chat&#x2F;hp-laser-1008a-driver 점수 192, 반응 152 기준 인기 이슈입니다."
+      "summary": "Claude writing a macOS driver for my obscure HP printer built only for Windows. https:&#x2F;&#x2F;xcancel.com&#x2F;kuberwastaken&#x2F;status&#x2F;2089377982536388964 https:&#x2F;&#x2F;cdn.kuber.studio&#x2F;chat&#x2F;hp-laser-1008a-driver 점수 206, 반응 162 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Apple announces changes for apps in the European Union",
       "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "score": 181,
-      "comments": 252,
+      "score": 203,
+      "comments": 291,
       "text": "",
-      "summary": "Apple announces changes for apps in the European Union. 점수 181, 반응 252 기준 인기 이슈입니다."
+      "summary": "Apple announces changes for apps in the European Union. 점수 203, 반응 291 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
