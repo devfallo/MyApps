@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T06:58:51.471355+00:00",
+  "updatedAt": "2026-08-22T08:47:19.102148+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 387068,
-      "comments": 6030,
+      "score": 387081,
+      "comments": 6027,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 387068, 반응 6030 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 387081, 반응 6027 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 275766,
-      "comments": 299,
+      "score": 275806,
+      "comments": 300,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 275766, 반응 299 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 275806, 반응 300 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 234095,
-      "comments": 34482,
+      "score": 234135,
+      "comments": 34506,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 234095, 반응 34482 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 234135, 반응 34506 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 201567,
+      "score": 201576,
       "comments": 1062,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 201567, 반응 1062 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 201576, 반응 1062 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186739,
-      "comments": 525,
+      "score": 186742,
+      "comments": 526,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186739, 반응 525 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186742, 반응 526 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 170667,
-      "comments": 546,
+      "score": 170692,
+      "comments": 547,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 170667, 반응 546 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 170692, 반응 547 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,185 +73,185 @@
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164610,
+      "score": 164609,
       "comments": 2503,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164610, 반응 2503 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164609, 반응 2503 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 157939,
+      "score": 157940,
       "comments": 59,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157939, 반응 59 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 157940, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 153167,
-      "comments": 953,
+      "score": 153178,
+      "comments": 955,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153167, 반응 953 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153178, 반응 955 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 149538,
-      "comments": 331,
+      "score": 149540,
+      "comments": 333,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 149538, 반응 331 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 149540, 반응 333 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144747,
-      "comments": 416,
+      "score": 144754,
+      "comments": 418,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144747, 반응 416 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144754, 반응 418 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "score": 1082,
-      "comments": 356,
+      "score": 1107,
+      "comments": 362,
       "text": "",
-      "summary": "Kagi added a setting for removing paywalled links from search results. 점수 1082, 반응 356 기준 인기 이슈입니다."
+      "summary": "Kagi added a setting for removing paywalled links from search results. 점수 1107, 반응 362 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Felony charges for citizen deleting phone data at US Border",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "score": 705,
-      "comments": 847,
+      "score": 761,
+      "comments": 886,
       "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;SflVC\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;SflVC</a><p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_2rokxux5cU\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_2rokxux5cU</a>",
-      "summary": "Felony charges for citizen deleting phone data at US Border. https:&#x2F;&#x2F;archive.ph&#x2F;SflVC https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_2rokxux5cU 점수 705, 반응 847 기준 인기 이슈입니다."
+      "summary": "Felony charges for citizen deleting phone data at US Border. https:&#x2F;&#x2F;archive.ph&#x2F;SflVC https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_2rokxux5cU 점수 761, 반응 886 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 619,
-      "comments": 256,
+      "score": 686,
+      "comments": 274,
       "text": "",
-      "summary": "Felony Bench.  점수 619, 반응 256 기준 인기 이슈입니다."
+      "summary": "Felony Bench.  점수 686, 반응 274 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "score": 506,
-      "comments": 55,
+      "score": 533,
+      "comments": 61,
       "text": "",
-      "summary": "I accidentally logged hundreds of thousands of phone calls to military bases. 점수 506, 반응 55 기준 인기 이슈입니다."
+      "summary": "I accidentally logged hundreds of thousands of phone calls to military bases. 점수 533, 반응 61 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 495,
-      "comments": 172,
+      "score": 532,
+      "comments": 186,
       "text": "",
-      "summary": "Kobo can run apps now. 점수 495, 반응 172 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I'm becoming AI-blind",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "score": 333,
-      "comments": 343,
-      "text": "",
-      "summary": "I'm becoming AI-blind. 점수 333, 반응 343 기준 인기 이슈입니다."
+      "summary": "Kobo can run apps now. 점수 532, 반응 186 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/",
-      "score": 311,
-      "comments": 217,
+      "score": 372,
+      "comments": 270,
       "text": "",
-      "summary": "There's no reason for software to be slow anymore. 점수 311, 반응 217 기준 인기 이슈입니다."
+      "summary": "There's no reason for software to be slow anymore. 점수 372, 반응 270 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "score": 353,
+      "comments": 352,
+      "text": "",
+      "summary": "I'm becoming AI-blind. 점수 353, 반응 352 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "score": 285,
-      "comments": 310,
+      "score": 299,
+      "comments": 316,
       "text": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;w1eng\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;w1eng</a><p><a href=\"https:&#x2F;&#x2F;papers.ssrn.com&#x2F;sol3&#x2F;papers.cfm?abstract_id=6868618\" rel=\"nofollow\">https:&#x2F;&#x2F;papers.ssrn.com&#x2F;sol3&#x2F;papers.cfm?abstract_id=6868618</a>",
-      "summary": "AI boosted homework scores, then exam scores dropped: study. https:&#x2F;&#x2F;archive.is&#x2F;w1eng https:&#x2F;&#x2F;papers.ssrn.com&#x2F;sol3&#x2F;papers.cfm?abstract_id=6868618 점수 285, 반응 310 기준 인기 이슈입니다."
+      "summary": "AI boosted homework scores, then exam scores dropped: study. https:&#x2F;&#x2F;archive.is&#x2F;w1eng https:&#x2F;&#x2F;papers.ssrn.com&#x2F;sol3&#x2F;papers.cfm?abstract_id=6868618 점수 299, 반응 316 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
       "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "score": 243,
-      "comments": 173,
+      "score": 260,
+      "comments": 177,
       "text": "",
-      "summary": "Claudette: Make Claude stop talking like a BuzzFeed article. 점수 243, 반응 173 기준 인기 이슈입니다."
+      "summary": "Claudette: Make Claude stop talking like a BuzzFeed article. 점수 260, 반응 177 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
       "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-      "score": 229,
-      "comments": 164,
+      "score": 236,
+      "comments": 165,
       "text": "",
-      "summary": "New Worlds: We are living in the future of J.G. Ballard or William Gibson. 점수 229, 반응 164 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The coolest anti-surveillance tools at Defcon [video]",
-      "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
-      "score": 188,
-      "comments": 25,
-      "text": "",
-      "summary": "The coolest anti-surveillance tools at Defcon [video]. 점수 188, 반응 25 기준 인기 이슈입니다."
+      "summary": "New Worlds: We are living in the future of J.G. Ballard or William Gibson. 점수 236, 반응 165 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Scientists release biggest 2D map of the universe",
       "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "score": 180,
+      "score": 198,
       "comments": 55,
       "text": "Direct link to Legacy Survey Sky Viewer: <a href=\"https:&#x2F;&#x2F;viewer.legacysurvey.org\" rel=\"nofollow\">https:&#x2F;&#x2F;viewer.legacysurvey.org</a>",
-      "summary": "Scientists release biggest 2D map of the universe. Direct link to Legacy Survey Sky Viewer: https:&#x2F;&#x2F;viewer.legacysurvey.org 점수 180, 반응 55 기준 인기 이슈입니다."
+      "summary": "Scientists release biggest 2D map of the universe. Direct link to Legacy Survey Sky Viewer: https:&#x2F;&#x2F;viewer.legacysurvey.org 점수 198, 반응 55 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "How we made a text-to-speech model respond in sub-50 ms",
-      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "score": 131,
-      "comments": 32,
+      "title": "The coolest anti-surveillance tools at Defcon [video]",
+      "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+      "score": 195,
+      "comments": 28,
       "text": "",
-      "summary": "How we made a text-to-speech model respond in sub-50 ms. 점수 131, 반응 32 기준 인기 이슈입니다."
+      "summary": "The coolest anti-surveillance tools at Defcon [video]. 점수 195, 반응 28 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "score": 172,
+      "comments": 35,
+      "text": "<a href=\"https:&#x2F;&#x2F;matklad.github.io&#x2F;2026&#x2F;08&#x2F;21&#x2F;rust-glancer.html\" rel=\"nofollow\">https:&#x2F;&#x2F;matklad.github.io&#x2F;2026&#x2F;08&#x2F;21&#x2F;rust-glancer.html</a>",
+      "summary": "Rust Glancer: Rust LSP using 100x less RAM. https:&#x2F;&#x2F;matklad.github.io&#x2F;2026&#x2F;08&#x2F;21&#x2F;rust-glancer.html 점수 172, 반응 35 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 30
+      "count": 42
     },
     {
       "keyword": "https",
-      "count": 10
+      "count": 12
     },
     {
       "keyword": "href",
-      "count": 5
+      "count": 6
     },
     {
       "keyword": "rel",
-      "count": 5
+      "count": 6
     },
     {
       "keyword": "nofollow",
-      "count": 5
+      "count": 6
     },
     {
       "keyword": "archive",
