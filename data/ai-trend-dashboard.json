@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T13:01:37.512659+00:00",
+  "updatedAt": "2026-08-23T14:39:30.215824+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 387213,
-      "comments": 6042,
+      "score": 387222,
+      "comments": 6028,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 387213, 반응 6042 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 387222, 반응 6028 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 276501,
-      "comments": 309,
+      "score": 276522,
+      "comments": 310,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 276501, 반응 309 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 276522, 반응 310 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 234639,
-      "comments": 34932,
+      "score": 234705,
+      "comments": 34957,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 234639, 반응 34932 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 234705, 반응 34957 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 202056,
+      "score": 202073,
       "comments": 1070,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202056, 반응 1070 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202073, 반응 1070 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186806,
-      "comments": 540,
+      "score": 186809,
+      "comments": 541,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186806, 반응 540 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186809, 반응 541 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 171179,
-      "comments": 551,
+      "score": 171216,
+      "comments": 552,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 171179, 반응 551 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 171216, 반응 552 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167796,
+      "score": 167801,
       "comments": 68,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167796, 반응 68 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167801, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164618,
+      "score": 164622,
       "comments": 2503,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164618, 반응 2503 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164622, 반응 2503 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,145 +91,145 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 153262,
-      "comments": 970,
+      "score": 153270,
+      "comments": 973,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153262, 반응 970 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153270, 반응 973 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 149634,
-      "comments": 329,
+      "score": 149643,
+      "comments": 330,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 149634, 반응 329 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 149643, 반응 330 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "score": 144823,
-      "comments": 418,
+      "comments": 419,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144823, 반응 418 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144823, 반응 419 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "url": "https://quantumi.sh/public/labs.html",
-      "score": 423,
+      "score": 433,
       "comments": 129,
       "text": "",
-      "summary": "ElevenLabs, TwelveLabs, ThirteenLabs. 점수 423, 반응 129 기준 인기 이슈입니다."
+      "summary": "ElevenLabs, TwelveLabs, ThirteenLabs. 점수 433, 반응 129 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Hister – A private, full content search index that you control",
       "url": "https://hister.org/",
-      "score": 393,
-      "comments": 87,
+      "score": 413,
+      "comments": 92,
       "text": "",
-      "summary": "Hister – A private, full content search index that you control. 점수 393, 반응 87 기준 인기 이슈입니다."
+      "summary": "Hister – A private, full content search index that you control. 점수 413, 반응 92 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 389,
-      "comments": 152,
+      "score": 405,
+      "comments": 165,
       "text": "",
-      "summary": "Why your local LLM feels dumber than it is. 점수 389, 반응 152 기준 인기 이슈입니다."
+      "summary": "Why your local LLM feels dumber than it is. 점수 405, 반응 165 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Scrap (2006)",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 383,
-      "comments": 203,
+      "score": 384,
+      "comments": 208,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;moxie&#x2F;status&#x2F;2091218652133732491\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;moxie&#x2F;status&#x2F;2091218652133732491</a>",
-      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;moxie&#x2F;status&#x2F;2091218652133732491 점수 383, 반응 203 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;moxie&#x2F;status&#x2F;2091218652133732491 점수 384, 반응 208 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "typ.ing",
       "url": "https://typ.ing/",
-      "score": 299,
-      "comments": 94,
+      "score": 315,
+      "comments": 98,
       "text": "",
-      "summary": "typ.ing.  점수 299, 반응 94 기준 인기 이슈입니다."
+      "summary": "typ.ing.  점수 315, 반응 98 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Munder Difflin – Agent harness to run an office of your clones",
       "url": "https://munderdiffl.in/",
-      "score": 290,
-      "comments": 125,
+      "score": 294,
+      "comments": 131,
       "text": "",
-      "summary": "Munder Difflin – Agent harness to run an office of your clones. 점수 290, 반응 125 기준 인기 이슈입니다."
+      "summary": "Munder Difflin – Agent harness to run an office of your clones. 점수 294, 반응 131 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "To become a better writer, read as much as you can",
       "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "score": 243,
-      "comments": 159,
+      "score": 292,
+      "comments": 189,
       "text": "",
-      "summary": "To become a better writer, read as much as you can. 점수 243, 반응 159 기준 인기 이슈입니다."
+      "summary": "To become a better writer, read as much as you can. 점수 292, 반응 189 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A Friendly Introduction to Racket",
       "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "score": 243,
-      "comments": 131,
+      "score": 250,
+      "comments": 134,
       "text": "",
-      "summary": "A Friendly Introduction to Racket. 점수 243, 반응 131 기준 인기 이슈입니다."
+      "summary": "A Friendly Introduction to Racket. 점수 250, 반응 134 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New MCP Roadmap",
       "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "score": 226,
-      "comments": 137,
+      "score": 239,
+      "comments": 141,
       "text": "",
-      "summary": "New MCP Roadmap.  점수 226, 반응 137 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "RF Cafe",
-      "url": "https://www.rfcafe.com/",
-      "score": 216,
-      "comments": 41,
-      "text": "",
-      "summary": "RF Cafe.  점수 216, 반응 41 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A week of using Codex more than Claude",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "score": 215,
-      "comments": 236,
-      "text": "",
-      "summary": "A week of using Codex more than Claude. 점수 215, 반응 236 기준 인기 이슈입니다."
+      "summary": "New MCP Roadmap.  점수 239, 반응 141 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Thinking in Python",
       "url": "https://thinkinginpython.com/",
-      "score": 210,
-      "comments": 39,
+      "score": 238,
+      "comments": 43,
       "text": "",
-      "summary": "Thinking in Python.  점수 210, 반응 39 기준 인기 이슈입니다."
+      "summary": "Thinking in Python.  점수 238, 반응 43 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "RF Cafe",
+      "url": "https://www.rfcafe.com/",
+      "score": 224,
+      "comments": 44,
+      "text": "",
+      "summary": "RF Cafe.  점수 224, 반응 44 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "score": 177,
-      "comments": 84,
+      "score": 184,
+      "comments": 92,
       "text": "",
-      "summary": "How a Texas student blew the whistle on a rogue AI hacking attempt. 점수 177, 반응 84 기준 인기 이슈입니다."
+      "summary": "How a Texas student blew the whistle on a rogue AI hacking attempt. 점수 184, 반응 92 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "url": "https://atproto.com/blog/atproto-spaces-alpha",
+      "score": 158,
+      "comments": 25,
+      "text": "",
+      "summary": "ATProto spaces: A new extension to ATProto that enables non-public data. 점수 158, 반응 25 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
