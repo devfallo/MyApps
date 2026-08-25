@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T04:53:37.144373+00:00",
+  "updatedAt": "2026-08-25T07:07:55.540078+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 387480,
-      "comments": 5927,
+      "score": 387503,
+      "comments": 5921,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 387480, 반응 5927 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 387503, 반응 5921 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 277183,
+      "score": 277220,
       "comments": 314,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 277183, 반응 314 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 277220, 반응 314 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 235935,
-      "comments": 35530,
+      "score": 236018,
+      "comments": 35548,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 235935, 반응 35530 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 236018, 반응 35548 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 202326,
+      "score": 202336,
       "comments": 1076,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202326, 반응 1076 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202336, 반응 1076 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186852,
+      "score": 186853,
       "comments": 519,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186852, 반응 519 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186853, 반응 519 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 171948,
+      "score": 171991,
       "comments": 553,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 171948, 반응 553 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 171991, 반응 553 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,154 +82,154 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158006,
+      "score": 158009,
       "comments": 19,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158006, 반응 19 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158009, 반응 19 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 153416,
-      "comments": 964,
+      "score": 153431,
+      "comments": 962,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153416, 반응 964 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153431, 반응 962 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 149821,
-      "comments": 232,
+      "score": 149826,
+      "comments": 231,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 149821, 반응 232 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 149826, 반응 231 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144929,
-      "comments": 417,
+      "score": 144935,
+      "comments": 421,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144929, 반응 417 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144935, 반응 421 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "score": 1138,
-      "comments": 678,
+      "score": 1233,
+      "comments": 730,
       "text": "",
-      "summary": "How Europe is killing makers and micro-entrepreneurs. 점수 1138, 반응 678 기준 인기 이슈입니다."
+      "summary": "How Europe is killing makers and micro-entrepreneurs. 점수 1233, 반응 730 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 782,
-      "comments": 528,
+      "score": 825,
+      "comments": 575,
       "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926</a>",
-      "summary": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded. https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926 점수 782, 반응 528 기준 인기 이슈입니다."
+      "summary": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded. https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926 점수 825, 반응 575 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 617,
-      "comments": 243,
+      "score": 663,
+      "comments": 266,
       "text": "",
-      "summary": "MS Paint and Photos inivisibly watermark even locally generated output with GUID. 점수 617, 반응 243 기준 인기 이슈입니다."
+      "summary": "MS Paint and Photos inivisibly watermark even locally generated output with GUID. 점수 663, 반응 266 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Oceans hit highest temperature on record",
       "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "score": 464,
-      "comments": 373,
+      "score": 497,
+      "comments": 398,
       "text": "",
-      "summary": "Oceans hit highest temperature on record. 점수 464, 반응 373 기준 인기 이슈입니다."
+      "summary": "Oceans hit highest temperature on record. 점수 497, 반응 398 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
-      "score": 395,
-      "comments": 130,
+      "score": 429,
+      "comments": 138,
       "text": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;cdngdev&#x2F;status&#x2F;2091909073038082139\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;cdngdev&#x2F;status&#x2F;2091909073038082139</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;cdngdev&#x2F;status&#x2F;2091909073038082139\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;cdngdev&#x2F;status&#x2F;2091909073038082139</a>",
-      "summary": "The entire city of San Francisco as a video game. https:&#x2F;&#x2F;twitter.com&#x2F;cdngdev&#x2F;status&#x2F;2091909073038082139 , https:&#x2F;&#x2F;xcancel.com&#x2F;cdngdev&#x2F;status&#x2F;2091909073038082139 점수 395, 반응 130 기준 인기 이슈입니다."
+      "summary": "The entire city of San Francisco as a video game. https:&#x2F;&#x2F;twitter.com&#x2F;cdngdev&#x2F;status&#x2F;2091909073038082139 , https:&#x2F;&#x2F;xcancel.com&#x2F;cdngdev&#x2F;status&#x2F;2091909073038082139 점수 429, 반응 138 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "score": 321,
-      "comments": 77,
+      "score": 394,
+      "comments": 103,
       "text": "",
-      "summary": "iCloud+ Hide My Email addresses will remain on icloud.com. 점수 321, 반응 77 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Jabber/XMPP: 25 Years of Digital Independence",
-      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "score": 196,
-      "comments": 91,
-      "text": "",
-      "summary": "Jabber/XMPP: 25 Years of Digital Independence. 점수 196, 반응 91 기준 인기 이슈입니다."
+      "summary": "iCloud+ Hide My Email addresses will remain on icloud.com. 점수 394, 반응 103 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Where did all the public bathrooms go?",
       "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "score": 191,
-      "comments": 408,
+      "score": 211,
+      "comments": 491,
       "text": "",
-      "summary": "Where did all the public bathrooms go?. 점수 191, 반응 408 기준 인기 이슈입니다."
+      "summary": "Where did all the public bathrooms go?. 점수 211, 반응 491 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jabber/XMPP: 25 Years of Digital Independence",
+      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+      "score": 211,
+      "comments": 103,
+      "text": "",
+      "summary": "Jabber/XMPP: 25 Years of Digital Independence. 점수 211, 반응 103 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "SeL4 security proofs now complete on AArch64",
       "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "score": 176,
-      "comments": 38,
+      "score": 182,
+      "comments": 41,
       "text": "",
-      "summary": "SeL4 security proofs now complete on AArch64. 점수 176, 반응 38 기준 인기 이슈입니다."
+      "summary": "SeL4 security proofs now complete on AArch64. 점수 182, 반응 41 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Moon (2024)",
       "url": "https://ciechanow.ski/moon/",
-      "score": 127,
-      "comments": 20,
+      "score": 156,
+      "comments": 28,
       "text": "",
-      "summary": "Moon (2024).  점수 127, 반응 20 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-      "score": 113,
-      "comments": 68,
-      "text": "",
-      "summary": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study. 점수 113, 반응 68 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "score": 112,
-      "comments": 58,
-      "text": "",
-      "summary": "LLMs could control their host machines by exploiting inference engines. 점수 112, 반응 58 기준 인기 이슈입니다."
+      "summary": "Moon (2024).  점수 156, 반응 28 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Octopus intelligence may be related to never-before-seen mutation",
       "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-      "score": 111,
-      "comments": 85,
+      "score": 139,
+      "comments": 97,
       "text": "",
-      "summary": "Octopus intelligence may be related to never-before-seen mutation. 점수 111, 반응 85 기준 인기 이슈입니다."
+      "summary": "Octopus intelligence may be related to never-before-seen mutation. 점수 139, 반응 97 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+      "score": 138,
+      "comments": 70,
+      "text": "",
+      "summary": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study. 점수 138, 반응 70 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "score": 128,
+      "comments": 60,
+      "text": "",
+      "summary": "LLMs could control their host machines by exploiting inference engines. 점수 128, 반응 60 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
