@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T22:44:48.822784+00:00",
+  "updatedAt": "2026-08-26T01:58:08.651187+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,255 +10,255 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 387604,
-      "comments": 5960,
+      "score": 387611,
+      "comments": 5917,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 387604, 반응 5960 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 387611, 반응 5917 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 277543,
+      "score": 277597,
       "comments": 316,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 277543, 반응 316 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 277597, 반응 316 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 236392,
-      "comments": 35957,
+      "score": 236440,
+      "comments": 35963,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 236392, 반응 35957 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 236440, 반응 35963 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 202417,
+      "score": 202423,
       "comments": 1079,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202417, 반응 1079 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202423, 반응 1079 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186863,
+      "score": 186868,
       "comments": 525,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186863, 반응 525 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186868, 반응 525 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 172322,
-      "comments": 557,
+      "score": 172370,
+      "comments": 559,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 172322, 반응 557 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 172370, 반응 559 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167896,
+      "score": 167900,
       "comments": 68,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167896, 반응 68 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167900, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164662,
+      "score": 164666,
       "comments": 2503,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164662, 반응 2503 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164666, 반응 2503 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158032,
+      "score": 158034,
       "comments": 20,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158032, 반응 20 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158034, 반응 20 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 153496,
-      "comments": 965,
+      "score": 153509,
+      "comments": 962,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153496, 반응 965 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153509, 반응 962 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 149910,
+      "score": 149921,
       "comments": 194,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 149910, 반응 194 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 149921, 반응 194 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 144978,
-      "comments": 425,
+      "score": 144988,
+      "comments": 426,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144978, 반응 425 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 144988, 반응 426 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "score": 1011,
-      "comments": 152,
+      "score": 1222,
+      "comments": 190,
       "text": "<a href=\"https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-death\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de...</a><p><a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-dead.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-d...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;w4vsE\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;w4vsE</a><p><a href=\"https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;music&#x2F;music-news&#x2F;dolly-parton-dead-country-music-1236680877&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;music&#x2F;music-news&#x2F;dolly-par...</a>",
-      "summary": "Dolly Parton has died. https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de... https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-d... 점수 1011, 반응 152 기준 인기 이슈입니다."
+      "summary": "Dolly Parton has died. https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de... https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-d... 점수 1222, 반응 190 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 876,
-      "comments": 811,
+      "score": 963,
+      "comments": 902,
       "text": "<a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe...</a><p><a href=\"https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-here-are-all-the-new-features&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-he...</a>",
-      "summary": "Apple introduces M6 and M5 Ultra. https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe... https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-he... 점수 876, 반응 811 기준 인기 이슈입니다."
+      "summary": "Apple introduces M6 and M5 Ultra. https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe... https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-he... 점수 963, 반응 902 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 669,
-      "comments": 407,
+      "score": 705,
+      "comments": 451,
       "text": "",
-      "summary": "New Mac Studio with M5 Max and M5 Ultra. 점수 669, 반응 407 기준 인기 이슈입니다."
+      "summary": "New Mac Studio with M5 Max and M5 Ultra. 점수 705, 반응 451 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Nitter project received cease and desist",
+      "title": "Nitter and XCancel receive cease and desist notices",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 481,
-      "comments": 321,
-      "text": "",
-      "summary": "Nitter project received cease and desist. 점수 481, 반응 321 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "New Mac mini, featuring M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 395,
-      "comments": 223,
-      "text": "",
-      "summary": "New Mac mini, featuring M6 and M5 Pro. 점수 395, 반응 223 기준 인기 이슈입니다."
+      "score": 644,
+      "comments": 543,
+      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter&#x2F;issues&#x2F;1442\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter&#x2F;issues&#x2F;1442</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;</a>",
+      "summary": "Nitter and XCancel receive cease and desist notices. https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter&#x2F;issues&#x2F;1442 https:&#x2F;&#x2F;xcancel.com&#x2F; 점수 644, 반응 543 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "My Friend Aaron",
       "url": "https://rorz.io/writing/my-friend-aaron",
-      "score": 381,
-      "comments": 95,
+      "score": 449,
+      "comments": 123,
       "text": "",
-      "summary": "My Friend Aaron.  점수 381, 반응 95 기준 인기 이슈입니다."
+      "summary": "My Friend Aaron.  점수 449, 반응 123 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Don't Wordle",
-      "url": "https://dontwordle.com/",
-      "score": 284,
-      "comments": 111,
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "score": 430,
+      "comments": 262,
       "text": "",
-      "summary": "Don't Wordle.  점수 284, 반응 111 기준 인기 이슈입니다."
+      "summary": "New Mac mini, featuring M6 and M5 Pro. 점수 430, 반응 262 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 250,
-      "comments": 167,
+      "score": 331,
+      "comments": 227,
       "text": "<a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-claims-its-new-chips-can-outperform-nvidia-processors-in-tests\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr</a>",
-      "summary": "OpenAI Jalapeño: Better than Nvidia Blackwell. https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl... , https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr 점수 250, 반응 167 기준 인기 이슈입니다."
+      "summary": "OpenAI Jalapeño: Better than Nvidia Blackwell. https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl... , https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr 점수 331, 반응 227 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 236,
-      "comments": 130,
+      "title": "Don't Wordle",
+      "url": "https://dontwordle.com/",
+      "score": 310,
+      "comments": 116,
       "text": "",
-      "summary": "Bomb fishing is wreaking havoc on Indonesia's coral reefs. 점수 236, 반응 130 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Building a backyard office, the build and cost breakdown",
-      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "score": 226,
-      "comments": 170,
-      "text": "",
-      "summary": "Building a backyard office, the build and cost breakdown. 점수 226, 반응 170 기준 인기 이슈입니다."
+      "summary": "Don't Wordle.  점수 310, 반응 116 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Firefox 157 will include JPEG XL by default on all platforms",
       "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-      "score": 224,
-      "comments": 47,
+      "score": 283,
+      "comments": 73,
       "text": "",
-      "summary": "Firefox 157 will include JPEG XL by default on all platforms. 점수 224, 반응 47 기준 인기 이슈입니다."
+      "summary": "Firefox 157 will include JPEG XL by default on all platforms. 점수 283, 반응 73 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Starbase, LA",
-      "url": "https://www.spacex.com/sites/starbase-la",
-      "score": 189,
-      "comments": 313,
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "score": 272,
+      "comments": 143,
       "text": "",
-      "summary": "Starbase, LA.  점수 189, 반응 313 기준 인기 이슈입니다."
+      "summary": "Bomb fishing is wreaking havoc on Indonesia's coral reefs. 점수 272, 반응 143 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "score": 173,
-      "comments": 114,
+      "score": 271,
+      "comments": 145,
       "text": "",
-      "summary": "FDA authorizes first wearable device that monitors ketone and blood sugar levels. 점수 173, 반응 114 기준 인기 이슈입니다."
+      "summary": "FDA authorizes first wearable device that monitors ketone and blood sugar levels. 점수 271, 반응 145 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building a backyard office, the build and cost breakdown",
+      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+      "score": 269,
+      "comments": 190,
+      "text": "",
+      "summary": "Building a backyard office, the build and cost breakdown. 점수 269, 반응 190 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Starbase, LA",
+      "url": "https://www.spacex.com/sites/starbase-la",
+      "score": 225,
+      "comments": 393,
+      "text": "",
+      "summary": "Starbase, LA.  점수 225, 반응 393 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 91
+      "count": 109
     },
     {
       "keyword": "https",
-      "count": 16
+      "count": 20
     },
     {
       "keyword": "com",
-      "count": 12
+      "count": 16
     },
     {
       "keyword": "href",
-      "count": 8
-    },
-    {
-      "keyword": "www",
-      "count": 8
+      "count": 10
     },
     {
       "keyword": "rel",
-      "count": 8
+      "count": 10
     },
     {
       "keyword": "nofollow",
+      "count": 10
+    },
+    {
+      "keyword": "www",
       "count": 8
     },
     {
@@ -282,15 +282,15 @@
       "count": 3
     },
     {
+      "keyword": "nitter",
+      "count": 3
+    },
+    {
+      "keyword": "xcancel",
+      "count": 3
+    },
+    {
       "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "agentic",
       "count": 2
     }
   ],
