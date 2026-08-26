@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T15:52:31.531733+00:00",
+  "updatedAt": "2026-08-26T16:59:12.372949+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -11,72 +11,72 @@
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "score": 387705,
-      "comments": 5718,
+      "comments": 5725,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 387705, 반응 5718 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 387705, 반응 5725 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 277928,
+      "score": 277954,
       "comments": 318,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 277928, 반응 318 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 277954, 반응 318 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 236752,
-      "comments": 36100,
+      "score": 236777,
+      "comments": 36124,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 236752, 반응 36100 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 236777, 반응 36124 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 202496,
-      "comments": 1096,
+      "score": 202506,
+      "comments": 1100,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202496, 반응 1096 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202506, 반응 1100 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186882,
+      "score": 186883,
       "comments": 518,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186882, 반응 518 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186883, 반응 518 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 172669,
-      "comments": 554,
+      "score": 172686,
+      "comments": 555,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 172669, 반응 554 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 172686, 반응 555 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167940,
+      "score": 167942,
       "comments": 68,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167940, 반응 68 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167942, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164670,
+      "score": 164671,
       "comments": 2503,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164670, 반응 2503 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164671, 반응 2503 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,145 +91,145 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 153578,
-      "comments": 954,
+      "score": 153581,
+      "comments": 955,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153578, 반응 954 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153581, 반응 955 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 150006,
-      "comments": 205,
+      "score": 150005,
+      "comments": 206,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 150006, 반응 205 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 150005, 반응 206 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 145051,
+      "score": 145054,
       "comments": 430,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145051, 반응 430 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145054, 반응 430 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AWS Acquires DuckDB",
       "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "score": 562,
-      "comments": 140,
+      "score": 682,
+      "comments": 185,
       "text": "",
-      "summary": "AWS Acquires DuckDB.  점수 562, 반응 140 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "score": 354,
-      "comments": 126,
-      "text": "",
-      "summary": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights. 점수 354, 반응 126 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "score": 319,
-      "comments": 99,
-      "text": "",
-      "summary": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency. 점수 319, 반응 99 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "RAG Is Simpler Than You Think",
-      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "score": 295,
-      "comments": 133,
-      "text": "",
-      "summary": "RAG Is Simpler Than You Think. 점수 295, 반응 133 기준 인기 이슈입니다."
+      "summary": "AWS Acquires DuckDB.  점수 682, 반응 185 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GLM-5.3-Flash",
       "url": "https://z.ai/blog/glm-5.3-flash",
-      "score": 290,
-      "comments": 122,
+      "score": 432,
+      "comments": 186,
       "text": "",
-      "summary": "GLM-5.3-Flash.  점수 290, 반응 122 기준 인기 이슈입니다."
+      "summary": "GLM-5.3-Flash.  점수 432, 반응 186 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Meta reaches $16.68B settlement over social media harms to children",
-      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
-      "score": 275,
-      "comments": 240,
+      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "score": 393,
+      "comments": 119,
       "text": "",
-      "summary": "Meta reaches $16.68B settlement over social media harms to children. 점수 275, 반응 240 기준 인기 이슈입니다."
+      "summary": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency. 점수 393, 반응 119 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "score": 377,
+      "comments": 132,
+      "text": "",
+      "summary": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights. 점수 377, 반응 132 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "RAG Is Simpler Than You Think",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "score": 326,
+      "comments": 147,
+      "text": "",
+      "summary": "RAG Is Simpler Than You Think. 점수 326, 반응 147 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
       "url": "https://www.youtube.com/watch?v=656058JxTM0",
-      "score": 200,
-      "comments": 68,
+      "score": 221,
+      "comments": 71,
       "text": "",
-      "summary": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]. 점수 200, 반응 68 기준 인기 이슈입니다."
+      "summary": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]. 점수 221, 반응 71 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "France reaches 94.9% fiber coverage in 2026",
+      "url": "https://cartefibre.arcep.fr",
+      "score": 154,
+      "comments": 94,
+      "text": "",
+      "summary": "France reaches 94.9% fiber coverage in 2026. 점수 154, 반응 94 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Oldinsurancemaps.net is now a Charter Project",
       "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-      "score": 137,
-      "comments": 25,
+      "score": 147,
+      "comments": 27,
       "text": "",
-      "summary": "Oldinsurancemaps.net is now a Charter Project. 점수 137, 반응 25 기준 인기 이슈입니다."
+      "summary": "Oldinsurancemaps.net is now a Charter Project. 점수 147, 반응 27 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Twitter Viewer – View Twitter Without Account",
       "url": "https://twitterwebviewer.com/",
-      "score": 91,
-      "comments": 32,
+      "score": 131,
+      "comments": 49,
       "text": "",
-      "summary": "Twitter Viewer – View Twitter Without Account. 점수 91, 반응 32 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Value Classes Still Need Compiler Sympathy",
-      "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-      "score": 69,
-      "comments": 35,
-      "text": "",
-      "summary": "Value Classes Still Need Compiler Sympathy. 점수 69, 반응 35 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Beyond Recall and the Illusion of Competence",
-      "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-      "score": 64,
-      "comments": 20,
-      "text": "",
-      "summary": "Beyond Recall and the Illusion of Competence. 점수 64, 반응 20 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A curmudgeon tries a language server",
-      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
-      "score": 53,
-      "comments": 33,
-      "text": "",
-      "summary": "A curmudgeon tries a language server. 점수 53, 반응 33 기준 인기 이슈입니다."
+      "summary": "Twitter Viewer – View Twitter Without Account. 점수 131, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nebula Sans",
       "url": "https://www.nebulasans.com",
-      "score": 47,
-      "comments": 19,
+      "score": 124,
+      "comments": 54,
       "text": "",
-      "summary": "Nebula Sans.  점수 47, 반응 19 기준 인기 이슈입니다."
+      "summary": "Nebula Sans.  점수 124, 반응 54 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Disruption with Some GitHub Services",
+      "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+      "score": 117,
+      "comments": 63,
+      "text": "",
+      "summary": "Disruption with Some GitHub Services. 점수 117, 반응 63 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tim Curry, Star of Rocky Horror Picture Show and Stephen King's It, Dies Aged 80",
+      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+      "score": 109,
+      "comments": 24,
+      "text": "",
+      "summary": "Tim Curry, Star of Rocky Horror Picture Show and Stephen King's It, Dies Aged 80. 점수 109, 반응 24 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+      "url": "https://farmaction.us/taylorfarmsreport/",
+      "score": 94,
+      "comments": 56,
+      "text": "",
+      "summary": "Taylor Farms: How One Company's Reach Became a National Risk. 점수 94, 반응 56 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
