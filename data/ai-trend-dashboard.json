@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T09:01:52.109158+00:00",
+  "updatedAt": "2026-08-26T10:51:10.606644+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 387674,
-      "comments": 5747,
+      "score": 387677,
+      "comments": 5709,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 387674, 반응 5747 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 387677, 반응 5709 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 277752,
-      "comments": 316,
+      "score": 277802,
+      "comments": 317,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 277752, 반응 316 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 277802, 반응 317 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 236597,
-      "comments": 36025,
+      "score": 236634,
+      "comments": 36063,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 236597, 반응 36025 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 236634, 반응 36063 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 202460,
-      "comments": 1079,
+      "score": 202471,
+      "comments": 1082,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202460, 반응 1079 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202471, 반응 1082 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 186876,
-      "comments": 522,
+      "score": 186878,
+      "comments": 523,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186876, 반응 522 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 186878, 반응 523 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 172529,
-      "comments": 557,
+      "score": 172560,
+      "comments": 558,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 172529, 반응 557 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 172560, 반응 558 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 167922,
+      "score": 167926,
       "comments": 68,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167922, 반응 68 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 167926, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164667,
+      "score": 164669,
       "comments": 2503,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164667, 반응 2503 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164669, 반응 2503 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,183 +91,171 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 153558,
-      "comments": 942,
+      "score": 153568,
+      "comments": 948,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153558, 반응 942 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153568, 반응 948 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 149956,
-      "comments": 198,
+      "score": 149962,
+      "comments": 202,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 149956, 반응 198 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 149962, 반응 202 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 145026,
+      "score": 145031,
       "comments": 431,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145026, 반응 431 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Dolly Parton has died",
-      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "score": 1453,
-      "comments": 222,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-death\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de...</a><p><a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-dead.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-d...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;w4vsE\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;w4vsE</a><p><a href=\"https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;music&#x2F;music-news&#x2F;dolly-parton-dead-country-music-1236680877&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;music&#x2F;music-news&#x2F;dolly-par...</a>",
-      "summary": "Dolly Parton has died. https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de... https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-d... 점수 1453, 반응 222 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145031, 반응 431 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 1128,
-      "comments": 1086,
+      "score": 1153,
+      "comments": 1126,
       "text": "<a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe...</a><p><a href=\"https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-here-are-all-the-new-features&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-he...</a>",
-      "summary": "Apple introduces M6 and M5 Ultra. https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe... https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-he... 점수 1128, 반응 1086 기준 인기 이슈입니다."
+      "summary": "Apple introduces M6 and M5 Ultra. https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe... https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-he... 점수 1153, 반응 1126 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nitter and XCancel receive cease and desist notices",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 906,
-      "comments": 752,
+      "score": 972,
+      "comments": 804,
       "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter&#x2F;issues&#x2F;1442\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter&#x2F;issues&#x2F;1442</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;</a>",
-      "summary": "Nitter and XCancel receive cease and desist notices. https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter&#x2F;issues&#x2F;1442 https:&#x2F;&#x2F;xcancel.com&#x2F; 점수 906, 반응 752 기준 인기 이슈입니다."
+      "summary": "Nitter and XCancel receive cease and desist notices. https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitter&#x2F;issues&#x2F;1442 https:&#x2F;&#x2F;xcancel.com&#x2F; 점수 972, 반응 804 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 768,
-      "comments": 506,
+      "score": 770,
+      "comments": 515,
       "text": "",
-      "summary": "New Mac Studio with M5 Max and M5 Ultra. 점수 768, 반응 506 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "My Friend Aaron",
-      "url": "https://rorz.io/writing/my-friend-aaron",
-      "score": 555,
-      "comments": 151,
-      "text": "",
-      "summary": "My Friend Aaron.  점수 555, 반응 151 기준 인기 이슈입니다."
+      "summary": "New Mac Studio with M5 Max and M5 Ultra. 점수 770, 반응 515 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 493,
-      "comments": 302,
+      "score": 501,
+      "comments": 317,
       "text": "",
-      "summary": "New Mac mini, featuring M6 and M5 Pro. 점수 493, 반응 302 기준 인기 이슈입니다."
+      "summary": "New Mac mini, featuring M6 and M5 Pro. 점수 501, 반응 317 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 474,
-      "comments": 303,
+      "score": 494,
+      "comments": 317,
       "text": "<a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-claims-its-new-chips-can-outperform-nvidia-processors-in-tests\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr</a>",
-      "summary": "OpenAI Jalapeño: Better than Nvidia Blackwell. https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl... , https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr 점수 474, 반응 303 기준 인기 이슈입니다."
+      "summary": "OpenAI Jalapeño: Better than Nvidia Blackwell. https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl... , https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr 점수 494, 반응 317 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "score": 388,
-      "comments": 188,
+      "score": 405,
+      "comments": 199,
       "text": "",
-      "summary": "FDA authorizes first wearable device that monitors ketone and blood sugar levels. 점수 388, 반응 188 기준 인기 이슈입니다."
+      "summary": "FDA authorizes first wearable device that monitors ketone and blood sugar levels. 점수 405, 반응 199 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Don't Wordle",
       "url": "https://dontwordle.com/",
-      "score": 348,
-      "comments": 121,
+      "score": 355,
+      "comments": 126,
       "text": "",
-      "summary": "Don't Wordle.  점수 348, 반응 121 기준 인기 이슈입니다."
+      "summary": "Don't Wordle.  점수 355, 반응 126 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "score": 342,
-      "comments": 212,
+      "score": 353,
+      "comments": 218,
       "text": "",
-      "summary": "Building a backyard office, the build and cost breakdown. 점수 342, 반응 212 기준 인기 이슈입니다."
+      "summary": "Building a backyard office, the build and cost breakdown. 점수 353, 반응 218 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 316,
-      "comments": 162,
+      "score": 323,
+      "comments": 168,
       "text": "",
-      "summary": "Bomb fishing is wreaking havoc on Indonesia's coral reefs. 점수 316, 반응 162 기준 인기 이슈입니다."
+      "summary": "Bomb fishing is wreaking havoc on Indonesia's coral reefs. 점수 323, 반응 168 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "score": 241,
-      "comments": 175,
+      "score": 257,
+      "comments": 183,
       "text": "",
-      "summary": "Black hole singularity is a surface not a point. 점수 241, 반응 175 기준 인기 이슈입니다."
+      "summary": "Black hole singularity is a surface not a point. 점수 257, 반응 183 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Queryable Executables",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "score": 200,
+      "comments": 53,
+      "text": "",
+      "summary": "Queryable Executables. 점수 200, 반응 53 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How credit card rewards became a $9.2B wealth transfer",
+      "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+      "score": 185,
+      "comments": 333,
+      "text": "",
+      "summary": "How credit card rewards became a $9.2B wealth transfer. 점수 185, 반응 333 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Tooltips need a delay, and then they need to skip it",
       "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "score": 172,
-      "comments": 45,
+      "score": 184,
+      "comments": 54,
       "text": "",
-      "summary": "Tooltips need a delay, and then they need to skip it. 점수 172, 반응 45 기준 인기 이슈입니다."
+      "summary": "Tooltips need a delay, and then they need to skip it. 점수 184, 반응 54 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 109
+      "count": 62
     },
     {
       "keyword": "https",
-      "count": 20
+      "count": 12
     },
     {
       "keyword": "com",
-      "count": 16
+      "count": 10
     },
     {
       "keyword": "href",
-      "count": 10
+      "count": 6
     },
     {
       "keyword": "rel",
-      "count": 10
+      "count": 6
     },
     {
       "keyword": "nofollow",
-      "count": 10
-    },
-    {
-      "keyword": "www",
-      "count": 8
-    },
-    {
-      "keyword": "music",
-      "count": 4
-    },
-    {
-      "keyword": "archive",
-      "count": 4
+      "count": 6
     },
     {
       "keyword": "platform",
@@ -291,6 +279,18 @@
     },
     {
       "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "agentic",
+      "count": 2
+    },
+    {
+      "keyword": "agent",
       "count": 2
     }
   ],
