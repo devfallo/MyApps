@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T14:52:07.612244+00:00",
+  "updatedAt": "2026-08-30T19:18:49.965949+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 388057,
-      "comments": 5729,
+      "score": 388081,
+      "comments": 5758,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 388057, 반응 5729 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 388081, 반응 5758 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 279581,
-      "comments": 336,
+      "score": 279637,
+      "comments": 338,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 279581, 반응 336 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 279637, 반응 338 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 238368,
-      "comments": 37678,
+      "score": 238447,
+      "comments": 37806,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 238368, 반응 37678 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 238447, 반응 37806 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 202848,
-      "comments": 1129,
+      "score": 202875,
+      "comments": 1130,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202848, 반응 1129 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202875, 반응 1130 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187005,
+      "score": 187014,
       "comments": 522,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187005, 반응 522 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187014, 반응 522 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 174307,
-      "comments": 570,
+      "score": 174393,
+      "comments": 571,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 174307, 반응 570 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 174393, 반응 571 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 168200,
+      "score": 168220,
       "comments": 70,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 168200, 반응 70 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 168220, 반응 70 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164738,
+      "score": 164741,
       "comments": 2503,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164738, 반응 2503 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164741, 반응 2503 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,159 +91,151 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 153898,
-      "comments": 994,
+      "score": 153909,
+      "comments": 998,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153898, 반응 994 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153909, 반응 998 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 150410,
-      "comments": 246,
+      "score": 150421,
+      "comments": 237,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 150410, 반응 246 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 150421, 반응 237 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 145286,
+      "score": 145292,
       "comments": 430,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145286, 반응 430 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145292, 반응 430 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 498,
-      "comments": 196,
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "score": 469,
+      "comments": 219,
       "text": "",
-      "summary": "Tether: iMessage, SMS, etc. 점수 498, 반응 196 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-      "score": 496,
-      "comments": 220,
-      "text": "",
-      "summary": "California lawmakers unanimously pass Linux exemption from age-verification law. 점수 496, 반응 220 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-      "score": 365,
-      "comments": 238,
-      "text": "",
-      "summary": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras. 점수 365, 반응 238 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hy4 preview",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "score": 354,
-      "comments": 211,
-      "text": "",
-      "summary": "Hy4 preview.  점수 354, 반응 211 기준 인기 이슈입니다."
+      "summary": "Creepy Crawlies.  점수 469, 반응 219 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bug Blindness",
       "url": "https://danluu.com/bug-blind/",
-      "score": 328,
-      "comments": 203,
+      "score": 368,
+      "comments": 236,
       "text": "",
-      "summary": "Bug Blindness.  점수 328, 반응 203 기준 인기 이슈입니다."
+      "summary": "Bug Blindness.  점수 368, 반응 236 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Brits would quite like their private messages to stay private",
-      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-      "score": 246,
-      "comments": 168,
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "score": 366,
+      "comments": 234,
       "text": "",
-      "summary": "Brits would quite like their private messages to stay private. 점수 246, 반응 168 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "score": 244,
-      "comments": 86,
-      "text": "<a href=\"https:&#x2F;&#x2F;nextspaceflight.com&#x2F;launches&#x2F;details&#x2F;6983&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;nextspaceflight.com&#x2F;launches&#x2F;details&#x2F;6983&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;www.npr.org&#x2F;2026&#x2F;08&#x2F;28&#x2F;nx-s1-5905370&#x2F;nasa-nancy-grace-roman-space-telescope-dark-energy-supernova\" rel=\"nofollow\">https:&#x2F;&#x2F;www.npr.org&#x2F;2026&#x2F;08&#x2F;28&#x2F;nx-s1-5905370&#x2F;nasa-nancy-grac...</a><p><a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nancy_Grace_Roman\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nancy_Grace_Roman</a>",
-      "summary": "Nancy Grace Roman Space Telescope. https:&#x2F;&#x2F;nextspaceflight.com&#x2F;launches&#x2F;details&#x2F;6983&#x2F; https:&#x2F;&#x2F;www.npr.org&#x2F;2026&#x2F;08&#x2F;28&#x2F;nx-s1-5905370&#x2F;nasa-nancy-grac... https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nancy_Grace_Roman 점수 244, 반응 86 기준 인기 이슈입니다."
+      "summary": "Hy4 preview.  점수 366, 반응 234 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "RISC-V is now officially supported by CPython",
       "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "score": 241,
-      "comments": 44,
+      "score": 280,
+      "comments": 49,
       "text": "",
-      "summary": "RISC-V is now officially supported by CPython. 점수 241, 반응 44 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "SQLite as a Document Database (2020)",
-      "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "score": 232,
-      "comments": 54,
-      "text": "",
-      "summary": "SQLite as a Document Database (2020). 점수 232, 반응 54 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "FreeCORE TrueNAS Core – Continued",
-      "url": "https://freecore.org/",
-      "score": 143,
-      "comments": 74,
-      "text": "",
-      "summary": "FreeCORE TrueNAS Core – Continued. 점수 143, 반응 74 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "url": "https://arxiv.org/abs/1804.07389",
-      "score": 143,
-      "comments": 38,
-      "text": "",
-      "summary": "Longest Straight Line Paths on Water or Land on the Earth (2018). 점수 143, 반응 38 기준 인기 이슈입니다."
+      "summary": "RISC-V is now officially supported by CPython. 점수 280, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
       "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
-      "score": 141,
-      "comments": 38,
+      "score": 236,
+      "comments": 117,
       "text": "",
-      "summary": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]. 점수 141, 반응 38 기준 인기 이슈입니다."
+      "summary": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]. 점수 236, 반응 117 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "url": "https://0xcc.io/posts/omarchy-root-creds/",
+      "score": 223,
+      "comments": 225,
+      "text": "",
+      "summary": "Omarchy: Any User Process Can Escalate to Root. 점수 223, 반응 225 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+      "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+      "score": 209,
+      "comments": 77,
+      "text": "",
+      "summary": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy. 점수 209, 반응 77 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "score": 200,
+      "comments": 114,
+      "text": "",
+      "summary": "Hacking IKEA Furniture. 점수 200, 반응 114 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "score": 174,
+      "comments": 51,
+      "text": "",
+      "summary": "Longest Straight Line Paths on Water or Land on the Earth (2018). 점수 174, 반응 51 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
       "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-      "score": 122,
-      "comments": 50,
+      "score": 172,
+      "comments": 72,
       "text": "",
-      "summary": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel. 점수 122, 반응 50 기준 인기 이슈입니다."
+      "summary": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel. 점수 172, 반응 72 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "score": 147,
+      "comments": 38,
+      "text": "",
+      "summary": "Haiku R1/beta6 has been released. 점수 147, 반응 38 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+      "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+      "score": 144,
+      "comments": 171,
+      "text": "",
+      "summary": "Europe's summer drought is so extreme that desertification is a growing threat. 점수 144, 반응 171 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "score": 139,
+      "comments": 170,
+      "text": "",
+      "summary": "Claude Session URL appended to commit messages and PR descriptions by default. 점수 139, 반응 170 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "x2f",
-      "count": 34
-    },
-    {
-      "keyword": "https",
-      "count": 6
-    },
-    {
-      "keyword": "org",
-      "count": 4
+      "keyword": "any",
+      "count": 3
     },
     {
       "keyword": "platform",
@@ -254,35 +246,11 @@
       "count": 3
     },
     {
-      "keyword": "nancy",
-      "count": 3
-    },
-    {
-      "keyword": "grace",
-      "count": 3
-    },
-    {
-      "keyword": "roman",
-      "count": 3
-    },
-    {
-      "keyword": "href",
-      "count": 3
-    },
-    {
-      "keyword": "rel",
-      "count": 3
-    },
-    {
-      "keyword": "nofollow",
+      "keyword": "root",
       "count": 3
     },
     {
       "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "any",
       "count": 2
     },
     {
@@ -291,6 +259,38 @@
     },
     {
       "keyword": "agent",
+      "count": 2
+    },
+    {
+      "keyword": "code",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "cloud",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "build",
+      "count": 2
+    },
+    {
+      "keyword": "can",
+      "count": 2
+    },
+    {
+      "keyword": "firecrawl",
+      "count": 2
+    },
+    {
+      "keyword": "api",
       "count": 2
     }
   ],
