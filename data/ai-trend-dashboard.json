@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T13:51:17.319826+00:00",
+  "updatedAt": "2026-08-31T20:05:11.067093+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,235 +10,275 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 388213,
-      "comments": 5857,
+      "score": 388275,
+      "comments": 5888,
       "text": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "Your own personal AI assistant. 점수 388213, 반응 5857 기준 인기 이슈입니다."
+      "summary": "Your own personal AI assistant. 점수 388275, 반응 5888 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 279918,
-      "comments": 343,
+      "score": 280021,
+      "comments": 344,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 279918, 반응 343 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 280021, 반응 344 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 238798,
-      "comments": 38214,
+      "score": 238935,
+      "comments": 38073,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 238798, 반응 38214 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 238935, 반응 38073 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 202950,
-      "comments": 1119,
+      "score": 202965,
+      "comments": 1114,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202950, 반응 1119 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 202965, 반응 1114 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187029,
-      "comments": 524,
+      "score": 187037,
+      "comments": 530,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187029, 반응 524 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187037, 반응 530 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 174679,
-      "comments": 574,
+      "score": 174779,
+      "comments": 577,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 174679, 반응 574 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 174779, 반응 577 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 168316,
+      "score": 168340,
       "comments": 70,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 168316, 반응 70 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 168340, 반응 70 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164750,
+      "score": 164749,
       "comments": 2503,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164750, 반응 2503 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164749, 반응 2503 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158148,
+      "score": 158151,
       "comments": 17,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158148, 반응 17 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158151, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 153995,
-      "comments": 1003,
+      "score": 154016,
+      "comments": 1007,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 153995, 반응 1003 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 154016, 반응 1007 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 150487,
-      "comments": 202,
+      "score": 150513,
+      "comments": 200,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 150487, 반응 202 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 150513, 반응 200 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 145347,
-      "comments": 431,
+      "score": 145369,
+      "comments": 437,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145347, 반응 431 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145369, 반응 437 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Creepy Crawlies",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 1266,
-      "comments": 634,
-      "text": "",
-      "summary": "Creepy Crawlies.  점수 1266, 반응 634 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "“I just chose words carefully”",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "score": 981,
-      "comments": 258,
-      "text": "",
-      "summary": "“I just chose words carefully”. 점수 981, 반응 258 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "score": 246,
-      "comments": 133,
-      "text": "",
-      "summary": "Understanding ChatGPT Work. 점수 246, 반응 133 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "title": "OpenShot 4.0 – Open-source video editor",
       "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-      "score": 243,
-      "comments": 64,
+      "score": 471,
+      "comments": 106,
       "text": "",
-      "summary": "OpenShot 4.0: Record, Edit, and Color Like Never Before. 점수 243, 반응 64 기준 인기 이슈입니다."
+      "summary": "OpenShot 4.0 – Open-source video editor. 점수 471, 반응 106 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
-      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-      "score": 236,
-      "comments": 39,
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "score": 348,
+      "comments": 144,
       "text": "",
-      "summary": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history. 점수 236, 반응 39 기준 인기 이슈입니다."
+      "summary": "Playa Phone.  점수 348, 반응 144 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "My hobby of building miniatures and taking pretty pictures",
-      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
-      "score": 228,
-      "comments": 39,
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 210,
+      "comments": 62,
       "text": "",
-      "summary": "My hobby of building miniatures and taking pretty pictures. 점수 228, 반응 39 기준 인기 이슈입니다."
+      "summary": "I turned my security cameras into an automatic bird identification system. 점수 210, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-      "url": "https://wilsonharper.net/projects/businesscard/",
-      "score": 199,
-      "comments": 22,
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "score": 166,
+      "comments": 194,
       "text": "",
-      "summary": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU. 점수 199, 반응 22 기준 인기 이슈입니다."
+      "summary": "Apple caught off guard by AI demand for Mac Mini and Mac Studio. 점수 166, 반응 194 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "score": 182,
-      "comments": 59,
+      "title": "I think the military commissary's freezers were hacked",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "score": 140,
+      "comments": 82,
       "text": "",
-      "summary": "Breaking Claude Code Opus 5 Auto Mode. 점수 182, 반응 59 기준 인기 이슈입니다."
+      "summary": "I think the military commissary's freezers were hacked. 점수 140, 반응 82 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "P99 0 ms* autocomplete for 240M domain names",
-      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-      "score": 171,
-      "comments": 70,
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+      "score": 138,
+      "comments": 29,
       "text": "",
-      "summary": "P99 0 ms* autocomplete for 240M domain names. 점수 171, 반응 70 기준 인기 이슈입니다."
+      "summary": "Dwarf Fortress is getting the mother of all magic updates. 점수 138, 반응 29 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Matrox: Graphics for Professionals",
-      "url": "https://www.abortretry.fail/p/matrox",
-      "score": 151,
-      "comments": 51,
+      "title": "Agent memory as a file format",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "score": 137,
+      "comments": 71,
       "text": "",
-      "summary": "Matrox: Graphics for Professionals. 점수 151, 반응 51 기준 인기 이슈입니다."
+      "summary": "Agent memory as a file format. 점수 137, 반응 71 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "How to build a diffusion language model",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-      "score": 136,
-      "comments": 16,
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "score": 135,
+      "comments": 46,
       "text": "",
-      "summary": "How to build a diffusion language model. 점수 136, 반응 16 기준 인기 이슈입니다."
+      "summary": "ChatGPT Work Tool and Skill Reference. 점수 135, 반응 46 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Sort branches by last commit date",
-      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
-      "score": 133,
-      "comments": 45,
+      "title": "Internet centralization and the original sin of NAT",
+      "url": "https://dreamstation.systems/personal/ntppost.html",
+      "score": 114,
+      "comments": 77,
       "text": "",
-      "summary": "Sort branches by last commit date. 점수 133, 반응 45 기준 인기 이슈입니다."
+      "summary": "Internet centralization and the original sin of NAT. 점수 114, 반응 77 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "score": 123,
-      "comments": 20,
+      "title": "Konrad Zuse Museum shutting down due to lack of funding",
+      "url": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
+      "score": 111,
+      "comments": 58,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.mdr.de&#x2F;nachrichten&#x2F;sachsen&#x2F;bautzen&#x2F;bautzen-hoyerswerda-kamenz&#x2F;computer-museum-schliesst-,konrad-zuse-kultur-news-100.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.mdr.de&#x2F;nachrichten&#x2F;sachsen&#x2F;bautzen&#x2F;bautzen-hoyer...</a> (auf Deutsch)",
+      "summary": "Konrad Zuse Museum shutting down due to lack of funding. https:&#x2F;&#x2F;www.mdr.de&#x2F;nachrichten&#x2F;sachsen&#x2F;bautzen&#x2F;bautzen-hoyer... 점수 111, 반응 58 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "url": "https://ravynos.com/",
+      "score": 101,
+      "comments": 72,
       "text": "",
-      "summary": "Cores in space: The core memory module from a 1980 Spacelab computer. 점수 123, 반응 20 기준 인기 이슈입니다."
+      "summary": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source. 점수 101, 반응 72 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "score": 73,
+      "comments": 14,
+      "text": "<a href=\"https:&#x2F;&#x2F;cybercity.carino.systems&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;cybercity.carino.systems&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;MiguelCarino&#x2F;CyberCity\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;MiguelCarino&#x2F;CyberCity</a><p><i>ASCII City: Traffic and Detail Update</i> - <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=DSRooHo_HSI\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=UCKEDWowc0o\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=UCKEDWowc0o</a>",
+      "summary": "A walkable ASCII cyberpunk city in one HTML file [video]. https:&#x2F;&#x2F;cybercity.carino.systems&#x2F; https:&#x2F;&#x2F;github.com&#x2F;MiguelCarino&#x2F;CyberCity ASCII City: Traffic and Detail Update - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=DSRooHo_HSI ASCII City Update: Interiors, Elevation and Skyscrapers - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=UCKEDWowc0o 점수 73, 반응 14 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dimethyl Mercury Exposure Incident at MIT",
+      "url": "https://twitter.com/andrew_n_carr/status/2093524390390694232",
+      "score": 67,
+      "comments": 42,
+      "text": "<a href=\"https:&#x2F;&#x2F;whdh.com&#x2F;news&#x2F;first-on-7-patient-brought-to-mgh-for-exposure-to-chemical-substance-prompts-large-emergency-response&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;whdh.com&#x2F;news&#x2F;first-on-7-patient-brought-to-mgh-for-...</a><p><a href=\"https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;mit&#x2F;comments&#x2F;1w12gb9&#x2F;dimethyl_mercury_poisoning&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;mit&#x2F;comments&#x2F;1w12gb9&#x2F;dimethyl_mercu...</a>",
+      "summary": "Dimethyl Mercury Exposure Incident at MIT. https:&#x2F;&#x2F;whdh.com&#x2F;news&#x2F;first-on-7-patient-brought-to-mgh-for-... https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;mit&#x2F;comments&#x2F;1w12gb9&#x2F;dimethyl_mercu... 점수 67, 반응 42 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "x2f",
+      "count": 63
+    },
+    {
+      "keyword": "https",
+      "count": 14
+    },
+    {
+      "keyword": "com",
+      "count": 10
+    },
+    {
+      "keyword": "www",
+      "count": 8
+    },
+    {
+      "keyword": "href",
+      "count": 7
+    },
+    {
+      "keyword": "rel",
+      "count": 7
+    },
+    {
+      "keyword": "nofollow",
+      "count": 7
+    },
+    {
+      "keyword": "cybercity",
+      "count": 4
+    },
+    {
+      "keyword": "youtube",
+      "count": 4
+    },
+    {
+      "keyword": "watch",
+      "count": 4
+    },
     {
       "keyword": "platform",
       "count": 3
     },
     {
-      "keyword": "build",
+      "keyword": "agent",
       "count": 3
     },
     {
@@ -246,52 +286,12 @@
       "count": 3
     },
     {
-      "keyword": "openclaw",
-      "count": 2
+      "keyword": "open-source",
+      "count": 3
     },
     {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "code",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "cloud",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
-      "count": 2
-    },
-    {
-      "keyword": "api",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
+      "keyword": "ascii",
+      "count": 3
     }
   ],
   "meta": {
