@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T21:02:45.481889+00:00",
+  "updatedAt": "2026-09-04T00:06:31.249164+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,247 +10,251 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 388755,
-      "comments": 6149,
+      "score": 388780,
+      "comments": 6232,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 388755, 반응 6149 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 388780, 반응 6232 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 281287,
-      "comments": 349,
+      "score": 281326,
+      "comments": 339,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 281287, 반응 349 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 281326, 반응 339 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 240767,
-      "comments": 39067,
+      "score": 240825,
+      "comments": 39128,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 240767, 반응 39067 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 240825, 반응 39128 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 203254,
-      "comments": 1139,
+      "score": 203260,
+      "comments": 1144,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 203254, 반응 1139 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 203260, 반응 1144 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "score": 187106,
-      "comments": 554,
+      "comments": 560,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187106, 반응 554 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187106, 반응 560 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 176110,
+      "score": 176150,
       "comments": 589,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 176110, 반응 589 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 176150, 반응 589 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 168916,
+      "score": 168973,
       "comments": 71,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 168916, 반응 71 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 168973, 반응 71 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164787,
+      "score": 164792,
       "comments": 2503,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164787, 반응 2503 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164792, 반응 2503 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158252,
+      "score": 158255,
       "comments": 17,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158252, 반응 17 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158255, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 154364,
-      "comments": 1030,
+      "score": 154371,
+      "comments": 1033,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 154364, 반응 1030 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 154371, 반응 1033 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 150831,
-      "comments": 246,
+      "score": 150841,
+      "comments": 249,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 150831, 반응 246 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 150841, 반응 249 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 145591,
+      "score": 145594,
       "comments": 444,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145591, 반응 444 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145594, 반응 444 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
-      "score": 1037,
-      "comments": 311,
+      "score": 1261,
+      "comments": 361,
       "text": "",
-      "summary": ".name Termination.  점수 1037, 반응 311 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Audacity 4.0",
-      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-      "score": 964,
-      "comments": 214,
-      "text": "",
-      "summary": "Audacity 4.0.  점수 964, 반응 214 기준 인기 이슈입니다."
+      "summary": ".name Termination.  점수 1261, 반응 361 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
-      "score": 715,
-      "comments": 432,
+      "score": 1184,
+      "comments": 924,
       "text": "System Card: <a href=\"https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra\" rel=\"nofollow\">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra</a><p>Related ongoing threads:<p><i>OpenAI&#x27;s GPT-6 Astra on ARC-AGI-3</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691</a><p><i>GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49556147\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49556147</a>",
-      "summary": "System Card: https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra Related ongoing threads: OpenAI&#x27;s GPT-6 Astra on ARC-AGI-3 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691 GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49556147 점수 715, 반응 432 기준 인기 이슈입니다."
+      "summary": "System Card: https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra Related ongoing threads: OpenAI&#x27;s GPT-6 Astra on ARC-AGI-3 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691 GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49556147 점수 1184, 반응 924 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Pre-Release of Polars 2.0",
-      "url": "https://pola.rs/posts/announcing-polars-2/",
-      "score": 366,
-      "comments": 121,
+      "title": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "score": 1032,
+      "comments": 230,
       "text": "",
-      "summary": "Pre-Release of Polars 2.0. 점수 366, 반응 121 기준 인기 이슈입니다."
+      "summary": "Audacity 4.0.  점수 1032, 반응 230 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
       "url": "https://anyhumanever.com/",
-      "score": 343,
-      "comments": 156,
+      "score": 444,
+      "comments": 218,
       "text": "",
-      "summary": "Any Human Ever – One life, drawn at random from all who have ever lived. 점수 343, 반응 156 기준 인기 이슈입니다."
+      "summary": "Any Human Ever – One life, drawn at random from all who have ever lived. 점수 444, 반응 218 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
       "url": "https://inference-docs.cerebras.ai/models/overview",
-      "score": 291,
-      "comments": 96,
+      "score": 412,
+      "comments": 125,
       "text": "",
-      "summary": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s. 점수 291, 반응 96 기준 인기 이슈입니다."
+      "summary": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s. 점수 412, 반응 125 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
       "url": "https://news.ycombinator.com/item?id=49551096",
-      "score": 274,
-      "comments": 489,
+      "score": 321,
+      "comments": 515,
       "text": "<a href=\"https:&#x2F;&#x2F;status.openai.com\" rel=\"nofollow\">https:&#x2F;&#x2F;status.openai.com</a><p><a href=\"https:&#x2F;&#x2F;status.claude.com\" rel=\"nofollow\">https:&#x2F;&#x2F;status.claude.com</a><p><a href=\"https:&#x2F;&#x2F;status.x.ai\" rel=\"nofollow\">https:&#x2F;&#x2F;status.x.ai</a><p><i>ChatGPT outage – Resolved</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614</a> (315 comments)<p><i>Claude outage – Resolved</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49549676\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49549676</a> (146 comments)<p><i>Grok outage</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49551589\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49551589</a> (142 comments)",
-      "summary": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?. https:&#x2F;&#x2F;status.openai.com https:&#x2F;&#x2F;status.claude.com https:&#x2F;&#x2F;status.x.ai ChatGPT outage – Resolved - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614 (315 comments) Claude outage – Resolved - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49549676 (146 comments) Grok outage - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49551589 (142 comments) 점수 274, 반응 489 기준 인기 이슈입니다."
+      "summary": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?. https:&#x2F;&#x2F;status.openai.com https:&#x2F;&#x2F;status.claude.com https:&#x2F;&#x2F;status.x.ai ChatGPT outage – Resolved - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614 (315 comments) Claude outage – Resolved - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49549676 (146 comments) Grok outage - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49551589 (142 comments) 점수 321, 반응 515 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
       "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
-      "score": 220,
-      "comments": 153,
+      "score": 267,
+      "comments": 181,
       "text": "",
-      "summary": "Google Antigravity TOS: 3rd party usage can get Google account suspended. 점수 220, 반응 153 기준 인기 이슈입니다."
+      "summary": "Google Antigravity TOS: 3rd party usage can get Google account suspended. 점수 267, 반응 181 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "K2 Horizon: A connected fleet of six open models",
       "url": "https://ifm.ai/blog/k2/",
-      "score": 203,
-      "comments": 70,
+      "score": 240,
+      "comments": 79,
       "text": "",
-      "summary": "K2 Horizon: A connected fleet of six open models. 점수 203, 반응 70 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "VC isn't VC anymore",
-      "url": "https://www.anildash.com/2026/09/02/cancer-capital/",
-      "score": 135,
-      "comments": 129,
-      "text": "",
-      "summary": "VC isn't VC anymore.  점수 135, 반응 129 기준 인기 이슈입니다."
+      "summary": "K2 Horizon: A connected fleet of six open models. 점수 240, 반응 79 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
       "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "score": 103,
-      "comments": 36,
+      "score": 171,
+      "comments": 56,
       "text": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.<p>I spent the last few weeks analyzing what Claude did, feeding it my 33 years of memory of how I built the game, my notes and the git repos. It wrote the first draft of the article, and I edited line by line over a week. The screenshots of my 1993 map editor is the first I have run it since then. The one thing I never verified myself is the 108-byte explanation.<p>&quot;Before starting everything, the model assembled the code using vasm on my Mac, and kept going till the binary is byte-identical to the binaries I had in my original game. Even after that, the there was mismatch of about 108 bytes. I originally used AsmOne  which assembles into memory, and the game saved into the disk by saving that memory after running the game. So the original shipped files are a snapshot of the game that had already been running, not clean asm-one output.&quot;<p>Please post any questions. I am also releasing the original game for free.",
-      "summary": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly. These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. Getting the feel right and shipping it took a few more weekends and evenings. 점수 103, 반응 36 기준 인기 이슈입니다."
+      "summary": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly. These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. Getting the feel right and shipping it took a few more weekends and evenings. 점수 171, 반응 56 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "score": 97,
-      "comments": 24,
+      "score": 170,
+      "comments": 47,
       "text": "",
-      "summary": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap. 점수 97, 반응 24 기준 인기 이슈입니다."
+      "summary": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap. 점수 170, 반응 47 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "How to get a free .arpa domain",
-      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
-      "score": 84,
-      "comments": 8,
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "score": 151,
+      "comments": 81,
       "text": "",
-      "summary": "How to get a free .arpa domain. 점수 84, 반응 8 기준 인기 이슈입니다."
+      "summary": "OpenAI's GPT-6 Astra on ARC-AGI-3. 점수 151, 반응 81 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "score": 149,
+      "comments": 99,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.ycombinator.com&#x2F;library&#x2F;Y6-the-world-s-largest-electric-aircraft-just-flew\">https:&#x2F;&#x2F;www.ycombinator.com&#x2F;library&#x2F;Y6-the-world-s-largest-e...</a>",
+      "summary": "The largest electric aircraft just flew [video]. https:&#x2F;&#x2F;www.ycombinator.com&#x2F;library&#x2F;Y6-the-world-s-largest-e... 점수 149, 반응 99 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gloria Steinem has died",
+      "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
+      "score": 132,
+      "comments": 56,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;03&#x2F;us&#x2F;politics&#x2F;gloria-steinem-dead.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;03&#x2F;us&#x2F;politics&#x2F;gloria-steine...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;cfC1K\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;cfC1K</a>",
+      "summary": "Gloria Steinem has died. https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;03&#x2F;us&#x2F;politics&#x2F;gloria-steine... , https:&#x2F;&#x2F;archive.ph&#x2F;cfC1K 점수 132, 반응 56 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 48
+      "count": 78
     },
     {
       "keyword": "https",
-      "count": 18
+      "count": 24
     },
     {
       "keyword": "com",
-      "count": 16
+      "count": 20
     },
     {
-      "keyword": "news",
-      "count": 10
+      "keyword": "href",
+      "count": 12
     },
     {
       "keyword": "ycombinator",
+      "count": 12
+    },
+    {
+      "keyword": "news",
       "count": 10
     },
     {
@@ -258,16 +262,20 @@
       "count": 10
     },
     {
-      "keyword": "href",
-      "count": 9
+      "keyword": "openai",
+      "count": 8
     },
     {
       "keyword": "game",
       "count": 8
     },
     {
-      "keyword": "openai",
-      "count": 7
+      "keyword": "rel",
+      "count": 6
+    },
+    {
+      "keyword": "nofollow",
+      "count": 6
     },
     {
       "keyword": "claude",
@@ -282,16 +290,8 @@
       "count": 4
     },
     {
-      "keyword": "rel",
+      "keyword": "gpt-6",
       "count": 4
-    },
-    {
-      "keyword": "nofollow",
-      "count": 4
-    },
-    {
-      "keyword": "platform",
-      "count": 3
     }
   ],
   "meta": {
