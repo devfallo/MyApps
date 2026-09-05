@@ -1,207 +1,296 @@
 {
-  "updatedAt": "2026-09-05T22:03:10.635584+00:00",
+  "updatedAt": "2026-09-05T23:53:53.780046+00:00",
   "status": "ok",
-  "count": 15,
+  "count": 25,
   "errors": [
-    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
+      "source": "GitHub Repos",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 388971,
+      "comments": 6266,
+      "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "summary": "The AI that really does things. 점수 388971, 반응 6266 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 282092,
+      "comments": 336,
+      "text": "An agentic skills framework & software development methodology that works.",
+      "summary": "An agentic skills framework & software development methodology that works. 점수 282092, 반응 336 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 241986,
+      "comments": 40041,
+      "text": "The agent that grows with you",
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 241986, 반응 40041 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 203479,
+      "comments": 1167,
+      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 203479, 반응 1167 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 187162,
+      "comments": 565,
+      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187162, 반응 565 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 176899,
+      "comments": 600,
+      "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 176899, 반응 600 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 169420,
+      "comments": 74,
+      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 169420, 반응 74 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "score": 164826,
+      "comments": 2504,
+      "text": "Stable Diffusion web UI",
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164826, 반응 2504 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "score": 158293,
+      "comments": 17,
+      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158293, 반응 17 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 154535,
+      "comments": 1044,
+      "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 154535, 반응 1044 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 151061,
+      "comments": 285,
+      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 151061, 반응 285 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "score": 145718,
+      "comments": 453,
+      "text": "The agent engineering platform.",
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145718, 반응 453 기준 인기 이슈입니다."
+    },
+    {
       "source": "Hacker News",
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "score": 2050,
-      "comments": 1494,
+      "score": 2080,
+      "comments": 1507,
       "text": "<a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-...</a>",
-      "summary": "Discovery of a new OpenAI agent message board. https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-... 점수 2050, 반응 1494 기준 인기 이슈입니다."
+      "summary": "Discovery of a new OpenAI agent message board. https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-... 점수 2080, 반응 1507 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Formalizing Fermat's Last Theorem",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "score": 734,
-      "comments": 476,
+      "score": 741,
+      "comments": 479,
       "text": "<a href=\"https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-has-beaten-me-to-it&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h...</a>",
-      "summary": "Formalizing Fermat's Last Theorem. https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h... 점수 734, 반응 476 기준 인기 이슈입니다."
+      "summary": "Formalizing Fermat's Last Theorem. https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h... 점수 741, 반응 479 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Actively exploited sandbox RCE in all Chromium versions",
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "score": 726,
-      "comments": 419,
+      "score": 735,
+      "comments": 433,
       "text": "",
-      "summary": "Actively exploited sandbox RCE in all Chromium versions. 점수 726, 반응 419 기준 인기 이슈입니다."
+      "summary": "Actively exploited sandbox RCE in all Chromium versions. 점수 735, 반응 433 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nitter has more working instances than before the takedowns",
       "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "score": 581,
-      "comments": 269,
+      "score": 608,
+      "comments": 289,
       "text": "",
-      "summary": "Nitter has more working instances than before the takedowns. 점수 581, 반응 269 기준 인기 이슈입니다."
+      "summary": "Nitter has more working instances than before the takedowns. 점수 608, 반응 289 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Statichost.eu – European static site hosting",
       "url": "https://www.statichost.eu/",
-      "score": 428,
-      "comments": 193,
+      "score": 437,
+      "comments": 200,
       "text": "",
-      "summary": "Statichost.eu – European static site hosting. 점수 428, 반응 193 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "url": "https://opentrailpaper.com",
-      "score": 382,
-      "comments": 117,
-      "text": "Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout&#x2F;biking) implementation for ESP32 by messing around with undocumented registers: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;RaemondBW&#x2F;esp32-ant\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;RaemondBW&#x2F;esp32-ant</a>",
-      "summary": "Show HN: Open-Source eInk Bike Computer. Hey all, i just launched my Eink Bike computer project and think it is cool. Another tidbit, in the crazy things that AI has done... 점수 382, 반응 117 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "score": 357,
-      "comments": 307,
-      "text": "",
-      "summary": "AI handles incidents, engineers lose touch with their systems. 점수 357, 반응 307 기준 인기 이슈입니다."
+      "summary": "Statichost.eu – European static site hosting. 점수 437, 반응 200 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "score": 352,
-      "comments": 203,
+      "score": 372,
+      "comments": 205,
       "text": "",
-      "summary": "Can AI design circuit boards yet?. 점수 352, 반응 203 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Real Luxuries In Life",
-      "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-      "score": 347,
-      "comments": 149,
-      "text": "",
-      "summary": "The Real Luxuries In Life. 점수 347, 반응 149 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Git hosting that never leaves Europe",
-      "url": "https://pushin.eu",
-      "score": 302,
-      "comments": 149,
-      "text": "",
-      "summary": "Git hosting that never leaves Europe. 점수 302, 반응 149 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
-      "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
-      "score": 235,
-      "comments": 103,
-      "text": "",
-      "summary": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA. 점수 235, 반응 103 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "score": 228,
-      "comments": 72,
-      "text": "",
-      "summary": "The \"$60 Gaming PC\" – AMD BC-250 (2025). 점수 228, 반응 72 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: Resources to get good at soldering?",
-      "url": "https://news.ycombinator.com/item?id=49533840",
-      "score": 226,
-      "comments": 144,
-      "text": "Hello. I&#x27;ve recently started soldering, specifically wanting to repair the joysticks on several Playstation 4 controllers I have, but I also want to get good at electronic repair in general.<p>Right now I&#x27;ve busted a board, and managed to desolder and resolder a stick but the controller doesn&#x27;t turn on anymore. I&#x27;m doing this all by myself, and I think I&#x27;m following good advice (ventilation, good iron tip, using flux etc...).<p>But there are many variables, and a lot of experts have different opinions on stuff. Does anyone know good resources that I could use for getting good and making less mistakes ? Thanks.",
-      "summary": "Ask HN: Resources to get good at soldering?. I&#x27;ve recently started soldering, specifically wanting to repair the joysticks on several Playstation 4 controllers I have, but I also want to get good at electronic repair in general. Right now I&#x27;ve busted a board, and managed to desolder and resolder a stick but the controller doesn&#x27;t turn on anymore. 점수 226, 반응 144 기준 인기 이슈입니다."
+      "summary": "Can AI design circuit boards yet?. 점수 372, 반응 205 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Private German rocket makes history, reaches orbit from European soil",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "score": 154,
-      "comments": 62,
+      "score": 285,
+      "comments": 141,
       "text": "",
-      "summary": "Private German rocket makes history, reaches orbit from European soil. 점수 154, 반응 62 기준 인기 이슈입니다."
+      "summary": "Private German rocket makes history, reaches orbit from European soil. 점수 285, 반응 141 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "score": 260,
+      "comments": 76,
+      "text": "",
+      "summary": "The \"$60 Gaming PC\" – AMD BC-250 (2025). 점수 260, 반응 76 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": ".gitignore Everything by Default",
       "url": "https://packagemain.tech/p/gitignore-everything-by-default",
-      "score": 129,
-      "comments": 140,
+      "score": 149,
+      "comments": 146,
       "text": "",
-      "summary": ".gitignore Everything by Default. 점수 129, 반응 140 기준 인기 이슈입니다."
+      "summary": ".gitignore Everything by Default. 점수 149, 반응 146 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Learn Programming with OCaml",
+      "url": "https://usr.lmf.cnrs.fr/lpo/",
+      "score": 148,
+      "comments": 67,
+      "text": "",
+      "summary": "Learn Programming with OCaml. 점수 148, 반응 67 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "score": 145,
+      "comments": 129,
+      "text": "",
+      "summary": "LLMs as a Cognitive Virus. 점수 145, 반응 129 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "score": 120,
+      "comments": 14,
+      "text": "",
+      "summary": "Visualizing Rust's Vtables: How dyn Trait Works In Memory. 점수 120, 반응 14 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Terpstra Keyboard",
+      "url": "http://terpstrakeyboard.com/",
+      "score": 111,
+      "comments": 53,
+      "text": "",
+      "summary": "Terpstra Keyboard.  점수 111, 반응 53 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 33
+      "count": 24
     },
     {
       "keyword": "https",
-      "count": 6
+      "count": 4
     },
     {
       "keyword": "com",
-      "count": 6
+      "count": 4
     },
     {
-      "keyword": "good",
-      "count": 6
-    },
-    {
-      "keyword": "x27",
-      "count": 5
-    },
-    {
-      "keyword": "href",
+      "keyword": "platform",
       "count": 3
     },
     {
-      "keyword": "europe",
+      "keyword": "agent",
       "count": 3
     },
     {
-      "keyword": "rel",
+      "keyword": "prompts",
       "count": 3
     },
     {
-      "keyword": "nofollow",
-      "count": 3
-    },
-    {
-      "keyword": "all",
-      "count": 3
-    },
-    {
-      "keyword": "but",
-      "count": 3
-    },
-    {
-      "keyword": "board",
+      "keyword": "openclaw",
       "count": 2
     },
     {
-      "keyword": "www",
+      "keyword": "any",
       "count": 2
     },
     {
-      "keyword": "reuters",
+      "keyword": "agentic",
       "count": 2
     },
     {
-      "keyword": "world",
+      "keyword": "works",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "cloud",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "build",
+      "count": 2
+    },
+    {
+      "keyword": "can",
       "count": 2
     }
   ],
