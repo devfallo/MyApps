@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T23:53:53.780046+00:00",
+  "updatedAt": "2026-09-06T04:39:35.599911+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,240 +10,232 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 388971,
-      "comments": 6266,
+      "score": 388979,
+      "comments": 6279,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 388971, 반응 6266 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 388979, 반응 6279 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 282092,
+      "score": 282141,
       "comments": 336,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 282092, 반응 336 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 282141, 반응 336 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 241986,
-      "comments": 40041,
+      "score": 242088,
+      "comments": 40126,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 241986, 반응 40041 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 242088, 반응 40126 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 203479,
-      "comments": 1167,
+      "score": 203492,
+      "comments": 1168,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 203479, 반응 1167 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 203492, 반응 1168 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187162,
-      "comments": 565,
+      "score": 187163,
+      "comments": 573,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187162, 반응 565 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187163, 반응 573 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 176899,
+      "score": 176964,
       "comments": 600,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 176899, 반응 600 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 176964, 반응 600 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 169420,
+      "score": 169431,
       "comments": 74,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 169420, 반응 74 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 169431, 반응 74 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164826,
+      "score": 164829,
       "comments": 2504,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164826, 반응 2504 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164829, 반응 2504 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158293,
+      "score": 158298,
       "comments": 17,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158293, 반응 17 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158298, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 154535,
-      "comments": 1044,
+      "score": 154553,
+      "comments": 1046,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 154535, 반응 1044 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 154553, 반응 1046 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 151061,
+      "score": 151074,
       "comments": 285,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 151061, 반응 285 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 151074, 반응 285 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 145718,
-      "comments": 453,
+      "score": 145733,
+      "comments": 449,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145718, 반응 453 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145733, 반응 449 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "score": 2080,
-      "comments": 1507,
+      "score": 2147,
+      "comments": 1528,
       "text": "<a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-...</a>",
-      "summary": "Discovery of a new OpenAI agent message board. https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-... 점수 2080, 반응 1507 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "score": 741,
-      "comments": 479,
-      "text": "<a href=\"https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-has-beaten-me-to-it&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h...</a>",
-      "summary": "Formalizing Fermat's Last Theorem. https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h... 점수 741, 반응 479 기준 인기 이슈입니다."
+      "summary": "Discovery of a new OpenAI agent message board. https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-... 점수 2147, 반응 1528 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Actively exploited sandbox RCE in all Chromium versions",
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "score": 735,
-      "comments": 433,
+      "score": 758,
+      "comments": 448,
       "text": "",
-      "summary": "Actively exploited sandbox RCE in all Chromium versions. 점수 735, 반응 433 기준 인기 이슈입니다."
+      "summary": "Actively exploited sandbox RCE in all Chromium versions. 점수 758, 반응 448 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nitter has more working instances than before the takedowns",
       "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "score": 608,
-      "comments": 289,
+      "score": 652,
+      "comments": 318,
       "text": "",
-      "summary": "Nitter has more working instances than before the takedowns. 점수 608, 반응 289 기준 인기 이슈입니다."
+      "summary": "Nitter has more working instances than before the takedowns. 점수 652, 반응 318 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Statichost.eu – European static site hosting",
       "url": "https://www.statichost.eu/",
-      "score": 437,
-      "comments": 200,
-      "text": "",
-      "summary": "Statichost.eu – European static site hosting. 점수 437, 반응 200 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "score": 372,
+      "score": 453,
       "comments": 205,
       "text": "",
-      "summary": "Can AI design circuit boards yet?. 점수 372, 반응 205 기준 인기 이슈입니다."
+      "summary": "Statichost.eu – European static site hosting. 점수 453, 반응 205 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Private German rocket makes history, reaches orbit from European soil",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "score": 285,
-      "comments": 141,
+      "score": 426,
+      "comments": 235,
       "text": "",
-      "summary": "Private German rocket makes history, reaches orbit from European soil. 점수 285, 반응 141 기준 인기 이슈입니다."
+      "summary": "Private German rocket makes history, reaches orbit from European soil. 점수 426, 반응 235 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "score": 393,
+      "comments": 209,
+      "text": "",
+      "summary": "Can AI design circuit boards yet?. 점수 393, 반응 209 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
       "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "score": 260,
-      "comments": 76,
+      "score": 311,
+      "comments": 91,
       "text": "",
-      "summary": "The \"$60 Gaming PC\" – AMD BC-250 (2025). 점수 260, 반응 76 기준 인기 이슈입니다."
+      "summary": "The \"$60 Gaming PC\" – AMD BC-250 (2025). 점수 311, 반응 91 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": ".gitignore Everything by Default",
-      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
-      "score": 149,
-      "comments": 146,
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "score": 234,
+      "comments": 100,
       "text": "",
-      "summary": ".gitignore Everything by Default. 점수 149, 반응 146 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Learn Programming with OCaml",
-      "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "score": 148,
-      "comments": 67,
-      "text": "",
-      "summary": "Learn Programming with OCaml. 점수 148, 반응 67 기준 인기 이슈입니다."
+      "summary": "Cloud in a Bottle: making self-hosting accessible to everyone. 점수 234, 반응 100 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "LLMs as a Cognitive Virus",
       "url": "https://arxiv.org/abs/2609.03344",
-      "score": 145,
-      "comments": 129,
+      "score": 216,
+      "comments": 174,
       "text": "",
-      "summary": "LLMs as a Cognitive Virus. 점수 145, 반응 129 기준 인기 이슈입니다."
+      "summary": "LLMs as a Cognitive Virus. 점수 216, 반응 174 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Learn Programming with OCaml",
+      "url": "https://usr.lmf.cnrs.fr/lpo/",
+      "score": 204,
+      "comments": 80,
+      "text": "",
+      "summary": "Learn Programming with OCaml. 점수 204, 반응 80 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "score": 197,
+      "comments": 72,
+      "text": "",
+      "summary": "The revolt of the reader. 점수 197, 반응 72 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "score": 184,
+      "comments": 27,
+      "text": "",
+      "summary": "Chrome again exempts Google from user site data settings. 점수 184, 반응 27 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
       "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "score": 120,
-      "comments": 14,
+      "score": 148,
+      "comments": 22,
       "text": "",
-      "summary": "Visualizing Rust's Vtables: How dyn Trait Works In Memory. 점수 120, 반응 14 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Terpstra Keyboard",
-      "url": "http://terpstrakeyboard.com/",
-      "score": 111,
-      "comments": 53,
-      "text": "",
-      "summary": "Terpstra Keyboard.  점수 111, 반응 53 기준 인기 이슈입니다."
+      "summary": "Visualizing Rust's Vtables: How dyn Trait Works In Memory. 점수 148, 반응 22 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 24
-    },
-    {
-      "keyword": "https",
-      "count": 4
-    },
-    {
-      "keyword": "com",
-      "count": 4
+      "count": 11
     },
     {
       "keyword": "platform",
@@ -251,6 +243,10 @@
     },
     {
       "keyword": "agent",
+      "count": 3
+    },
+    {
+      "keyword": "cloud",
       "count": 3
     },
     {
@@ -278,11 +274,15 @@
       "count": 2
     },
     {
-      "keyword": "cloud",
+      "keyword": "autogpt",
       "count": 2
     },
     {
-      "keyword": "autogpt",
+      "keyword": "accessible",
+      "count": 2
+    },
+    {
+      "keyword": "everyone",
       "count": 2
     },
     {
