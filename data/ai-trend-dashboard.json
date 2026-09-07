@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T18:43:50.488034+00:00",
+  "updatedAt": "2026-09-07T22:50:32.577243+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 389121,
-      "comments": 6326,
+      "score": 389136,
+      "comments": 6295,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 389121, 반응 6326 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 389136, 반응 6295 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 282777,
+      "score": 282817,
       "comments": 339,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 282777, 반응 339 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 282817, 반응 339 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 242986,
-      "comments": 40504,
+      "score": 243033,
+      "comments": 40540,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 242986, 반응 40504 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 243033, 반응 40540 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 203650,
-      "comments": 1141,
+      "score": 203665,
+      "comments": 1140,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 203650, 반응 1141 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 203665, 반응 1140 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187182,
-      "comments": 596,
+      "score": 187185,
+      "comments": 600,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187182, 반응 596 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187185, 반응 600 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 177571,
-      "comments": 607,
+      "score": 177634,
+      "comments": 606,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 177571, 반응 607 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 177634, 반응 606 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 169567,
+      "score": 169577,
       "comments": 74,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 169567, 반응 74 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 169577, 반응 74 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164850,
+      "score": 164847,
       "comments": 2505,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164850, 반응 2505 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164847, 반응 2505 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,207 +91,207 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 154767,
+      "score": 154840,
       "comments": 1051,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 154767, 반응 1051 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 154840, 반응 1051 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 151236,
-      "comments": 269,
+      "score": 151253,
+      "comments": 275,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 151236, 반응 269 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 151253, 반응 275 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 145877,
-      "comments": 455,
+      "score": 145883,
+      "comments": 454,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145877, 반응 455 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-      "score": 1033,
-      "comments": 475,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=6IFVTcM28KA\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=6IFVTcM28KA</a>",
-      "summary": "LG smart TVs caught logging audio with screen off and snooping on local devices. https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=6IFVTcM28KA 점수 1033, 반응 475 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 145883, 반응 454 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Keep Our Servers Running",
       "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "score": 845,
-      "comments": 212,
+      "score": 926,
+      "comments": 229,
       "text": "",
-      "summary": "Keep Our Servers Running. 점수 845, 반응 212 기준 인기 이슈입니다."
+      "summary": "Keep Our Servers Running. 점수 926, 반응 229 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "De-Brainrot Vacations",
-      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-      "score": 418,
-      "comments": 172,
-      "text": "",
-      "summary": "De-Brainrot Vacations. 점수 418, 반응 172 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "score": 389,
-      "comments": 243,
-      "text": "",
-      "summary": "GrapheneOS Overhauled Default Apps and Secure Clipboard. 점수 389, 반응 243 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "score": 343,
-      "comments": 175,
-      "text": "",
-      "summary": "It took a year to ship WebAssembly in Anubis. 점수 343, 반응 175 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "score": 299,
-      "comments": 101,
-      "text": "",
-      "summary": "Making a Python interpreter in 1024 bytes. 점수 299, 반응 101 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: How do you manage skills files?",
-      "url": "https://news.ycombinator.com/item?id=49589914",
-      "score": 268,
-      "comments": 247,
-      "text": "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time?<p>I believe skills will eventually be eating by model capabilities, but until then I&#x27;m just looking for a better way to manage things.",
-      "summary": "Ask HN: How do you manage skills files?. How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time? 점수 268, 반응 247 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: Fable hacked my piano, can I release the results?",
-      "url": "https://news.ycombinator.com/item?id=49577129",
-      "score": 263,
-      "comments": 146,
-      "text": "I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Beethoven. Last night I saw they had released some music from Eric Satre, a 19th century French composer, which I bought. Curious if I could have just used AI to create these files, I began experimenting with Astra and Fable. Feeding the output of one into the other to critique. After an hour of LLM discussion of Rubato and fermata, solenoid response times and proper sustain pedal technique, they settled on their ultimate version of Gymnopedie No 1.<p>I then asked Fable to compare it to the open source version I&#x27;d downloaded from Mutopia, which it promptly ripped apart. No sustain, zero rubato, upside down balance.<p>Ok, what about the version I&#x27;d just bought?<p>The PianoDisc versions are mp3s encoded with the right channel carrying MIDI to be played on the piano, and the left channel containing any accompanying music to be played through attached speakers (who doesn&#x27;t want the harmonica on Piano Man?)<p>I gave the mp3 to Fable, which promptly decoded the format, identifying the right channel carrying MIDI using a 2004.5 Hz square wave.<p>It then went on to analyze the nuance of pedal lift and melody relative to the chords.<p>Fable then asked if I wanted it to build an encoder to write my own MIDI files into the right channel of mp3s.<p>Sounds great, and I instructed it to write the encoder.<p>What it came back with was a python encoder PLUS a decoder.<p>In the verbose explanation, it mentioned decoy notes.<p>Curious, I asked it to explain the decoy notes.<p>Apparently PianoDisc adds obfuscation into their format which is handled properly by their decoder, but would leave naively extracted MIDI unplayable on other systems.<p>Fable created an encoder which adds those decoy notes, and a decoder which removes them.<p>Am I allowed to publish the decoder? The encoder?",
-      "summary": "Ask HN: Fable hacked my piano, can I release the results?. I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Beethoven. 점수 263, 반응 146 기준 인기 이슈입니다."
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "score": 396,
+      "comments": 673,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.notebookcheck.net&#x2F;LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.notebookcheck.net&#x2F;LG-smart-TVs-caught-logging-au...</a>",
+      "summary": "216M Spy TVs – The LG Smart TV Problem [video]. https:&#x2F;&#x2F;www.notebookcheck.net&#x2F;LG-smart-TVs-caught-logging-au... 점수 396, 반응 673 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "bzip3",
       "url": "https://github.com/iczelia/bzip3",
-      "score": 254,
-      "comments": 79,
+      "score": 355,
+      "comments": 101,
       "text": "",
-      "summary": "bzip3.  점수 254, 반응 79 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "score": 224,
-      "comments": 127,
-      "text": "",
-      "summary": "Smartphone makers don't bother to comply with EU repairability requirements. 점수 224, 반응 127 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Splash-free urinals (2025)",
-      "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
-      "score": 186,
-      "comments": 103,
-      "text": "",
-      "summary": "Splash-free urinals (2025). 점수 186, 반응 103 기준 인기 이슈입니다."
+      "summary": "bzip3.  점수 355, 반응 101 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
       "url": "https://mathathonchallenge.com/index.html",
-      "score": 169,
-      "comments": 47,
+      "score": 209,
+      "comments": 70,
       "text": "",
-      "summary": "Caltech Mathathon – first hackathon ever devoted to research level mathematics. 점수 169, 반응 47 기준 인기 이슈입니다."
+      "summary": "Caltech Mathathon – first hackathon ever devoted to research level mathematics. 점수 209, 반응 70 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Bill Gates tries to install MovieMaker",
-      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-      "score": 163,
-      "comments": 111,
+      "title": "WeatherNext 3",
+      "url": "https://deepmind.google/science/weathernext/",
+      "score": 175,
+      "comments": 29,
+      "text": "Paper [pdf]: <a href=\"https:&#x2F;&#x2F;storage.googleapis.com&#x2F;deepmind-media&#x2F;papers&#x2F;weathernext_3.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;storage.googleapis.com&#x2F;deepmind-media&#x2F;papers&#x2F;weather...</a>",
+      "summary": "Paper [pdf]: https:&#x2F;&#x2F;storage.googleapis.com&#x2F;deepmind-media&#x2F;papers&#x2F;weather... 점수 175, 반응 29 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Simple Is Not Small",
+      "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+      "score": 170,
+      "comments": 55,
       "text": "",
-      "summary": "Bill Gates tries to install MovieMaker. 점수 163, 반응 111 기준 인기 이슈입니다."
+      "summary": "Simple Is Not Small.  점수 170, 반응 55 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "score": 160,
+      "comments": 67,
+      "text": "",
+      "summary": "Watch Los Angeles get built, one building at a time (1880–2026). 점수 160, 반응 67 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "This Month in Ladybird – August 2026",
+      "url": "https://ladybird.org/newsletter/2026-08-31/",
+      "score": 128,
+      "comments": 15,
+      "text": "",
+      "summary": "This Month in Ladybird – August 2026. 점수 128, 반응 15 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Icy Moons Are Ocean Worlds",
+      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "score": 107,
+      "comments": 10,
+      "text": "",
+      "summary": "Icy Moons Are Ocean Worlds. 점수 107, 반응 10 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Decoding the NEC V20 Microcode",
+      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "score": 102,
+      "comments": 7,
+      "text": "",
+      "summary": "Decoding the NEC V20 Microcode. 점수 102, 반응 7 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "score": 98,
+      "comments": 20,
+      "text": "",
+      "summary": "Trusting-Trust Attack against an Entire Linux Distribution. 점수 98, 반응 20 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "score": 82,
+      "comments": 20,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=CfjnTJos_no\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=CfjnTJos_no</a>",
+      "summary": "Scientists observe Einstein's gravity in the quantum world. https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=CfjnTJos_no 점수 82, 반응 20 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Dataflow Model Revisited",
+      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "score": 77,
+      "comments": 14,
+      "text": "PDF: <a href=\"https:&#x2F;&#x2F;www.vldb.org&#x2F;pvldb&#x2F;vol19&#x2F;p4953-fernandez-moctezuma.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www.vldb.org&#x2F;pvldb&#x2F;vol19&#x2F;p4953-fernandez-moctezuma.p...</a>",
+      "summary": "The Dataflow Model Revisited. PDF: https:&#x2F;&#x2F;www.vldb.org&#x2F;pvldb&#x2F;vol19&#x2F;p4953-fernandez-moctezuma.p... 점수 77, 반응 14 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "which",
-      "count": 7
-    },
-    {
       "keyword": "x2f",
+      "count": 32
+    },
+    {
+      "keyword": "https",
+      "count": 8
+    },
+    {
+      "keyword": "www",
       "count": 6
     },
     {
-      "keyword": "fable",
-      "count": 6
-    },
-    {
-      "keyword": "encoder",
-      "count": 5
-    },
-    {
-      "keyword": "skills",
+      "keyword": "href",
       "count": 4
     },
     {
-      "keyword": "they",
+      "keyword": "rel",
       "count": 4
     },
     {
-      "keyword": "then",
+      "keyword": "nofollow",
       "count": 4
     },
     {
-      "keyword": "x27",
+      "keyword": "pdf",
       "count": 4
     },
     {
-      "keyword": "piano",
+      "keyword": "com",
       "count": 4
-    },
-    {
-      "keyword": "their",
-      "count": 4
-    },
-    {
-      "keyword": "channel",
-      "count": 4
-    },
-    {
-      "keyword": "midi",
-      "count": 4
-    },
-    {
-      "keyword": "decoder",
-      "count": 4
-    },
-    {
-      "keyword": "any",
-      "count": 3
     },
     {
       "keyword": "platform",
       "count": 3
+    },
+    {
+      "keyword": "prompts",
+      "count": 3
+    },
+    {
+      "keyword": "watch",
+      "count": 3
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "agentic",
+      "count": 2
+    },
+    {
+      "keyword": "agent",
+      "count": 2
     }
   ],
   "meta": {
