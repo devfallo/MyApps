@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T20:52:27.800591+00:00",
+  "updatedAt": "2026-09-11T00:10:39.712891+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,247 +10,251 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 389374,
-      "comments": 6698,
+      "score": 389396,
+      "comments": 6686,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 389374, 반응 6698 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 389396, 반응 6686 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 284648,
+      "score": 284693,
       "comments": 349,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 284648, 반응 349 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 284693, 반응 349 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 244184,
-      "comments": 41642,
+      "score": 244210,
+      "comments": 41697,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 244184, 반응 41642 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 244210, 반응 41697 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 203947,
-      "comments": 1138,
+      "score": 203952,
+      "comments": 1142,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 203947, 반응 1138 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 203952, 반응 1142 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187246,
-      "comments": 587,
+      "score": 187248,
+      "comments": 586,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187246, 반응 587 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187248, 반응 586 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 178791,
+      "score": 178832,
       "comments": 621,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 178791, 반응 621 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 178832, 반응 621 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 169884,
+      "score": 169896,
       "comments": 77,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 169884, 반응 77 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 169896, 반응 77 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164889,
+      "score": 164890,
       "comments": 2506,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164889, 반응 2506 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164890, 반응 2506 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158432,
+      "score": 158433,
       "comments": 18,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158432, 반응 18 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158433, 반응 18 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 155351,
+      "score": 155358,
       "comments": 1069,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 155351, 반응 1069 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 155358, 반응 1069 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 151560,
-      "comments": 281,
+      "score": 151566,
+      "comments": 289,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 151560, 반응 281 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 151566, 반응 289 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 146086,
-      "comments": 479,
+      "score": 146091,
+      "comments": 480,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146086, 반응 479 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146091, 반응 480 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "iPhone Duo",
       "url": "https://www.apple.com/iphone-duo/",
-      "score": 1382,
-      "comments": 2399,
+      "score": 1406,
+      "comments": 2425,
       "text": "",
-      "summary": "iPhone Duo.  점수 1382, 반응 2399 기준 인기 이슈입니다."
+      "summary": "iPhone Duo.  점수 1406, 반응 2425 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "DeepSeek v4.1 Flash",
-      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "score": 890,
-      "comments": 498,
-      "text": "<a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4.1-Flash\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4.1-Flash</a>",
-      "summary": "https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4.1-Flash 점수 890, 반응 498 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Shopify moves back to Native from React Native",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
       "url": "https://shopify.engineering/back-to-native",
-      "score": 581,
-      "comments": 400,
+      "score": 716,
+      "comments": 469,
       "text": "",
-      "summary": "Shopify moves back to Native from React Native. 점수 581, 반응 400 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Rust is tier-1 language at Microsoft",
-      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "score": 516,
-      "comments": 281,
-      "text": "",
-      "summary": "Rust is tier-1 language at Microsoft. 점수 516, 반응 281 기준 인기 이슈입니다."
+      "summary": "Shopify is moving from React Native back to Swift and Kotlin. 점수 716, 반응 469 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 387,
-      "comments": 476,
+      "score": 597,
+      "comments": 598,
       "text": "<a href=\"https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240536885387540\" rel=\"nofollow\">https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240536885387540</a><p><a href=\"https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240537520615623\" rel=\"nofollow\">https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240537520615623</a><p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;ValerioCapraro&#x2F;status&#x2F;2097791836269977996\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;ValerioCapraro&#x2F;status&#x2F;2097791836269977996</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;ValerioCapraro&#x2F;status&#x2F;2097791836269977996\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;ValerioCapraro&#x2F;status&#x2F;209779183626997799...</a><p><a href=\"https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;did:plc:ckaz32jwl6t2cno6fmuw2nhn&#x2F;post&#x2F;3mv4mt4ikss2d\" rel=\"nofollow\">https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;did:plc:ckaz32jwl6t2cno6fmuw2nhn&#x2F;po...</a>",
-      "summary": "More questions about whether researchers can trust OpenAI with unpublished math. https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240536885387540 https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240537520615623 https:&#x2F;&#x2F;x.com&#x2F;ValerioCapraro&#x2F;status&#x2F;2097791836269977996 , https:&#x2F;&#x2F;xcancel.com&#x2F;ValerioCapraro&#x2F;status&#x2F;209779183626997799... https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;did:plc:ckaz32jwl6t2cno6fmuw2nhn&#x2F;po... 점수 387, 반응 476 기준 인기 이슈입니다."
+      "summary": "More questions about whether researchers can trust OpenAI with unpublished math. https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240536885387540 https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240537520615623 https:&#x2F;&#x2F;x.com&#x2F;ValerioCapraro&#x2F;status&#x2F;2097791836269977996 , https:&#x2F;&#x2F;xcancel.com&#x2F;ValerioCapraro&#x2F;status&#x2F;209779183626997799... https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;did:plc:ckaz32jwl6t2cno6fmuw2nhn&#x2F;po... 점수 597, 반응 598 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "What algorithm did Windows XP use to choose your initial user picture?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-      "score": 315,
-      "comments": 153,
+      "title": "Rust is tier-1 language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "score": 583,
+      "comments": 321,
       "text": "",
-      "summary": "What algorithm did Windows XP use to choose your initial user picture?. 점수 315, 반응 153 기준 인기 이슈입니다."
+      "summary": "Rust is tier-1 language at Microsoft. 점수 583, 반응 321 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "List of references on Sony websites to players \"owning\" their digital games",
       "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-      "score": 308,
-      "comments": 100,
+      "score": 352,
+      "comments": 118,
       "text": "",
-      "summary": "List of references on Sony websites to players \"owning\" their digital games. 점수 308, 반응 100 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-      "score": 254,
-      "comments": 205,
-      "text": "",
-      "summary": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls. 점수 254, 반응 205 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Stockfish 19",
-      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-      "score": 245,
-      "comments": 141,
-      "text": "",
-      "summary": "Stockfish 19.  점수 245, 반응 141 기준 인기 이슈입니다."
+      "summary": "List of references on Sony websites to players \"owning\" their digital games. 점수 352, 반응 118 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
       "url": "https://cognition.com/blog/swe-2",
-      "score": 244,
-      "comments": 111,
+      "score": 341,
+      "comments": 140,
       "text": "",
-      "summary": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra. 점수 244, 반응 111 기준 인기 이슈입니다."
+      "summary": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra. 점수 341, 반응 140 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
-      "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
-      "score": 183,
-      "comments": 31,
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "score": 336,
+      "comments": 164,
       "text": "",
-      "summary": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth. 점수 183, 반응 31 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Neki",
-      "url": "https://planetscale.com/blog/introducing-neki",
-      "score": 156,
-      "comments": 64,
-      "text": "",
-      "summary": "Neki.  점수 156, 반응 64 기준 인기 이슈입니다."
+      "summary": "What algorithm did Windows XP use to choose your initial user picture?. 점수 336, 반응 164 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Don't let anyone take away your big box of cables",
       "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "score": 125,
-      "comments": 99,
+      "score": 285,
+      "comments": 221,
       "text": "",
-      "summary": "Don't let anyone take away your big box of cables. 점수 125, 반응 99 기준 인기 이슈입니다."
+      "summary": "Don't let anyone take away your big box of cables. 점수 285, 반응 221 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "score": 280,
+      "comments": 219,
+      "text": "",
+      "summary": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls. 점수 280, 반응 219 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Stockfish 19",
+      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+      "score": 263,
+      "comments": 149,
+      "text": "",
+      "summary": "Stockfish 19.  점수 263, 반응 149 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "score": 252,
+      "comments": 37,
+      "text": "<a href=\"https:&#x2F;&#x2F;dstretch.com&#x2F;DecorrelationStretch.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;dstretch.com&#x2F;DecorrelationStretch.pdf</a><p><a href=\"https:&#x2F;&#x2F;www.nasa.gov&#x2F;technology&#x2F;tech-transfer-spinoffs&#x2F;nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nasa.gov&#x2F;technology&#x2F;tech-transfer-spinoffs&#x2F;nasa-...</a>",
+      "summary": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025). https:&#x2F;&#x2F;dstretch.com&#x2F;DecorrelationStretch.pdf https:&#x2F;&#x2F;www.nasa.gov&#x2F;technology&#x2F;tech-transfer-spinoffs&#x2F;nasa-... 점수 252, 반응 37 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Neki – Sharded Postgres",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "score": 189,
+      "comments": 97,
+      "text": "",
+      "summary": "Neki – Sharded Postgres. 점수 189, 반응 97 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "score": 144,
+      "comments": 53,
+      "text": "",
+      "summary": "Forgejo <=16.0.3 Critical RCE. 점수 144, 반응 53 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 55
+      "count": 64
     },
     {
       "keyword": "https",
-      "count": 12
+      "count": 14
     },
     {
       "keyword": "href",
-      "count": 6
+      "count": 7
     },
     {
       "keyword": "rel",
-      "count": 6
+      "count": 7
     },
     {
       "keyword": "nofollow",
+      "count": 7
+    },
+    {
+      "keyword": "com",
       "count": 6
     },
     {
@@ -266,10 +270,6 @@
       "count": 4
     },
     {
-      "keyword": "com",
-      "count": 4
-    },
-    {
       "keyword": "valeriocapraro",
       "count": 4
     },
@@ -282,16 +282,16 @@
       "count": 3
     },
     {
-      "keyword": "native",
-      "count": 3
-    },
-    {
       "keyword": "prompts",
       "count": 3
     },
     {
-      "keyword": "flash",
+      "keyword": "did",
       "count": 3
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
     }
   ],
   "meta": {
