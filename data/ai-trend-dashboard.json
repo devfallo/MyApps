@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T20:58:09.294918+00:00",
+  "updatedAt": "2026-09-12T00:18:33.186088+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -11,72 +11,72 @@
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "score": 389459,
-      "comments": 6879,
+      "comments": 6876,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 389459, 반응 6879 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 389459, 반응 6876 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 285314,
-      "comments": 356,
+      "score": 285362,
+      "comments": 354,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 285314, 반응 356 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 285362, 반응 354 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 244573,
-      "comments": 42093,
+      "score": 244603,
+      "comments": 42106,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 244573, 반응 42093 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 244603, 반응 42106 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 204028,
+      "score": 204042,
       "comments": 1137,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 204028, 반응 1137 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 204042, 반응 1137 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187268,
-      "comments": 578,
+      "score": 187271,
+      "comments": 579,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187268, 반응 578 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187271, 반응 579 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 179177,
-      "comments": 623,
+      "score": 179215,
+      "comments": 624,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 179177, 반응 623 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 179215, 반응 624 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 169990,
+      "score": 170000,
       "comments": 77,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 169990, 반응 77 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 170000, 반응 77 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164897,
+      "score": 164898,
       "comments": 2506,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164897, 반응 2506 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164898, 반응 2506 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,145 +91,145 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 155450,
-      "comments": 1063,
+      "score": 155457,
+      "comments": 1067,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 155450, 반응 1063 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 155457, 반응 1067 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 151665,
-      "comments": 300,
+      "score": 151673,
+      "comments": 305,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 151665, 반응 300 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 151673, 반응 305 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 146135,
+      "score": 146138,
       "comments": 486,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146135, 반응 486 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146138, 반응 486 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "So you want to use OpenRouter?",
       "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-      "score": 637,
-      "comments": 172,
+      "score": 691,
+      "comments": 189,
       "text": "",
-      "summary": "So you want to use OpenRouter?. 점수 637, 반응 172 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude is only available to people over 18 years",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "score": 496,
-      "comments": 545,
-      "text": "",
-      "summary": "Claude is only available to people over 18 years. 점수 496, 반응 545 기준 인기 이슈입니다."
+      "summary": "So you want to use OpenRouter?. 점수 691, 반응 189 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
-      "score": 296,
-      "comments": 386,
+      "score": 567,
+      "comments": 634,
       "text": "<a href=\"https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignment-of-ai-in-mathematics&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignm...</a><p><a href=\"https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;...</a>, <a href=\"https:&#x2F;&#x2F;unwall.app&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https:&#x2F;&#x2F;unwall.app&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;...</a>",
-      "summary": "A misalignment of AI in mathematics. https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignm... https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;... 점수 296, 반응 386 기준 인기 이슈입니다."
+      "summary": "A misalignment of AI in mathematics. https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignm... https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;... 점수 567, 반응 634 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-      "score": 287,
-      "comments": 273,
+      "title": "Claude is only available to people over 18 years",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "score": 559,
+      "comments": 585,
       "text": "",
-      "summary": "Google will buy half the electricity from one of Finland's nuclear power plants. 점수 287, 반응 273 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "HuggingFace: Security.txt",
-      "url": "https://huggingface.co/security.txt",
-      "score": 214,
-      "comments": 55,
-      "text": "",
-      "summary": "HuggingFace: Security.txt. 점수 214, 반응 55 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Measuring the sloppiness of code",
-      "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-      "score": 205,
-      "comments": 212,
-      "text": "",
-      "summary": "Measuring the sloppiness of code. 점수 205, 반응 212 기준 인기 이슈입니다."
+      "summary": "Claude is only available to people over 18 years. 점수 559, 반응 585 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The EPA is planning to scrap public review rules for data center pollution",
       "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "score": 200,
-      "comments": 126,
+      "score": 317,
+      "comments": 212,
       "text": "",
-      "summary": "The EPA is planning to scrap public review rules for data center pollution. 점수 200, 반응 126 기준 인기 이슈입니다."
+      "summary": "The EPA is planning to scrap public review rules for data center pollution. 점수 317, 반응 212 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "score": 240,
+      "comments": 131,
+      "text": "",
+      "summary": "I spent $220 on Google app ads and 60% of the installs were robots. 점수 240, 반응 131 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Logo Programming Language",
       "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-      "score": 181,
-      "comments": 82,
+      "score": 236,
+      "comments": 95,
       "text": "",
-      "summary": "Logo Programming Language. 점수 181, 반응 82 기준 인기 이슈입니다."
+      "summary": "Logo Programming Language. 점수 236, 반응 95 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Hacker News, without AI",
-      "url": "https://hcker.news/?ai=exclude",
-      "score": 142,
-      "comments": 75,
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "score": 177,
+      "comments": 104,
       "text": "",
-      "summary": "Show HN: Hacker News, without AI. 점수 142, 반응 75 기준 인기 이슈입니다."
+      "summary": "GrapheneOS' rewritten Messages app is released. 점수 177, 반응 104 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
       "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-      "score": 138,
-      "comments": 53,
+      "score": 171,
+      "comments": 62,
       "text": "",
-      "summary": "I've operated petabyte-scale ClickHouse clusters for 5 years. 점수 138, 반응 53 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Global Glacier Extinction Explorer",
-      "url": "https://glacierextinction.com",
-      "score": 133,
-      "comments": 47,
-      "text": "",
-      "summary": "Global Glacier Extinction Explorer. 점수 133, 반응 47 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "RTK reports token savings, but our cost benchmarks disagree",
-      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-      "score": 129,
-      "comments": 60,
-      "text": "",
-      "summary": "RTK reports token savings, but our cost benchmarks disagree. 점수 129, 반응 60 기준 인기 이슈입니다."
+      "summary": "I've operated petabyte-scale ClickHouse clusters for 5 years. 점수 171, 반응 62 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Bodily Oddities",
       "url": "https://vester.si/bodily-oddities/",
-      "score": 121,
-      "comments": 102,
+      "score": 155,
+      "comments": 123,
       "text": "When I was about 11 years old, my best friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudden, my heart started hurting, and I collapsed to my knees, and the robot was no more. Every time I inhaled, it would feel like a spike was being driven into my heart, and my breathing got completely shallow. I was sure I was done for, when all of a sudden, after an exhale, it disappeared.<p>It wasn&#x27;t until I was in my twenties that I learned this was called Precordial catch syndrome and it happens to most everyone. Every friend I&#x27;ve told about it was surprised, and also most knew the feeling.<p>I collected a growing list of strange things bodies do ever since. And now finally I made it into a little page for others to see:<p><a href=\"https:&#x2F;&#x2F;vester.si&#x2F;bodily-oddities&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;vester.si&#x2F;bodily-oddities&#x2F;</a><p>It includes a form to tell me about new things, if you think they belong on the page. Feedback welcome!",
-      "summary": "Show HN: Bodily Oddities. When I was about 11 years old, my best friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudden, my heart started hurting, and I collapsed to my knees, and the robot was no more. 점수 121, 반응 102 기준 인기 이슈입니다."
+      "summary": "Show HN: Bodily Oddities. When I was about 11 years old, my best friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudden, my heart started hurting, and I collapsed to my knees, and the robot was no more. 점수 155, 반응 123 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Global Glacier Extinction Explorer",
+      "url": "https://glacierextinction.com",
+      "score": 149,
+      "comments": 49,
+      "text": "",
+      "summary": "Global Glacier Extinction Explorer. 점수 149, 반응 49 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "score": 144,
+      "comments": 71,
+      "text": "",
+      "summary": "RTK reports token savings, but our cost benchmarks disagree. 점수 144, 반응 71 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rune is now open source",
+      "url": "https://rune.build/blog/rune-is-now-open-source",
+      "score": 132,
+      "comments": 53,
+      "text": "",
+      "summary": "Rune is now open source. 점수 132, 반응 53 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "score": 113,
+      "comments": 48,
+      "text": "",
+      "summary": "OpenAI agents carried out an undisclosed attack on RubyGems. 점수 113, 반응 48 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -270,6 +270,10 @@
       "count": 4
     },
     {
+      "keyword": "app",
+      "count": 4
+    },
+    {
       "keyword": "things",
       "count": 3
     },
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "any",
       "count": 2
     }
   ],
