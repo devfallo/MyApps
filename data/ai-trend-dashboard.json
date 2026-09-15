@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T11:44:48.978792+00:00",
+  "updatedAt": "2026-09-15T16:59:29.613766+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,288 +10,288 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 389737,
-      "comments": 7342,
+      "score": 389763,
+      "comments": 7412,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 389737, 반응 7342 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 389763, 반응 7412 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 286932,
-      "comments": 366,
+      "score": 287054,
+      "comments": 367,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 286932, 반응 366 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 287054, 반응 367 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 245693,
+      "score": 245799,
       "comments": 43253,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 245693, 반응 43253 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 245799, 반응 43253 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 204361,
+      "score": 204384,
       "comments": 1158,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 204361, 반응 1158 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 204384, 반응 1158 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187361,
-      "comments": 571,
+      "score": 187365,
+      "comments": 573,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187361, 반응 571 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187365, 반응 573 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 180630,
-      "comments": 625,
+      "score": 180755,
+      "comments": 627,
       "text": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 180630, 반응 625 기준 인기 이슈입니다."
+      "summary": "The context API to search, scrape, and interact with the web at scale. 점수 180755, 반응 627 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 170392,
+      "score": 170411,
       "comments": 78,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 170392, 반응 78 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 170411, 반응 78 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164941,
+      "score": 164947,
       "comments": 2506,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164941, 반응 2506 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164947, 반응 2506 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158568,
+      "score": 158573,
       "comments": 19,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158568, 반응 19 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158573, 반응 19 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 155798,
-      "comments": 1050,
+      "score": 155822,
+      "comments": 1056,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 155798, 반응 1050 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 155822, 반응 1056 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 152121,
-      "comments": 299,
+      "score": 152160,
+      "comments": 305,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 152121, 반응 299 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 152160, 반응 305 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 146365,
-      "comments": 493,
+      "score": 146377,
+      "comments": 492,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146365, 반응 493 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "XCancel service is suspended until further notice",
-      "url": "https://xcancel.com/#",
-      "score": 661,
-      "comments": 949,
-      "text": "",
-      "summary": "XCancel service is suspended until further notice. 점수 661, 반응 949 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "score": 632,
-      "comments": 720,
-      "text": "",
-      "summary": "iOS 27, iPadOS 27, and macOS 27. 점수 632, 반응 720 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "score": 472,
-      "comments": 381,
-      "text": "",
-      "summary": "OpenAI bots knew about the RubyGems caching vulnerability. 점수 472, 반응 381 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "score": 421,
-      "comments": 523,
-      "text": "",
-      "summary": "Pion, an agent designed to run any company autonomously. 점수 421, 반응 523 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: What are you working on? (September 2026)",
-      "url": "https://news.ycombinator.com/item?id=49686380",
-      "score": 339,
-      "comments": 1054,
-      "text": "What are you working on? What have you been curious about lately?",
-      "summary": "Ask HN: What are you working on? What are you working on? What have you been curious about lately? 점수 339, 반응 1054 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Distributed Systems Classics (2017)",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "score": 314,
-      "comments": 68,
-      "text": "",
-      "summary": "Distributed Systems Classics (2017). 점수 314, 반응 68 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146377, 반응 492 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "I can't stop thinking about Papua New Guinea",
       "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-      "score": 294,
-      "comments": 108,
+      "score": 721,
+      "comments": 305,
       "text": "",
-      "summary": "I can't stop thinking about Papua New Guinea. 점수 294, 반응 108 기준 인기 이슈입니다."
+      "summary": "I can't stop thinking about Papua New Guinea. 점수 721, 반응 305 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Charts built for Chat",
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "score": 241,
-      "comments": 75,
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "score": 653,
+      "comments": 102,
       "text": "",
-      "summary": "Charts built for Chat. 점수 241, 반응 75 기준 인기 이슈입니다."
+      "summary": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations. 점수 653, 반응 102 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "A beginning for mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "score": 238,
-      "comments": 128,
+      "title": "25 Years of Mass Surveillance Is Enough",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "score": 511,
+      "comments": 161,
       "text": "",
-      "summary": "A beginning for mathematics. 점수 238, 반응 128 기준 인기 이슈입니다."
+      "summary": "25 Years of Mass Surveillance Is Enough. 점수 511, 반응 161 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Principles for Fast Tokio Applications",
-      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "score": 223,
-      "comments": 53,
+      "title": "US confirms for first time it has deployed space weapons",
+      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "score": 277,
+      "comments": 178,
       "text": "",
-      "summary": "Principles for Fast Tokio Applications. 점수 223, 반응 53 기준 인기 이슈입니다."
+      "summary": "US confirms for first time it has deployed space weapons. 점수 277, 반응 178 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Linux from Scratch",
-      "url": "https://www.linuxfromscratch.org/",
-      "score": 216,
-      "comments": 72,
+      "title": "Java 27",
+      "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+      "score": 245,
+      "comments": 188,
       "text": "",
-      "summary": "Linux from Scratch.  점수 216, 반응 72 기준 인기 이슈입니다."
+      "summary": "Java 27.  점수 245, 반응 188 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-      "score": 209,
-      "comments": 222,
+      "title": "CSS-Tricks in Limbo",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "score": 199,
+      "comments": 76,
       "text": "",
-      "summary": "Ubuntu 26.10 completes transition to Rust-based coreutils. 점수 209, 반응 222 기준 인기 이슈입니다."
+      "summary": "CSS-Tricks in Limbo.  점수 199, 반응 76 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "People who can't picture anything are rewriting the science of imagination",
-      "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
-      "score": 180,
-      "comments": 254,
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "url": "https://github.com/enactic/OpenArm",
+      "score": 190,
+      "comments": 40,
       "text": "",
-      "summary": "People who can't picture anything are rewriting the science of imagination. 점수 180, 반응 254 기준 인기 이슈입니다."
+      "summary": "OpenArm: An open-source 7DOF humanoid arm. 점수 190, 반응 40 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Alternatives to MinIO for single-node local S3",
+      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+      "score": 177,
+      "comments": 77,
+      "text": "",
+      "summary": "Alternatives to MinIO for single-node local S3. 점수 177, 반응 77 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "score": 139,
+      "comments": 70,
+      "text": "Hey HN,<p>I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I&#x27;ve been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.<p>The HTML file and any related assets are directly embedded in the database. User data can either be saved as a localStorage key&#x2F;value store or via a MongoDB-inspired collections API as documents, saved in a table in the file. You can also save other assets, like PDF files or images, directly in the database to keep different documents together. All data can be easily exported to CSV or JSON if needed.<p>Privacy and security were a big priority for me, so documents cannot do anything out of the box. They don’t have direct access to the file system and they require permission to access the internet. The permission model is still something I’m working to improve. Capsule documents can also use local or remote AI models for document specific AI features.<p>One downside with this approach is that multiple people working on it will create different copies. To make it possible to merge different copies of the same file, each data entry has a unique UUID and timestamp.<p>I’m planning to open up the file format specification for the 1.0 version of the app so other apps can read or write Capsule files.<p>You can try it out in the web preview at <a href=\"https:&#x2F;&#x2F;withcapsule.app&#x2F;preview\" rel=\"nofollow\">https:&#x2F;&#x2F;withcapsule.app&#x2F;preview</a> with pre-built templates or use any AI provider of your choice to create a custom, Capsule-optimized app by using the following prompt:<p>&quot;Please read the app wizard instructions at <a href=\"https:&#x2F;&#x2F;withcapsule.app&#x2F;prompt.txt\" rel=\"nofollow\">https:&#x2F;&#x2F;withcapsule.app&#x2F;prompt.txt</a> and help me design an app.“<p>I’m still working on the file format but there are migrations for each new version, so data should never be lost when using newer versions of the app in the future. Please let me know if you have any ideas or use cases where this might make sense or does not work.",
+      "summary": "Show HN: Capsule – Single-file web apps that save their data into SQLite. Hey HN, I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I&#x27;ve been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file. 점수 139, 반응 70 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/",
+      "score": 121,
+      "comments": 132,
+      "text": "",
+      "summary": "Let's make quality the norm again. 점수 121, 반응 132 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+      "url": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+      "score": 121,
+      "comments": 7,
+      "text": "",
+      "summary": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]. 점수 121, 반응 7 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "url": "https://bkovac.github.io/modem-thing/",
+      "score": 102,
+      "comments": 14,
+      "text": "",
+      "summary": "Show HN: Hacking a $20 4G wireless hotspot into a texting device. 점수 102, 반응 14 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How much of F-Droid is LLM generated?",
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "score": 79,
+      "comments": 106,
+      "text": "",
+      "summary": "How much of F-Droid is LLM generated?. 점수 79, 반응 106 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
+      "keyword": "x2f",
+      "count": 13
+    },
+    {
+      "keyword": "app",
+      "count": 11
+    },
+    {
+      "keyword": "can",
+      "count": 8
+    },
+    {
+      "keyword": "file",
+      "count": 8
+    },
+    {
+      "keyword": "data",
+      "count": 7
+    },
+    {
       "keyword": "any",
-      "count": 3
+      "count": 5
+    },
+    {
+      "keyword": "use",
+      "count": 4
+    },
+    {
+      "keyword": "web",
+      "count": 4
+    },
+    {
+      "keyword": "capsule",
+      "count": 4
+    },
+    {
+      "keyword": "documents",
+      "count": 4
+    },
+    {
+      "keyword": "https",
+      "count": 4
+    },
+    {
+      "keyword": "withcapsule",
+      "count": 4
     },
     {
       "keyword": "platform",
       "count": 3
     },
     {
-      "keyword": "agent",
+      "keyword": "building",
       "count": 3
-    },
-    {
-      "keyword": "can",
-      "count": 3
-    },
-    {
-      "keyword": "prompts",
-      "count": 3
-    },
-    {
-      "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "cloud",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
-      "count": 2
     },
     {
       "keyword": "api",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "chat",
-      "count": 2
+      "count": 3
     }
   ],
   "meta": {
