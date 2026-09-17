@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T07:40:06.300041+00:00",
+  "updatedAt": "2026-09-17T13:27:57.541927+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,235 +10,251 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 389933,
-      "comments": 7592,
+      "score": 389963,
+      "comments": 7633,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 389933, 반응 7592 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 389963, 반응 7633 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 287773,
-      "comments": 374,
+      "score": 287921,
+      "comments": 375,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 287773, 반응 374 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 287921, 반응 375 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 246305,
-      "comments": 43649,
+      "score": 246407,
+      "comments": 43787,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 246305, 반응 43649 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 246407, 반응 43787 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 204725,
-      "comments": 1172,
+      "score": 204821,
+      "comments": 1185,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 204725, 반응 1172 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 204821, 반응 1185 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187399,
-      "comments": 567,
+      "score": 187403,
+      "comments": 582,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187399, 반응 567 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187403, 반응 582 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 181409,
+      "score": 181517,
       "comments": 634,
       "text": "The web data API to search, scrape, and interact at scale. 🔥",
-      "summary": "The web data API to search, scrape, and interact at scale. 점수 181409, 반응 634 기준 인기 이슈입니다."
+      "summary": "The web data API to search, scrape, and interact at scale. 점수 181517, 반응 634 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 170513,
+      "score": 170529,
       "comments": 79,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 170513, 반응 79 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 170529, 반응 79 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164986,
+      "score": 164993,
       "comments": 2505,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164986, 반응 2505 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164993, 반응 2505 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158628,
+      "score": 158637,
       "comments": 19,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158628, 반응 19 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158637, 반응 19 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 156066,
-      "comments": 1074,
+      "score": 156115,
+      "comments": 1078,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 156066, 반응 1074 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 156115, 반응 1078 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 152329,
-      "comments": 304,
+      "score": 152361,
+      "comments": 309,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 152329, 반응 304 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 152361, 반응 309 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 146493,
-      "comments": 529,
+      "score": 146525,
+      "comments": 535,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146493, 반응 529 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146525, 반응 535 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "score": 2143,
-      "comments": 243,
+      "score": 2202,
+      "comments": 246,
       "text": "See also: <i>Avian Visitors</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424</a> - May 2026 (20 comments)",
-      "summary": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations. See also: Avian Visitors - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424 - May 2026 (20 comments) 점수 2143, 반응 243 기준 인기 이슈입니다."
+      "summary": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations. See also: Avian Visitors - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424 - May 2026 (20 comments) 점수 2202, 반응 246 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nvidia announces native GPU programming in Rust",
       "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "score": 588,
-      "comments": 216,
+      "score": 785,
+      "comments": 321,
       "text": "",
-      "summary": "Nvidia announces native GPU programming in Rust. 점수 588, 반응 216 기준 인기 이슈입니다."
+      "summary": "Nvidia announces native GPU programming in Rust. 점수 785, 반응 321 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Training a 4B model to produce 81% faster query plans than Postgres",
       "url": "https://rohanbansal.com/qorl",
-      "score": 518,
-      "comments": 108,
+      "score": 601,
+      "comments": 124,
       "text": "",
-      "summary": "Training a 4B model to produce 81% faster query plans than Postgres. 점수 518, 반응 108 기준 인기 이슈입니다."
+      "summary": "Training a 4B model to produce 81% faster query plans than Postgres. 점수 601, 반응 124 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Small programming tricks",
       "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "score": 496,
-      "comments": 217,
+      "score": 578,
+      "comments": 254,
       "text": "",
-      "summary": "Small programming tricks. 점수 496, 반응 217 기준 인기 이슈입니다."
+      "summary": "Small programming tricks. 점수 578, 반응 254 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Xiaomi Mimo 2.6 live post-training dashboard",
       "url": "https://mimo.xiaomi.com/rl/",
-      "score": 410,
-      "comments": 100,
+      "score": 480,
+      "comments": 135,
       "text": "",
-      "summary": "Xiaomi Mimo 2.6 live post-training dashboard. 점수 410, 반응 100 기준 인기 이슈입니다."
+      "summary": "Xiaomi Mimo 2.6 live post-training dashboard. 점수 480, 반응 135 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
       "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-      "score": 362,
-      "comments": 302,
+      "score": 458,
+      "comments": 385,
       "text": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;Ay7RJ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;Ay7RJ</a>",
-      "summary": "AWS says it can't restore some data from mideast facilities struck by Iran. https:&#x2F;&#x2F;archive.is&#x2F;Ay7RJ 점수 362, 반응 302 기준 인기 이슈입니다."
+      "summary": "AWS says it can't restore some data from mideast facilities struck by Iran. https:&#x2F;&#x2F;archive.is&#x2F;Ay7RJ 점수 458, 반응 385 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Performance Improvements in .NET 11",
       "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-      "score": 271,
-      "comments": 51,
+      "score": 319,
+      "comments": 86,
       "text": "",
-      "summary": "Performance Improvements in .NET 11. 점수 271, 반응 51 기준 인기 이슈입니다."
+      "summary": "Performance Improvements in .NET 11. 점수 319, 반응 86 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Backups Aren't Simple",
       "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-      "score": 207,
-      "comments": 114,
+      "score": 275,
+      "comments": 174,
       "text": "",
-      "summary": "Backups Aren't Simple. 점수 207, 반응 114 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "url": "https://arxiv.org/abs/2609.14858",
-      "score": 198,
-      "comments": 49,
-      "text": "",
-      "summary": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds. 점수 198, 반응 49 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Reversing Factorio's RNG",
-      "url": "https://gegell.github.io/posts/factorio-rng/",
-      "score": 195,
-      "comments": 24,
-      "text": "",
-      "summary": "Reversing Factorio's RNG. 점수 195, 반응 24 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "url": "https://arxiv.org/abs/2609.16338",
-      "score": 192,
-      "comments": 29,
-      "text": "",
-      "summary": "Breaking the 1.58-bit Barrier for Ternary LLMs. 점수 192, 반응 29 기준 인기 이슈입니다."
+      "summary": "Backups Aren't Simple. 점수 275, 반응 174 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The engineering behind the US Strategic Petroleum Reserve",
       "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-      "score": 186,
-      "comments": 72,
+      "score": 230,
+      "comments": 94,
       "text": "",
-      "summary": "The engineering behind the US Strategic Petroleum Reserve. 점수 186, 반응 72 기준 인기 이슈입니다."
+      "summary": "The engineering behind the US Strategic Petroleum Reserve. 점수 230, 반응 94 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Japan's book scene is moving from bookstores to libraries",
-      "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
-      "score": 172,
-      "comments": 72,
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "score": 218,
+      "comments": 34,
       "text": "",
-      "summary": "Japan's book scene is moving from bookstores to libraries. 점수 172, 반응 72 기준 인기 이슈입니다."
+      "summary": "Breaking the 1.58-bit Barrier for Ternary LLMs. 점수 218, 반응 34 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "url": "https://ryan.science/blog/keys-not-included",
+      "score": 214,
+      "comments": 84,
+      "text": "",
+      "summary": "Keys Not Included: recovering the signing keys for US driver's license barcodes. 점수 214, 반응 84 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "url": "https://news.ycombinator.com/item?id=49738879",
+      "score": 201,
+      "comments": 110,
+      "text": "I was looking at neovim&#x27;s donation footer at the bottom of their site and saw a bitcoin donation address.<p>Thought I&#x27;d check how much in donations they&#x27;ve gotten. And I saw this massive 10 Bitcoin donation from back in 2023 (worth $800,000 now...)<p>From the activity history, neovim last sent bitcoin out of the address in 2019 so it&#x27;s been max 7 years since they&#x27;ve definitely had access.<p>Does anyone from the neovim project know about this? \nSeems like a pretty significant amount of funding to have sitting there. Hope it can come to good use as I use neovim daily.<p>https:&#x2F;&#x2F;www.blockchain.com&#x2F;explorer&#x2F;addresses&#x2F;btc&#x2F;1Evu6wPrzjsjrNPdCYbHy3HT6ry2EzXFyQ",
+      "summary": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023. I was looking at neovim&#x27;s donation footer at the bottom of their site and saw a bitcoin donation address. Thought I&#x27;d check how much in donations they&#x27;ve gotten. 점수 201, 반응 110 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "url": "https://jakeasmith.com/blog/http-build-url/",
+      "score": 188,
+      "comments": 48,
+      "text": "",
+      "summary": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it. 점수 188, 반응 48 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 12
+      "count": 18
     },
     {
       "keyword": "https",
+      "count": 5
+    },
+    {
+      "keyword": "neovim",
+      "count": 5
+    },
+    {
+      "keyword": "x27",
+      "count": 5
+    },
+    {
+      "keyword": "bitcoin",
+      "count": 4
+    },
+    {
+      "keyword": "donation",
       "count": 4
     },
     {
@@ -246,11 +262,27 @@
       "count": 3
     },
     {
+      "keyword": "use",
+      "count": 3
+    },
+    {
+      "keyword": "can",
+      "count": 3
+    },
+    {
       "keyword": "prompts",
       "count": 3
     },
     {
+      "keyword": "com",
+      "count": 3
+    },
+    {
       "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "does",
       "count": 2
     },
     {
@@ -259,38 +291,6 @@
     },
     {
       "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "native",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "cloud",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "can",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
       "count": 2
     }
   ],
