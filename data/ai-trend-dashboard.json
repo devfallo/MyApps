@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T17:41:18.958094+00:00",
+  "updatedAt": "2026-09-18T20:54:39.213093+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,231 +10,267 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 390041,
-      "comments": 7862,
+      "score": 390051,
+      "comments": 7873,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 390041, 반응 7862 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 390051, 반응 7873 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 288448,
-      "comments": 376,
+      "score": 288516,
+      "comments": 374,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 288448, 반응 376 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 288516, 반응 374 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 246840,
-      "comments": 43975,
+      "score": 246878,
+      "comments": 43585,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 246840, 반응 43975 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 246878, 반응 43585 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 205253,
-      "comments": 1175,
+      "score": 205269,
+      "comments": 1179,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 205253, 반응 1175 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 205269, 반응 1179 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187435,
-      "comments": 576,
+      "score": 187436,
+      "comments": 577,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187435, 반응 576 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187436, 반응 577 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 181940,
+      "score": 181981,
       "comments": 641,
       "text": "The web data API to search, scrape, and interact at scale. 🔥",
-      "summary": "The web data API to search, scrape, and interact at scale. 점수 181940, 반응 641 기준 인기 이슈입니다."
+      "summary": "The web data API to search, scrape, and interact at scale. 점수 181981, 반응 641 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 170659,
+      "score": 170678,
       "comments": 78,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 170659, 반응 78 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 170678, 반응 78 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 164998,
+      "score": 165007,
       "comments": 2504,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 164998, 반응 2504 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165007, 반응 2504 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158666,
+      "score": 158672,
       "comments": 19,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158666, 반응 19 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158672, 반응 19 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 156314,
-      "comments": 1104,
+      "score": 156336,
+      "comments": 1109,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 156314, 반응 1104 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 156336, 반응 1109 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 152472,
-      "comments": 305,
+      "score": 152487,
+      "comments": 307,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 152472, 반응 305 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 152487, 반응 307 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 146599,
-      "comments": 565,
+      "score": 146606,
+      "comments": 529,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146599, 반응 565 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "score": 730,
-      "comments": 634,
-      "text": "",
-      "summary": "Microsoft exec called AI scraping 'the largest theft of labor in human history'. 점수 730, 반응 634 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "score": 541,
-      "comments": 176,
-      "text": "",
-      "summary": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint. 점수 541, 반응 176 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I don't like passkeys",
-      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-      "score": 538,
-      "comments": 525,
-      "text": "",
-      "summary": "I don't like passkeys. 점수 538, 반응 525 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "score": 425,
-      "comments": 179,
-      "text": "",
-      "summary": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos. 점수 425, 반응 179 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146606, 반응 529 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenJev",
       "url": "https://openjev.com/",
-      "score": 398,
-      "comments": 203,
+      "score": 487,
+      "comments": 233,
       "text": "",
-      "summary": "OpenJev.  점수 398, 반응 203 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Qwen 3.8 Omni Flash",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "score": 310,
-      "comments": 117,
-      "text": "",
-      "summary": "Qwen 3.8 Omni Flash.  점수 310, 반응 117 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Jemalloc 5.4.0",
-      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "score": 294,
-      "comments": 75,
-      "text": "",
-      "summary": "Jemalloc 5.4.0.  점수 294, 반응 75 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 278,
-      "comments": 193,
-      "text": "",
-      "summary": "How to Write with an LLM. 점수 278, 반응 193 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The scourge of x86 emulation",
-      "url": "https://fex-emu.com/Scourge-of-emulation/",
-      "score": 246,
-      "comments": 67,
-      "text": "",
-      "summary": "The scourge of x86 emulation. 점수 246, 반응 67 기준 인기 이슈입니다."
+      "summary": "OpenJev.  점수 487, 반응 233 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cloudflare Quick Tunnels",
       "url": "https://try.cloudflare.com/",
-      "score": 239,
-      "comments": 117,
+      "score": 433,
+      "comments": 194,
       "text": "",
-      "summary": "Cloudflare Quick Tunnels. 점수 239, 반응 117 기준 인기 이슈입니다."
+      "summary": "Cloudflare Quick Tunnels. 점수 433, 반응 194 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "score": 227,
-      "comments": 152,
+      "title": "Jemalloc 5.4.0",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "score": 317,
+      "comments": 85,
       "text": "",
-      "summary": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him. 점수 227, 반응 152 기준 인기 이슈입니다."
+      "summary": "Jemalloc 5.4.0.  점수 317, 반응 85 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "An Empirical Study of Harness Design for Coding Agents",
-      "url": "https://arxiv.org/abs/2609.20804",
-      "score": 173,
-      "comments": 37,
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "score": 308,
+      "comments": 213,
       "text": "",
-      "summary": "An Empirical Study of Harness Design for Coding Agents. 점수 173, 반응 37 기준 인기 이슈입니다."
+      "summary": "How to Write with an LLM. 점수 308, 반응 213 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
-      "url": "https://linguisticdiscovery.com/posts/pre-greek/",
-      "score": 142,
-      "comments": 61,
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "score": 281,
+      "comments": 224,
       "text": "",
-      "summary": "Pre-Greek: The lost language hidden within Ancient Greek. 점수 142, 반응 61 기준 인기 이슈입니다."
+      "summary": "US Military had close call after using AI for hallucinated intelligence report. 점수 281, 반응 224 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The scourge of x86 emulation",
+      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "score": 261,
+      "comments": 73,
+      "text": "",
+      "summary": "The scourge of x86 emulation. 점수 261, 반응 73 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+      "score": 217,
+      "comments": 84,
+      "text": "",
+      "summary": "Inside ZCode: Silently uploading your Git history to the cloud. 점수 217, 반응 84 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "score": 209,
+      "comments": 96,
+      "text": "",
+      "summary": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP. 점수 209, 반응 96 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I vibed a proof of Conway's conjecture",
+      "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+      "score": 172,
+      "comments": 165,
+      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;gaearon&#x2F;conway-refinement#why-i-think-its-correct\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;gaearon&#x2F;conway-refinement#why-i-think-its...</a>",
+      "summary": "I vibed a proof of Conway's conjecture. https:&#x2F;&#x2F;github.com&#x2F;gaearon&#x2F;conway-refinement#why-i-think-its... 점수 172, 반응 165 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "score": 154,
+      "comments": 135,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;xjmvA\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;xjmvA</a>",
+      "summary": "North Korean nuclear test sets off years of earthquakes. https:&#x2F;&#x2F;archive.is&#x2F;xjmvA 점수 154, 반응 135 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "score": 120,
+      "comments": 59,
+      "text": "Hey HN, Henry from Cactus here.<p>We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I&#x27;d love to hear what you think again.<p>The key features:<p>1) Automation (tool calls &amp; structured JSON output): Needle still doesn&#x27;t chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON. If no tool you declared fits the request, you get an empty list back (note for when playing with the demo).<p>2) Intelligence Laddering: Every layer (2 to 20) is a deployable subnetwork, so one set of weights, 25 to 121 million parameters at 2-bit, shipping as 8-29MB binaries. On a Raspberry Pi 5 it decodes at up to 4k tokens&#x2F;sec and prefills at up to 10k.<p>3) Monarch Hadamard MLP: replaces the dense FFN with three learnable Walsh-Hadamard-initialized Kronecker (Monarch) factor pairs interleaved with per-channel diagonal scales, fixed permutations, a SiLU nonlinearity, and a rank-8 input-conditioned gate, so each token gets a fully mixed nonlinear transform of its d_model channels at O(d√d) parameters and compute instead of the O(d²) a dense 4x-expansion MLP would cost.<p>4) Performance: On Mobile Actions (phone commands, scored on the exact call) the 20-layer model gets 86.0 through the shipped 2-bit binary; LFM2.5 1.2B is at 82.4, Qwen3.5 0.8B at 76.0, Apple&#x27;s on-device model at 57.6, all at f16. More results on the link, we do not win everywhere ofc.<p>5) Multilingual: Needle 3 now supports English, French, Spanish, German, Dutch, Italian, Polish, with more languages coming.<p>6) Finetuning: You can achieve DeepSeek v4 Flash grade performance on a narrow task with just 4L, stress on &quot;narrow task&quot;, we found that production users often prefer tuning before production.<p>7) Triggers: Grounding is a common challenge for tool call, at least for Needle 2, so we added support case-insensitive regular expressions matched against each request to gate false negatives.<p>8) Confidence: Every response also carries a calibrated confidence score, the minimum of a judgement on the finished call and its decode probability. Act above your threshold, show the call and ask below it, or escalate to a bigger model.<p>9) Supported Platforms: macOS, Linux on x86-64, ARM64, ARMv7, RISC-V and MIPS32, Windows x64 and ARM, Android, iOS, watchOS, tvOS, the browser as WebAssembly, and a WASI component.<p>Thanks for reading and as always, thoughts appreciated!",
+      "summary": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash. Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! 점수 120, 반응 59 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+      "score": 116,
+      "comments": 71,
+      "text": "",
+      "summary": "Border agents can search cellphones without a warrant or reasonable suspicion. 점수 116, 반응 71 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "score": 116,
+      "comments": 35,
+      "text": "",
+      "summary": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug. 점수 116, 반응 35 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
+      "keyword": "x2f",
+      "count": 15
+    },
+    {
+      "keyword": "needle",
+      "count": 6
+    },
+    {
+      "keyword": "model",
+      "count": 5
+    },
+    {
+      "keyword": "tool",
+      "count": 5
+    },
+    {
+      "keyword": "call",
+      "count": 5
+    },
+    {
+      "keyword": "can",
+      "count": 4
+    },
+    {
+      "keyword": "https",
+      "count": 4
+    },
+    {
       "keyword": "platform",
+      "count": 3
+    },
+    {
+      "keyword": "automation",
+      "count": 3
+    },
+    {
+      "keyword": "cloud",
       "count": 3
     },
     {
@@ -242,56 +278,20 @@
       "count": 3
     },
     {
-      "keyword": "openclaw",
-      "count": 2
+      "keyword": "production",
+      "count": 3
     },
     {
-      "keyword": "any",
-      "count": 2
+      "keyword": "without",
+      "count": 3
     },
     {
-      "keyword": "agentic",
-      "count": 2
+      "keyword": "thanks",
+      "count": 3
     },
     {
-      "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "cloud",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "api",
-      "count": 2
-    },
-    {
-      "keyword": "open-webui",
-      "count": 2
-    },
-    {
-      "keyword": "openai",
-      "count": 2
+      "keyword": "x27",
+      "count": 3
     }
   ],
   "meta": {
