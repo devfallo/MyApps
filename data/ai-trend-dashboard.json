@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T21:19:34.276054+00:00",
+  "updatedAt": "2026-09-23T00:33:32.475045+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 390259,
+      "score": 390260,
       "comments": 8291,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 390259, 반응 8291 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 390260, 반응 8291 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 290178,
+      "score": 290214,
       "comments": 396,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 290178, 반응 396 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 290214, 반응 396 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 248090,
-      "comments": 43929,
+      "score": 248113,
+      "comments": 44027,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 248090, 반응 43929 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 248113, 반응 44027 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 205711,
-      "comments": 1144,
+      "score": 205721,
+      "comments": 1148,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 205711, 반응 1144 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 205721, 반응 1148 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187498,
-      "comments": 560,
+      "score": 187502,
+      "comments": 561,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187498, 반응 560 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187502, 반응 561 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 183373,
+      "score": 183425,
       "comments": 640,
       "text": "The web data API to search, scrape, and interact at scale. 🔥",
-      "summary": "The web data API to search, scrape, and interact at scale. 점수 183373, 반응 640 기준 인기 이슈입니다."
+      "summary": "The web data API to search, scrape, and interact at scale. 점수 183425, 반응 640 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 171025,
+      "score": 171039,
       "comments": 78,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171025, 반응 78 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171039, 반응 78 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,160 +82,168 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158811,
+      "score": 158810,
       "comments": 20,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158811, 반응 20 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158810, 반응 20 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 156874,
-      "comments": 1100,
+      "score": 156887,
+      "comments": 1099,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 156874, 반응 1100 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 156887, 반응 1099 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 152840,
-      "comments": 256,
+      "score": 152847,
+      "comments": 271,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 152840, 반응 256 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 152847, 반응 271 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 146883,
+      "score": 146893,
       "comments": 557,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146883, 반응 557 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146893, 반응 557 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
-      "score": 907,
-      "comments": 673,
+      "score": 1150,
+      "comments": 787,
       "text": "",
-      "summary": "Claude Opus 5.5.  점수 907, 반응 673 기준 인기 이슈입니다."
+      "summary": "Claude Opus 5.5.  점수 1150, 반응 787 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "score": 832,
-      "comments": 440,
+      "score": 1110,
+      "comments": 575,
       "text": "",
-      "summary": "GPT-6 Sol and Luna.  점수 832, 반응 440 기준 인기 이슈입니다."
+      "summary": "GPT-6 Sol and Luna.  점수 1110, 반응 575 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
       "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
-      "score": 517,
-      "comments": 392,
+      "score": 590,
+      "comments": 443,
       "text": "",
-      "summary": "Apple has added persistent 'ads' to iOS, and it's driving users crazy. 점수 517, 반응 392 기준 인기 이슈입니다."
+      "summary": "Apple has added persistent 'ads' to iOS, and it's driving users crazy. 점수 590, 반응 443 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "score": 491,
-      "comments": 341,
+      "score": 544,
+      "comments": 354,
       "text": "",
-      "summary": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005. 점수 491, 반응 341 기준 인기 이슈입니다."
+      "summary": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005. 점수 544, 반응 354 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "score": 235,
-      "comments": 124,
-      "text": "",
-      "summary": "Overreliance on AI contributed to missile strike on Iran school – Pentagon. 점수 235, 반응 124 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "score": 225,
-      "comments": 168,
-      "text": "",
-      "summary": "OpenAI is well positioned to fast-follow Jev. 점수 225, 반응 168 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-      "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
-      "score": 201,
-      "comments": 92,
-      "text": "",
-      "summary": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027. 점수 201, 반응 92 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "score": 173,
-      "comments": 51,
-      "text": "",
-      "summary": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max). 점수 173, 반응 51 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "MUNI Heritage Weekend in San Francisco",
-      "url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
-      "score": 131,
-      "comments": 32,
-      "text": "",
-      "summary": "MUNI Heritage Weekend in San Francisco. 점수 131, 반응 32 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How did AMD Ryzen get 50% faster in two years?",
-      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-      "score": 128,
-      "comments": 27,
-      "text": "",
-      "summary": "How did AMD Ryzen get 50% faster in two years?. 점수 128, 반응 27 기준 인기 이슈입니다."
+      "score": 368,
+      "comments": 185,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;0V37g\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;0V37g</a>",
+      "summary": "Pentagon says overreliance on AI contributed to missile strike on Iran school. https:&#x2F;&#x2F;archive.ph&#x2F;0V37g 점수 368, 반응 185 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
       "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "score": 126,
-      "comments": 74,
+      "score": 344,
+      "comments": 233,
       "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;96YBP\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;96YBP</a>",
-      "summary": "'We hacked the FBI:' Hackers say they have data on all FBI employees. https:&#x2F;&#x2F;archive.ph&#x2F;96YBP 점수 126, 반응 74 기준 인기 이슈입니다."
+      "summary": "'We hacked the FBI:' Hackers say they have data on all FBI employees. https:&#x2F;&#x2F;archive.ph&#x2F;96YBP 점수 344, 반응 233 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "score": 253,
+      "comments": 188,
+      "text": "",
+      "summary": "OpenAI is well positioned to fast-follow Jev. 점수 253, 반응 188 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "score": 226,
+      "comments": 62,
+      "text": "",
+      "summary": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max). 점수 226, 반응 62 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How did AMD Ryzen get 50% faster in two years?",
+      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+      "score": 190,
+      "comments": 65,
+      "text": "",
+      "summary": "How did AMD Ryzen get 50% faster in two years?. 점수 190, 반응 65 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "MUNI Heritage Weekend in San Francisco",
+      "url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
+      "score": 152,
+      "comments": 40,
+      "text": "",
+      "summary": "MUNI Heritage Weekend in San Francisco. 점수 152, 반응 40 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
       "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-      "score": 114,
-      "comments": 59,
+      "score": 149,
+      "comments": 77,
       "text": "",
-      "summary": "WordPress: Unauthenticated path traversal leading to conditional RCE. 점수 114, 반응 59 기준 인기 이슈입니다."
+      "summary": "WordPress: Unauthenticated path traversal leading to conditional RCE. 점수 149, 반응 77 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "16-bit Intel 8088 chip (c. 1985)",
-      "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
-      "score": 90,
-      "comments": 12,
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
+      "score": 145,
+      "comments": 109,
+      "text": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?",
+      "summary": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived. Visual FoxPro stopped at version 9 in 2007. 점수 145, 반응 109 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "SAML: A fractal of bad design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "score": 135,
+      "comments": 79,
       "text": "",
-      "summary": "16-bit Intel 8088 chip (c. 점수 90, 반응 12 기준 인기 이슈입니다."
+      "summary": "SAML: A fractal of bad design. 점수 135, 반응 79 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 6
+      "count": 12
+    },
+    {
+      "keyword": "https",
+      "count": 4
+    },
+    {
+      "keyword": "archive",
+      "count": 4
     },
     {
       "keyword": "platform",
@@ -247,6 +255,10 @@
     },
     {
       "keyword": "openai",
+      "count": 3
+    },
+    {
+      "keyword": "foxpro",
       "count": 3
     },
     {
@@ -266,6 +278,10 @@
       "count": 2
     },
     {
+      "keyword": "visual",
+      "count": 2
+    },
+    {
       "keyword": "self-host",
       "count": 2
     },
@@ -275,22 +291,6 @@
     },
     {
       "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "data",
       "count": 2
     }
   ],
