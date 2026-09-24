@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T11:46:28.300851+00:00",
+  "updatedAt": "2026-09-24T17:11:33.499594+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -11,238 +11,234 @@
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "score": 390378,
-      "comments": 8486,
+      "comments": 8522,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 390378, 반응 8486 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 390378, 반응 8522 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 290977,
-      "comments": 399,
+      "score": 291102,
+      "comments": 401,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 290977, 반응 399 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 291102, 반응 401 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 248572,
-      "comments": 44171,
+      "score": 248651,
+      "comments": 43670,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 248572, 반응 44171 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 248651, 반응 43670 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 205837,
-      "comments": 1147,
+      "score": 205864,
+      "comments": 1159,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 205837, 반응 1147 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 205864, 반응 1159 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187520,
+      "score": 187522,
       "comments": 539,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187520, 반응 539 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187522, 반응 539 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 184078,
+      "score": 184187,
       "comments": 645,
       "text": "The web data API to search, scrape, and interact at scale. 🔥",
-      "summary": "The web data API to search, scrape, and interact at scale. 점수 184078, 반응 645 기준 인기 이슈입니다."
+      "summary": "The web data API to search, scrape, and interact at scale. 점수 184187, 반응 645 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 171143,
+      "score": 171158,
       "comments": 82,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171143, 반응 82 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171158, 반응 82 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165098,
+      "score": 165096,
       "comments": 2507,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165098, 반응 2507 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165096, 반응 2507 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158850,
+      "score": 158852,
       "comments": 20,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158850, 반응 20 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158852, 반응 20 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 157057,
-      "comments": 1094,
+      "score": 157094,
+      "comments": 1104,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157057, 반응 1094 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157094, 반응 1104 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 152988,
-      "comments": 291,
+      "score": 153034,
+      "comments": 294,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 152988, 반응 291 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 153034, 반응 294 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 146980,
-      "comments": 563,
+      "score": 146994,
+      "comments": 568,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146980, 반응 563 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Italian parliament votes for return to nuclear energy",
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "score": 810,
-      "comments": 645,
-      "text": "",
-      "summary": "Italian parliament votes for return to nuclear energy. 점수 810, 반응 645 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 146994, 반응 568 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 675,
-      "comments": 682,
+      "score": 744,
+      "comments": 747,
       "text": "",
-      "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats. 점수 675, 반응 682 기준 인기 이슈입니다."
+      "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats. 점수 744, 반응 747 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linux support is coming to Snapdragon X2 series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "score": 567,
+      "comments": 239,
+      "text": "",
+      "summary": "Linux support is coming to Snapdragon X2 series. 점수 567, 반응 239 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Fixing the Portobello Police Station Clock",
       "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "score": 458,
-      "comments": 103,
+      "score": 505,
+      "comments": 112,
       "text": "",
-      "summary": "Fixing the Portobello Police Station Clock. 점수 458, 반응 103 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "score": 452,
-      "comments": 189,
-      "text": "",
-      "summary": "Linux support is coming to Snapdragon X2 Series. 점수 452, 반응 189 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
-      "score": 425,
-      "comments": 372,
-      "text": "",
-      "summary": "Meta VR Glasses.  점수 425, 반응 372 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tokens too cheap to meter",
-      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
-      "score": 311,
-      "comments": 211,
-      "text": "",
-      "summary": "Tokens too cheap to meter. 점수 311, 반응 211 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "score": 247,
-      "comments": 157,
-      "text": "",
-      "summary": "VSCode's SSH Agent Is Bananas (2025). 점수 247, 반응 157 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "score": 211,
-      "comments": 91,
-      "text": "",
-      "summary": "Meta takes down a critical video about meta AI Glasses after filming at Meta. 점수 211, 반응 91 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "score": 204,
-      "comments": 25,
-      "text": "",
-      "summary": "ArXiv receives multiyear commitments to support it as an independent nonprofit. 점수 204, 반응 25 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Making Tailscale Faster",
-      "url": "https://tailscale.com/blog/making-tailscale-faster",
-      "score": 182,
-      "comments": 70,
-      "text": "",
-      "summary": "Making Tailscale Faster. 점수 182, 반응 70 기준 인기 이슈입니다."
+      "summary": "Fixing the Portobello Police Station Clock. 점수 505, 반응 112 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ideas on modernizing the open-source desktop",
       "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-      "score": 172,
-      "comments": 185,
+      "score": 318,
+      "comments": 392,
       "text": "",
-      "summary": "Ideas on modernizing the open-source desktop. 점수 172, 반응 185 기준 인기 이슈입니다."
+      "summary": "Ideas on modernizing the open-source desktop. 점수 318, 반응 392 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "score": 292,
+      "comments": 186,
+      "text": "",
+      "summary": "VSCode's SSH Agent Is Bananas (2025). 점수 292, 반응 186 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "score": 280,
+      "comments": 73,
+      "text": "",
+      "summary": "F-Droid 2.0.  점수 280, 반응 73 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "score": 277,
+      "comments": 37,
+      "text": "",
+      "summary": "ArXiv receives multiyear commitments to support it as an independent nonprofit. 점수 277, 반응 37 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Two-tier encryption in the UK",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "score": 234,
+      "comments": 228,
+      "text": "",
+      "summary": "Two-tier encryption in the UK. 점수 234, 반응 228 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The \"Windows XP Box\" (2003)",
       "url": "https://www.mini-itx.com/projects/windowsxpbox/",
-      "score": 164,
-      "comments": 30,
+      "score": 210,
+      "comments": 44,
       "text": "",
-      "summary": "The \"Windows XP Box\" (2003). 점수 164, 반응 30 기준 인기 이슈입니다."
+      "summary": "The \"Windows XP Box\" (2003). 점수 210, 반응 44 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "score": 151,
-      "comments": 127,
+      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "score": 209,
+      "comments": 213,
       "text": "",
-      "summary": "Early rogue AI agent activity and attempts to hack found on urlquery.net. 점수 151, 반응 127 기준 인기 이슈입니다."
+      "summary": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges. 점수 209, 반응 213 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nokia Design Archive (2025)",
+      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "score": 172,
+      "comments": 88,
+      "text": "",
+      "summary": "Nokia Design Archive (2025). 점수 172, 반응 88 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+      "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+      "score": 159,
+      "comments": 69,
+      "text": "",
+      "summary": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi. 점수 159, 반응 69 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+      "url": "https://github.com/nestrilabs/virtio-nvgpu",
+      "score": 145,
+      "comments": 59,
+      "text": "",
+      "summary": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest. 점수 145, 반응 59 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "agent",
-      "count": 4
-    },
-    {
-      "keyword": "meta",
-      "count": 4
-    },
-    {
       "keyword": "platform",
+      "count": 3
+    },
+    {
+      "keyword": "agent",
       "count": 3
     },
     {
@@ -279,6 +275,10 @@
     },
     {
       "keyword": "build",
+      "count": 2
+    },
+    {
+      "keyword": "can",
       "count": 2
     },
     {
