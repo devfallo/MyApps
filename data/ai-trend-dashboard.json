@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T18:36:54.769403+00:00",
+  "updatedAt": "2026-09-25T23:18:13.978032+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,243 +10,259 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 390495,
-      "comments": 8606,
+      "score": 390513,
+      "comments": 8635,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 390495, 반응 8606 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 390513, 반응 8635 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 291561,
+      "score": 291642,
       "comments": 401,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 291561, 반응 401 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 291642, 반응 401 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 248928,
-      "comments": 43325,
+      "score": 248968,
+      "comments": 43334,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 248928, 반응 43325 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 248968, 반응 43334 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 205956,
-      "comments": 1162,
+      "score": 205982,
+      "comments": 1166,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 205956, 반응 1162 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 205982, 반응 1166 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187557,
-      "comments": 556,
+      "score": 187563,
+      "comments": 555,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187557, 반응 556 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187563, 반응 555 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 184640,
+      "score": 184722,
       "comments": 647,
       "text": "The web data API to search, scrape, and interact at scale. 🔥",
-      "summary": "The web data API to search, scrape, and interact at scale. 점수 184640, 반응 647 기준 인기 이슈입니다."
+      "summary": "The web data API to search, scrape, and interact at scale. 점수 184722, 반응 647 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 171256,
+      "score": 171273,
       "comments": 82,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171256, 반응 82 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171273, 반응 82 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165117,
+      "score": 165124,
       "comments": 2507,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165117, 반응 2507 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165124, 반응 2507 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158864,
+      "score": 158871,
       "comments": 20,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158864, 반응 20 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158871, 반응 20 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 157200,
-      "comments": 1107,
+      "score": 157218,
+      "comments": 1111,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157200, 반응 1107 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157218, 반응 1111 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 153167,
-      "comments": 326,
+      "score": 153186,
+      "comments": 334,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 153167, 반응 326 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 153186, 반응 334 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 147049,
+      "score": 147060,
       "comments": 568,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147049, 반응 568 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 1407,
-      "comments": 401,
-      "text": "",
-      "summary": "F-Droid 2.0.  점수 1407, 반응 401 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "url": "https://www.dawo.community/en/",
-      "score": 861,
-      "comments": 507,
-      "text": "",
-      "summary": "Dutch governments builds alternative for Microsoft based on NixOS. 점수 861, 반응 507 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
-      "score": 833,
-      "comments": 120,
-      "text": "A joke tool that abuses OpenType&#x27;s ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.",
-      "summary": "Show HN: Make cursed fonts like Times New Bastard. A joke tool that abuses OpenType&#x27;s ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM. 점수 833, 반응 120 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
-      "score": 528,
-      "comments": 263,
-      "text": "",
-      "summary": "Why is the liver so weirdly regenerative?. 점수 528, 반응 263 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Toyota is taking the Corolla electric",
-      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "score": 417,
-      "comments": 758,
-      "text": "",
-      "summary": "Toyota is taking the Corolla electric. 점수 417, 반응 758 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "score": 408,
-      "comments": 446,
-      "text": "",
-      "summary": "Rails World 2026 Opening Keynote [video]. 점수 408, 반응 446 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "score": 406,
-      "comments": 172,
-      "text": "",
-      "summary": "My weird new hobby: Wandering around Tokyo on Google Maps. 점수 406, 반응 172 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Opus 5.5 is good at explainer videos",
-      "url": "https://launchvideo.io",
-      "score": 377,
-      "comments": 206,
-      "text": "",
-      "summary": "Opus 5.5 is good at explainer videos. 점수 377, 반응 206 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147060, 반응 568 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
-      "score": 375,
-      "comments": 126,
+      "score": 395,
+      "comments": 128,
       "text": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (<a href=\"https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;\">https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;</a>), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard</a>.<p>We were missing the feeling of a “whiteboard session” with another dev where you leave with a deep understanding of a system, so we built this app for ourselves. Whiteboard plugs into the tools you already use - e.g. Claude Code, Codex, etc. – and gives your agent an SDK to draw on an in-app canvas to describe its work. We began with an MVP based on HTML artifacts and started rethinking the app as we ran into limitations:<p>1. Built on top of CodeOSS: We found that in pure HTML tools it was hard to connect a spec or diagram to code. In Whiteboard, when you click on visualizations like a sequence diagram, an entity relationship diagram, or a quote from the agent’s trace, you can jump to the underlying code directly. When navigating code, you get keybindings and LSP support from VSCode out of the box. We’ve found this is especially valuable because tradeoffs are often only discovered after a first pass at implementation (re: slop)<p>2. Semantic diff viewer: we wrote a semantic, AST-aware diff viewer in Rust so you can only view the code changes which are relevant to you [1]. We’ve set up some sane defaults: large added functions are summarized as pseudocode, and things like unit tests and large documentation changes are collapsed &#x2F; hidden. This is all customizable with a WASM-based plugin system.<p>3. Decision Log: We found it difficult to reason about what set of decisions our agents made autonomously. So we built tools for agents to query and link their own traces to the Whiteboard, so you can understand how the requirements that you set were implemented, and understand what decisions your agent made autonomously.<p>Here’s a quick demo video explaining more: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=ChPn3ftULWE\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=ChPn3ftULWE</a><p>Folks at companies like Salesforce and Modal are using Whiteboard today as a review tool for architecture or spec-level changes – really any change where they want to be involved:<p>1. Reviewing your own coding agent’s work: because Whiteboard makes it easier to review large amounts of code, folks will typically have their AI agents create a prototype and a corresponding Whiteboard session so they can iterate on the design.<p>2. Reviewing other people’s changes: We’ve found that Whiteboard is particularly helpful when composed with tools like Greptile. For example, you can run an automated code reviewer on small changes and escalate to a Whiteboard session for the changes that require human judgement.<p>Why we built this: we’re four buddies from college who quit our jobs as tech leads right before agentic coding became industry standard. As we iterated towards an MVP for a previous idea, we struggled to maintain a comprehensible codebase while reaping all the velocity benefits of agentic coding. As more PRs were merged without our understanding, we felt a ‘cognitive debt’ begin to seep in, until it became difficult for us to even contribute to the system [2].<p>We’re releasing our desktop app under an MIT license. Please poke through and feel free to contribute! Eventually we’ll charge companies for a hosted web version that manages whiteboard session creation alongside features like trajectory storage and multiplayer reviews. Everything will always remain self-hostable.<p>Thanks for reading, and we hope you try it out! We would love to hear any feedback and to learn from your expertise.<p>Here’s are the project links again: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard</a>, and you can install (for MacOS + Linux) at <a href=\"https:&#x2F;&#x2F;install.dev.fast\">https:&#x2F;&#x2F;install.dev.fast</a><p>[1] diffs library: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;diffr\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;diffr</a>\n[2] Credit for the term ‘cognitive debt’ goes to  <a href=\"https:&#x2F;&#x2F;www.geoffreylitt.com&#x2F;2026&#x2F;07&#x2F;02&#x2F;understanding-is-the-new-bottleneck\" rel=\"nofollow\">https:&#x2F;&#x2F;www.geoffreylitt.com&#x2F;2026&#x2F;07&#x2F;02&#x2F;understanding-is-the...</a>",
-      "summary": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design. We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard ( https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F; ), an open-source desktop app where humans and agents can architect software together in a common workspace. 점수 375, 반응 126 기준 인기 이슈입니다."
+      "summary": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design. We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard ( https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F; ), an open-source desktop app where humans and agents can architect software together in a common workspace. 점수 395, 반응 128 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "2DWillNeverDie",
-      "url": "https://2dwillneverdie.com/",
-      "score": 308,
-      "comments": 77,
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "score": 347,
+      "comments": 634,
       "text": "",
-      "summary": "2DWillNeverDie.  점수 308, 반응 77 기준 인기 이슈입니다."
+      "summary": "appeals court upholds designation of Anthropic as supply chain risk. 점수 347, 반응 634 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Fearless SIMD v1.0",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "score": 301,
-      "comments": 48,
-      "text": "",
-      "summary": "Fearless SIMD v1.0.  점수 301, 반응 48 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Platform-Independent SIMD in Go",
+      "title": "Platform-independent SIMD in Go",
       "url": "https://go.dev/blog/simd-experiment",
-      "score": 272,
-      "comments": 97,
+      "score": 341,
+      "comments": 131,
       "text": "",
-      "summary": "Platform-Independent SIMD in Go. 점수 272, 반응 97 기준 인기 이슈입니다."
+      "summary": "Platform-independent SIMD in Go. 점수 341, 반응 131 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "What About Rails?",
-      "url": "https://jardo.dev/what-about-rails",
-      "score": 232,
-      "comments": 150,
+      "title": "Factorio that you can touch",
+      "url": "https://factorio.com/blog/post/fff-447",
+      "score": 296,
+      "comments": 89,
       "text": "",
-      "summary": "What About Rails?.  점수 232, 반응 150 기준 인기 이슈입니다."
+      "summary": "Factorio that you can touch. 점수 296, 반응 89 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "url": "https://github.com/git-bug/git-bug",
+      "score": 289,
+      "comments": 93,
+      "text": "",
+      "summary": "Git-bug: Distributed, offline-first bug tracker embedded in Git. 점수 289, 반응 93 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 274,
+      "comments": 83,
+      "text": "",
+      "summary": "Ollaya – Ollama for open-source, Jev-style decision models. 점수 274, 반응 83 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "score": 262,
+      "comments": 114,
+      "text": "",
+      "summary": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini. 점수 262, 반응 114 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ink and Switch interactive homepage",
+      "url": "https://www.inkandswitch.com/",
+      "score": 221,
+      "comments": 25,
+      "text": "",
+      "summary": "Ink and Switch interactive homepage. 점수 221, 반응 25 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "First Principles Thinking",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "score": 198,
+      "comments": 92,
+      "text": "",
+      "summary": "First Principles Thinking. 점수 198, 반응 92 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Amiga Screens: A Primer",
+      "url": "https://www.datagubbe.se/amscr/",
+      "score": 125,
+      "comments": 36,
+      "text": "",
+      "summary": "Amiga Screens: A Primer. 점수 125, 반응 36 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "score": 110,
+      "comments": 55,
+      "text": "Hey HN! Wanted to share a fun project I&#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon.<p>I&#x27;ve spent endless hours playing this game as a child so building this was a ton of fun.<p>I open sourced everything in case you want to hack on it yourself here: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;christianmat&#x2F;jev-pokemon\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;christianmat&#x2F;jev-pokemon</a><p>The game is being streamed live including the tokens and cost - hopefully we get all the badges and don&#x27;t get stuck in a cave :)",
+      "summary": "Show HN: Jev Plays Pokémon Red. Wanted to share a fun project I&#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. 점수 110, 반응 55 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "score": 107,
+      "comments": 22,
+      "text": "The following explanation is taken from <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49622607\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49622607</a>:<p>Alan Kay performs an improvisational avant garde layered audio feedback loop about Claude Shannon, live online during Kristen Nygaard&#x27;s 100-year birthday celebration.<p>Alan was scheduled to talk about how encountering Simula sparked his early thoughts about objects. During setup, somebody had the live stream playing out loud near an open Zoom mic, so his own voice kept arriving back in his ears about 21 seconds late, over and over.<p>What he said was not random: &quot;Shannon gave us a way of dealing with noisy channels.&quot; And: &quot;I think about that almost every day. I realize what the fuck is going on and it&#x27;s just so amazing.&quot; Shannon&#x27;s noisy channel coding theorem is the math for exactly the kind of channel that was garbling him as he praised it.<p>Alan joked it was &quot;being rerouted to Mars and back.&quot; At the speed of light, a 21 second round trip is about 3 million km one way -- eight trips to the Moon and back, but only about a seventeenth of the way to Mars at closest approach.<p>This is an accidental Zoom performance of Alvin Lucier&#x27;s &quot;I Am Sitting in a Room&quot; (1969), where Lucier re-recorded his own voice in a room until only the room&#x27;s resonance remained. Here what remains is the network: delay, compression, dropouts.<p>Bonus noise: YouTube&#x27;s auto-transcript bleeps Alan&#x27;s enthusiasm into [ __ ]. So the full chain is: Alan&#x27;s voice, Zoom, stream, room, Zoom again times three, my screen recording, YouTube&#x27;s speech recognizer, a censored transcript.<p>The fix: &quot;Just turn off the audio at your end on Zoom.&quot;<p>I Am Sitting in a Room: <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;I_Am_Sitting_in_a_Room\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;I_Am_Sitting_in_a_Room</a><p>Alvin Lucier on &quot;I am sitting in a room&quot;: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=v9XJWBZBzq4\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=v9XJWBZBzq4</a>",
+      "summary": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]. The following explanation is taken from https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49622607 : Alan Kay performs an improvisational avant garde layered audio feedback loop about Claude Shannon, live online during Kristen Nygaard&#x27;s 100-year birthday celebration. Alan was scheduled to talk about how encountering Simula sparked his early thoughts about objects. 점수 107, 반응 22 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Boards of Casio",
+      "url": "https://www.ambionix.com/blog/boards-of-casio/",
+      "score": 106,
+      "comments": 38,
+      "text": "",
+      "summary": "Boards of Casio.  점수 106, 반응 38 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 53
+      "count": 81
+    },
+    {
+      "keyword": "https",
+      "count": 22
     },
     {
       "keyword": "whiteboard",
       "count": 18
     },
     {
-      "keyword": "https",
-      "count": 14
+      "keyword": "com",
+      "count": 16
     },
     {
-      "keyword": "com",
+      "keyword": "x27",
+      "count": 12
+    },
+    {
+      "keyword": "quot",
+      "count": 12
+    },
+    {
+      "keyword": "href",
+      "count": 11
+    },
+    {
+      "keyword": "can",
       "count": 10
     },
     {
@@ -254,12 +270,20 @@
       "count": 8
     },
     {
-      "keyword": "can",
+      "keyword": "github",
       "count": 8
     },
     {
-      "keyword": "href",
-      "count": 7
+      "keyword": "rel",
+      "count": 8
+    },
+    {
+      "keyword": "nofollow",
+      "count": 8
+    },
+    {
+      "keyword": "room",
+      "count": 8
     },
     {
       "keyword": "agent",
@@ -268,30 +292,6 @@
     {
       "keyword": "our",
       "count": 6
-    },
-    {
-      "keyword": "like",
-      "count": 6
-    },
-    {
-      "keyword": "github",
-      "count": 6
-    },
-    {
-      "keyword": "devdotfast",
-      "count": 6
-    },
-    {
-      "keyword": "changes",
-      "count": 6
-    },
-    {
-      "keyword": "tools",
-      "count": 5
-    },
-    {
-      "keyword": "fast",
-      "count": 5
     }
   ],
   "meta": {
