@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T16:23:44.455087+00:00",
+  "updatedAt": "2026-09-26T21:10:42.966723+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 390563,
-      "comments": 8660,
+      "score": 390577,
+      "comments": 8700,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 390563, 반응 8660 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 390577, 반응 8700 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 291885,
-      "comments": 405,
+      "score": 291931,
+      "comments": 374,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 291885, 반응 405 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 291931, 반응 374 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 249161,
-      "comments": 43948,
+      "score": 249214,
+      "comments": 44106,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 249161, 반응 43948 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 249214, 반응 44106 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 206033,
-      "comments": 1107,
+      "score": 206045,
+      "comments": 1106,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 206033, 반응 1107 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 206045, 반응 1106 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187569,
-      "comments": 524,
+      "score": 187575,
+      "comments": 528,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187569, 반응 524 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187575, 반응 528 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 185001,
-      "comments": 647,
+      "score": 185085,
+      "comments": 648,
       "text": "The web data API to search, scrape, and interact at scale. 🔥",
-      "summary": "The web data API to search, scrape, and interact at scale. 점수 185001, 반응 647 기준 인기 이슈입니다."
+      "summary": "The web data API to search, scrape, and interact at scale. 점수 185085, 반응 648 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 171314,
+      "score": 171326,
       "comments": 82,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171314, 반응 82 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171326, 반응 82 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,167 +82,175 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158884,
+      "score": 158892,
       "comments": 20,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158884, 반응 20 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158892, 반응 20 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 157258,
-      "comments": 1121,
+      "score": 157278,
+      "comments": 1126,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157258, 반응 1121 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157278, 반응 1126 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 153229,
-      "comments": 319,
+      "score": 153247,
+      "comments": 320,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 153229, 반응 319 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 153247, 반응 320 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 147096,
+      "score": 147109,
       "comments": 566,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147096, 반응 566 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147109, 반응 566 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
-      "score": 609,
-      "comments": 390,
+      "score": 679,
+      "comments": 432,
       "text": "",
-      "summary": "Revealing the details of how OpenAI agents hacked Hugging Face. 점수 609, 반응 390 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "score": 534,
-      "comments": 131,
-      "text": "",
-      "summary": "Ollaya – Ollama for open-source, Jev-style decision models. 점수 534, 반응 131 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Plan mode is dead",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "score": 461,
-      "comments": 408,
-      "text": "",
-      "summary": "Plan mode is dead.  점수 461, 반응 408 기준 인기 이슈입니다."
+      "summary": "Revealing the details of how OpenAI agents hacked Hugging Face. 점수 679, 반응 432 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
       "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "score": 412,
-      "comments": 158,
+      "score": 595,
+      "comments": 227,
       "text": "",
-      "summary": "Breaking Up with Google Play: Why Conversations Is Now Free. 점수 412, 반응 158 기준 인기 이슈입니다."
+      "summary": "Breaking Up with Google Play: Why Conversations Is Now Free. 점수 595, 반응 227 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "score": 334,
-      "comments": 90,
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 578,
+      "comments": 138,
       "text": "",
-      "summary": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case. 점수 334, 반응 90 기준 인기 이슈입니다."
+      "summary": "Ollaya – Ollama for open-source, Jev-style decision models. 점수 578, 반응 138 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "score": 526,
+      "comments": 456,
+      "text": "",
+      "summary": "Plan mode is dead.  점수 526, 반응 456 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We're gonna need a lot more mathematicians",
       "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "score": 253,
-      "comments": 355,
+      "score": 333,
+      "comments": 432,
       "text": "",
-      "summary": "We're gonna need a lot more mathematicians. 점수 253, 반응 355 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Gravity seems holographic. What does that mean for reality?",
-      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "score": 252,
-      "comments": 194,
-      "text": "",
-      "summary": "Gravity seems holographic. What does that mean for reality?. 점수 252, 반응 194 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "What even is an OS now?",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "score": 250,
-      "comments": 370,
-      "text": "",
-      "summary": "What even is an OS now?. 점수 250, 반응 370 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "score": 231,
-      "comments": 94,
-      "text": "Hey HN! Wanted to share a fun project I&#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon.<p>I&#x27;ve spent endless hours playing this game as a child so building this was a ton of fun.<p>I open sourced everything in case you want to hack on it yourself here: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;christianmat&#x2F;jev-pokemon\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;christianmat&#x2F;jev-pokemon</a><p>The game is being streamed live including the tokens and cost - hopefully we get all the badges and don&#x27;t get stuck in a cave :)",
-      "summary": "Show HN: Jev Plays Pokémon Red. Wanted to share a fun project I&#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. 점수 231, 반응 94 기준 인기 이슈입니다."
+      "summary": "We're gonna need a lot more mathematicians. 점수 333, 반응 432 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Fifteen years later, the Apple Cards origin story",
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "score": 198,
-      "comments": 30,
+      "score": 304,
+      "comments": 66,
       "text": "",
-      "summary": "Fifteen years later, the Apple Cards origin story. 점수 198, 반응 30 기준 인기 이슈입니다."
+      "summary": "Fifteen years later, the Apple Cards origin story. 점수 304, 반응 66 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-      "url": "https://news.ycombinator.com/item?id=49848955",
-      "score": 191,
-      "comments": 195,
-      "text": "Do you currently work with or know anyone who is still using:<p>* dBase&#x2F;Clipper&#x2F;CLARION&#x2F;Paradox&#x2F;other DOS RAD environments on period hardware to run business processes?<p>* CNC mills&#x2F;spectrometers&#x2F;microscopes&#x2F;other industrial instruments controlled by ISA cards (either bespoke or standards like GPIB)?<p>* Anything with a parallel port dongle?<p>If so, I&#x27;d be very interested in hearing your experience here, or feel free to send me an email at the address in my profile. I&#x27;m not trying to sell anything, just doing some research for an idea around keeping these going on modern hardware.",
-      "summary": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?. Do you currently work with or know anyone who is still using: * dBase&#x2F;Clipper&#x2F;CLARION&#x2F;Paradox&#x2F;other DOS RAD environments on period hardware to run business processes? * CNC mills&#x2F;spectrometers&#x2F;microscopes&#x2F;other industrial instruments controlled by ISA cards (either bespoke or standards like GPIB)? 점수 191, 반응 195 기준 인기 이슈입니다."
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "score": 282,
+      "comments": 429,
+      "text": "",
+      "summary": "What even is an OS now?. 점수 282, 반응 429 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "score": 114,
-      "comments": 33,
-      "text": "",
-      "summary": "A single function Jev-like wrapper for LLMs, including vision models. 점수 114, 반응 33 기준 인기 이슈입니다."
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "score": 249,
+      "comments": 108,
+      "text": "Hey HN! Wanted to share a fun project I&#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon.<p>I&#x27;ve spent endless hours playing this game as a child so building this was a ton of fun.<p>I open sourced everything in case you want to hack on it yourself here: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;christianmat&#x2F;jev-pokemon\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;christianmat&#x2F;jev-pokemon</a><p>The game is being streamed live including the tokens and cost - hopefully we get all the badges and don&#x27;t get stuck in a cave :)",
+      "summary": "Show HN: Jev Plays Pokémon Red. Wanted to share a fun project I&#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. 점수 249, 반응 108 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "ASML currently sells no chipmaking machines in Europe, executive says",
-      "url": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
-      "score": 104,
-      "comments": 114,
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "score": 241,
+      "comments": 121,
       "text": "",
-      "summary": "ASML currently sells no chipmaking machines in Europe, executive says. 점수 104, 반응 114 기준 인기 이슈입니다."
+      "summary": "PipePipe: NewPipe hard fork implementing SponsorBlock. 점수 241, 반응 121 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Floci: Locally emulating any cloud service",
+      "url": "https://floci.io",
+      "score": 140,
+      "comments": 27,
+      "text": "",
+      "summary": "Floci: Locally emulating any cloud service. 점수 140, 반응 27 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "score": 135,
+      "comments": 249,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;n8Akh\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;n8Akh</a>",
+      "summary": "Plunging test scores are a slow-moving catastrophe. https:&#x2F;&#x2F;archive.ph&#x2F;n8Akh 점수 135, 반응 249 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "16GB iPod Nano 3G Upgrade",
+      "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
+      "score": 133,
+      "comments": 19,
+      "text": "",
+      "summary": "16GB iPod Nano 3G Upgrade. 점수 133, 반응 19 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Is your Postgres migration safe or not safe?",
+      "url": "https://safenotsafe.dev/",
+      "score": 116,
+      "comments": 40,
+      "text": "",
+      "summary": "Is your Postgres migration safe or not safe?. 점수 116, 반응 40 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 15
+      "count": 14
     },
     {
-      "keyword": "x27",
-      "count": 5
+      "keyword": "https",
+      "count": 4
+    },
+    {
+      "keyword": "any",
+      "count": 3
     },
     {
       "keyword": "platform",
+      "count": 3
+    },
+    {
+      "keyword": "cloud",
       "count": 3
     },
     {
@@ -250,11 +258,11 @@
       "count": 3
     },
     {
-      "keyword": "free",
+      "keyword": "play",
       "count": 3
     },
     {
-      "keyword": "play",
+      "keyword": "x27",
       "count": 3
     },
     {
@@ -267,14 +275,6 @@
     },
     {
       "keyword": "really",
-      "count": 2
-    },
-    {
-      "keyword": "does",
-      "count": 2
-    },
-    {
-      "keyword": "any",
       "count": 2
     },
     {
