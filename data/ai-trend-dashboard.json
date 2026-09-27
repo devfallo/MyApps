@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T18:24:24.642644+00:00",
+  "updatedAt": "2026-09-27T23:03:23.670672+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 390651,
-      "comments": 8782,
+      "score": 390659,
+      "comments": 8807,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 390651, 반응 8782 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 390659, 반응 8807 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 292149,
-      "comments": 263,
+      "score": 292177,
+      "comments": 268,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 292149, 반응 263 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 292177, 반응 268 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 249438,
-      "comments": 44544,
+      "score": 249486,
+      "comments": 44509,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 249438, 반응 44544 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 249486, 반응 44509 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 206119,
-      "comments": 1113,
+      "score": 206128,
+      "comments": 1116,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 206119, 반응 1113 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 206128, 반응 1116 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187586,
-      "comments": 537,
+      "score": 187590,
+      "comments": 536,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187586, 반응 537 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187590, 반응 536 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 185455,
-      "comments": 653,
+      "score": 185528,
+      "comments": 655,
       "text": "The web data API to search, scrape, and interact at scale. 🔥",
-      "summary": "The web data API to search, scrape, and interact at scale. 점수 185455, 반응 653 기준 인기 이슈입니다."
+      "summary": "The web data API to search, scrape, and interact at scale. 점수 185528, 반응 655 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 171411,
+      "score": 171424,
       "comments": 82,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171411, 반응 82 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171424, 반응 82 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165140,
+      "score": 165143,
       "comments": 2507,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165140, 반응 2507 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165143, 반응 2507 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,154 +91,162 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 157331,
-      "comments": 1132,
+      "score": 157339,
+      "comments": 1135,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157331, 반응 1132 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157339, 반응 1135 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 153354,
-      "comments": 330,
+      "score": 153370,
+      "comments": 288,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 153354, 반응 330 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 153370, 반응 288 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 147153,
-      "comments": 569,
+      "score": 147162,
+      "comments": 568,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147153, 반응 569 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147162, 반응 568 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "score": 472,
-      "comments": 262,
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "score": 487,
+      "comments": 255,
       "text": "",
-      "summary": "PipePipe: NewPipe hard fork implementing SponsorBlock. 점수 472, 반응 262 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Go Concurrency Distilled",
-      "url": "https://antonz.org/go-concurrency-distilled/",
-      "score": 337,
-      "comments": 142,
-      "text": "",
-      "summary": "Go Concurrency Distilled. 점수 337, 반응 142 기준 인기 이슈입니다."
+      "summary": "When did Google get so weird?. 점수 487, 반응 255 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Flip Fluid on Flip Dots",
       "url": "https://mitxela.com/projects/flipflip",
-      "score": 299,
-      "comments": 20,
+      "score": 349,
+      "comments": 23,
       "text": "",
-      "summary": "Flip Fluid on Flip Dots. 점수 299, 반응 20 기준 인기 이슈입니다."
+      "summary": "Flip Fluid on Flip Dots. 점수 349, 반응 23 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "score": 335,
+      "comments": 302,
+      "text": "",
+      "summary": "On caring for user data: NeoVim caused Vim undo files to be deleted. 점수 335, 반응 302 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "score": 286,
+      "comments": 159,
+      "text": "",
+      "summary": "Ember-1.  점수 286, 반응 159 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Normalization of Inexplicable Failures",
       "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-      "score": 161,
-      "comments": 51,
+      "score": 230,
+      "comments": 91,
       "text": "",
-      "summary": "The Normalization of Inexplicable Failures. 점수 161, 반응 51 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "score": 155,
-      "comments": 94,
-      "text": "",
-      "summary": "There are no \"rogue\" AI agents. 점수 155, 반응 94 기준 인기 이슈입니다."
+      "summary": "The Normalization of Inexplicable Failures. 점수 230, 반응 91 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "In an $80 motel room, a discovery to shed light on the origins of life",
       "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "score": 109,
-      "comments": 42,
+      "score": 185,
+      "comments": 76,
       "text": "",
-      "summary": "In an $80 motel room, a discovery to shed light on the origins of life. 점수 109, 반응 42 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "PostmarketOS is rebranding as Nura",
-      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
-      "score": 95,
-      "comments": 13,
-      "text": "",
-      "summary": "PostmarketOS is rebranding as Nura. 점수 95, 반응 13 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Writing Efficient C++ Code",
-      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "score": 91,
-      "comments": 34,
-      "text": "",
-      "summary": "Writing Efficient C++ Code. 점수 91, 반응 34 기준 인기 이슈입니다."
+      "summary": "In an $80 motel room, a discovery to shed light on the origins of life. 점수 185, 반응 76 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Replacing the old battery on rechargeable bike lights",
       "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "score": 83,
-      "comments": 39,
+      "score": 126,
+      "comments": 66,
       "text": "",
-      "summary": "Replacing the old battery on rechargeable bike lights. 점수 83, 반응 39 기준 인기 이슈입니다."
+      "summary": "Replacing the old battery on rechargeable bike lights. 점수 126, 반응 66 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Ten lines of code that changed my world",
-      "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
-      "score": 83,
-      "comments": 21,
+      "title": "Writing Efficient C++ Code (2013)",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "score": 125,
+      "comments": 74,
       "text": "",
-      "summary": "Ten lines of code that changed my world. 점수 83, 반응 21 기준 인기 이슈입니다."
+      "summary": "Writing Efficient C++ Code (2013). 점수 125, 반응 74 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Finally, A True Blue Rose Exists",
-      "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
-      "score": 82,
-      "comments": 30,
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "url": "https://loficities.com/",
+      "score": 120,
+      "comments": 53,
       "text": "",
-      "summary": "Finally, A True Blue Rose Exists. 점수 82, 반응 30 기준 인기 이슈입니다."
+      "summary": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi. 점수 120, 반응 53 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-      "score": 67,
-      "comments": 8,
+      "title": "Don't couple your Go code to GitHub",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "score": 101,
+      "comments": 49,
       "text": "",
-      "summary": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]. 점수 67, 반응 8 기준 인기 이슈입니다."
+      "summary": "Don't couple your Go code to GitHub. 점수 101, 반응 49 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Fakecloud: Local AWS cloud emulator for integration tests",
       "url": "https://fakecloud.dev/",
-      "score": 66,
-      "comments": 39,
+      "score": 94,
+      "comments": 49,
       "text": "",
-      "summary": "Fakecloud: Local AWS cloud emulator for integration tests. 점수 66, 반응 39 기준 인기 이슈입니다."
+      "summary": "Fakecloud: Local AWS cloud emulator for integration tests. 점수 94, 반응 49 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "score": 91,
+      "comments": 40,
+      "text": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win!<p>Click on any of the matches to spectate them.<p>Code: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;hp6&#x2F;ai-arena\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;hp6&#x2F;ai-arena</a>",
+      "summary": "Show HN: TinyAIArena watch AI agents battle it out. Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. 점수 91, 반응 40 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Video CDs Break Windows Explorer",
+      "url": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
+      "score": 78,
+      "comments": 30,
+      "text": "",
+      "summary": "Video CDs Break Windows Explorer. 점수 78, 반응 30 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "platform",
-      "count": 3
+      "keyword": "x2f",
+      "count": 8
     },
     {
       "keyword": "code",
+      "count": 4
+    },
+    {
+      "keyword": "any",
+      "count": 3
+    },
+    {
+      "keyword": "platform",
       "count": 3
     },
     {
@@ -250,11 +258,11 @@
       "count": 3
     },
     {
-      "keyword": "openclaw",
-      "count": 2
+      "keyword": "github",
+      "count": 3
     },
     {
-      "keyword": "any",
+      "keyword": "openclaw",
       "count": 2
     },
     {
@@ -283,14 +291,6 @@
     },
     {
       "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "api",
-      "count": 2
-    },
-    {
-      "keyword": "open-webui",
       "count": 2
     }
   ],
