@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T05:19:15.804846+00:00",
+  "updatedAt": "2026-10-03T11:40:14.929470+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 391196,
-      "comments": 9166,
+      "score": 391213,
+      "comments": 9187,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 391196, 반응 9166 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 391213, 반응 9187 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 294534,
-      "comments": 297,
+      "score": 294676,
+      "comments": 298,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 294534, 반응 297 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 294676, 반응 298 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 250809,
-      "comments": 47865,
+      "score": 250880,
+      "comments": 47824,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 250809, 반응 47865 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 250880, 반응 47824 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 206531,
+      "score": 206548,
       "comments": 1114,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 206531, 반응 1114 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 206548, 반응 1114 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 188009,
-      "comments": 513,
-      "text": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
-      "summary": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources. 점수 188009, 반응 513 기준 인기 이슈입니다."
+      "score": 188101,
+      "comments": 512,
+      "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 188101, 반응 512 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187643,
-      "comments": 595,
+      "score": 187648,
+      "comments": 597,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187643, 반응 595 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187648, 반응 597 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 171880,
-      "comments": 84,
+      "score": 171898,
+      "comments": 85,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171880, 반응 84 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171898, 반응 85 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,172 +82,172 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159008,
+      "score": 159011,
       "comments": 19,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159008, 반응 19 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159011, 반응 19 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 157736,
-      "comments": 975,
+      "score": 157759,
+      "comments": 988,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157736, 반응 975 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157759, 반응 988 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 153835,
-      "comments": 277,
+      "score": 153856,
+      "comments": 286,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 153835, 반응 277 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 153856, 반응 286 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 147390,
-      "comments": 606,
+      "score": 147399,
+      "comments": 608,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147390, 반응 606 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147399, 반응 608 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "score": 572,
-      "comments": 252,
+      "score": 650,
+      "comments": 300,
       "text": "",
-      "summary": "Court agrees with EFF: Utah's VPN law demands a technical impossibility. 점수 572, 반응 252 기준 인기 이슈입니다."
+      "summary": "Court agrees with EFF: Utah's VPN law demands a technical impossibility. 점수 650, 반응 300 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Mike Tomlin spent 12 years building a Minecraft city",
       "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "score": 386,
-      "comments": 97,
+      "score": 486,
+      "comments": 110,
       "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;Kv6yS\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;Kv6yS</a><p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_h_pQ1-5iQg\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_h_pQ1-5iQg</a><p><a href=\"https:&#x2F;&#x2F;www.theguardian.com&#x2F;sport&#x2F;2026&#x2F;oct&#x2F;01&#x2F;mike-tomlin-minecraft-city\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theguardian.com&#x2F;sport&#x2F;2026&#x2F;oct&#x2F;01&#x2F;mike-tomlin-mi...</a>",
-      "summary": "Mike Tomlin spent 12 years building a Minecraft city. https:&#x2F;&#x2F;archive.ph&#x2F;Kv6yS https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_h_pQ1-5iQg https:&#x2F;&#x2F;www.theguardian.com&#x2F;sport&#x2F;2026&#x2F;oct&#x2F;01&#x2F;mike-tomlin-mi... 점수 386, 반응 97 기준 인기 이슈입니다."
+      "summary": "Mike Tomlin spent 12 years building a Minecraft city. https:&#x2F;&#x2F;archive.ph&#x2F;Kv6yS https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_h_pQ1-5iQg https:&#x2F;&#x2F;www.theguardian.com&#x2F;sport&#x2F;2026&#x2F;oct&#x2F;01&#x2F;mike-tomlin-mi... 점수 486, 반응 110 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Apple Pass Designer",
       "url": "https://developer.apple.com/pass-designer/",
-      "score": 371,
-      "comments": 232,
+      "score": 444,
+      "comments": 275,
       "text": "",
-      "summary": "Apple Pass Designer.  점수 371, 반응 232 기준 인기 이슈입니다."
+      "summary": "Apple Pass Designer.  점수 444, 반응 275 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "FLUX 3 Image",
       "url": "https://bfl.ai/models/flux-3-image",
-      "score": 299,
-      "comments": 62,
+      "score": 357,
+      "comments": 77,
       "text": "",
-      "summary": "FLUX 3 Image.  점수 299, 반응 62 기준 인기 이슈입니다."
+      "summary": "FLUX 3 Image.  점수 357, 반응 77 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The Legend of von Neumann (1973) [pdf]",
-      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
-      "score": 265,
-      "comments": 143,
+      "title": "Extra Big Ass Intelligence",
+      "url": "https://www.extrabigassintelligence.com/",
+      "score": 316,
+      "comments": 69,
       "text": "",
-      "summary": "The Legend of von Neumann (1973) [pdf]. 점수 265, 반응 143 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Sites in ChatGPT",
-      "url": "https://chatgpt.com/features/sites/",
-      "score": 241,
-      "comments": 230,
-      "text": "",
-      "summary": "Sites in ChatGPT.  점수 241, 반응 230 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "url": "https://stillwet.art/",
-      "score": 236,
-      "comments": 76,
-      "text": "",
-      "summary": "Show HN: Giving Opus 5.5 a simulated paint canvas. 점수 236, 반응 76 기준 인기 이슈입니다."
+      "summary": "Extra Big Ass Intelligence. 점수 316, 반응 69 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
       "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "score": 233,
-      "comments": 51,
+      "score": 300,
+      "comments": 58,
       "text": "",
-      "summary": "A 12-year sequence of telescope images of a star and four planets orbiting. 점수 233, 반응 51 기준 인기 이슈입니다."
+      "summary": "A 12-year sequence of telescope images of a star and four planets orbiting. 점수 300, 반응 58 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "score": 289,
+      "comments": 150,
+      "text": "",
+      "summary": "The Legend of von Neumann (1973) [pdf]. 점수 289, 반응 150 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "score": 289,
+      "comments": 91,
+      "text": "",
+      "summary": "Show HN: Giving Opus 5.5 a simulated paint canvas. 점수 289, 반응 91 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "score": 287,
+      "comments": 261,
+      "text": "",
+      "summary": "Sites in ChatGPT.  점수 287, 반응 261 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Loss of cell identity drives human aging: Two new papers",
       "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "score": 204,
-      "comments": 54,
-      "text": "",
-      "summary": "Loss of cell identity drives human aging: Two new papers. 점수 204, 반응 54 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "score": 203,
-      "comments": 53,
-      "text": "",
-      "summary": "Greg Kroah-Hartman – Security in the LLM Age [video]. 점수 203, 반응 53 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "score": 201,
-      "comments": 95,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-11036-y\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-11036-y</a><p><a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2511.07312\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2511.07312</a>",
-      "summary": "With most information hidden, the game Stratego had stumped AI until now. https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-11036-y https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2511.07312 점수 201, 반응 95 기준 인기 이슈입니다."
+      "score": 264,
+      "comments": 85,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-10955-0\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-10955-0</a><p><a href=\"https:&#x2F;&#x2F;www.cell.com&#x2F;cell&#x2F;abstract&#x2F;S0092-8674(25)00853-0\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cell.com&#x2F;cell&#x2F;abstract&#x2F;S0092-8674(25)00853-0</a>",
+      "summary": "Loss of cell identity drives human aging: Two new papers. https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-10955-0 https:&#x2F;&#x2F;www.cell.com&#x2F;cell&#x2F;abstract&#x2F;S0092-8674(25)00853-0 점수 264, 반응 85 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
-      "score": 192,
-      "comments": 56,
+      "score": 260,
+      "comments": 68,
       "text": "",
-      "summary": "From the creator of Redis; run LLM locally with ds4. 점수 192, 반응 56 기준 인기 이슈입니다."
+      "summary": "From the creator of Redis; run LLM locally with ds4. 점수 260, 반응 68 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Muse Gadgets",
-      "url": "https://gadgets.muse.ai",
-      "score": 168,
-      "comments": 76,
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "score": 249,
+      "comments": 66,
       "text": "",
-      "summary": "Muse Gadgets.  점수 168, 반응 76 기준 인기 이슈입니다."
+      "summary": "Newgrounds.com – A community of games, music, and art. 점수 249, 반응 66 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "score": 248,
+      "comments": 79,
+      "text": "",
+      "summary": "Greg Kroah-Hartman – Security in the LLM Age [video]. 점수 248, 반응 79 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 42
+      "count": 44
     },
     {
       "keyword": "https",
       "count": 10
     },
     {
-      "keyword": "www",
-      "count": 6
+      "keyword": "com",
+      "count": 9
     },
     {
-      "keyword": "com",
-      "count": 6
+      "keyword": "www",
+      "count": 8
     },
     {
       "keyword": "href",
@@ -262,11 +262,15 @@
       "count": 5
     },
     {
+      "keyword": "cell",
+      "count": 5
+    },
+    {
       "keyword": "platform",
       "count": 3
     },
     {
-      "keyword": "web",
+      "keyword": "building",
       "count": 3
     },
     {
@@ -287,10 +291,6 @@
     },
     {
       "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "building",
       "count": 2
     }
   ],
