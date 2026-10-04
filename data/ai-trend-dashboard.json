@@ -1,260 +1,179 @@
 {
-  "updatedAt": "2026-10-04T08:27:12.990825+00:00",
+  "updatedAt": "2026-10-04T15:22:36.826066+00:00",
   "status": "ok",
-  "count": 25,
+  "count": 15,
   "errors": [
+    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
-      "source": "GitHub Repos",
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "score": 391265,
-      "comments": 9273,
-      "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 391265, 반응 9273 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 295018,
-      "comments": 306,
-      "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 295018, 반응 306 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 251043,
-      "comments": 47869,
-      "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 251043, 반응 47869 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 206611,
-      "comments": 1118,
-      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 206611, 반응 1118 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "score": 188371,
-      "comments": 518,
-      "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 188371, 반응 518 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187646,
-      "comments": 599,
-      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187646, 반응 599 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 171978,
-      "comments": 85,
-      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 171978, 반응 85 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165188,
-      "comments": 2511,
-      "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165188, 반응 2511 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "Snailclimb/JavaGuide",
-      "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159025,
-      "comments": 17,
-      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159025, 반응 17 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 157802,
-      "comments": 996,
-      "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157802, 반응 996 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 153908,
-      "comments": 282,
-      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 153908, 반응 282 기준 인기 이슈입니다."
-    },
-    {
-      "source": "GitHub Repos",
-      "title": "langchain-ai/langchain",
-      "url": "https://github.com/langchain-ai/langchain",
-      "score": 147422,
-      "comments": 617,
-      "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147422, 반응 617 기준 인기 이슈입니다."
+      "source": "Hacker News",
+      "title": "Tell HN: Bob Cringely has died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "score": 625,
+      "comments": 123,
+      "text": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who&#x27;s real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially &quot;Triumph of the Nerds&quot;. He will be missed.",
+      "summary": "Tell HN: Bob Cringely has died. I heard from a friend of the family that Bob passed away in his sleep early Saturday. Bob, who&#x27;s real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially &quot;Triumph of the Nerds&quot;. 점수 625, 반응 123 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We're going to need default hard budget caps on pretty much everything",
       "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "score": 401,
-      "comments": 201,
+      "score": 521,
+      "comments": 269,
       "text": "",
-      "summary": "We're going to need default hard budget caps on pretty much everything. 점수 401, 반응 201 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tell HN: Bob Cringely has died",
-      "url": "https://news.ycombinator.com/item?id=49949438",
-      "score": 390,
-      "comments": 79,
-      "text": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who&#x27;s real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially &quot;Triumph of the Nerds&quot;. He will be missed.",
-      "summary": "Tell HN: Bob Cringely has died. I heard from a friend of the family that Bob passed away in his sleep early Saturday. Bob, who&#x27;s real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially &quot;Triumph of the Nerds&quot;. 점수 390, 반응 79 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "score": 281,
-      "comments": 66,
-      "text": "",
-      "summary": "Hole Punch: Sling your spaceship around gravitational fields. 점수 281, 반응 66 기준 인기 이슈입니다."
+      "summary": "We're going to need default hard budget caps on pretty much everything. 점수 521, 반응 269 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
       "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "score": 256,
-      "comments": 36,
+      "score": 374,
+      "comments": 65,
       "text": "",
-      "summary": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux. 점수 256, 반응 36 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I quit OpenAI because its culture is broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "score": 203,
-      "comments": 465,
-      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;5GQx8\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;5GQx8</a><p><a href=\"https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;oct&#x2F;03&#x2F;openai-safety-leader-quits-warning-ai-companys-culture-is-broken\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;oct&#x2F;03&#x2F;openai-sa...</a>",
-      "summary": "I quit OpenAI because its culture is broken. https:&#x2F;&#x2F;archive.ph&#x2F;5GQx8 https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;oct&#x2F;03&#x2F;openai-sa... 점수 203, 반응 465 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "score": 192,
-      "comments": 46,
-      "text": "",
-      "summary": "Celebrating the 100th birthday of the kidney donated to him as a teenager. 점수 192, 반응 46 기준 인기 이슈입니다."
+      "summary": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux. 점수 374, 반응 65 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "So you think you could be an electrician?",
       "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "score": 187,
-      "comments": 121,
+      "score": 363,
+      "comments": 292,
       "text": "",
-      "summary": "So you think you could be an electrician?. 점수 187, 반응 121 기준 인기 이슈입니다."
+      "summary": "So you think you could be an electrician?. 점수 363, 반응 292 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "score": 174,
-      "comments": 82,
-      "text": "",
-      "summary": "Treachery in the Rodin Museum 3D scan verdict. 점수 174, 반응 82 기준 인기 이슈입니다."
+      "title": "I quit OpenAI because its culture is broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "score": 343,
+      "comments": 574,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;5GQx8\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;5GQx8</a><p><a href=\"https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;oct&#x2F;03&#x2F;openai-safety-leader-quits-warning-ai-companys-culture-is-broken\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;oct&#x2F;03&#x2F;openai-sa...</a>",
+      "summary": "I quit OpenAI because its culture is broken. https:&#x2F;&#x2F;archive.ph&#x2F;5GQx8 https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;oct&#x2F;03&#x2F;openai-sa... 점수 343, 반응 574 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "FTL: A new operating system for clouds",
-      "url": "https://ftl-os.org/",
-      "score": 172,
-      "comments": 67,
-      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;nuta&#x2F;ftl\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;nuta&#x2F;ftl</a>",
-      "summary": "FTL: A new operating system for clouds. https:&#x2F;&#x2F;github.com&#x2F;nuta&#x2F;ftl 점수 172, 반응 67 기준 인기 이슈입니다."
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "score": 324,
+      "comments": 80,
+      "text": "",
+      "summary": "Hole Punch: Sling your spaceship around gravitational fields. 점수 324, 반응 80 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Agents don't need memory, they need documentation",
       "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "score": 148,
-      "comments": 90,
+      "score": 270,
+      "comments": 153,
       "text": "",
-      "summary": "Agents don't need memory, they need documentation. 점수 148, 반응 90 기준 인기 이슈입니다."
+      "summary": "Agents don't need memory, they need documentation. 점수 270, 반응 153 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "score": 253,
+      "comments": 128,
+      "text": "",
+      "summary": "Treachery in the Rodin Museum 3D scan verdict. 점수 253, 반응 128 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "score": 245,
+      "comments": 364,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf</a>",
+      "summary": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents. https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf 점수 245, 반응 364 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "score": 223,
+      "comments": 58,
+      "text": "",
+      "summary": "Celebrating the 100th birthday of the kidney donated to him as a teenager. 점수 223, 반응 58 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why don't more developers “use the platform”?",
+      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "score": 212,
+      "comments": 203,
+      "text": "",
+      "summary": "Why don't more developers “use the platform”?. 점수 212, 반응 203 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Reasons I didn't become an EMT, ranked",
       "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "score": 143,
-      "comments": 70,
+      "score": 189,
+      "comments": 83,
       "text": "",
-      "summary": "Reasons I didn't become an EMT, ranked. 점수 143, 반응 70 기준 인기 이슈입니다."
+      "summary": "Reasons I didn't become an EMT, ranked. 점수 189, 반응 83 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Woking Electrical Control Room (2016)",
-      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-      "score": 141,
-      "comments": 27,
-      "text": "",
-      "summary": "Woking Electrical Control Room (2016). 점수 141, 반응 27 기준 인기 이슈입니다."
+      "title": "FTL: A new operating system for clouds",
+      "url": "https://ftl-os.org/",
+      "score": 189,
+      "comments": 74,
+      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;nuta&#x2F;ftl\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;nuta&#x2F;ftl</a>",
+      "summary": "FTL: A new operating system for clouds. https:&#x2F;&#x2F;github.com&#x2F;nuta&#x2F;ftl 점수 189, 반응 74 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "City building games have a Soul Problem pt.2",
-      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
-      "score": 130,
-      "comments": 126,
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "score": 179,
+      "comments": 78,
       "text": "",
-      "summary": "City building games have a Soul Problem pt.2. 점수 130, 반응 126 기준 인기 이슈입니다."
+      "summary": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s. 점수 179, 반응 78 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "score": 170,
+      "comments": 146,
+      "text": "",
+      "summary": "We want you to build the next Git platform on Cloudflare. 점수 170, 반응 146 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 28
+      "count": 34
     },
     {
       "keyword": "https",
-      "count": 6
+      "count": 8
+    },
+    {
+      "keyword": "href",
+      "count": 4
+    },
+    {
+      "keyword": "archive",
+      "count": 4
+    },
+    {
+      "keyword": "rel",
+      "count": 4
+    },
+    {
+      "keyword": "nofollow",
+      "count": 4
     },
     {
       "keyword": "com",
       "count": 4
     },
     {
-      "keyword": "platform",
-      "count": 3
-    },
-    {
-      "keyword": "building",
-      "count": 3
-    },
-    {
-      "keyword": "prompts",
+      "keyword": "bob",
       "count": 3
     },
     {
@@ -262,35 +181,27 @@
       "count": 3
     },
     {
-      "keyword": "bob",
-      "count": 3
-    },
-    {
-      "keyword": "href",
-      "count": 3
-    },
-    {
-      "keyword": "rel",
-      "count": 3
-    },
-    {
-      "keyword": "nofollow",
-      "count": 3
-    },
-    {
       "keyword": "ftl",
       "count": 3
     },
     {
-      "keyword": "openclaw",
+      "keyword": "his",
       "count": 2
     },
     {
-      "keyword": "any",
+      "keyword": "early",
       "count": 2
     },
     {
-      "keyword": "agentic",
+      "keyword": "quot",
+      "count": 2
+    },
+    {
+      "keyword": "gqx8",
+      "count": 2
+    },
+    {
+      "keyword": "www",
       "count": 2
     }
   ],
