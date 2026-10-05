@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T14:40:10.915061+00:00",
+  "updatedAt": "2026-10-05T22:37:25.404122+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 391426,
-      "comments": 9361,
+      "score": 391442,
+      "comments": 9403,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 391426, 반응 9361 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 391442, 반응 9403 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 295501,
-      "comments": 308,
+      "score": 295640,
+      "comments": 310,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 295501, 반응 308 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 295640, 반응 310 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 251340,
-      "comments": 48078,
+      "score": 251427,
+      "comments": 48084,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 251340, 반응 48078 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 251427, 반응 48084 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 206708,
-      "comments": 1123,
+      "score": 206726,
+      "comments": 1130,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 206708, 반응 1123 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 206726, 반응 1130 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 188785,
-      "comments": 526,
+      "score": 188896,
+      "comments": 530,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 188785, 반응 526 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 188896, 반응 530 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187652,
-      "comments": 604,
+      "score": 187661,
+      "comments": 609,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187652, 반응 604 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187661, 반응 609 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 172068,
+      "score": 172088,
       "comments": 84,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 172068, 반응 84 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 172088, 반응 84 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,163 +82,167 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159031,
+      "score": 159034,
       "comments": 17,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159031, 반응 17 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159034, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 157877,
-      "comments": 1028,
+      "score": 157897,
+      "comments": 1072,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157877, 반응 1028 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 157897, 반응 1072 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 153992,
-      "comments": 250,
+      "score": 154018,
+      "comments": 260,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 153992, 반응 250 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 154018, 반응 260 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 147466,
-      "comments": 620,
+      "score": 147473,
+      "comments": 626,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147466, 반응 620 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "score": 859,
-      "comments": 384,
-      "text": "",
-      "summary": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s. 점수 859, 반응 384 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "score": 678,
-      "comments": 454,
-      "text": "",
-      "summary": "Turn off Apple Intelligence on macOS 27 and get its disk space back. 점수 678, 반응 454 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "score": 469,
-      "comments": 607,
-      "text": "",
-      "summary": "Improper redaction reveals Google Data Center water and electricity usage. 점수 469, 반응 607 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "What is going on with ceiling fans",
-      "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
-      "score": 373,
-      "comments": 327,
-      "text": "",
-      "summary": "What is going on with ceiling fans. 점수 373, 반응 327 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A browser-native classic Visual Basic VB6 IDE",
-      "url": "https://wieslawsoltes.github.io/VB6/",
-      "score": 317,
-      "comments": 103,
-      "text": "",
-      "summary": "A browser-native classic Visual Basic VB6 IDE. 점수 317, 반응 103 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-      "score": 294,
-      "comments": 229,
-      "text": "",
-      "summary": "Denmark Data Breach Exposes 8.8M People's Personal Data. 점수 294, 반응 229 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "score": 261,
-      "comments": 219,
-      "text": "",
-      "summary": "Powerless F1 drivers frustrated by Bahrain F1 software glitch. 점수 261, 반응 219 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "We ported the original Doom to SQL",
-      "url": "https://cedardb.com/blog/sqldoom/",
-      "score": 215,
-      "comments": 37,
-      "text": "",
-      "summary": "We ported the original Doom to SQL. 점수 215, 반응 37 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-      "score": 214,
-      "comments": 185,
-      "text": "",
-      "summary": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation. 점수 214, 반응 185 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Tao of Backup",
-      "url": "http://www.taobackup.com/index.html",
-      "score": 202,
-      "comments": 75,
-      "text": "",
-      "summary": "The Tao of Backup.  점수 202, 반응 75 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "score": 187,
-      "comments": 21,
-      "text": "<a href=\"https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;tippett-archive&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;tippett-archive&#x2F;</a>",
-      "summary": "In the wake of Tippett Studios’ closure, a digital archive appears online. https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;tippett-archive&#x2F; 점수 187, 반응 21 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Infidel goes wild",
-      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-      "score": 160,
-      "comments": 33,
-      "text": "",
-      "summary": "Infidel goes wild.  점수 160, 반응 33 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147473, 반응 626 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Web Search API",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "score": 150,
-      "comments": 85,
+      "score": 447,
+      "comments": 208,
       "text": "",
-      "summary": "Web Search API.  점수 150, 반응 85 기준 인기 이슈입니다."
+      "summary": "Web Search API.  점수 447, 반응 208 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "score": 417,
+      "comments": 342,
+      "text": "",
+      "summary": "Anthropic reported diary entry to police, woman faces felony charge. 점수 417, 반응 342 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "score": 383,
+      "comments": 227,
+      "text": "",
+      "summary": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped. 점수 383, 반응 227 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The technology to eradicate mosquito-borne disease exists",
+      "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+      "score": 223,
+      "comments": 176,
+      "text": "",
+      "summary": "The technology to eradicate mosquito-borne disease exists. 점수 223, 반응 176 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "score": 211,
+      "comments": 58,
+      "text": "",
+      "summary": "Beam: Reflection's 501B open-weight model. 점수 211, 반응 58 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple and a hacker's future",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "score": 175,
+      "comments": 169,
+      "text": "",
+      "summary": "Apple and a hacker's future. 점수 175, 반응 169 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "score": 165,
+      "comments": 103,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;Axpbl\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;Axpbl</a><p><a href=\"https:&#x2F;&#x2F;www.huawei.com&#x2F;en&#x2F;news&#x2F;2026&#x2F;10&#x2F;qualcomm-broad-patent-agreement\" rel=\"nofollow\">https:&#x2F;&#x2F;www.huawei.com&#x2F;en&#x2F;news&#x2F;2026&#x2F;10&#x2F;qualcomm-broad-patent...</a>",
+      "summary": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech. https:&#x2F;&#x2F;archive.ph&#x2F;Axpbl https:&#x2F;&#x2F;www.huawei.com&#x2F;en&#x2F;news&#x2F;2026&#x2F;10&#x2F;qualcomm-broad-patent... 점수 165, 반응 103 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Type Safe Generic Data Structures in C (2025)",
+      "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "score": 124,
+      "comments": 96,
+      "text": "",
+      "summary": "Type Safe Generic Data Structures in C (2025). 점수 124, 반응 96 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Differences Between `Foldl` and `Foldr`",
+      "url": "https://blog.haskell.org/foldl-and-foldr/",
+      "score": 122,
+      "comments": 27,
+      "text": "",
+      "summary": "Differences Between `Foldl` and `Foldr`. 점수 122, 반응 27 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Making a GTK application in Haskell, part 1",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "score": 117,
+      "comments": 26,
+      "text": "",
+      "summary": "Making a GTK application in Haskell, part 1. 점수 117, 반응 26 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "score": 115,
+      "comments": 96,
+      "text": "",
+      "summary": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates. 점수 115, 반응 96 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+      "url": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+      "score": 106,
+      "comments": 45,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.nobelprize.org&#x2F;prizes&#x2F;medicine&#x2F;2026&#x2F;press-release&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nobelprize.org&#x2F;prizes&#x2F;medicine&#x2F;2026&#x2F;press-releas...</a>",
+      "summary": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel. https:&#x2F;&#x2F;www.nobelprize.org&#x2F;prizes&#x2F;medicine&#x2F;2026&#x2F;press-releas... 점수 106, 반응 45 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Norway Eyes Partial Ban of Smart Glasses",
+      "url": "https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239",
+      "score": 101,
+      "comments": 58,
+      "text": "",
+      "summary": "Norway Eyes Partial Ban of Smart Glasses. 점수 101, 반응 58 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 10
+      "count": 33
     },
     {
-      "keyword": "data",
+      "keyword": "https",
+      "count": 6
+    },
+    {
+      "keyword": "www",
       "count": 4
     },
     {
@@ -254,7 +258,23 @@
       "count": 3
     },
     {
-      "keyword": "archive",
+      "keyword": "huawei",
+      "count": 3
+    },
+    {
+      "keyword": "href",
+      "count": 3
+    },
+    {
+      "keyword": "rel",
+      "count": 3
+    },
+    {
+      "keyword": "nofollow",
+      "count": 3
+    },
+    {
+      "keyword": "medicine",
       "count": 3
     },
     {
@@ -270,27 +290,7 @@
       "count": 2
     },
     {
-      "keyword": "software",
-      "count": 2
-    },
-    {
       "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "visual",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "cloud",
       "count": 2
     }
   ],
