@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T18:36:17.536614+00:00",
+  "updatedAt": "2026-10-10T23:33:46.580189+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 391594,
-      "comments": 9439,
+      "score": 391618,
+      "comments": 9449,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 391594, 반응 9439 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 391618, 반응 9449 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 297164,
-      "comments": 328,
+      "score": 297227,
+      "comments": 327,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 297164, 반응 328 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 297227, 반응 327 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 252491,
-      "comments": 47808,
+      "score": 252543,
+      "comments": 47868,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 252491, 반응 47808 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 252543, 반응 47868 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 206916,
-      "comments": 1171,
+      "score": 206939,
+      "comments": 1174,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 206916, 반응 1171 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 206939, 반응 1174 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 190179,
-      "comments": 557,
+      "score": 190217,
+      "comments": 563,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 190179, 반응 557 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 190217, 반응 563 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187514,
-      "comments": 696,
+      "score": 187518,
+      "comments": 698,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187514, 반응 696 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187518, 반응 698 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 172426,
+      "score": 172472,
       "comments": 86,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 172426, 반응 86 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 172472, 반응 86 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,154 +82,154 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 158929,
+      "score": 158930,
       "comments": 21,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158929, 반응 21 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 158930, 반응 21 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 158090,
-      "comments": 1101,
+      "score": 158099,
+      "comments": 1102,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 158090, 반응 1101 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 158099, 반응 1102 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 154204,
-      "comments": 179,
+      "score": 154221,
+      "comments": 163,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 154204, 반응 179 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 154221, 반응 163 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 147559,
+      "score": 147563,
       "comments": 645,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147559, 반응 645 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cloudflare acquires Deno",
-      "url": "https://deno.com/blog/cloudflare",
-      "score": 1320,
-      "comments": 679,
-      "text": "",
-      "summary": "Cloudflare acquires Deno. 점수 1320, 반응 679 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Triple-A Minesweeper",
-      "url": "https://minesweeper.mikelacher.com/",
-      "score": 1269,
-      "comments": 254,
-      "text": "",
-      "summary": "Triple-A Minesweeper. 점수 1269, 반응 254 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147563, 반응 645 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "REA Reverse – Engineer Anything",
       "url": "https://rea.tools/",
-      "score": 618,
-      "comments": 267,
+      "score": 675,
+      "comments": 295,
       "text": "",
-      "summary": "REA Reverse – Engineer Anything. 점수 618, 반응 267 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "score": 389,
-      "comments": 46,
-      "text": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.<p>carrier-explode also contains decoders and explanations for all the common baseband configurations, etc.<p>There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.",
-      "summary": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded. Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands. carrier-explode also contains decoders and explanations for all the common baseband configurations, etc. 점수 389, 반응 46 기준 인기 이슈입니다."
+      "summary": "REA Reverse – Engineer Anything. 점수 675, 반응 295 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
       "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "score": 343,
-      "comments": 171,
+      "score": 397,
+      "comments": 249,
       "text": "",
-      "summary": "Telegram Desktop vulnerability allowed any user's file to be stolen. 점수 343, 반응 171 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "`123456' password used in Danish CPR data breach",
-      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "score": 336,
-      "comments": 178,
-      "text": "",
-      "summary": "`123456' password used in Danish CPR data breach. 점수 336, 반응 178 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
-      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-      "score": 265,
-      "comments": 62,
-      "text": "",
-      "summary": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024). 점수 265, 반응 62 기준 인기 이슈입니다."
+      "summary": "Telegram Desktop vulnerability allowed any user's file to be stolen. 점수 397, 반응 249 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bitwarden Dual License Model",
       "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "score": 328,
+      "comments": 241,
+      "text": "",
+      "summary": "Bitwarden Dual License Model. 점수 328, 반응 241 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Grieving the loss of details",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "score": 314,
+      "comments": 252,
+      "text": "",
+      "summary": "Grieving the loss of details. 점수 314, 반응 252 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "2D Vehicles",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "score": 314,
+      "comments": 75,
+      "text": "",
+      "summary": "2D Vehicles.  점수 314, 반응 75 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "score": 295,
+      "comments": 71,
+      "text": "",
+      "summary": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024). 점수 295, 반응 71 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple/macOS removed from official Unix registry",
+      "url": "https://www.opengroup.org//openbrand/register/",
       "score": 233,
-      "comments": 173,
+      "comments": 210,
       "text": "",
-      "summary": "Bitwarden Dual License Model. 점수 233, 반응 173 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
-      "url": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
-      "score": 199,
-      "comments": 169,
-      "text": "",
-      "summary": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload. 점수 199, 반응 169 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "score": 178,
-      "comments": 49,
-      "text": "",
-      "summary": "What mathematicians should know about the Lean Theorem Prover: reliability & AI. 점수 178, 반응 49 기준 인기 이슈입니다."
+      "summary": "Apple/macOS removed from official Unix registry. 점수 233, 반응 210 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
-      "score": 173,
-      "comments": 93,
+      "score": 229,
+      "comments": 115,
       "text": "",
-      "summary": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier. 점수 173, 반응 93 기준 인기 이슈입니다."
+      "summary": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier. 점수 229, 반응 115 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Apple/macOS silently removed from official Unix registry",
-      "url": "https://www.opengroup.org//openbrand/register/",
-      "score": 166,
-      "comments": 166,
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "score": 194,
+      "comments": 464,
       "text": "",
-      "summary": "Apple/macOS silently removed from official Unix registry. 점수 166, 반응 166 기준 인기 이슈입니다."
+      "summary": "I would like the value of my home to rise, while my property taxes fall. 점수 194, 반응 464 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "score": 159,
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/",
+      "score": 160,
+      "comments": 38,
+      "text": "",
+      "summary": "The Lightbulb Computer. 점수 160, 반응 38 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "score": 149,
+      "comments": 32,
+      "text": "",
+      "summary": "Mxc: Microsoft Execution Containers version 1.0.0. 점수 149, 반응 32 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Knuth reward check",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "score": 127,
       "comments": 48,
       "text": "",
-      "summary": "Can you use autoregressive diffusion to generate market data?. 점수 159, 반응 48 기준 인기 이슈입니다."
+      "summary": "Knuth reward check.  점수 127, 반응 48 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+      "score": 121,
+      "comments": 46,
+      "text": "",
+      "summary": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years. 점수 121, 반응 46 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -246,15 +246,7 @@
       "count": 3
     },
     {
-      "keyword": "data",
-      "count": 3
-    },
-    {
       "keyword": "prompts",
-      "count": 3
-    },
-    {
-      "keyword": "carrier-explode",
       "count": 3
     },
     {
@@ -290,7 +282,15 @@
       "count": 2
     },
     {
-      "keyword": "use",
+      "keyword": "build",
+      "count": 2
+    },
+    {
+      "keyword": "free",
+      "count": 2
+    },
+    {
+      "keyword": "stable",
       "count": 2
     }
   ],
