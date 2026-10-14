@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T18:37:46.551354+00:00",
+  "updatedAt": "2026-10-14T23:14:28.959237+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 391992,
-      "comments": 9646,
+      "score": 392025,
+      "comments": 9620,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 391992, 반응 9646 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 392025, 반응 9620 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 299074,
-      "comments": 348,
+      "score": 299153,
+      "comments": 351,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 299074, 반응 348 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 299153, 반응 351 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 253732,
-      "comments": 48752,
+      "score": 253789,
+      "comments": 48832,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 253732, 반응 48752 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 253789, 반응 48832 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 207371,
-      "comments": 1190,
+      "score": 207398,
+      "comments": 1198,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 207371, 반응 1190 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 207398, 반응 1198 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 191502,
-      "comments": 578,
+      "score": 191573,
+      "comments": 585,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 191502, 반응 578 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 191573, 반응 585 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187572,
-      "comments": 661,
+      "score": 187578,
+      "comments": 680,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187572, 반응 661 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187578, 반응 680 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 172967,
+      "score": 172990,
       "comments": 87,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 172967, 반응 87 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 172990, 반응 87 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165049,
+      "score": 165056,
       "comments": 2510,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165049, 반응 2510 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165056, 반응 2510 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,198 +91,150 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 158466,
-      "comments": 1154,
+      "score": 158486,
+      "comments": 1133,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 158466, 반응 1154 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 158486, 반응 1133 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 155666,
-      "comments": 164,
+      "score": 155699,
+      "comments": 157,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 155666, 반응 164 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 155699, 반응 157 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 147813,
-      "comments": 642,
+      "score": 147831,
+      "comments": 644,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147813, 반응 642 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147831, 반응 644 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "score": 800,
+      "comments": 418,
+      "text": "",
+      "summary": "Containment and monitoring failures are to blame for AI hacking reports: experts. 점수 800, 반응 418 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
       "url": "https://typeof.net/Iosevka/",
-      "score": 597,
-      "comments": 248,
+      "score": 689,
+      "comments": 285,
       "text": "",
-      "summary": "Iosevka is an open-source, sans-serif and slab-serif monospace font. 점수 597, 반응 248 기준 인기 이슈입니다."
+      "summary": "Iosevka is an open-source, sans-serif and slab-serif monospace font. 점수 689, 반응 285 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Amazon pushes up prices across the Internet",
+      "title": "How Amazon pushes up prices all across the Internet",
       "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "score": 567,
-      "comments": 519,
+      "score": 686,
+      "comments": 576,
       "text": "",
-      "summary": "Amazon pushes up prices across the Internet. 점수 567, 반응 519 기준 인기 이슈입니다."
+      "summary": "How Amazon pushes up prices all across the Internet. 점수 686, 반응 576 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Sound (2022)",
-      "url": "https://ciechanow.ski/sound/",
-      "score": 255,
-      "comments": 28,
+      "title": "Things to know when you get cancer – 2026 Edition",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "score": 562,
+      "comments": 153,
       "text": "",
-      "summary": "Sound (2022).  점수 255, 반응 28 기준 인기 이슈입니다."
+      "summary": "Things to know when you get cancer – 2026 Edition. 점수 562, 반응 153 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-      "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
-      "score": 249,
-      "comments": 103,
+      "title": "Passkeys are not a trap",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "score": 406,
+      "comments": 580,
       "text": "",
-      "summary": "ICE Planning $100M 'Nightmare' Domestic Spy Program. 점수 249, 반응 103 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "score": 210,
-      "comments": 77,
-      "text": "",
-      "summary": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics. 점수 210, 반응 77 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-      "url": "https://github.com/timescale/pg_vectorsearch",
-      "score": 152,
-      "comments": 42,
-      "text": "",
-      "summary": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW. 점수 152, 반응 42 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Origin Story of Kid Pix",
-      "url": "http://red-green-blue.com/kid-pix-the-early-years",
-      "score": 152,
-      "comments": 32,
-      "text": "",
-      "summary": "The Origin Story of Kid Pix. 점수 152, 반응 32 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-      "score": 150,
-      "comments": 142,
-      "text": "",
-      "summary": "ASML's strong orders ease fears AI spending boom is running out of steam. 점수 150, 반응 142 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "TV4 postpones show after AI agent erases edited material",
-      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "score": 114,
-      "comments": 68,
-      "text": "",
-      "summary": "TV4 postpones show after AI agent erases edited material. 점수 114, 반응 68 기준 인기 이슈입니다."
+      "summary": "Passkeys are not a trap. 점수 406, 반응 580 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Google is silently linking your phone number across all signed-in accounts",
       "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-      "score": 98,
-      "comments": 24,
+      "score": 331,
+      "comments": 87,
       "text": "",
-      "summary": "Google is silently linking your phone number across all signed-in accounts. 점수 98, 반응 24 기준 인기 이슈입니다."
+      "summary": "Google is silently linking your phone number across all signed-in accounts. 점수 331, 반응 87 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-      "url": "https://museumofages.org/w/vinci",
-      "score": 82,
-      "comments": 33,
-      "text": "Hello HN,<p>I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and then his last house in Amboise. The entrance is free.<p>At the different stops you can see for example his paintings close to their real size, or 15 of his machines rebuilt in code, and you can have a look at 29 of his anatomy sheets. We also selected 207 of his manuscript pages which you can read in a virtual reading table, mirror the view to read his writing and 131 of the 207 are translated. We also rebuilt his last house in Amboise on the later stops of the walk. The museum is available in seven languages.<p>Each stop has one of four grades as a label, documented, reconstructed, conjectural and not known. In a detailed view the user can have a closer look at the sources.<p>The materials of the rooms and machines are created in Three.js. The museum runs with WebGPU. If the browser doesn’t support it, the fallback is WebGL2. To create the textures we used Creative Commons Zero photo scans (CC0) and for a few small objects we use free 3D models (CC0).<p>Our mission is to create digital museums you can walk as not everyone can get to a museum, because illness or disability keeps them away. Some cannot afford the trip or just reside far away. So our goal is also to make our digital museums as accessible as possible. Therefore we also pre-rendered the walk so that it also works on older phones and is easy to use for older people.<p>We released the code under AGPL-3.0. The texts and pictures are CC BY-SA 4.0. Reproductions have their own licenses. \n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;chipmates&#x2F;museumofages\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;chipmates&#x2F;museumofages</a><p>We put a lot of time and passion into the museum and hope you like it. We are happy about any feedback. Which digital museum would you like to see next?",
-      "summary": "Show HN: A guided 3D Leonardo da Vinci museum, built in code. Hello HN, I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. 점수 82, 반응 33 기준 인기 이슈입니다."
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "score": 305,
+      "comments": 228,
+      "text": "",
+      "summary": "Do dentists know what they're doing?. 점수 305, 반응 228 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Submarine cable resilience",
-      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-      "score": 81,
-      "comments": 14,
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "score": 253,
+      "comments": 182,
       "text": "",
-      "summary": "Submarine cable resilience. 점수 81, 반응 14 기준 인기 이슈입니다."
+      "summary": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland. 점수 253, 반응 182 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Better HTTP/1 connection reuse in Go 1.27",
-      "url": "https://go.dev/blog/http-connection-reuse",
-      "score": 79,
-      "comments": 12,
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "score": 239,
+      "comments": 185,
       "text": "",
-      "summary": "Better HTTP/1 connection reuse in Go 1.27. 점수 79, 반응 12 기준 인기 이슈입니다."
+      "summary": "Banks are now trying to offload the AI data center debt they just underwrote. 점수 239, 반응 185 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "score": 198,
+      "comments": 83,
+      "text": "",
+      "summary": "Anthropic's Scion is heavily inspired by Mononoke. 점수 198, 반응 83 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Suicide rates highest ever among middle-aged men",
+      "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+      "score": 191,
+      "comments": 240,
+      "text": "",
+      "summary": "Suicide rates highest ever among middle-aged men. 점수 191, 반응 240 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "score": 184,
+      "comments": 65,
+      "text": "",
+      "summary": "OpenCode 2.0.  점수 184, 반응 65 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "score": 182,
+      "comments": 47,
+      "text": "",
+      "summary": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW. 점수 182, 반응 47 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "museum",
-      "count": 8
-    },
-    {
-      "keyword": "his",
-      "count": 8
-    },
-    {
-      "keyword": "x2f",
-      "count": 8
-    },
-    {
-      "keyword": "can",
-      "count": 7
-    },
-    {
-      "keyword": "also",
-      "count": 5
-    },
-    {
-      "keyword": "code",
-      "count": 4
-    },
-    {
-      "keyword": "our",
-      "count": 4
-    },
-    {
-      "keyword": "digital",
-      "count": 4
-    },
-    {
-      "keyword": "any",
-      "count": 3
-    },
-    {
       "keyword": "platform",
-      "count": 3
-    },
-    {
-      "keyword": "works",
-      "count": 3
-    },
-    {
-      "keyword": "agent",
-      "count": 3
-    },
-    {
-      "keyword": "use",
       "count": 3
     },
     {
@@ -290,8 +242,56 @@
       "count": 3
     },
     {
-      "keyword": "free",
-      "count": 3
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "things",
+      "count": 2
+    },
+    {
+      "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "agentic",
+      "count": 2
+    },
+    {
+      "keyword": "agent",
+      "count": 2
+    },
+    {
+      "keyword": "building",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "cloud",
+      "count": 2
+    },
+    {
+      "keyword": "firecrawl",
+      "count": 2
+    },
+    {
+      "keyword": "data",
+      "count": 2
+    },
+    {
+      "keyword": "web",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "build",
+      "count": 2
     }
   ],
   "meta": {
