@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T12:11:18.629451+00:00",
+  "updatedAt": "2026-10-17T15:37:30.231937+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,46 +10,46 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 392249,
-      "comments": 9361,
+      "score": 392265,
+      "comments": 9352,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 392249, 반응 9361 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 392265, 반응 9352 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 300964,
-      "comments": 376,
+      "score": 301045,
+      "comments": 377,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 300964, 반응 376 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 301045, 반응 377 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 254556,
-      "comments": 49674,
+      "score": 254602,
+      "comments": 49660,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 254556, 반응 49674 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 254602, 반응 49660 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 207770,
-      "comments": 1174,
+      "score": 207788,
+      "comments": 1175,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 207770, 반응 1174 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 207788, 반응 1175 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 192352,
-      "comments": 621,
+      "score": 192392,
+      "comments": 620,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 192352, 반응 621 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 192392, 반응 620 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -64,10 +64,10 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 173223,
+      "score": 173249,
       "comments": 89,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 173223, 반응 89 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 173249, 반응 89 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,154 +82,154 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159092,
+      "score": 159097,
       "comments": 17,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159092, 반응 17 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159097, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 158693,
-      "comments": 1138,
+      "score": 158704,
+      "comments": 1142,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 158693, 반응 1138 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 158704, 반응 1142 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 155952,
-      "comments": 258,
+      "score": 155961,
+      "comments": 260,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 155952, 반응 258 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 155961, 반응 260 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 147971,
-      "comments": 655,
+      "score": 147981,
+      "comments": 657,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147971, 반응 655 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 147981, 반응 657 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Tesla Roadster",
       "url": "https://www.tesla.com/roadster",
-      "score": 1465,
-      "comments": 2607,
+      "score": 1540,
+      "comments": 2803,
       "text": "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qg\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qg</a><p><a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215</a>",
-      "summary": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qg https:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215 점수 1465, 반응 2607 기준 인기 이슈입니다."
+      "summary": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qg https:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215 점수 1540, 반응 2803 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 900,
-      "comments": 335,
+      "score": 961,
+      "comments": 344,
       "text": "<a href=\"https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;</a>",
-      "summary": "Claude reveals ECDSA curve origins. https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F; 점수 900, 반응 335 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "score": 522,
-      "comments": 442,
-      "text": "",
-      "summary": "90% of US working hours are spent on tasks not covered well by AI benchmarks. 점수 522, 반응 442 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "score": 371,
-      "comments": 342,
-      "text": "",
-      "summary": "How the Claude Code team does code review. 점수 371, 반응 342 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "score": 327,
-      "comments": 164,
-      "text": "",
-      "summary": "Apple ML Research: Muse Spark Open with MLX on Mac Studio. 점수 327, 반응 164 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 326,
-      "comments": 76,
-      "text": "",
-      "summary": "You could have invented transformers from memory. 점수 326, 반응 76 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "score": 302,
-      "comments": 75,
-      "text": "",
-      "summary": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console. 점수 302, 반응 75 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "score": 272,
-      "comments": 186,
-      "text": "",
-      "summary": "AVIF for web use-cases. 점수 272, 반응 186 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ultramarine 1 Flash",
-      "url": "https://www.paperinstruments.com/ultramarine",
-      "score": 270,
-      "comments": 89,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.paperinstruments.com&#x2F;blog&#x2F;ultramarine\">https:&#x2F;&#x2F;www.paperinstruments.com&#x2F;blog&#x2F;ultramarine</a><p><a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;bertgodel&#x2F;status&#x2F;2110400987622265232\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;bertgodel&#x2F;status&#x2F;2110400987622265232</a>",
-      "summary": "https:&#x2F;&#x2F;www.paperinstruments.com&#x2F;blog&#x2F;ultramarine https:&#x2F;&#x2F;twitter.com&#x2F;bertgodel&#x2F;status&#x2F;2110400987622265232 점수 270, 반응 89 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Butlerian Jihad",
-      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "score": 257,
-      "comments": 145,
-      "text": "",
-      "summary": "Butlerian Jihad.  점수 257, 반응 145 기준 인기 이슈입니다."
+      "summary": "Claude reveals ECDSA curve origins. https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F; 점수 961, 반응 344 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
       "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "score": 242,
-      "comments": 79,
+      "score": 456,
+      "comments": 240,
       "text": "",
-      "summary": "DeepSeek: DeepSeek v4.1 Flash 1017. 점수 242, 반응 79 기준 인기 이슈입니다."
+      "summary": "DeepSeek: DeepSeek v4.1 Flash 1017. 점수 456, 반응 240 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "score": 389,
+      "comments": 91,
+      "text": "",
+      "summary": "You could have invented transformers from memory. 점수 389, 반응 91 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 337,
+      "comments": 175,
+      "text": "",
+      "summary": "Apple ML Research: Muse Spark Open with MLX on Mac Studio. 점수 337, 반응 175 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 330,
+      "comments": 81,
+      "text": "",
+      "summary": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console. 점수 330, 반응 81 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ultramarine 1 Flash",
+      "url": "https://www.paperinstruments.com/ultramarine",
+      "score": 326,
+      "comments": 100,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.paperinstruments.com&#x2F;blog&#x2F;ultramarine\">https:&#x2F;&#x2F;www.paperinstruments.com&#x2F;blog&#x2F;ultramarine</a><p><a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;bertgodel&#x2F;status&#x2F;2110400987622265232\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;bertgodel&#x2F;status&#x2F;2110400987622265232</a>",
+      "summary": "https:&#x2F;&#x2F;www.paperinstruments.com&#x2F;blog&#x2F;ultramarine https:&#x2F;&#x2F;twitter.com&#x2F;bertgodel&#x2F;status&#x2F;2110400987622265232 점수 326, 반응 100 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 317,
+      "comments": 125,
+      "text": "",
+      "summary": "DeepSeek-v4.1-Flash-1017. 점수 317, 반응 125 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 295,
+      "comments": 193,
+      "text": "",
+      "summary": "AVIF for web use-cases. 점수 295, 반응 193 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
       "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "score": 232,
-      "comments": 203,
+      "score": 247,
+      "comments": 221,
       "text": "",
-      "summary": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear. 점수 232, 반응 203 기준 인기 이슈입니다."
+      "summary": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear. 점수 247, 반응 221 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "score": 226,
-      "comments": 102,
-      "text": "I&#x27;ve refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse",
-      "summary": "Show HN: Gemini 4 Argon plays StarCraft. I&#x27;ve refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse 점수 226, 반응 102 기준 인기 이슈입니다."
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 188,
+      "comments": 55,
+      "text": "",
+      "summary": "FLUX 3 Image Klein.  점수 188, 반응 55 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "score": 174,
+      "comments": 55,
+      "text": "",
+      "summary": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware. 점수 174, 반응 55 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "score": 159,
+      "comments": 34,
+      "text": "",
+      "summary": "Designing more efficient quantum circuits with Claude. 점수 159, 반응 34 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -248,10 +248,6 @@
     {
       "keyword": "href",
       "count": 5
-    },
-    {
-      "keyword": "code",
-      "count": 4
     },
     {
       "keyword": "www",
@@ -291,6 +287,10 @@
     },
     {
       "keyword": "tesla",
+      "count": 3
+    },
+    {
+      "keyword": "ultramarine",
       "count": 3
     }
   ],
