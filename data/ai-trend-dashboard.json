@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T11:06:03.254198+00:00",
+  "updatedAt": "2026-10-18T15:52:30.116842+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,64 +10,64 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 392323,
-      "comments": 9394,
+      "score": 392350,
+      "comments": 9417,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 392323, 반응 9394 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 392350, 반응 9417 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 301398,
+      "score": 301511,
       "comments": 378,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 301398, 반응 378 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 301511, 반응 378 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 254808,
-      "comments": 49900,
+      "score": 254868,
+      "comments": 49941,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 254808, 반응 49900 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 254868, 반응 49941 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 207872,
-      "comments": 1190,
+      "score": 207891,
+      "comments": 1196,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 207872, 반응 1190 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 207891, 반응 1196 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 192610,
-      "comments": 621,
+      "score": 192682,
+      "comments": 626,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 192610, 반응 621 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 192682, 반응 626 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187636,
-      "comments": 721,
+      "score": 187639,
+      "comments": 719,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187636, 반응 721 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187639, 반응 719 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 173295,
+      "score": 173322,
       "comments": 89,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 173295, 반응 89 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 173322, 반응 89 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -82,179 +82,163 @@
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159109,
+      "score": 159113,
       "comments": 17,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159109, 반응 17 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159113, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 158763,
+      "score": 158785,
       "comments": 1135,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 158763, 반응 1135 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 158785, 반응 1135 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 156028,
-      "comments": 312,
+      "score": 156065,
+      "comments": 317,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 156028, 반응 312 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 156065, 반응 317 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 148017,
+      "score": 148026,
       "comments": 657,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 148017, 반응 657 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 148026, 반응 657 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 868,
-      "comments": 659,
+      "score": 918,
+      "comments": 680,
       "text": "<a href=\"https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;openrouter.ai&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017\" rel=\"nofollow\">https:&#x2F;&#x2F;openrouter.ai&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017</a>",
-      "summary": "DeepSeek-v4.1-Flash-1017. https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F; https:&#x2F;&#x2F;openrouter.ai&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017 점수 868, 반응 659 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 570,
-      "comments": 128,
-      "text": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932</a>",
-      "summary": "You could have invented transformers from memory. https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932 점수 570, 반응 128 기준 인기 이슈입니다."
+      "summary": "DeepSeek-v4.1-Flash-1017. https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F; https:&#x2F;&#x2F;openrouter.ai&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017 점수 918, 반응 680 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Bleached corals thrive within days when touching healthy neighbour",
       "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "score": 468,
-      "comments": 100,
+      "score": 516,
+      "comments": 108,
       "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4</a>",
-      "summary": "Bleached corals thrive within days when touching healthy neighbour. https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4 점수 468, 반응 100 기준 인기 이슈입니다."
+      "summary": "Bleached corals thrive within days when touching healthy neighbour. https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4 점수 516, 반응 108 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Pele – Mermaid diagrams as themeable SVG",
       "url": "https://pele.run/",
-      "score": 448,
-      "comments": 39,
+      "score": 516,
+      "comments": 48,
       "text": "",
-      "summary": "Pele – Mermaid diagrams as themeable SVG. 점수 448, 반응 39 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "score": 353,
-      "comments": 72,
-      "text": "",
-      "summary": "Furifont, a Japanese font that shows furigana. 점수 353, 반응 72 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Gold is now the top U.S. export",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "score": 340,
-      "comments": 188,
-      "text": "",
-      "summary": "Gold is now the top U.S. 점수 340, 반응 188 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Making chicken transparent using Dorito dust",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "score": 309,
-      "comments": 82,
-      "text": "",
-      "summary": "Making chicken transparent using Dorito dust. 점수 309, 반응 82 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "NY announces game ownership bill requiring ownership rather than licensing",
-      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "score": 308,
-      "comments": 111,
-      "text": "",
-      "summary": "NY announces game ownership bill requiring ownership rather than licensing. 점수 308, 반응 111 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "score": 297,
-      "comments": 82,
-      "text": "",
-      "summary": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware. 점수 297, 반응 82 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "score": 282,
-      "comments": 66,
-      "text": "",
-      "summary": "Dam removals are bringing fish back across the northeastern United States. 점수 282, 반응 66 기준 인기 이슈입니다."
+      "summary": "Pele – Mermaid diagrams as themeable SVG. 점수 516, 반응 48 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "url": "https://api-docs.deepseek.com/guides/search/",
-      "score": 217,
-      "comments": 102,
+      "score": 390,
+      "comments": 198,
       "text": "",
-      "summary": "DeepSeek search and fetch – $0.75 per 1000 successful requests. 점수 217, 반응 102 기준 인기 이슈입니다."
+      "summary": "DeepSeek search and fetch – $0.75 per 1000 successful requests. 점수 390, 반응 198 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "score": 194,
-      "comments": 30,
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
+      "score": 384,
+      "comments": 81,
       "text": "",
-      "summary": "The Commodore 64 hardware simulator: break chips and pins, see the results. 점수 194, 반응 30 기준 인기 이슈입니다."
+      "summary": "Furifont, a Japanese font that shows furigana. 점수 384, 반응 81 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "url": "https://github.com/mikroverk/esp32sim",
-      "score": 169,
-      "comments": 32,
-      "text": "Hi HN,<p>I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser.<p>The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator.<p>The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected.<p>Source:\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;mikroverk&#x2F;esp32sim\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;mikroverk&#x2F;esp32sim</a><p>I made a short video showing it in action:\n<a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;waoWFilTWEc\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;waoWFilTWEc</a><p>I’m particularly interested in feedback from embedded developers: what would an emulator like this need to support before you’d actually use it for development, testing or CI?",
-      "summary": "Show HN: Esp32sim – Run ESP32 firmware in the browser. Hi HN, I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser. The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator. 점수 169, 반응 32 기준 인기 이슈입니다."
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "score": 318,
+      "comments": 81,
+      "text": "",
+      "summary": "Dam removals are bringing fish back across the northeastern United States. 점수 318, 반응 81 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "score": 250,
+      "comments": 314,
+      "text": "",
+      "summary": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving. 점수 250, 반응 314 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "score": 201,
+      "comments": 63,
+      "text": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if you understand how the code you&#x27;re pushing works.",
+      "summary": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping. FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if you understand how the code you&#x27;re pushing works. 점수 201, 반응 63 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Lean now ships with verified kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "score": 176,
+      "comments": 60,
+      "text": "",
+      "summary": "Lean now ships with verified kernels. 점수 176, 반응 60 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "score": 128,
+      "comments": 34,
+      "text": "",
+      "summary": "Legal experts warn Meta's new terms still grant broad scraping permissions. 점수 128, 반응 34 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Parser Combinators",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "score": 127,
+      "comments": 54,
+      "text": "",
+      "summary": "Parser Combinators.  점수 127, 반응 54 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "score": 126,
+      "comments": 19,
+      "text": "",
+      "summary": "RepRapMicron.  점수 126, 반응 19 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "score": 101,
+      "comments": 8,
+      "text": "",
+      "summary": "Open MicroManipulator – A sub-micrometer 3D motion control plattform. 점수 101, 반응 8 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 48
+      "count": 24
     },
     {
       "keyword": "https",
-      "count": 12
-    },
-    {
-      "keyword": "href",
-      "count": 6
-    },
-    {
-      "keyword": "com",
-      "count": 6
-    },
-    {
-      "keyword": "rel",
-      "count": 6
-    },
-    {
-      "keyword": "nofollow",
       "count": 6
     },
     {
@@ -262,15 +246,15 @@
       "count": 5
     },
     {
-      "keyword": "esp32sim",
-      "count": 4
-    },
-    {
-      "keyword": "esp32",
-      "count": 4
-    },
-    {
       "keyword": "platform",
+      "count": 3
+    },
+    {
+      "keyword": "agent",
+      "count": 3
+    },
+    {
+      "keyword": "code",
       "count": 3
     },
     {
@@ -286,12 +270,28 @@
       "count": 3
     },
     {
-      "keyword": "hardware",
+      "keyword": "href",
       "count": 3
     },
     {
-      "keyword": "emulator",
+      "keyword": "rel",
       "count": 3
+    },
+    {
+      "keyword": "nofollow",
+      "count": 3
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "agentic",
+      "count": 2
     }
   ],
   "meta": {
