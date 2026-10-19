@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T19:56:35.483067+00:00",
+  "updatedAt": "2026-10-19T23:42:26.339980+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,235 +10,251 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 392473,
-      "comments": 9564,
+      "score": 392576,
+      "comments": 9590,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 392473, 반응 9564 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 392576, 반응 9590 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 302065,
+      "score": 302118,
       "comments": 383,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 302065, 반응 383 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 302118, 반응 383 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 255236,
-      "comments": 50039,
+      "score": 255267,
+      "comments": 50077,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 255236, 반응 50039 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 255267, 반응 50077 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 208033,
-      "comments": 1213,
+      "score": 208048,
+      "comments": 1212,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 208033, 반응 1213 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 208048, 반응 1212 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 193067,
-      "comments": 629,
+      "score": 193095,
+      "comments": 627,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 193067, 반응 629 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 193095, 반응 627 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187659,
-      "comments": 704,
+      "score": 187661,
+      "comments": 698,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187659, 반응 704 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187661, 반응 698 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 173566,
+      "score": 173583,
       "comments": 90,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 173566, 반응 90 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 173583, 반응 90 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165074,
+      "score": 165077,
       "comments": 2511,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165074, 반응 2511 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165077, 반응 2511 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159142,
+      "score": 159143,
       "comments": 17,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159142, 반응 17 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159143, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 158914,
+      "score": 158931,
       "comments": 1143,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 158914, 반응 1143 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 158931, 반응 1143 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 156188,
-      "comments": 337,
+      "score": 156203,
+      "comments": 338,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 156188, 반응 337 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 156203, 반응 338 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 148089,
-      "comments": 664,
+      "score": 148094,
+      "comments": 666,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 148089, 반응 664 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 148094, 반응 666 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Timestral: Mistral's time-series foundation models",
       "url": "https://mistral.ai/news/timestral/",
-      "score": 456,
-      "comments": 85,
+      "score": 526,
+      "comments": 97,
       "text": "",
-      "summary": "Timestral: Mistral's time-series foundation models. 점수 456, 반응 85 기준 인기 이슈입니다."
+      "summary": "Timestral: Mistral's time-series foundation models. 점수 526, 반응 97 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Wine ported to OpenBSD",
       "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "score": 402,
-      "comments": 125,
+      "score": 479,
+      "comments": 160,
       "text": "",
-      "summary": "Wine ported to OpenBSD. 점수 402, 반응 125 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
-      "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
-      "score": 266,
-      "comments": 235,
-      "text": "",
-      "summary": "I no longer care to work on any Ruby gems so I've archived all my repositories. 점수 266, 반응 235 기준 인기 이슈입니다."
+      "summary": "Wine ported to OpenBSD. 점수 479, 반응 160 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "It's still ok to enjoy programming",
       "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "score": 263,
-      "comments": 254,
+      "score": 390,
+      "comments": 374,
       "text": "",
-      "summary": "It's still ok to enjoy programming. 점수 263, 반응 254 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Alternatives to animal testing are finally taking off",
-      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-      "score": 255,
-      "comments": 78,
-      "text": "",
-      "summary": "Alternatives to animal testing are finally taking off. 점수 255, 반응 78 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-      "score": 241,
-      "comments": 44,
-      "text": "",
-      "summary": "CERN and Mistral sign a statement of intent to establish a strategic partnership. 점수 241, 반응 44 기준 인기 이슈입니다."
+      "summary": "It's still ok to enjoy programming. 점수 390, 반응 374 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "MiniMax M3.1 Flash",
       "url": "https://www.minimax.io/blog/minimax-m31f",
-      "score": 216,
-      "comments": 84,
+      "score": 332,
+      "comments": 148,
       "text": "",
-      "summary": "MiniMax M3.1 Flash.  점수 216, 반응 84 기준 인기 이슈입니다."
+      "summary": "MiniMax M3.1 Flash.  점수 332, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-      "score": 213,
-      "comments": 68,
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "score": 316,
+      "comments": 56,
       "text": "",
-      "summary": "Let's Encrypt is adding two additional remote perspectives for domain validation. 점수 213, 반응 68 기준 인기 이슈입니다."
+      "summary": "I built a drone with only one motor [video]. 점수 316, 반응 56 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Mercury 3: Diffusion at scale",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-      "score": 152,
-      "comments": 64,
+      "title": "Alternatives to animal testing are finally taking off",
+      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "score": 306,
+      "comments": 91,
       "text": "",
-      "summary": "Mercury 3: Diffusion at scale. 점수 152, 반응 64 기준 인기 이슈입니다."
+      "summary": "Alternatives to animal testing are finally taking off. 점수 306, 반응 91 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Android apps running native on macOS",
-      "url": "https://github.com/kksimp/Mac.apk",
-      "score": 134,
-      "comments": 41,
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "score": 304,
+      "comments": 57,
       "text": "",
-      "summary": "Android apps running native on macOS. 점수 134, 반응 41 기준 인기 이슈입니다."
+      "summary": "CERN and Mistral sign a statement of intent to establish a strategic partnership. 점수 304, 반응 57 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Starcraft: Ashfall",
       "url": "https://starcraft-shooter-2026.pages.dev/",
-      "score": 124,
-      "comments": 40,
+      "score": 262,
+      "comments": 88,
       "text": "",
-      "summary": "Starcraft: Ashfall.  점수 124, 반응 40 기준 인기 이슈입니다."
+      "summary": "Starcraft: Ashfall.  점수 262, 반응 88 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
-      "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
-      "score": 89,
-      "comments": 30,
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "score": 237,
+      "comments": 76,
       "text": "",
-      "summary": "Plex vulnerabilities being exploited in the wild to drop a cryptominer. 점수 89, 반응 30 기준 인기 이슈입니다."
+      "summary": "Let's Encrypt is adding two additional remote perspectives for domain validation. 점수 237, 반응 76 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The obscure trust looming over Anthropic's IPO",
-      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
-      "score": 86,
-      "comments": 35,
+      "title": "Android apps running native on macOS",
+      "url": "https://github.com/kksimp/Mac.apk",
+      "score": 231,
+      "comments": 107,
       "text": "",
-      "summary": "The obscure trust looming over Anthropic's IPO. 점수 86, 반응 35 기준 인기 이슈입니다."
+      "summary": "Android apps running native on macOS. 점수 231, 반응 107 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "score": 211,
+      "comments": 345,
+      "text": "I saw this LinkedIn post from a Meta engineer and it resonated with me:<p><a href=\"https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;ali-hamie_im-an-engineer-at-meta-and-i-never-felt-share-7517317918666211328-7C8N\" rel=\"nofollow\">https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;ali-hamie_im-an-engineer-at-m...</a><p>&gt; I&#x27;m an engineer at Meta and I never felt this uncomfortable doing my job. I&#x27;m writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we&#x27;re going to spend our time checking each line of code, it&#x27;s going to take forever. That means you can end up with systems you&#x27;ve built where you don&#x27;t truly understand how all the code works. You understand the high level, but not every detail. And maybe this is becoming the new standard. It goes against every instinct of being a software engineer. I&#x27;m used to understanding what I&#x27;m building. Now I&#x27;m trying to figure out how much I need to understand before I&#x27;m comfortable moving forward. Are other engineers feeling this too?<p>How are you handling this?",
+      "summary": "Ask HN: How to deal with shipping AI-written code you don't understand?. I saw this LinkedIn post from a Meta engineer and it resonated with me: https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;ali-hamie_im-an-engineer-at-m... &gt; I&#x27;m an engineer at Meta and I never felt this uncomfortable doing my job. 점수 211, 반응 345 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mercury 3: Diffusion at scale",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "score": 209,
+      "comments": 82,
+      "text": "",
+      "summary": "Mercury 3: Diffusion at scale. 점수 209, 반응 82 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The reverts will continue until morale improves",
+      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "score": 171,
+      "comments": 28,
+      "text": "",
+      "summary": "The reverts will continue until morale improves. 점수 171, 반응 28 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "any",
-      "count": 3
+      "keyword": "x27",
+      "count": 10
+    },
+    {
+      "keyword": "x2f",
+      "count": 8
+    },
+    {
+      "keyword": "code",
+      "count": 5
+    },
+    {
+      "keyword": "understand",
+      "count": 4
     },
     {
       "keyword": "platform",
+      "count": 3
+    },
+    {
+      "keyword": "building",
       "count": 3
     },
     {
@@ -246,7 +262,19 @@
       "count": 3
     },
     {
+      "keyword": "linkedin",
+      "count": 3
+    },
+    {
+      "keyword": "engineer",
+      "count": 3
+    },
+    {
       "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
       "count": 2
     },
     {
@@ -254,43 +282,15 @@
       "count": 2
     },
     {
+      "keyword": "software",
+      "count": 2
+    },
+    {
+      "keyword": "works",
+      "count": 2
+    },
+    {
       "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "native",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "cloud",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "diffusion",
       "count": 2
     }
   ],
