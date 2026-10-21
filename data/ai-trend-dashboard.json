@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T18:39:03.211128+00:00",
+  "updatedAt": "2026-10-21T23:19:44.708606+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 392681,
-      "comments": 9556,
+      "score": 392689,
+      "comments": 9548,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 392681, 반응 9556 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 392689, 반응 9548 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 303056,
-      "comments": 350,
+      "score": 303142,
+      "comments": 341,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 303056, 반응 350 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 303142, 반응 341 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 255829,
-      "comments": 50408,
+      "score": 255883,
+      "comments": 50409,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 255829, 반응 50408 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 255883, 반응 50409 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 208240,
-      "comments": 1217,
+      "score": 208248,
+      "comments": 1228,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 208240, 반응 1217 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 208248, 반응 1228 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 193848,
-      "comments": 641,
+      "score": 193926,
+      "comments": 639,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 193848, 반응 641 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 193926, 반응 639 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "score": 187698,
-      "comments": 719,
+      "comments": 729,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187698, 반응 719 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187698, 반응 729 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 173817,
+      "score": 173827,
       "comments": 92,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 173817, 반응 92 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 173827, 반응 92 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165092,
+      "score": 165087,
       "comments": 2511,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165092, 반응 2511 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165087, 반응 2511 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,151 +91,183 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 159149,
-      "comments": 1148,
+      "score": 159154,
+      "comments": 1151,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 159149, 반응 1148 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 159154, 반응 1151 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 156365,
-      "comments": 180,
+      "score": 156371,
+      "comments": 179,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 156365, 반응 180 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 156371, 반응 179 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 148207,
-      "comments": 663,
+      "score": 148221,
+      "comments": 662,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 148207, 반응 663 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 148221, 반응 662 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "PHP 8.2.35",
       "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "score": 828,
-      "comments": 468,
-      "text": "",
-      "summary": "PHP 8.2.35.  점수 828, 반응 468 기준 인기 이슈입니다."
+      "score": 950,
+      "comments": 528,
+      "text": "Related ongoing thread: <i>Today&#x27;s PHP security release, and how we&#x27;re strengthening security</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50182987\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50182987</a>",
+      "summary": "Related ongoing thread: Today&#x27;s PHP security release, and how we&#x27;re strengthening security - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50182987 점수 950, 반응 528 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
       "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "score": 683,
-      "comments": 323,
+      "score": 804,
+      "comments": 392,
       "text": "",
-      "summary": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds. 점수 683, 반응 323 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Muse exposes users' personal and business secrets when they share conversations",
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "score": 350,
-      "comments": 153,
-      "text": "",
-      "summary": "Muse exposes users' personal and business secrets when they share conversations. 점수 350, 반응 153 기준 인기 이슈입니다."
+      "summary": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds. 점수 804, 반응 392 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Today's PHP security release, and how we're strengthening security",
       "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "score": 291,
-      "comments": 147,
-      "text": "",
-      "summary": "Today's PHP security release, and how we're strengthening security. 점수 291, 반응 147 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "score": 257,
-      "comments": 29,
-      "text": "",
-      "summary": "DuckDB 2.0.0 LTS “Cinnamon Teal”. 점수 257, 반응 29 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 227,
-      "comments": 89,
-      "text": "",
-      "summary": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor. 점수 227, 반응 89 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "score": 169,
-      "comments": 100,
-      "text": "<a href=\"https:&#x2F;&#x2F;patchtheplanet.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;patchtheplanet.org&#x2F;</a>",
-      "summary": "Patch the Planet: global response coordination as agents uncover vulnerabilities. https:&#x2F;&#x2F;patchtheplanet.org&#x2F; 점수 169, 반응 100 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
-      "url": "https://www.pagetable.com/303",
-      "score": 162,
-      "comments": 62,
-      "text": "",
-      "summary": "Way to Play Super Mario 64: On Apple Vision Pro. 점수 162, 반응 62 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Decoherence Trap",
-      "url": "https://maevyn.codes/decoherence",
-      "score": 154,
-      "comments": 67,
-      "text": "",
-      "summary": "The Decoherence Trap. 점수 154, 반응 67 기준 인기 이슈입니다."
+      "score": 616,
+      "comments": 306,
+      "text": "Related ongoing thread: <i>PHP 8.2.35</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50180873\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50180873</a><p>(links to more at <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50184935\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50184935</a>)",
+      "summary": "Today's PHP security release, and how we're strengthening security. Related ongoing thread: PHP 8.2.35 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50180873 (links to more at https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50184935 ) 점수 616, 반응 306 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "EA is shutting down BioWare",
       "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "score": 121,
-      "comments": 50,
+      "score": 462,
+      "comments": 277,
       "text": "",
-      "summary": "EA is shutting down BioWare. 점수 121, 반응 50 기준 인기 이슈입니다."
+      "summary": "EA is shutting down BioWare. 점수 462, 반응 277 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "score": 397,
+      "comments": 125,
+      "text": "",
+      "summary": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor. 점수 397, 반응 125 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "score": 347,
+      "comments": 43,
+      "text": "",
+      "summary": "DuckDB 2.0.0 LTS “Cinnamon Teal”. 점수 347, 반응 43 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "score": 290,
+      "comments": 173,
+      "text": "<a href=\"https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-new-mexico-department-of...</a>",
+      "summary": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case. https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-new-mexico-department-of... 점수 290, 반응 173 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "score": 274,
+      "comments": 228,
+      "text": "",
+      "summary": "Claude Duet.  점수 274, 반응 228 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "score": 219,
+      "comments": 142,
+      "text": "<a href=\"https:&#x2F;&#x2F;patchtheplanet.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;patchtheplanet.org&#x2F;</a>",
+      "summary": "Patch the Planet: global response coordination as agents uncover vulnerabilities. https:&#x2F;&#x2F;patchtheplanet.org&#x2F; 점수 219, 반응 142 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud/",
-      "score": 118,
-      "comments": 34,
+      "score": 209,
+      "comments": 92,
       "text": "",
-      "summary": "OpenAI models are coming to Google Cloud. 점수 118, 반응 34 기준 인기 이슈입니다."
+      "summary": "OpenAI models are coming to Google Cloud. 점수 209, 반응 92 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GitLab Critical Patch Release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "score": 197,
+      "comments": 44,
+      "text": "",
+      "summary": "GitLab Critical Patch Release. 점수 197, 반응 44 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Railway Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "score": 169,
+      "comments": 55,
+      "text": "",
+      "summary": "Railway Security Disclosure. 점수 169, 반응 55 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
       "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-      "score": 96,
-      "comments": 61,
+      "score": 160,
+      "comments": 79,
       "text": "",
-      "summary": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin. 점수 96, 반응 61 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "score": 87,
-      "comments": 36,
-      "text": "",
-      "summary": "Using thousands of AI agents to uncover new leads in biological data. 점수 87, 반응 36 기준 인기 이슈입니다."
+      "summary": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin. 점수 160, 반응 79 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
+      "count": 33
+    },
+    {
+      "keyword": "https",
+      "count": 10
+    },
+    {
+      "keyword": "news",
       "count": 6
+    },
+    {
+      "keyword": "ycombinator",
+      "count": 6
+    },
+    {
+      "keyword": "com",
+      "count": 6
+    },
+    {
+      "keyword": "item",
+      "count": 6
+    },
+    {
+      "keyword": "security",
+      "count": 5
+    },
+    {
+      "keyword": "href",
+      "count": 5
+    },
+    {
+      "keyword": "php",
+      "count": 4
     },
     {
       "keyword": "platform",
@@ -246,11 +278,11 @@
       "count": 3
     },
     {
-      "keyword": "agents",
+      "keyword": "prompts",
       "count": 3
     },
     {
-      "keyword": "prompts",
+      "keyword": "release",
       "count": 3
     },
     {
@@ -259,38 +291,6 @@
     },
     {
       "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "way",
-      "count": 2
-    },
-    {
-      "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
-      "count": 2
-    },
-    {
-      "keyword": "data",
-      "count": 2
-    },
-    {
-      "keyword": "web",
       "count": 2
     }
   ],
