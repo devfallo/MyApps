@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T13:48:18.154243+00:00",
+  "updatedAt": "2026-10-21T18:39:03.211128+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,279 +10,243 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 392653,
-      "comments": 9618,
+      "score": 392681,
+      "comments": 9556,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 392653, 반응 9618 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 392681, 반응 9556 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 302909,
-      "comments": 348,
+      "score": 303056,
+      "comments": 350,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 302909, 반응 348 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 303056, 반응 350 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 255764,
-      "comments": 50343,
+      "score": 255829,
+      "comments": 50408,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 255764, 반응 50343 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 255829, 반응 50408 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 208215,
-      "comments": 1212,
+      "score": 208240,
+      "comments": 1217,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 208215, 반응 1212 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 208240, 반응 1217 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 193718,
-      "comments": 639,
+      "score": 193848,
+      "comments": 641,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 193718, 반응 639 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 193848, 반응 641 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187692,
-      "comments": 711,
+      "score": 187698,
+      "comments": 719,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187692, 반응 711 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187698, 반응 719 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 173791,
+      "score": 173817,
       "comments": 92,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 173791, 반응 92 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 173817, 반응 92 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165090,
+      "score": 165092,
       "comments": 2511,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165090, 반응 2511 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165092, 반응 2511 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159177,
+      "score": 159185,
       "comments": 18,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159177, 반응 18 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159185, 반응 18 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 159129,
-      "comments": 1149,
+      "score": 159149,
+      "comments": 1148,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 159129, 반응 1149 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 159149, 반응 1148 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 156351,
-      "comments": 185,
+      "score": 156365,
+      "comments": 180,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 156351, 반응 185 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 156365, 반응 180 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 148194,
-      "comments": 669,
+      "score": 148207,
+      "comments": 663,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 148194, 반응 669 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 148207, 반응 663 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 2273,
-      "comments": 872,
+      "title": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "score": 828,
+      "comments": 468,
       "text": "",
-      "summary": "DeepInfer: High-performance inference framework for DeepSeek models. 점수 2273, 반응 872 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "url": "https://news-web.php.net/php.announce/509",
-      "score": 1317,
-      "comments": 541,
-      "text": "<a href=\"https:&#x2F;&#x2F;cert.europa.eu&#x2F;publications&#x2F;security-advisories&#x2F;2026-018&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;cert.europa.eu&#x2F;publications&#x2F;security-advisories&#x2F;2026...</a><p><a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50167754\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50167754</a>",
-      "summary": "Upcoming critical PHP security release (CVE-2026-109618 / -109619). https:&#x2F;&#x2F;cert.europa.eu&#x2F;publications&#x2F;security-advisories&#x2F;2026... https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50167754 점수 1317, 반응 541 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "eMudhra intermediate CA compromise",
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "score": 1087,
-      "comments": 424,
-      "text": "<a href=\"https:&#x2F;&#x2F;blog.mozilla.org&#x2F;security&#x2F;2026&#x2F;10&#x2F;20&#x2F;protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.mozilla.org&#x2F;security&#x2F;2026&#x2F;10&#x2F;20&#x2F;protecting-fire...</a><p><a href=\"https:&#x2F;&#x2F;bugzilla.mozilla.org&#x2F;show_bug.cgi?id=2083449\" rel=\"nofollow\">https:&#x2F;&#x2F;bugzilla.mozilla.org&#x2F;show_bug.cgi?id=2083449</a>",
-      "summary": "eMudhra intermediate CA compromise. https:&#x2F;&#x2F;blog.mozilla.org&#x2F;security&#x2F;2026&#x2F;10&#x2F;20&#x2F;protecting-fire... https:&#x2F;&#x2F;bugzilla.mozilla.org&#x2F;show_bug.cgi?id=2083449 점수 1087, 반응 424 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "score": 852,
-      "comments": 392,
-      "text": "",
-      "summary": "Show HN: SimCity, but with Permits. 점수 852, 반응 392 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "score": 726,
-      "comments": 179,
-      "text": "",
-      "summary": "Voxtral 3.  점수 726, 반응 179 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apple broke an essential presentation feature of iPads",
-      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "score": 584,
-      "comments": 284,
-      "text": "",
-      "summary": "Apple broke an essential presentation feature of iPads. 점수 584, 반응 284 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Future of CSS",
-      "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "score": 477,
-      "comments": 200,
-      "text": "",
-      "summary": "The Future of CSS.  점수 477, 반응 200 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "What shall I teach my son?",
-      "url": "https://stevekrouse.com/ends",
-      "score": 439,
-      "comments": 536,
-      "text": "",
-      "summary": "What shall I teach my son?. 점수 439, 반응 536 기준 인기 이슈입니다."
+      "summary": "PHP 8.2.35.  점수 828, 반응 468 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
       "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "score": 413,
-      "comments": 172,
+      "score": 683,
+      "comments": 323,
       "text": "",
-      "summary": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds. 점수 413, 반응 172 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "score": 365,
-      "comments": 77,
-      "text": "",
-      "summary": "Google open-sources TorchTPU, a native PyTorch back end for TPUs. 점수 365, 반응 77 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "score": 286,
-      "comments": 112,
-      "text": "Quick update here since a lot of folks asked about what slopcodebench is &#x2F; where it fits in<p>Slop code bench is unique among benchmarks in that it makes a model work against a progressively disclosed list of features (checkpoints) that it doesn’t know it advance, inheriting the same codebase through the lifecycle of a single multi-checkpoint challenge<p>I like this because it much more mirrors how real software dev happens, rather than most benchmarks with one off tasks where slop code doesn’t hinder future progress<p>The original post[1] and the SOL&#x2F;fable follow up[2] went into a bit more detail on the benchmark and its challenges<p>1. <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49076391\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49076391</a><p>2. <a href=\"https:&#x2F;&#x2F;github.com&#x2F;humanlayer&#x2F;advanced-context-engineering-for-coding-agents&#x2F;blob&#x2F;main&#x2F;benchmarking-sol-fable-kimi-on-slop-code-bench.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;humanlayer&#x2F;advanced-context-engineering-f...</a>",
-      "summary": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful. Quick update here since a lot of folks asked about what slopcodebench is &#x2F; where it fits in Slop code bench is unique among benchmarks in that it makes a model work against a progressively disclosed list of features (checkpoints) that it doesn’t know it advance, inheriting the same codebase through the lifecycle of a single multi-checkpoint challenge I like this because it much more mirrors how real software dev happens, rather than most benchmarks with one off tasks where slop code doesn’t hinder future progress The original post[1] and the SOL&#x2F;fable follow up[2] went into a bit more detail on the benchmark and its challenges 1. https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49076391 2. 점수 286, 반응 112 기준 인기 이슈입니다."
+      "summary": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds. 점수 683, 반응 323 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Muse exposes users' personal and business secrets when they share conversations",
       "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "score": 255,
-      "comments": 111,
+      "score": 350,
+      "comments": 153,
       "text": "",
-      "summary": "Muse exposes users' personal and business secrets when they share conversations. 점수 255, 반응 111 기준 인기 이슈입니다."
+      "summary": "Muse exposes users' personal and business secrets when they share conversations. 점수 350, 반응 153 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "score": 234,
-      "comments": 111,
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "score": 291,
+      "comments": 147,
       "text": "",
-      "summary": "Feds suspect ransom negotiator ran ShinyHunters extortion site. 점수 234, 반응 111 기준 인기 이슈입니다."
+      "summary": "Today's PHP security release, and how we're strengthening security. 점수 291, 반응 147 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "score": 257,
+      "comments": 29,
+      "text": "",
+      "summary": "DuckDB 2.0.0 LTS “Cinnamon Teal”. 점수 257, 반응 29 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "score": 227,
+      "comments": 89,
+      "text": "",
+      "summary": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor. 점수 227, 반응 89 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "score": 169,
+      "comments": 100,
+      "text": "<a href=\"https:&#x2F;&#x2F;patchtheplanet.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;patchtheplanet.org&#x2F;</a>",
+      "summary": "Patch the Planet: global response coordination as agents uncover vulnerabilities. https:&#x2F;&#x2F;patchtheplanet.org&#x2F; 점수 169, 반응 100 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "url": "https://www.pagetable.com/303",
+      "score": 162,
+      "comments": 62,
+      "text": "",
+      "summary": "Way to Play Super Mario 64: On Apple Vision Pro. 점수 162, 반응 62 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Decoherence Trap",
+      "url": "https://maevyn.codes/decoherence",
+      "score": 154,
+      "comments": 67,
+      "text": "",
+      "summary": "The Decoherence Trap. 점수 154, 반응 67 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "score": 121,
+      "comments": 50,
+      "text": "",
+      "summary": "EA is shutting down BioWare. 점수 121, 반응 50 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "score": 118,
+      "comments": 34,
+      "text": "",
+      "summary": "OpenAI models are coming to Google Cloud. 점수 118, 반응 34 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "score": 96,
+      "comments": 61,
+      "text": "",
+      "summary": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin. 점수 96, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "score": 87,
+      "comments": 36,
+      "text": "",
+      "summary": "Using thousands of AI agents to uncover new leads in biological data. 점수 87, 반응 36 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 57
-    },
-    {
-      "keyword": "https",
-      "count": 12
-    },
-    {
-      "keyword": "href",
       "count": 6
-    },
-    {
-      "keyword": "com",
-      "count": 6
-    },
-    {
-      "keyword": "rel",
-      "count": 4
-    },
-    {
-      "keyword": "nofollow",
-      "count": 4
-    },
-    {
-      "keyword": "news",
-      "count": 4
-    },
-    {
-      "keyword": "ycombinator",
-      "count": 4
-    },
-    {
-      "keyword": "item",
-      "count": 4
-    },
-    {
-      "keyword": "mozilla",
-      "count": 4
-    },
-    {
-      "keyword": "org",
-      "count": 4
     },
     {
       "keyword": "platform",
       "count": 3
     },
     {
-      "keyword": "code",
+      "keyword": "cloud",
+      "count": 3
+    },
+    {
+      "keyword": "agents",
       "count": 3
     },
     {
@@ -290,8 +254,44 @@
       "count": 3
     },
     {
-      "keyword": "security",
-      "count": 3
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "way",
+      "count": 2
+    },
+    {
+      "keyword": "agentic",
+      "count": 2
+    },
+    {
+      "keyword": "agent",
+      "count": 2
+    },
+    {
+      "keyword": "building",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "firecrawl",
+      "count": 2
+    },
+    {
+      "keyword": "data",
+      "count": 2
+    },
+    {
+      "keyword": "web",
+      "count": 2
     }
   ],
   "meta": {
