@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T17:10:36.140811+00:00",
+  "updatedAt": "2026-10-22T21:35:57.635361+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,229 +10,233 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 392761,
-      "comments": 9380,
+      "score": 392785,
+      "comments": 8975,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 392761, 반응 9380 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 392785, 반응 8975 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 303577,
-      "comments": 343,
+      "score": 303686,
+      "comments": 344,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 303577, 반응 343 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 303686, 반응 344 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 256171,
-      "comments": 50469,
+      "score": 256217,
+      "comments": 50546,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 256171, 반응 50469 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 256217, 반응 50546 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 208339,
-      "comments": 1248,
+      "score": 208349,
+      "comments": 1247,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 208339, 반응 1248 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 208349, 반응 1247 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 194192,
-      "comments": 651,
+      "score": 194264,
+      "comments": 649,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 194192, 반응 651 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 194264, 반응 649 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187711,
-      "comments": 736,
+      "score": 187715,
+      "comments": 717,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187711, 반응 736 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187715, 반응 717 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 173966,
+      "score": 173995,
       "comments": 93,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 173966, 반응 93 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 173995, 반응 93 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165097,
+      "score": 165102,
       "comments": 2512,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165097, 반응 2512 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165102, 반응 2512 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 159261,
-      "comments": 1162,
+      "score": 159277,
+      "comments": 1163,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 159261, 반응 1162 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 159277, 반응 1163 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159206,
+      "score": 159209,
       "comments": 17,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159206, 반응 17 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159209, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 156458,
-      "comments": 225,
+      "score": 156479,
+      "comments": 218,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 156458, 반응 225 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 156479, 반응 218 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 148278,
-      "comments": 663,
+      "score": 148286,
+      "comments": 665,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 148278, 반응 663 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 580,
-      "comments": 187,
-      "text": "",
-      "summary": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor. 점수 580, 반응 187 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "score": 552,
-      "comments": 322,
-      "text": "",
-      "summary": "Security Disclosure.  점수 552, 반응 322 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 148286, 반응 665 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "eMudhra to exit global SSL/TLS certificate business",
       "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-      "score": 526,
-      "comments": 405,
+      "score": 845,
+      "comments": 587,
       "text": "",
-      "summary": "eMudhra to exit global SSL/TLS certificate business. 점수 526, 반응 405 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "score": 511,
-      "comments": 474,
-      "text": "",
-      "summary": "Claude Duet.  점수 511, 반응 474 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Jailbreaking the Switch 2",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "score": 489,
-      "comments": 177,
-      "text": "",
-      "summary": "Jailbreaking the Switch 2. 점수 489, 반응 177 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "No more icons in every menu by default",
-      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "score": 435,
-      "comments": 245,
-      "text": "",
-      "summary": "No more icons in every menu by default. 점수 435, 반응 245 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "score": 428,
-      "comments": 134,
-      "text": "",
-      "summary": "WorldTUI: I trained a 360M model to pretend to be a terminal. 점수 428, 반응 134 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GitLab critical patch release",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "score": 396,
-      "comments": 90,
-      "text": "",
-      "summary": "GitLab critical patch release. 점수 396, 반응 90 기준 인기 이슈입니다."
+      "summary": "eMudhra to exit global SSL/TLS certificate business. 점수 845, 반응 587 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Quad9 (DNS Resolver) to Exit France",
       "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "score": 295,
-      "comments": 95,
+      "score": 782,
+      "comments": 294,
       "text": "",
-      "summary": "Quad9 (DNS Resolver) to Exit France. 점수 295, 반응 95 기준 인기 이슈입니다."
+      "summary": "Quad9 (DNS Resolver) to Exit France. 점수 782, 반응 294 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "score": 285,
-      "comments": 239,
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "score": 637,
+      "comments": 228,
       "text": "",
-      "summary": "The recently proposed o(n log n) integer multiplication algorithm [pdf]. 점수 285, 반응 239 기준 인기 이슈입니다."
+      "summary": "Jailbreaking the Switch 2. 점수 637, 반응 228 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "score": 471,
+      "comments": 153,
+      "text": "",
+      "summary": "WorldTUI: I trained a 360M model to pretend to be a terminal. 점수 471, 반응 153 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What Is Gridifcation",
       "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-      "score": 246,
-      "comments": 112,
+      "score": 360,
+      "comments": 175,
       "text": "",
-      "summary": "What Is Gridifcation. 점수 246, 반응 112 기준 인기 이슈입니다."
+      "summary": "What Is Gridifcation. 점수 360, 반응 175 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
-      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
-      "score": 206,
-      "comments": 64,
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "score": 307,
+      "comments": 291,
       "text": "",
-      "summary": "Several Linux kernel vulnerabilities accidentally posted to public mailing list. 점수 206, 반응 64 기준 인기 이슈입니다."
+      "summary": "Woman faces six years in prison over Cash App account she never opened. 점수 307, 반응 291 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
-      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
-      "score": 198,
-      "comments": 59,
+      "title": "What’s getting pwned right now",
+      "url": "https://pwn.watch/",
+      "score": 302,
+      "comments": 143,
       "text": "",
-      "summary": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure. 점수 198, 반응 59 기준 인기 이슈입니다."
+      "summary": "What’s getting pwned right now. 점수 302, 반응 143 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "score": 254,
+      "comments": 88,
+      "text": "",
+      "summary": "Show HN: Run full iOS 16.5 firmware on Android Devices. 점수 254, 반응 88 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "url": "https://news.ycombinator.com/item?id=50193416",
+      "score": 224,
+      "comments": 81,
+      "text": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 &amp; CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.<p>I am truly sorry. I take full responsibility for my actions.<p>It was not remotely my intention to cause any of the subsequent side effects.<p>At the time of posting, I didn&#x27;t know about any embargo. My contact had told me there was no embargo, and her contact had told her the same thing.<p>As someone who follows the 4-weekly PHP release cycle and compiles it from source, my intention was to alert others in a similar position to be aware of the importance&#x2F;urgency of the updates.<p>That clearly backfired in a pretty wild fashion. I have learned my lesson.",
+      "summary": "Tell HN: I unknowingly broke the PHP RCE embargo. I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 &amp; CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload. 점수 224, 반응 81 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "score": 202,
+      "comments": 106,
+      "text": "",
+      "summary": "OpenShell – A safe, private runtime for fleets of autonomous AI agents. 점수 202, 반응 106 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A farewell to Arc browser",
+      "url": "https://arc.net/",
+      "score": 192,
+      "comments": 150,
+      "text": "",
+      "summary": "A farewell to Arc browser. 점수 192, 반응 150 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "score": 185,
+      "comments": 36,
+      "text": "",
+      "summary": "Faster than earcut: triangulating 3.7M map polygons in 489 ms. 점수 185, 반응 36 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "score": 165,
+      "comments": 56,
+      "text": "",
+      "summary": "Getting ready to operate GNU Taler in Germany. 점수 165, 반응 56 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
+    {
+      "keyword": "any",
+      "count": 4
+    },
     {
       "keyword": "platform",
       "count": 3
@@ -242,11 +246,19 @@
       "count": 3
     },
     {
-      "keyword": "openclaw",
-      "count": 2
+      "keyword": "php",
+      "count": 3
     },
     {
-      "keyword": "any",
+      "keyword": "embargo",
+      "count": 3
+    },
+    {
+      "keyword": "had",
+      "count": 3
+    },
+    {
+      "keyword": "openclaw",
       "count": 2
     },
     {
@@ -274,23 +286,11 @@
       "count": 2
     },
     {
+      "keyword": "agents",
+      "count": 2
+    },
+    {
       "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
-      "count": 2
-    },
-    {
-      "keyword": "model",
-      "count": 2
-    },
-    {
-      "keyword": "open-webui",
       "count": 2
     }
   ],
