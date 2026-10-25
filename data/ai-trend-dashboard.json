@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T16:20:09.664148+00:00",
+  "updatedAt": "2026-10-25T20:51:21.941137+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,235 +10,267 @@
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 393020,
-      "comments": 7859,
+      "score": 393041,
+      "comments": 7884,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 393020, 반응 7859 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 393041, 반응 7884 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 304904,
-      "comments": 364,
+      "score": 305000,
+      "comments": 366,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 304904, 반응 364 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 305000, 반응 366 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 256984,
-      "comments": 51017,
+      "score": 257026,
+      "comments": 51034,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 256984, 반응 51017 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 257026, 반응 51034 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 208557,
-      "comments": 1244,
+      "score": 208578,
+      "comments": 1255,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 208557, 반응 1244 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 208578, 반응 1255 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 195234,
-      "comments": 673,
+      "score": 195291,
+      "comments": 675,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 195234, 반응 673 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 195291, 반응 675 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187742,
-      "comments": 720,
+      "score": 187747,
+      "comments": 711,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187742, 반응 720 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187747, 반응 711 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 174506,
+      "score": 174535,
       "comments": 74,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 174506, 반응 74 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 174535, 반응 74 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165141,
+      "score": 165144,
       "comments": 2509,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165141, 반응 2509 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165144, 반응 2509 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 159501,
-      "comments": 1185,
+      "score": 159518,
+      "comments": 1189,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 159501, 반응 1185 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 159518, 반응 1189 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159248,
+      "score": 159249,
       "comments": 17,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159248, 반응 17 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159249, 반응 17 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 156718,
-      "comments": 168,
+      "score": 156739,
+      "comments": 172,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 156718, 반응 168 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 156739, 반응 172 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
-      "score": 148421,
-      "comments": 676,
+      "score": 148435,
+      "comments": 674,
       "text": "The agent engineering platform.",
-      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 148421, 반응 676 기준 인기 이슈입니다."
+      "summary": "langchain-ai/langchain. The agent engineering platform. 점수 148435, 반응 674 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "score": 1635,
-      "comments": 251,
+      "score": 1668,
+      "comments": 253,
       "text": "",
-      "summary": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you. 점수 1635, 반응 251 기준 인기 이슈입니다."
+      "summary": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you. 점수 1668, 반응 253 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We should be more ambitious with the software we build",
       "url": "https://danluu.com/ambitious/",
-      "score": 587,
-      "comments": 573,
+      "score": 707,
+      "comments": 651,
       "text": "",
-      "summary": "We should be more ambitious with the software we build. 점수 587, 반응 573 기준 인기 이슈입니다."
+      "summary": "We should be more ambitious with the software we build. 점수 707, 반응 651 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Root shell on Samsung TV",
+      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "score": 683,
+      "comments": 535,
+      "text": "Merged threads:<p>&quot;Samsung running a TensorFlow lite model on 960x540 image to track you&quot;: <a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;mike64_t&#x2F;status&#x2F;2114150399406202896\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;mike64_t&#x2F;status&#x2F;2114150399406202896</a><p>&quot;Samsung TVs look for microphones in your house via Bluetooth and then spy events&quot;: <a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;freddier&#x2F;status&#x2F;2114042326758867453\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;freddier&#x2F;status&#x2F;2114042326758867453</a>",
+      "summary": "Root shell on Samsung TV. Merged threads: &quot;Samsung running a TensorFlow lite model on 960x540 image to track you&quot;: https:&#x2F;&#x2F;twitter.com&#x2F;mike64_t&#x2F;status&#x2F;2114150399406202896 &quot;Samsung TVs look for microphones in your house via Bluetooth and then spy events&quot;: https:&#x2F;&#x2F;twitter.com&#x2F;freddier&#x2F;status&#x2F;2114042326758867453 점수 683, 반응 535 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Goose Programming Language",
       "url": "https://aardappel.github.io/goose/",
-      "score": 507,
-      "comments": 308,
+      "score": 544,
+      "comments": 341,
       "text": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568</a>",
-      "summary": "The Goose Programming Language. https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568 점수 507, 반응 308 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "score": 445,
-      "comments": 465,
-      "text": "",
-      "summary": "America has lost 200k of jobs in media, film and the arts. 점수 445, 반응 465 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
-      "url": "https://broccoli2shell.com/",
-      "score": 359,
-      "comments": 180,
-      "text": "<a href=\"https:&#x2F;&#x2F;www.aikido.dev&#x2F;blog&#x2F;python-packages-vulnerable-node2shell-brotli-cve-2026-111497\" rel=\"nofollow\">https:&#x2F;&#x2F;www.aikido.dev&#x2F;blog&#x2F;python-packages-vulnerable-node2...</a>",
-      "summary": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more. https:&#x2F;&#x2F;www.aikido.dev&#x2F;blog&#x2F;python-packages-vulnerable-node2... 점수 359, 반응 180 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I don't understand quantum physics (2018)",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "score": 352,
-      "comments": 268,
-      "text": "",
-      "summary": "I don't understand quantum physics (2018). 점수 352, 반응 268 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Physicists trap a single antimatter particle for a month",
-      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "score": 332,
-      "comments": 101,
-      "text": "",
-      "summary": "Physicists trap a single antimatter particle for a month. 점수 332, 반응 101 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "FreeDNS",
-      "url": "https://freedns.afraid.org/",
-      "score": 330,
-      "comments": 87,
-      "text": "",
-      "summary": "FreeDNS.  점수 330, 반응 87 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 303,
-      "comments": 74,
-      "text": "",
-      "summary": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards. 점수 303, 반응 74 기준 인기 이슈입니다."
+      "summary": "The Goose Programming Language. https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568 점수 544, 반응 341 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "score": 276,
-      "comments": 94,
+      "score": 338,
+      "comments": 121,
       "text": "",
-      "summary": "Cerebras Deploys Trillion-Parameter AI Models. 점수 276, 반응 94 기준 인기 이슈입니다."
+      "summary": "Cerebras Deploys Trillion-Parameter AI Models. 점수 338, 반응 121 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
-      "score": 243,
-      "comments": 150,
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "score": 277,
+      "comments": 135,
       "text": "",
-      "summary": "Samsung running a TensorFlow lite model on 960x540 image to track you. 점수 243, 반응 150 기준 인기 이슈입니다."
+      "summary": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis. 점수 277, 반응 135 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "score": 258,
+      "comments": 129,
+      "text": "",
+      "summary": "I refuse to accept a censored Internet. Join Me at FOSDEM 27. 점수 258, 반응 129 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "SpeedCrunch 1.1",
       "url": "https://www.speedcrunch.org/",
-      "score": 198,
-      "comments": 38,
+      "score": 218,
+      "comments": 47,
       "text": "",
-      "summary": "SpeedCrunch 1.1.  점수 198, 반응 38 기준 인기 이슈입니다."
+      "summary": "SpeedCrunch 1.1.  점수 218, 반응 47 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
-      "score": 160,
-      "comments": 23,
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "score": 216,
+      "comments": 51,
       "text": "",
-      "summary": "Small Programs and Languages. 점수 160, 반응 23 기준 인기 이슈입니다."
+      "summary": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop. 점수 216, 반응 51 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2",
+      "score": 184,
+      "comments": 65,
+      "text": "",
+      "summary": "fheroes2: A recreation of Heroes of Might and Magic II game engine. 점수 184, 반응 65 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "score": 184,
+      "comments": 28,
+      "text": "With today&#x27;s news, I thought I&#x27;d share this great program:<p>“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer.<p>The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.”",
+      "summary": "Dolly Parton's Imagination Library. With today&#x27;s news, I thought I&#x27;d share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. 점수 184, 반응 28 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Japanese Dried Bonito Is Made",
+      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "score": 171,
+      "comments": 47,
+      "text": "",
+      "summary": "How Japanese Dried Bonito Is Made. 점수 171, 반응 47 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "url": "https://bigwhalehunting.com/workforce/",
+      "score": 152,
+      "comments": 46,
+      "text": "I was playing around with visualising the S&amp;P 500 by market cap and decided to add employees to each company&#x27;s bubble.<p>What surprised me was how empty some of the biggest companies looked.<p>Nvidia is worth $5.2 trillion but employs only 42,000 people. That&#x27;s around $124 million in market cap per employee. Meanwhile, Accenture employs 814,000 people and is worth $146 billion.<p>Each stick figure represents 10,000 employees. You can zoom in and explore individual companies.<p>I wrote a bit more about what I found here: <a href=\"https:&#x2F;&#x2F;bigwhalehunting.com&#x2F;blog&#x2F;workforce&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bigwhalehunting.com&#x2F;blog&#x2F;workforce&#x2F;</a><p>Would be interested to hear what you think.",
+      "summary": "Show HN: I put employees inside S&P 500 market-cap bubbles. I was playing around with visualising the S&amp;P 500 by market cap and decided to add employees to each company&#x27;s bubble. What surprised me was how empty some of the biggest companies looked. 점수 152, 반응 46 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 18
+      "count": 40
     },
     {
       "keyword": "https",
+      "count": 8
+    },
+    {
+      "keyword": "com",
+      "count": 8
+    },
+    {
+      "keyword": "twitter",
+      "count": 6
+    },
+    {
+      "keyword": "status",
+      "count": 6
+    },
+    {
+      "keyword": "quot",
+      "count": 4
+    },
+    {
+      "keyword": "href",
+      "count": 4
+    },
+    {
+      "keyword": "rel",
+      "count": 4
+    },
+    {
+      "keyword": "nofollow",
+      "count": 4
+    },
+    {
+      "keyword": "x27",
       "count": 4
     },
     {
@@ -250,48 +282,16 @@
       "count": 3
     },
     {
+      "keyword": "can",
+      "count": 3
+    },
+    {
       "keyword": "prompts",
       "count": 3
     },
     {
-      "keyword": "openclaw",
-      "count": 2
-    },
-    {
-      "keyword": "things",
-      "count": 2
-    },
-    {
-      "keyword": "any",
-      "count": 2
-    },
-    {
-      "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "software",
-      "count": 2
-    },
-    {
-      "keyword": "agent",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "cloud",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
-      "count": 2
+      "keyword": "community",
+      "count": 3
     }
   ],
   "meta": {
