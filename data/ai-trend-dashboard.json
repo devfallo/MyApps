@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T18:56:22.888836+00:00",
+  "updatedAt": "2026-11-01T23:36:01.450569+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,91 +10,91 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 418110,
-      "comments": 1593,
+      "score": 418623,
+      "comments": 1608,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 418110, 반응 1593 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 418623, 반응 1608 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 393633,
-      "comments": 7805,
+      "score": 393640,
+      "comments": 7740,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 393633, 반응 7805 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 393640, 반응 7740 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 310520,
+      "score": 310618,
       "comments": 377,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 310520, 반응 377 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 310618, 반응 377 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 259446,
-      "comments": 52190,
+      "score": 259497,
+      "comments": 52242,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 259446, 반응 52190 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 259497, 반응 52242 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 209286,
-      "comments": 1189,
+      "score": 209300,
+      "comments": 1198,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209286, 반응 1189 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209300, 반응 1198 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 197624,
-      "comments": 741,
+      "score": 197669,
+      "comments": 743,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 197624, 반응 741 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 197669, 반응 743 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187856,
-      "comments": 762,
+      "score": 187859,
+      "comments": 759,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187856, 반응 762 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187859, 반응 759 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 175510,
-      "comments": 79,
+      "score": 175525,
+      "comments": 78,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 175510, 반응 79 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 175525, 반응 78 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165211,
+      "score": 165214,
       "comments": 2514,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165211, 반응 2514 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165214, 반응 2514 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 160167,
-      "comments": 1209,
+      "score": 160172,
+      "comments": 1212,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160167, 반응 1209 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160172, 반응 1212 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -109,133 +109,133 @@
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 157467,
-      "comments": 163,
+      "score": 157481,
+      "comments": 165,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 157467, 반응 163 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 157481, 반응 165 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 1912,
-      "comments": 486,
+      "score": 2187,
+      "comments": 530,
       "text": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href=\"https:&#x2F;&#x2F;hackertube.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;hackertube.org&#x2F;</a>",
-      "summary": "HackerTube: YouTube built from videos recommended by HN. YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https:&#x2F;&#x2F;hackertube.org&#x2F; 점수 1912, 반응 486 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "score": 673,
-      "comments": 185,
-      "text": "",
-      "summary": "An Italian farmer found some unknown seeds in his attic and planted them. 점수 673, 반응 185 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "score": 628,
-      "comments": 306,
-      "text": "",
-      "summary": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8. 점수 628, 반응 306 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "score": 385,
-      "comments": 188,
-      "text": "",
-      "summary": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard. 점수 385, 반응 188 기준 인기 이슈입니다."
+      "summary": "HackerTube: YouTube built from videos recommended by HN. YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https:&#x2F;&#x2F;hackertube.org&#x2F; 점수 2187, 반응 530 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
-      "score": 356,
-      "comments": 105,
+      "score": 782,
+      "comments": 162,
       "text": "Saw Karpathy&#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).<p>It&#x27;s ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.<p>To be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc.<p>It counts mentions, so it&#x27;s not perfect (praising a book and trashing it both count). If your favourite book is missing or matched to the wrong thing, tell me.",
-      "summary": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN. Saw Karpathy&#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). 점수 356, 반응 105 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-      "score": 290,
-      "comments": 93,
-      "text": "",
-      "summary": "Police chief unplugs Flock cameras after company ignores contract cancellation. 점수 290, 반응 93 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "score": 267,
-      "comments": 147,
-      "text": "",
-      "summary": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing. 점수 267, 반응 147 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "score": 227,
-      "comments": 156,
-      "text": "",
-      "summary": "The AI cost of JavaScript frameworks. 점수 227, 반응 156 기준 인기 이슈입니다."
+      "summary": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN. Saw Karpathy&#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). 점수 782, 반응 162 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
       "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-      "score": 227,
-      "comments": 91,
+      "score": 361,
+      "comments": 125,
       "text": "",
-      "summary": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case. 점수 227, 반응 91 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Running a bootstrapped SaaS for 20 years with my brother",
-      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-      "score": 200,
-      "comments": 46,
-      "text": "",
-      "summary": "Running a bootstrapped SaaS for 20 years with my brother. 점수 200, 반응 46 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "url": "https://arxiv.org/abs/2409.02292",
-      "score": 158,
-      "comments": 78,
-      "text": "",
-      "summary": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024). 점수 158, 반응 78 기준 인기 이슈입니다."
+      "summary": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case. 점수 361, 반응 125 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Patrick Stewart taught us what good men do with power",
       "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "score": 127,
-      "comments": 78,
+      "score": 330,
+      "comments": 237,
       "text": "",
-      "summary": "Patrick Stewart taught us what good men do with power. 점수 127, 반응 78 기준 인기 이슈입니다."
+      "summary": "Patrick Stewart taught us what good men do with power. 점수 330, 반응 237 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "score": 276,
+      "comments": 217,
+      "text": "",
+      "summary": "The AI cost of JavaScript frameworks. 점수 276, 반응 217 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "score": 191,
+      "comments": 202,
+      "text": "",
+      "summary": "Mathematics has changed. 점수 191, 반응 202 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "score": 157,
+      "comments": 52,
+      "text": "",
+      "summary": "Frontier Airlines Likely Breached. 점수 157, 반응 52 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Point your camera at a landscape to learn about its geology",
       "url": "https://outcrop.rocks/",
-      "score": 99,
-      "comments": 27,
+      "score": 142,
+      "comments": 36,
       "text": "I&#x27;ve been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can use it to identify what the mapped rocks are, read descriptions about them, and view the earth as it looked when they formed by turning back the continent positions. It spun out of some augmented reality work I was doing on my other side project app - Flyover Country, which tells you about the view from the airplane window.<p>I&#x27;m in Minnesota, so i haven&#x27;t had a chance to test it on a huge amount of terrain (the best I&#x27;ve found is the Mississippi River gorge in the twin cities... I need  a trip up north), so anyone that&#x27;s somewhere with some more bumps: please help!).<p>It&#x27;s stuck in the Apple review queue, but it&#x27;s up on testflight for anyone interested. Google approved it quickly and it&#x27;s fully out on android (links to both on the marketing site).<p>edit: got a report that testflight was asking for an install code. Seems like a testflight app issue, but dismissing it and installing as normal seems to work!",
-      "summary": "Show HN: Point your camera at a landscape to learn about its geology. I&#x27;ve been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can use it to identify what the mapped rocks are, read descriptions about them, and view the earth as it looked when they formed by turning back the continent positions. 점수 99, 반응 27 기준 인기 이슈입니다."
+      "summary": "Show HN: Point your camera at a landscape to learn about its geology. I&#x27;ve been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can use it to identify what the mapped rocks are, read descriptions about them, and view the earth as it looked when they formed by turning back the continent positions. 점수 142, 반응 36 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "score": 133,
+      "comments": 36,
+      "text": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories.<p>OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts...<p>It&#x27;s fast. It can diff C++ files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s.<p>It&#x27;s open source. AGPLv3.<p>It&#x27;s based on real diffs. I looked at the 7400 repositories that are listed in Gentoo packages, sampled 2000 diffs and solved them manually to get a good understanding of what is needed, before putting together the diff pipelines for each content type. Incidentally, this also forms the basis of the CI pipeline, so the robustness of the codebase is quite high.<p>I&#x27;m still developing it. It&#x27;s v0.3.0 at this time. But I have been using it daily as my git difftool for months now, and it works well.<p>AI Disclosure: Yes, I do use AI. No, I do not vibecode.",
+      "summary": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust. I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories. OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts... 점수 133, 반응 36 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "score": 126,
+      "comments": 31,
+      "text": "",
+      "summary": "Seoul Viosys begins production of rare-earth-free white light emitter. 점수 126, 반응 31 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Radiation Map of the World",
+      "url": "https://radiaverse.com/",
+      "score": 120,
+      "comments": 35,
+      "text": "",
+      "summary": "Radiation Map of the World. 점수 120, 반응 35 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
+      "score": 117,
+      "comments": 70,
+      "text": "",
+      "summary": "Copper – A minimal low-level programming language with OOP and generics. 점수 117, 반응 70 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "score": 116,
+      "comments": 88,
+      "text": "",
+      "summary": "Landline phones will switch off across Britland in 100 days, no extensions. 점수 116, 반응 88 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x27",
-      "count": 11
+      "count": 16
     },
     {
       "keyword": "x2f",
@@ -250,7 +250,27 @@
       "count": 4
     },
     {
+      "keyword": "can",
+      "count": 4
+    },
+    {
+      "keyword": "but",
+      "count": 4
+    },
+    {
+      "keyword": "diff",
+      "count": 4
+    },
+    {
+      "keyword": "code",
+      "count": 3
+    },
+    {
       "keyword": "data",
+      "count": 3
+    },
+    {
+      "keyword": "use",
       "count": 3
     },
     {
@@ -262,36 +282,16 @@
       "count": 3
     },
     {
-      "keyword": "some",
+      "keyword": "open",
       "count": 3
     },
     {
-      "keyword": "but",
+      "keyword": "source",
       "count": 3
     },
     {
-      "keyword": "books",
+      "keyword": "show",
       "count": 3
-    },
-    {
-      "keyword": "book",
-      "count": 3
-    },
-    {
-      "keyword": "testflight",
-      "count": 3
-    },
-    {
-      "keyword": "agents",
-      "count": 2
-    },
-    {
-      "keyword": "native",
-      "count": 2
-    },
-    {
-      "keyword": "openclaw",
-      "count": 2
     }
   ],
   "meta": {
