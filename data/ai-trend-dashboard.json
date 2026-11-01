@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T23:23:52.838154+00:00",
+  "updatedAt": "2026-11-01T06:05:13.338168+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,240 +10,236 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 415419,
-      "comments": 1463,
+      "score": 416127,
+      "comments": 1512,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 415419, 반응 1463 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 416127, 반응 1512 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 393557,
-      "comments": 7887,
+      "score": 393583,
+      "comments": 7891,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 393557, 반응 7887 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 393583, 반응 7891 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 310035,
-      "comments": 375,
+      "score": 310191,
+      "comments": 376,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 310035, 반응 375 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 310191, 반응 376 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 259173,
-      "comments": 52256,
+      "score": 259249,
+      "comments": 52141,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 259173, 반응 52256 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 259249, 반응 52141 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 209211,
-      "comments": 1183,
+      "score": 209227,
+      "comments": 1184,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209211, 반응 1183 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209227, 반응 1184 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 197401,
-      "comments": 734,
+      "score": 197469,
+      "comments": 733,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 197401, 반응 734 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 197469, 반응 733 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187848,
-      "comments": 755,
+      "score": 187852,
+      "comments": 764,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187848, 반응 755 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187852, 반응 764 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 175434,
-      "comments": 79,
+      "score": 175457,
+      "comments": 80,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 175434, 반응 79 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 175457, 반응 80 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165208,
+      "score": 165207,
       "comments": 2513,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165208, 반응 2513 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165207, 반응 2513 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 160106,
-      "comments": 1166,
+      "score": 160126,
+      "comments": 1179,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160106, 반응 1166 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160126, 반응 1179 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159364,
+      "score": 159366,
       "comments": 18,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159364, 반응 18 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159366, 반응 18 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 157402,
-      "comments": 176,
+      "score": 157429,
+      "comments": 160,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 157402, 반응 176 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Serbia just elected the world's brainiest parliament",
-      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "score": 791,
-      "comments": 454,
-      "text": "",
-      "summary": "Serbia just elected the world's brainiest parliament. 점수 791, 반응 454 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 157429, 반응 160 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 468,
-      "comments": 181,
+      "score": 1000,
+      "comments": 307,
       "text": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href=\"https:&#x2F;&#x2F;hackertube.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;hackertube.org&#x2F;</a>",
-      "summary": "HackerTube: YouTube built from videos recommended by HN. YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https:&#x2F;&#x2F;hackertube.org&#x2F; 점수 468, 반응 181 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Digital minimalism",
-      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-      "score": 298,
-      "comments": 223,
-      "text": "",
-      "summary": "Digital minimalism.  점수 298, 반응 223 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "score": 293,
-      "comments": 142,
-      "text": "",
-      "summary": "Do the math: How we took over ChatGPT accounts. 점수 293, 반응 142 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-      "url": "https://piefed.world/post/1503394",
-      "score": 291,
-      "comments": 167,
-      "text": "",
-      "summary": "Molly (Signal fork) has not been updated since 3 months and is vulnerable. 점수 291, 반응 167 기준 인기 이슈입니다."
+      "summary": "HackerTube: YouTube built from videos recommended by HN. YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https:&#x2F;&#x2F;hackertube.org&#x2F; 점수 1000, 반응 307 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
       "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "score": 248,
-      "comments": 117,
+      "score": 439,
+      "comments": 204,
       "text": "",
-      "summary": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8. 점수 248, 반응 117 기준 인기 이슈입니다."
+      "summary": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8. 점수 439, 반응 204 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Casio Watches of the 1980s",
-      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-      "score": 202,
-      "comments": 102,
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "score": 316,
+      "comments": 157,
       "text": "",
-      "summary": "Casio Watches of the 1980s. 점수 202, 반응 102 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Simple circuits can create complex behaviors",
-      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-      "score": 201,
-      "comments": 66,
-      "text": "",
-      "summary": "Simple circuits can create complex behaviors. 점수 201, 반응 66 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Switch Lowering in GCC",
-      "url": "https://xoranth.net/gcc-switch/",
-      "score": 195,
-      "comments": 36,
-      "text": "",
-      "summary": "Switch Lowering in GCC. 점수 195, 반응 36 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Jepsen: ParticleDB 1.1.4",
-      "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "score": 170,
-      "comments": 94,
-      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;jepsen-io&#x2F;particledb\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jepsen-io&#x2F;particledb</a>",
-      "summary": "Jepsen: ParticleDB 1.1.4. https:&#x2F;&#x2F;github.com&#x2F;jepsen-io&#x2F;particledb 점수 170, 반응 94 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
-      "score": 148,
-      "comments": 158,
-      "text": "",
-      "summary": "GPT-5.6 Sol can beat Factorio on peaceful mode. 점수 148, 반응 158 기준 인기 이슈입니다."
+      "summary": "Do the math: How we took over ChatGPT accounts. 점수 316, 반응 157 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Anthropic blocks users for anything touching training larger models",
       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "score": 130,
-      "comments": 38,
+      "score": 290,
+      "comments": 162,
       "text": "",
-      "summary": "Anthropic blocks users for anything touching training larger models. 점수 130, 반응 38 기준 인기 이슈입니다."
+      "summary": "Anthropic blocks users for anything touching training larger models. 점수 290, 반응 162 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "It's the Memory Latency, Stupid",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "score": 91,
-      "comments": 27,
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "score": 283,
+      "comments": 77,
       "text": "",
-      "summary": "It's the Memory Latency, Stupid. 점수 91, 반응 27 기준 인기 이슈입니다."
+      "summary": "An Italian farmer found some unknown seeds in his attic and planted them. 점수 283, 반응 77 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "score": 235,
+      "comments": 127,
+      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;jepsen-io&#x2F;particledb\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jepsen-io&#x2F;particledb</a>",
+      "summary": "Jepsen: ParticleDB 1.1.4. https:&#x2F;&#x2F;github.com&#x2F;jepsen-io&#x2F;particledb 점수 235, 반응 127 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Simple circuits can create complex behaviors",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "score": 231,
+      "comments": 75,
+      "text": "",
+      "summary": "Simple circuits can create complex behaviors. 점수 231, 반응 75 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "score": 171,
+      "comments": 46,
+      "text": "",
+      "summary": "It's the memory latency, stupid. 점수 171, 반응 46 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "score": 163,
+      "comments": 89,
+      "text": "",
+      "summary": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard. 점수 163, 반응 89 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Duty of a Scholar",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "score": 107,
+      "comments": 31,
+      "text": "",
+      "summary": "The Duty of a Scholar. 점수 107, 반응 31 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Reading and writing are less symmetric than you (probably) think",
+      "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+      "score": 102,
+      "comments": 24,
+      "text": "",
+      "summary": "Reading and writing are less symmetric than you (probably) think. 점수 102, 반응 24 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Surviving \"The Graduate\"",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "score": 96,
+      "comments": 31,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;Eqn1F\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;Eqn1F</a>",
+      "summary": "Surviving \"The Graduate\". https:&#x2F;&#x2F;archive.ph&#x2F;Eqn1F 점수 96, 반응 31 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Altoids Project",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "score": 83,
+      "comments": 4,
+      "text": "",
+      "summary": "Altoids Project.  점수 83, 반응 4 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 14
+      "count": 20
     },
     {
       "keyword": "https",
-      "count": 4
-    },
-    {
-      "keyword": "can",
-      "count": 3
+      "count": 6
     },
     {
       "keyword": "prompts",
@@ -251,6 +247,18 @@
     },
     {
       "keyword": "hackertube",
+      "count": 3
+    },
+    {
+      "keyword": "href",
+      "count": 3
+    },
+    {
+      "keyword": "rel",
+      "count": 3
+    },
+    {
+      "keyword": "nofollow",
       "count": 3
     },
     {
@@ -283,14 +291,6 @@
     },
     {
       "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
       "count": 2
     }
   ],
