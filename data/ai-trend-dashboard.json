@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:48:00.503749+00:00",
+  "updatedAt": "2026-11-03T16:15:01.062346+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,55 +10,55 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 423999,
-      "comments": 1649,
+      "score": 425948,
+      "comments": 1703,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 423999, 반응 1649 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 425948, 반응 1703 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 393784,
-      "comments": 7723,
+      "score": 393826,
+      "comments": 7654,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 393784, 반응 7723 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 393826, 반응 7654 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 311378,
+      "score": 311686,
       "comments": 351,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 311378, 반응 351 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 311686, 반응 351 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 259968,
-      "comments": 52432,
+      "score": 260142,
+      "comments": 52552,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 259968, 반응 52432 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 260142, 반응 52552 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 209417,
-      "comments": 1183,
+      "score": 209451,
+      "comments": 1187,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209417, 반응 1183 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209451, 반응 1187 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 198097,
+      "score": 198232,
       "comments": 750,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 198097, 반응 750 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 198232, 반응 750 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -73,225 +73,225 @@
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 175652,
+      "score": 175698,
       "comments": 80,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 175652, 반응 80 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 175698, 반응 80 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165233,
+      "score": 165236,
       "comments": 2514,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165233, 반응 2514 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165236, 반응 2514 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 160292,
-      "comments": 1210,
+      "score": 160324,
+      "comments": 1245,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160292, 반응 1210 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160324, 반응 1245 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159393,
+      "score": 159404,
       "comments": 18,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159393, 반응 18 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159404, 반응 18 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 157612,
-      "comments": 170,
+      "score": 157652,
+      "comments": 167,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 157612, 반응 170 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 157652, 반응 167 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "score": 2368,
-      "comments": 741,
+      "score": 2886,
+      "comments": 869,
       "text": "",
-      "summary": "Astra can read and write weights to improve Qwen. 점수 2368, 반응 741 기준 인기 이슈입니다."
+      "summary": "Astra can read and write weights to improve Qwen. 점수 2886, 반응 869 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "WTF Ubuntu?",
-      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "score": 1428,
-      "comments": 606,
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "score": 557,
+      "comments": 130,
       "text": "",
-      "summary": "WTF Ubuntu?.  점수 1428, 반응 606 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
-      "score": 640,
-      "comments": 326,
-      "text": "Hi HN, we&#x27;re Aarush and Arnav from The Subvocal Company (YC F26) (<a href=\"https:&#x2F;&#x2F;subvocal.company&#x2F;\">https:&#x2F;&#x2F;subvocal.company&#x2F;</a>). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed of speech.<p>Here&#x27;s a video of Dave from YC trying it out: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=9QdX1eObVYI\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=9QdX1eObVYI</a><p>(Edit: you don&#x27;t actually have to move your lips or even open your mouth for this to work! Since the RF can see inside your mouth the system can be fine tuned on &quot;internal speech&quot;. This isn&#x27;t the automatic tongue movements that occur when &quot;thinking&quot; words to yourself, but more like mouthing with your lips closed. It&#x27;s a bit weird to do, but with practice, we have been able to get it down pretty well.)<p>Arnav and I were studying CS at Georgia Tech at the beginning of the year, with no experience in silent speech or sensing. We were both AI-native builders and power users of Wispr Flow. What bugged us was not being able to use these tools in the library (or an office) or in public. At Stanford’s TreeHacks in February, we decided to build the most technically ridiculous thing we could think of. We’d read about AlterEgo, a silent speech system out of MIT’s Media Lab, and wanted to recreate it in 36 hours. We built a crude prototype, sticking EMG electrodes onto my face:<p><a href=\"https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1mwhv5HZMz3UTevdrgwS5O7g2jWV0K9r2&#x2F;view?usp=sharing\" rel=\"nofollow\">https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1mwhv5HZMz3UTevdrgwS5O7g2jWV...</a><p>We got it to kind of work at a letter level in a very janky way. It wasn’t good enough to win the hackathon, but convinced us to go all in. The first time I typed a sentence without anyone noticing, I felt the magic of the technology.<p>We quickly realized EMG (reading muscle electrical signals) wouldn’t work:<p>- Signal changes due to sweat<p>- Electrical interference<p>- Placement variability<p>- Most importantly, no one wants to stick electrodes onto their face!!<p>So we switched to RF and built the glasses you see now. They emit radio waves, similar to Bluetooth, that pass through your face. As they cross the tongue, lips and soft palate, they’re modulated by silent mouthing. We train foundation models on this data to decode these perturbations to text.<p>Despite prior academic research, getting this to work was a huge engineering challenge. First we built an extremely low noise RF sensing stack. Then we had to place antennas so their fields overlapped maximally with the articulators. Our first attempt on glasses failed completely, so we reverted to old habits and taped antennas on our face:<p><a href=\"https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1ks0dS0eZiTV9EqSFsyB_w5BBjpcBAfX-&#x2F;view?usp=sharing\" rel=\"nofollow\">https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1ks0dS0eZiTV9EqSFsyB_w5BBjpc...</a><p>Since taping antennas consistently in the same spot and angle was hard, we created this weird but effective head rig to hold them in place:<p><a href=\"https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1rhzNFpdDzr7oHk0isFY70dkoV4CAF1pT&#x2F;view?usp=sharing\" rel=\"nofollow\">https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1rhzNFpdDzr7oHk0isFY70dkoV4C...</a><p>This worked, but obviously wasn’t a product yet. So we worked deep in simulations to design glasses that could hold the antennas.<p>That evolved into our design now, with antennas embedded within the frames. Once we established there was a signal, the next hurdle was cross-user generalization. Everyone’s facial anatomy, and hence RF signal patterns, are vastly different. We tried algorithmic workarounds but realized the only lever was to massively scale pretraining data.<p>So that’s what we did. We set up booths in our office and paid people to read prompts wearing our glasses, to pretrain our models on. This produced a beautiful scaling curve, with errors falling quickly as we scaled our dataset and cross-user performance becoming genuinely compelling (as you see in the video above; Dave only had a short 20-sentence calibration).<p>We always heard about building things from first principles but never understood it before this. We tried tackling it top down but completely failed. Only when we broke each component (the antenna, electronics, ML) down to its fundamentals to understand and optimize it did we get it to work really well.<p>Over the next few months we’re continuing R&amp;D to turn our prototype glasses into the slick product on our website and ship in Q1 2027. We’re also scaling up our dataset to improve performance on edge cases.<p>For anyone who loves voice dictation but hates using it around people, we’ve opened preorders for our first batch of 500 units, with a $200 discount off the final price. Allocation is running out quickly, so get yours at <a href=\"https:&#x2F;&#x2F;subvocal.co&#x2F;preorder\" rel=\"nofollow\">https:&#x2F;&#x2F;subvocal.co&#x2F;preorder</a>!",
-      "summary": "Show HN: Subvocal – Talk to your computer without making noise. Hi HN, we&#x27;re Aarush and Arnav from The Subvocal Company (YC F26) ( https:&#x2F;&#x2F;subvocal.company&#x2F; ). We’re building smart glasses that let you talk to your computer without talking out loud. 점수 640, 반응 326 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "If you love a website, back it up",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "score": 485,
-      "comments": 108,
-      "text": "",
-      "summary": "If you love a website, back it up. 점수 485, 반응 108 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "score": 425,
-      "comments": 125,
-      "text": "",
-      "summary": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks. 점수 425, 반응 125 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "score": 346,
-      "comments": 343,
-      "text": "",
-      "summary": "US boy names that became girl names and vice versa. 점수 346, 반응 343 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "score": 290,
-      "comments": 226,
-      "text": "",
-      "summary": "The SEC Should Block Anthropic's IPO to Protect the Public. 점수 290, 반응 226 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "score": 242,
-      "comments": 40,
-      "text": "Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. \nYou can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here a bit of inspiration from Dungeon Keeper).<p>Works best on desktop, but I tried to make it usable on mobile too. The initial load can take a while. It&#x27;s based on several open datasets, including:<p>- OpenStreetMap (<a href=\"https:&#x2F;&#x2F;www.openstreetmap.org&#x2F;#map=6&#x2F;52.02&#x2F;19.14\" rel=\"nofollow\">https:&#x2F;&#x2F;www.openstreetmap.org&#x2F;#map=6&#x2F;52.02&#x2F;19.14</a>) - buildings, streets, sidewalks, tram tracks, etc<p>- GUGiK &#x2F; Geoportal (<a href=\"https:&#x2F;&#x2F;www.geoportal.gov.pl&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.geoportal.gov.pl&#x2F;</a>) - LiDAR for building heights and trees, aerial imagery for colours<p>- Warsaw&#x27;s city tree database (<a href=\"https:&#x2F;&#x2F;mapa.um.warszawa.pl&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;mapa.um.warszawa.pl&#x2F;</a>) - individual tree species, used for seasonal foliage<p>Open-source (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;stared&#x2F;warsaw-vibe-voxel\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;stared&#x2F;warsaw-vibe-voxel</a>), so feel invited to (re)use it as you wish!",
-      "summary": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre. Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. You can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here a bit of inspiration from Dungeon Keeper). 점수 242, 반응 40 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: Who is hiring? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50338728",
-      "score": 203,
-      "comments": 163,
-      "text": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don&#x27;t reply to job posts to complain about\nsomething. It&#x27;s off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https:&#x2F;&#x2F;gethnjobs.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;gethnjobs.com&#x2F;</a>, <a href=\"https:&#x2F;&#x2F;hnwork.app\" rel=\"nofollow\">https:&#x2F;&#x2F;hnwork.app</a>, \n<a href=\"https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;</a>, <a href=\"http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;</a>,\n<a href=\"https:&#x2F;&#x2F;hnjobs.emilburzo.com\" rel=\"nofollow\">https:&#x2F;&#x2F;hnjobs.emilburzo.com</a>.<p>Don&#x27;t miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50338726\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50338726</a>",
-      "summary": "Ask HN: Who is hiring? Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. 점수 203, 반응 163 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-      "score": 182,
-      "comments": 129,
-      "text": "",
-      "summary": "Intel stock collapse worsens as $3.5T chip rout spreads. 점수 182, 반응 129 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-      "score": 176,
-      "comments": 48,
-      "text": "",
-      "summary": "NIST Has a Cybersecurity Guide Just for You. 점수 176, 반응 48 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "We halved DNS build delay and cut memory use by 85%",
-      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-      "score": 173,
-      "comments": 69,
-      "text": "",
-      "summary": "We halved DNS build delay and cut memory use by 85%. 점수 173, 반응 69 기준 인기 이슈입니다."
+      "summary": "The 'Astra can read and write weights to improve Qwen' post is misleading. 점수 557, 반응 130 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
       "url": "https://hackertimes.ca/",
-      "score": 167,
-      "comments": 52,
+      "score": 410,
+      "comments": 128,
       "text": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy!",
-      "summary": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News. I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. 점수 167, 반응 52 기준 인기 이슈입니다."
+      "summary": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News. I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. 점수 410, 반응 128 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "score": 318,
+      "comments": 71,
+      "text": "",
+      "summary": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs. 점수 318, 반응 71 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "score": 227,
+      "comments": 84,
+      "text": "",
+      "summary": "Nvidia – open-source auto-ontology. 점수 227, 반응 84 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "score": 226,
+      "comments": 114,
+      "text": "",
+      "summary": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?. 점수 226, 반응 114 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Toit v2.0.0",
+      "url": "https://toit.io/blog/toit-v2-0-0/",
+      "score": 180,
+      "comments": 61,
+      "text": "",
+      "summary": "Toit v2.0.0.  점수 180, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Just a little AI resistance, as a treat",
+      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "score": 142,
+      "comments": 82,
+      "text": "",
+      "summary": "Just a little AI resistance, as a treat. 점수 142, 반응 82 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Life with Down Syndrome",
+      "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
+      "score": 112,
+      "comments": 68,
+      "text": "",
+      "summary": "Life with Down Syndrome. 점수 112, 반응 68 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 105,
+      "comments": 39,
+      "text": "",
+      "summary": "Fujifilm to boost tape production 5x as AI fuels archiving demand. 점수 105, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Katamari Damacy but it's The Met collection",
+      "url": "https://katamari.vaguespac.es/",
+      "score": 100,
+      "comments": 30,
+      "text": "",
+      "summary": "Katamari Damacy but it's The Met collection. 점수 100, 반응 30 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+      "score": 64,
+      "comments": 36,
+      "text": "",
+      "summary": "Charles Tandy, the mastermind behind Radio Shack. 점수 64, 반응 36 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI is destroying my CS degree",
+      "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+      "score": 57,
+      "comments": 19,
+      "text": "",
+      "summary": "AI is destroying my CS degree. 점수 57, 반응 19 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "x2f",
-      "count": 118
-    },
-    {
-      "keyword": "https",
-      "count": 30
-    },
-    {
-      "keyword": "href",
-      "count": 16
-    },
-    {
-      "keyword": "com",
-      "count": 16
-    },
-    {
-      "keyword": "rel",
-      "count": 14
-    },
-    {
-      "keyword": "nofollow",
-      "count": 14
-    },
-    {
-      "keyword": "our",
-      "count": 12
-    },
-    {
-      "keyword": "x27",
-      "count": 11
-    },
-    {
-      "keyword": "but",
-      "count": 10
-    },
-    {
       "keyword": "can",
-      "count": 7
+      "count": 3
     },
     {
-      "keyword": "glasses",
-      "count": 7
+      "keyword": "prompts",
+      "count": 3
     },
     {
-      "keyword": "work",
-      "count": 7
+      "keyword": "agents",
+      "count": 2
     },
     {
-      "keyword": "subvocal",
-      "count": 6
+      "keyword": "down",
+      "count": 2
     },
     {
-      "keyword": "company",
-      "count": 6
+      "keyword": "native",
+      "count": 2
     },
     {
-      "keyword": "www",
-      "count": 6
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
+      "count": 2
+    },
+    {
+      "keyword": "platform",
+      "count": 2
+    },
+    {
+      "keyword": "agentic",
+      "count": 2
+    },
+    {
+      "keyword": "building",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "cloud",
+      "count": 2
+    },
+    {
+      "keyword": "firecrawl",
+      "count": 2
+    },
+    {
+      "keyword": "web",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
     }
   ],
   "meta": {
