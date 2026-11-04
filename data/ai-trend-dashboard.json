@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T21:49:45.681240+00:00",
+  "updatedAt": "2026-11-04T02:19:55.009587+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,279 +10,235 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 426744,
-      "comments": 1705,
+      "score": 427331,
+      "comments": 1721,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 426744, 반응 1705 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 427331, 반응 1721 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 393856,
-      "comments": 7711,
+      "score": 393870,
+      "comments": 7771,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 393856, 반응 7711 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 393870, 반응 7771 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 311820,
-      "comments": 351,
+      "score": 311903,
+      "comments": 329,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 311820, 반응 351 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 311903, 반응 329 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 260233,
-      "comments": 52588,
+      "score": 260267,
+      "comments": 52625,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 260233, 반응 52588 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 260267, 반응 52625 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 209470,
-      "comments": 1186,
+      "score": 209489,
+      "comments": 1189,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209470, 반응 1186 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209489, 반응 1189 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 198305,
-      "comments": 751,
+      "score": 198352,
+      "comments": 750,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 198305, 반응 751 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 198352, 반응 750 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187889,
+      "score": 187890,
       "comments": 773,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187889, 반응 773 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187890, 반응 773 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 175721,
+      "score": 175738,
       "comments": 80,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 175721, 반응 80 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 175738, 반응 80 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165236,
+      "score": 165235,
       "comments": 2514,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165236, 반응 2514 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165235, 반응 2514 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 160341,
-      "comments": 1248,
+      "score": 160350,
+      "comments": 1253,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160341, 반응 1248 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160350, 반응 1253 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159408,
+      "score": 159409,
       "comments": 18,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159408, 반응 18 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159409, 반응 18 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 157681,
-      "comments": 176,
+      "score": 157698,
+      "comments": 174,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 157681, 반응 176 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "score": 821,
-      "comments": 186,
-      "text": "",
-      "summary": "The 'Astra can read and write weights to improve Qwen' post is misleading. 점수 821, 반응 186 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 157698, 반응 174 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "score": 815,
-      "comments": 266,
+      "score": 1039,
+      "comments": 345,
       "text": "",
-      "summary": "Postman silently auto-installs AI plugins and attempts to share all API data. 점수 815, 반응 266 기준 인기 이슈입니다."
+      "summary": "Postman silently auto-installs AI plugins and attempts to share all API data. 점수 1039, 반응 345 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "score": 910,
+      "comments": 191,
+      "text": "",
+      "summary": "The 'Astra can read and write weights to improve Qwen' post is misleading. 점수 910, 반응 191 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Jailbreaking my car's navigation system just so I can change the time",
       "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "score": 494,
-      "comments": 196,
+      "score": 622,
+      "comments": 254,
       "text": "",
-      "summary": "Jailbreaking my car's navigation system just so I can change the time. 점수 494, 반응 196 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google will turn off search for schools that reject AI",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "score": 455,
-      "comments": 341,
-      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;RuwsB\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;RuwsB</a><p><a href=\"https:&#x2F;&#x2F;blog.google&#x2F;products-and-platforms&#x2F;products&#x2F;education&#x2F;ai-learning-era-updates-2026&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.google&#x2F;products-and-platforms&#x2F;products&#x2F;educatio...</a>",
-      "summary": "Google will turn off search for schools that reject AI. https:&#x2F;&#x2F;archive.ph&#x2F;RuwsB https:&#x2F;&#x2F;blog.google&#x2F;products-and-platforms&#x2F;products&#x2F;educatio... 점수 455, 반응 341 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-      "score": 407,
-      "comments": 180,
-      "text": "",
-      "summary": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?. 점수 407, 반응 180 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "url": "https://news.ycombinator.com/item?id=50352757",
-      "score": 396,
-      "comments": 124,
-      "text": "My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we&#x27;ve all been diligent about disabling data sharing in Codex&#x2F;Claude Code&#x2F;etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in.<p>You can check your settings here: https:&#x2F;&#x2F;chatgpt.com&#x2F;settings&#x2F;data-controls. Look for &quot;Improve the model for everyone&quot;.<p>Curious if this is an isolated issue or something more widespread.<p>EDIT: looks like this has been noted before https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49643556<p>EDIT: apparently you can also turn off data sharing here: https:&#x2F;&#x2F;privacy.openai.com&#x2F;policies?modal=take-control",
-      "summary": "OpenAI seems to be silently re-enabling model training on Codex chats. My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we&#x27;ve all been diligent about disabling data sharing in Codex&#x2F;Claude Code&#x2F;etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. 점수 396, 반응 124 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-      "score": 387,
-      "comments": 306,
-      "text": "",
-      "summary": "Kalshi and its co-founders face felony charges for violating Utah gambling laws. 점수 387, 반응 306 기준 인기 이슈입니다."
+      "summary": "Jailbreaking my car's navigation system just so I can change the time. 점수 622, 반응 254 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
       "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "score": 379,
-      "comments": 128,
-      "text": "",
-      "summary": "Qwen 3.8 27B on my laptop can interpret model weights, too. 점수 379, 반응 128 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 324,
-      "comments": 131,
-      "text": "",
-      "summary": "Fujifilm to boost tape production 5x as AI fuels archiving demand. 점수 324, 반응 131 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mac at Any Scale",
-      "url": "https://namespace.so/blog/mac-at-any-scale",
-      "score": 263,
+      "score": 494,
       "comments": 154,
       "text": "",
-      "summary": "Mac at Any Scale.  점수 263, 반응 154 기준 인기 이슈입니다."
+      "summary": "Qwen 3.8 27B on my laptop can interpret model weights, too. 점수 494, 반응 154 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "score": 453,
+      "comments": 214,
+      "text": "",
+      "summary": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?. 점수 453, 반응 214 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Stringman, an $800 open-source room scale gripper robot",
       "url": "https://neufangled.com/",
-      "score": 214,
-      "comments": 93,
+      "score": 391,
+      "comments": 145,
       "text": "",
-      "summary": "Stringman, an $800 open-source room scale gripper robot. 점수 214, 반응 93 기준 인기 이슈입니다."
+      "summary": "Stringman, an $800 open-source room scale gripper robot. 점수 391, 반응 145 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Gitbook Breached",
-      "url": "https://news.ycombinator.com/item?id=50354336",
-      "score": 125,
-      "comments": 29,
-      "text": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it&#x27;s a mobile paste.<p>Update:<p>GitBook security incident update\n Hey &lt;$name&gt;,\n The GitBook app, the GitBook API, and published docs are available again. A few services may still be degraded as we finish restoring everything to full performance.<p>*What happened*\n GitBook has been the target of a sophisticated, highly targeted attack using AI agents. \n At 19:00 CET, November 2, the attacker gained unauthorized access to some of our infrastructure credentials. We detected the attack immediately and acted swiftly to block further impact. \n To make sure our infrastructure was fully secure, we then took the GitBook app and authenticated docs sites offline. We kept publicly published content live for as long as possible, using cached data.<p>*What we did immediately*\n* Blocked the attacker and closed the vulnerabilities involved\n* Replaced every credential and secret across our infrastructure\n* Brought services back only once we were confident they were secure\n* Invalidated every customer’s API tokens on our platform<p>*Your data*\n Our investigation shows that the attacker may have accessed the following:\n* Git Sync secrets.\n* GitBook API tokens.\n* Third-party API tokens used to connect external tools to GitBook.\n* Questions asked to GitBook Assistant by your site visitors.<p>At this stage, we have found no evidence that any of your content in GitBook was modified.<p>*What you need to do now*\n* Rotate any existing GitBook API tokens. We revoked all personal API tokens during the incident.\n* Rotate any third-party API tokens or secrets you use to connect other tools to GitBook.\n* If you have published integrations that use secrets, rotate those secrets.\n* If you use the GitBook MCP server, re-authenticate it.\n Please contact your GitBook organization’s admin to assist with this process.<p>*What we are doing next*\n* Monitoring the situation in case of further attacks.\n* Introducing further security measures to our platform.\n* Writing a full post mortem that will be published soon with more detailed information about the incident.\n* If you have any further questions, please reach out to your account manager or our support team. You can also check status.gitbook.com for updates<p>Thank you for your patience, and we apologize again for the disruption\n The GitBook team",
-      "summary": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it&#x27;s a mobile paste. 점수 125, 반응 29 기준 인기 이슈입니다."
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 383,
+      "comments": 169,
+      "text": "",
+      "summary": "Fujifilm to boost tape production 5x as AI fuels archiving demand. 점수 383, 반응 169 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mac at Any Scale",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "score": 319,
+      "comments": 186,
+      "text": "",
+      "summary": "Mac at Any Scale.  점수 319, 반응 186 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "score": 302,
+      "comments": 187,
+      "text": "",
+      "summary": "Safari introduces Adaptive Dark Mode in 27.3. 점수 302, 반응 187 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "score": 252,
+      "comments": 114,
+      "text": "",
+      "summary": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months. 점수 252, 반응 114 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "score": 240,
+      "comments": 38,
+      "text": "",
+      "summary": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer. 점수 240, 반응 38 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "score": 178,
+      "comments": 38,
+      "text": "I saw HackerTube (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50319510\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50319510</a>) a few days ago, the YouTube videos HN keeps\nrecommending, pulled from 19 years of comments. It made me want to flip\nthrough them instead of picking, so I built a TV for it. I have Algo fatigue.<p>Each topic area is a channel (DEVTV, SOLDER, RETRO, ORBIT, ...), plus HN Prime\n(the top 400), a music channel, and Late Night on ch 99, which only broadcasts\n11pm-5am your local time and shows color bars otherwise.<p>Similar to HackerTube it was built with Claude Code in a few hours.<p>All credit for the data goes to HackerTube. Happy to hear channel ideas.",
+      "summary": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels. I saw HackerTube ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50319510 ) a few days ago, the YouTube videos HN keeps recommending, pulled from 19 years of comments. It made me want to flip through them instead of picking, so I built a TV for it. 점수 178, 반응 38 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
       "url": "https://flipper.net/pages/flipper-one",
-      "score": 122,
-      "comments": 59,
+      "score": 172,
+      "comments": 79,
       "text": "<a href=\"https:&#x2F;&#x2F;docs.flipper.net&#x2F;one\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.flipper.net&#x2F;one</a>",
-      "summary": "Preparing for the Flipper One Kickstarter and opening pre-orders. https:&#x2F;&#x2F;docs.flipper.net&#x2F;one 점수 122, 반응 59 기준 인기 이슈입니다."
+      "summary": "Preparing for the Flipper One Kickstarter and opening pre-orders. https:&#x2F;&#x2F;docs.flipper.net&#x2F;one 점수 172, 반응 79 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 36
-    },
-    {
-      "keyword": "gitbook",
-      "count": 17
-    },
-    {
-      "keyword": "api",
-      "count": 9
-    },
-    {
-      "keyword": "https",
-      "count": 9
-    },
-    {
-      "keyword": "any",
-      "count": 8
-    },
-    {
-      "keyword": "our",
-      "count": 8
+      "count": 12
     },
     {
       "keyword": "can",
-      "count": 7
-    },
-    {
-      "keyword": "data",
-      "count": 6
-    },
-    {
-      "keyword": "tokens",
-      "count": 6
-    },
-    {
-      "keyword": "platform",
-      "count": 4
-    },
-    {
-      "keyword": "use",
-      "count": 4
-    },
-    {
-      "keyword": "prompts",
-      "count": 4
-    },
-    {
-      "keyword": "model",
       "count": 4
     },
     {
@@ -290,8 +246,52 @@
       "count": 4
     },
     {
-      "keyword": "been",
+      "keyword": "https",
       "count": 4
+    },
+    {
+      "keyword": "any",
+      "count": 3
+    },
+    {
+      "keyword": "data",
+      "count": 3
+    },
+    {
+      "keyword": "prompts",
+      "count": 3
+    },
+    {
+      "keyword": "hackertube",
+      "count": 3
+    },
+    {
+      "keyword": "channel",
+      "count": 3
+    },
+    {
+      "keyword": "flipper",
+      "count": 3
+    },
+    {
+      "keyword": "agents",
+      "count": 2
+    },
+    {
+      "keyword": "native",
+      "count": 2
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "platform",
+      "count": 2
+    },
+    {
+      "keyword": "agentic",
+      "count": 2
     }
   ],
   "meta": {
