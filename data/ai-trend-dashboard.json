@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T19:45:18.840235+00:00",
+  "updatedAt": "2026-11-05T00:53:50.057617+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 430317,
-      "comments": 1639,
+      "score": 430890,
+      "comments": 1640,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 430317, 반응 1639 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 430890, 반응 1640 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 393907,
-      "comments": 7741,
+      "score": 393917,
+      "comments": 7729,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 393907, 반응 7741 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 393917, 반응 7729 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 312358,
-      "comments": 326,
+      "score": 312448,
+      "comments": 328,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 312358, 반응 326 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 312448, 반응 328 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 260515,
-      "comments": 52828,
+      "score": 260566,
+      "comments": 52929,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 260515, 반응 52828 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 260566, 반응 52929 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 209559,
-      "comments": 1196,
+      "score": 209575,
+      "comments": 1198,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209559, 반응 1196 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209575, 반응 1198 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 198596,
-      "comments": 750,
+      "score": 198662,
+      "comments": 747,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 198596, 반응 750 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 198662, 반응 747 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187901,
-      "comments": 718,
+      "score": 187908,
+      "comments": 707,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187901, 반응 718 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187908, 반응 707 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 175801,
-      "comments": 80,
+      "score": 175814,
+      "comments": 78,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 175801, 반응 80 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 175814, 반응 78 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,207 +91,207 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 160406,
-      "comments": 1203,
+      "score": 160416,
+      "comments": 1196,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160406, 반응 1203 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160416, 반응 1196 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159423,
+      "score": 159425,
       "comments": 19,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159423, 반응 19 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159425, 반응 19 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 157775,
-      "comments": 199,
+      "score": 157792,
+      "comments": 184,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 157775, 반응 199 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 157792, 반응 184 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "score": 835,
-      "comments": 505,
+      "score": 1041,
+      "comments": 623,
       "text": "",
-      "summary": "AI is forcing us to pay off 40 years of technical debt. 점수 835, 반응 505 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
-      "score": 772,
-      "comments": 228,
-      "text": "",
-      "summary": "Stringman, an $800 open-source room scale gripper robot. 점수 772, 반응 228 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "url": "https://news.ycombinator.com/item?id=50363461",
-      "score": 536,
-      "comments": 137,
-      "text": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn <i>not to enter confidential information</i>.<p>https:&#x2F;&#x2F;support.google.com&#x2F;gemini&#x2F;answer&#x2F;16836988<p><i>“[Gemini app activity] is used to improve Google services for everyone, including by training generative AI models, if your Keep Activity setting is on.“</i><p>https:&#x2F;&#x2F;support.google.com&#x2F;gemini&#x2F;answer&#x2F;13594961?hl=en#human_review<p><i>“A subset of chats are reviewed by human reviewers”</i><p>https:&#x2F;&#x2F;support.google.com&#x2F;gemini&#x2F;answer&#x2F;13594961?hl=en#pn_retain_data<p><i>“Chats reviewed by human reviewers [...] are not deleted when you delete your activity. Instead, they are retained for up to three years.”</i><p>https:&#x2F;&#x2F;support.google.com&#x2F;gemini&#x2F;answer&#x2F;13594961?hl=en#pn_data_usage<p><i>“Please don’t enter confidential information that you wouldn’t want a reviewer to see or Google to use to improve our services, including machine-learning technologies.”</i><p>To disable their training on your chat sessions, you need to turn off “Keep Activity” in Gemini’s settings. Turning that off means you’ll lose any chat sessions after 72 hours.<p>I learned this too late, thinking that having a paid subscription = not being turned into the product. Apparently paying is not enough.<p>Thank you to this user on HN for mentioning in another thread: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50355424",
-      "summary": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts). If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. 점수 536, 반응 137 기준 인기 이슈입니다."
+      "summary": "AI is forcing us to pay off 40 years of technical debt. 점수 1041, 반응 623 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
       "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "score": 513,
-      "comments": 228,
+      "score": 587,
+      "comments": 271,
       "text": "",
-      "summary": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux. 점수 513, 반응 228 기준 인기 이슈입니다."
+      "summary": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux. 점수 587, 반응 271 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "North Korean fake job interview led to $6.3B Binance heist",
-      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-      "score": 437,
-      "comments": 262,
+      "title": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "score": 574,
+      "comments": 176,
       "text": "",
-      "summary": "North Korean fake job interview led to $6.3B Binance heist. 점수 437, 반응 262 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Jelly Sheet",
-      "url": "https://mrdoob.github.io/codevember-2026/01/",
-      "score": 420,
-      "comments": 108,
-      "text": "",
-      "summary": "Jelly Sheet.  점수 420, 반응 108 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Internals of PostgreSQL",
-      "url": "https://www.interdb.jp/pg/index.html",
-      "score": 359,
-      "comments": 32,
-      "text": "",
-      "summary": "The Internals of PostgreSQL. 점수 359, 반응 32 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kitty 0.50",
-      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
-      "score": 328,
-      "comments": 206,
-      "text": "",
-      "summary": "Kitty 0.50.  점수 328, 반응 206 기준 인기 이슈입니다."
+      "summary": "Residential proxies detected on White House network. 점수 574, 반응 176 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "AMD expects to outsell Intel in Q4 for the first time in history",
       "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-      "score": 300,
-      "comments": 97,
+      "score": 450,
+      "comments": 164,
       "text": "",
-      "summary": "AMD expects to outsell Intel in Q4 for the first time in history. 점수 300, 반응 97 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Incident with Pull Requests, Git Operations and Issues",
-      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-      "score": 225,
-      "comments": 115,
-      "text": "",
-      "summary": "Incident with Pull Requests, Git Operations and Issues. 점수 225, 반응 115 기준 인기 이슈입니다."
+      "summary": "AMD expects to outsell Intel in Q4 for the first time in history. 점수 450, 반응 164 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Kimi K3.1 Pro model weights are out",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "score": 215,
-      "comments": 58,
+      "score": 352,
+      "comments": 92,
       "text": "",
-      "summary": "Kimi K3.1 Pro model weights are out. 점수 215, 반응 58 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-      "score": 194,
-      "comments": 111,
-      "text": "",
-      "summary": "Verification Is Not Knowledge: Science needs more than answers. 점수 194, 반응 111 기준 인기 이슈입니다."
+      "summary": "Kimi K3.1 Pro model weights are out. 점수 352, 반응 92 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
       "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-      "score": 184,
-      "comments": 116,
+      "score": 248,
+      "comments": 180,
       "text": "",
-      "summary": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016). 점수 184, 반응 116 기준 인기 이슈입니다."
+      "summary": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016). 점수 248, 반응 180 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "score": 227,
+      "comments": 130,
+      "text": "",
+      "summary": "Verification Is Not Knowledge: Science needs more than answers. 점수 227, 반응 130 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "score": 213,
+      "comments": 91,
+      "text": "",
+      "summary": "A new Go API for JSON. 점수 213, 반응 91 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "score": 209,
+      "comments": 74,
+      "text": "",
+      "summary": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding. 점수 209, 반응 74 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tencent Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "score": 173,
+      "comments": 61,
+      "text": "",
+      "summary": "Tencent Hy4.  점수 173, 반응 61 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "score": 171,
+      "comments": 83,
+      "text": "",
+      "summary": "Progress on provable inference for large language models. 점수 171, 반응 83 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "score": 169,
+      "comments": 55,
+      "text": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;pierrecomputer&#x2F;status&#x2F;2117999036175188183\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;pierrecomputer&#x2F;status&#x2F;211799903617518818...</a>",
+      "summary": "OpenAI to acquire Pierre Computer Company. https:&#x2F;&#x2F;twitter.com&#x2F;pierrecomputer&#x2F;status&#x2F;211799903617518818... 점수 169, 반응 55 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Insects don't swarm at LED lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "score": 154,
+      "comments": 91,
+      "text": "",
+      "summary": "Insects don't swarm at LED lights. 점수 154, 반응 91 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 23
+      "count": 10
     },
     {
-      "keyword": "chat",
-      "count": 8
+      "keyword": "agentic",
+      "count": 3
     },
     {
-      "keyword": "gemini",
-      "count": 8
+      "keyword": "prompts",
+      "count": 3
     },
     {
-      "keyword": "google",
-      "count": 8
+      "keyword": "agents",
+      "count": 2
     },
     {
-      "keyword": "support",
-      "count": 5
+      "keyword": "native",
+      "count": 2
     },
     {
-      "keyword": "not",
-      "count": 5
-    },
-    {
-      "keyword": "https",
-      "count": 5
-    },
-    {
-      "keyword": "com",
-      "count": 5
-    },
-    {
-      "keyword": "off",
-      "count": 4
-    },
-    {
-      "keyword": "history",
-      "count": 4
-    },
-    {
-      "keyword": "human",
-      "count": 4
-    },
-    {
-      "keyword": "answer",
-      "count": 4
-    },
-    {
-      "keyword": "activity",
-      "count": 4
+      "keyword": "openclaw",
+      "count": 2
     },
     {
       "keyword": "any",
-      "count": 3
+      "count": 2
     },
     {
-      "keyword": "data",
-      "count": 3
+      "keyword": "platform",
+      "count": 2
+    },
+    {
+      "keyword": "building",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "cloud",
+      "count": 2
+    },
+    {
+      "keyword": "firecrawl",
+      "count": 2
+    },
+    {
+      "keyword": "web",
+      "count": 2
+    },
+    {
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "build",
+      "count": 2
     }
   ],
   "meta": {
