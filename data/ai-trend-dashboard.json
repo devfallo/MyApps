@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T16:26:43.375637+00:00",
+  "updatedAt": "2026-11-07T21:51:14.232072+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,231 +10,247 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 440130,
-      "comments": 1613,
+      "score": 440787,
+      "comments": 1588,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 440130, 반응 1613 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 440787, 반응 1588 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 394111,
-      "comments": 7642,
+      "score": 394142,
+      "comments": 7708,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 394111, 반응 7642 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 394142, 반응 7708 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 313960,
+      "score": 314069,
       "comments": 342,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 313960, 반응 342 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 314069, 반응 342 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 261409,
-      "comments": 53575,
+      "score": 261482,
+      "comments": 53683,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 261409, 반응 53575 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 261482, 반응 53683 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 209760,
-      "comments": 1228,
+      "score": 209770,
+      "comments": 1233,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209760, 반응 1228 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209770, 반응 1233 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 199441,
+      "score": 199503,
       "comments": 777,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 199441, 반응 777 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 199503, 반응 777 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187931,
-      "comments": 688,
+      "score": 187934,
+      "comments": 687,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187931, 반응 688 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187934, 반응 687 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 176184,
-      "comments": 81,
+      "score": 176224,
+      "comments": 80,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 176184, 반응 81 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 176224, 반응 80 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165250,
+      "score": 165253,
       "comments": 2512,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165250, 반응 2512 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165253, 반응 2512 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 160618,
-      "comments": 1198,
+      "score": 160628,
+      "comments": 1205,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160618, 반응 1198 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160628, 반응 1205 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159457,
+      "score": 159461,
       "comments": 21,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159457, 반응 21 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159461, 반응 21 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 158013,
-      "comments": 176,
+      "score": 158028,
+      "comments": 210,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 158013, 반응 176 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tesla to wind down Cybertruck production",
-      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "score": 1095,
-      "comments": 1947,
-      "text": "",
-      "summary": "Tesla to wind down Cybertruck production. 점수 1095, 반응 1947 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 158028, 반응 210 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Libghostty 1.0",
       "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "score": 875,
-      "comments": 143,
+      "score": 986,
+      "comments": 173,
       "text": "",
-      "summary": "Libghostty 1.0.  점수 875, 반응 143 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "score": 535,
-      "comments": 131,
-      "text": "",
-      "summary": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost. 점수 535, 반응 131 기준 인기 이슈입니다."
+      "summary": "Libghostty 1.0.  점수 986, 반응 173 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Need for Speed Underground 2 online in the browser",
       "url": "https://nfsu2.xyz/",
-      "score": 422,
-      "comments": 135,
+      "score": 697,
+      "comments": 202,
       "text": "",
-      "summary": "Need for Speed Underground 2 online in the browser. 점수 422, 반응 135 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "score": 372,
-      "comments": 309,
-      "text": "",
-      "summary": "US FAA says it will phase out floppy disks from air traffic control by 2028. 점수 372, 반응 309 기준 인기 이슈입니다."
+      "summary": "Need for Speed Underground 2 online in the browser. 점수 697, 반응 202 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Every Mac comes with an (undocumented) family member classifier",
       "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "score": 364,
-      "comments": 209,
+      "score": 518,
+      "comments": 306,
       "text": "",
-      "summary": "Every Mac comes with an (undocumented) family member classifier. 점수 364, 반응 209 기준 인기 이슈입니다."
+      "summary": "Every Mac comes with an (undocumented) family member classifier. 점수 518, 반응 306 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "score": 265,
-      "comments": 114,
+      "title": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "score": 278,
+      "comments": 224,
       "text": "",
-      "summary": "Firecracker VM Escape: PwnEscape Part 2. 점수 265, 반응 114 기준 인기 이슈입니다."
+      "summary": "Asahi Linux Progress Linux 7.3. 점수 278, 반응 224 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "First steps in bare-metal programming using UEFI",
-      "url": "https://kevinboone.me/efitest_index.html",
-      "score": 239,
-      "comments": 48,
-      "text": "",
-      "summary": "First steps in bare-metal programming using UEFI. 점수 239, 반응 48 기준 인기 이슈입니다."
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "score": 248,
+      "comments": 139,
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;AaY5O\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;AaY5O</a><p><a href=\"https:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft...</a>",
+      "summary": "The end of Microsoft Research's AI Frontiers group. https:&#x2F;&#x2F;archive.is&#x2F;AaY5O https:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft... 점수 248, 반응 139 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Upload Your RAM",
-      "url": "https://uploadyourram.org",
-      "score": 231,
-      "comments": 209,
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "score": 233,
+      "comments": 148,
       "text": "",
-      "summary": "Upload Your RAM.  점수 231, 반응 209 기준 인기 이슈입니다."
+      "summary": "Apple’s grey list: Words and phrases your iPhone won’t help you spell. 점수 233, 반응 148 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "GitHub's new Git storage architecture",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "score": 186,
-      "comments": 53,
+      "title": "Running a law firm on Free software",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "score": 209,
+      "comments": 94,
       "text": "",
-      "summary": "GitHub's new Git storage architecture. 점수 186, 반응 53 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-      "score": 162,
-      "comments": 24,
-      "text": "",
-      "summary": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE. 점수 162, 반응 24 기준 인기 이슈입니다."
+      "summary": "Running a law firm on Free software. 점수 209, 반응 94 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
       "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-      "score": 161,
-      "comments": 134,
+      "score": 191,
+      "comments": 176,
       "text": "",
-      "summary": "A barbarian tribe's mythic origin story is true, ancient DNA reveals. 점수 161, 반응 134 기준 인기 이슈입니다."
+      "summary": "A barbarian tribe's mythic origin story is true, ancient DNA reveals. 점수 191, 반응 176 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-      "score": 158,
-      "comments": 113,
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "score": 186,
+      "comments": 41,
       "text": "",
-      "summary": "RealPage rent-pricing case wraps with nearly $360M to renters. 점수 158, 반응 113 기준 인기 이슈입니다."
+      "summary": "What I run on my $10 USD OpenStick homelab. 점수 186, 반응 41 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The $8 Linux Computer (2022)",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "score": 176,
+      "comments": 79,
+      "text": "",
+      "summary": "The $8 Linux Computer (2022). 점수 176, 반응 79 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "We know 15k websites are infected. how do we tell them?",
+      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+      "score": 174,
+      "comments": 143,
+      "text": "",
+      "summary": "We know 15k websites are infected. how do we tell them?. 점수 174, 반응 143 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "url": "https://kevinboone.me/tpwin.html",
+      "score": 167,
+      "comments": 92,
+      "text": "",
+      "summary": "They don't make 'em like that any more: Borland Turbo Pascal 7. 점수 167, 반응 92 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "score": 149,
+      "comments": 156,
+      "text": "",
+      "summary": "Every Windows 11 app should kill Electron, and Discord just showed why. 점수 149, 반응 156 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
+      "keyword": "x2f",
+      "count": 17
+    },
+    {
+      "keyword": "https",
+      "count": 4
+    },
+    {
+      "keyword": "any",
+      "count": 3
+    },
+    {
       "keyword": "prompts",
+      "count": 3
+    },
+    {
+      "keyword": "linux",
       "count": 3
     },
     {
@@ -242,7 +258,7 @@
       "count": 2
     },
     {
-      "keyword": "down",
+      "keyword": "app",
       "count": 2
     },
     {
@@ -254,15 +270,15 @@
       "count": 2
     },
     {
-      "keyword": "any",
-      "count": 2
-    },
-    {
       "keyword": "platform",
       "count": 2
     },
     {
       "keyword": "agentic",
+      "count": 2
+    },
+    {
+      "keyword": "software",
       "count": 2
     },
     {
@@ -275,22 +291,6 @@
     },
     {
       "keyword": "cloud",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
-      "count": 2
-    },
-    {
-      "keyword": "web",
-      "count": 2
-    },
-    {
-      "keyword": "autogpt",
-      "count": 2
-    },
-    {
-      "keyword": "build",
       "count": 2
     }
   ],
