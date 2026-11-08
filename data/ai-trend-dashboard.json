@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T21:51:14.232072+00:00",
+  "updatedAt": "2026-11-08T01:26:25.166908+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,240 +10,252 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 440787,
-      "comments": 1588,
+      "score": 441105,
+      "comments": 1593,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 440787, 반응 1588 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 441105, 반응 1593 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 394142,
-      "comments": 7708,
+      "score": 394147,
+      "comments": 7731,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 394142, 반응 7708 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 394147, 반응 7731 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 314069,
+      "score": 314125,
       "comments": 342,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 314069, 반응 342 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 314125, 반응 342 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 261482,
-      "comments": 53683,
+      "score": 261524,
+      "comments": 53625,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 261482, 반응 53683 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 261524, 반응 53625 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 209770,
+      "score": 209776,
       "comments": 1233,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209770, 반응 1233 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 209776, 반응 1233 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 199503,
-      "comments": 777,
+      "score": 199532,
+      "comments": 775,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 199503, 반응 777 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 199532, 반응 775 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 187934,
-      "comments": 687,
+      "score": 187935,
+      "comments": 697,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187934, 반응 687 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 187935, 반응 697 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 176224,
-      "comments": 80,
+      "score": 176247,
+      "comments": 82,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 176224, 반응 80 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 176247, 반응 82 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165253,
+      "score": 165250,
       "comments": 2512,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165253, 반응 2512 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165250, 반응 2512 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 160628,
-      "comments": 1205,
+      "score": 160634,
+      "comments": 1206,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160628, 반응 1205 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 160634, 반응 1206 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159461,
+      "score": 159462,
       "comments": 21,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159461, 반응 21 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159462, 반응 21 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 158028,
-      "comments": 210,
+      "score": 158043,
+      "comments": 215,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 158028, 반응 210 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Libghostty 1.0",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "score": 986,
-      "comments": 173,
-      "text": "",
-      "summary": "Libghostty 1.0.  점수 986, 반응 173 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 158043, 반응 215 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Need for Speed Underground 2 online in the browser",
       "url": "https://nfsu2.xyz/",
-      "score": 697,
-      "comments": 202,
+      "score": 810,
+      "comments": 225,
       "text": "",
-      "summary": "Need for Speed Underground 2 online in the browser. 점수 697, 반응 202 기준 인기 이슈입니다."
+      "summary": "Need for Speed Underground 2 online in the browser. 점수 810, 반응 225 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Every Mac comes with an (undocumented) family member classifier",
       "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "score": 518,
-      "comments": 306,
+      "score": 593,
+      "comments": 345,
       "text": "",
-      "summary": "Every Mac comes with an (undocumented) family member classifier. 점수 518, 반응 306 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Asahi Linux Progress Linux 7.3",
-      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-      "score": 278,
-      "comments": 224,
-      "text": "",
-      "summary": "Asahi Linux Progress Linux 7.3. 점수 278, 반응 224 기준 인기 이슈입니다."
+      "summary": "Every Mac comes with an (undocumented) family member classifier. 점수 593, 반응 345 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
-      "score": 248,
-      "comments": 139,
+      "score": 374,
+      "comments": 219,
       "text": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;AaY5O\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;AaY5O</a><p><a href=\"https:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft...</a>",
-      "summary": "The end of Microsoft Research's AI Frontiers group. https:&#x2F;&#x2F;archive.is&#x2F;AaY5O https:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft... 점수 248, 반응 139 기준 인기 이슈입니다."
+      "summary": "The end of Microsoft Research's AI Frontiers group. https:&#x2F;&#x2F;archive.is&#x2F;AaY5O https:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft... 점수 374, 반응 219 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
       "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "score": 233,
-      "comments": 148,
+      "score": 350,
+      "comments": 235,
       "text": "",
-      "summary": "Apple’s grey list: Words and phrases your iPhone won’t help you spell. 점수 233, 반응 148 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Running a law firm on Free software",
-      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-      "score": 209,
-      "comments": 94,
-      "text": "",
-      "summary": "Running a law firm on Free software. 점수 209, 반응 94 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-      "score": 191,
-      "comments": 176,
-      "text": "",
-      "summary": "A barbarian tribe's mythic origin story is true, ancient DNA reveals. 점수 191, 반응 176 기준 인기 이슈입니다."
+      "summary": "Apple’s grey list: Words and phrases your iPhone won’t help you spell. 점수 350, 반응 235 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What I run on my $10 USD OpenStick homelab",
       "url": "https://blog.bosscher.ch/posts/openstick/",
-      "score": 186,
-      "comments": 41,
+      "score": 330,
+      "comments": 81,
       "text": "",
-      "summary": "What I run on my $10 USD OpenStick homelab. 점수 186, 반응 41 기준 인기 이슈입니다."
+      "summary": "What I run on my $10 USD OpenStick homelab. 점수 330, 반응 81 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The $8 Linux Computer (2022)",
-      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-      "score": 176,
-      "comments": 79,
+      "title": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "score": 316,
+      "comments": 257,
       "text": "",
-      "summary": "The $8 Linux Computer (2022). 점수 176, 반응 79 기준 인기 이슈입니다."
+      "summary": "Asahi Linux Progress Linux 7.3. 점수 316, 반응 257 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "We know 15k websites are infected. how do we tell them?",
-      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
-      "score": 174,
-      "comments": 143,
+      "title": "Running a law firm on Free software",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "score": 234,
+      "comments": 114,
       "text": "",
-      "summary": "We know 15k websites are infected. how do we tell them?. 점수 174, 반응 143 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
-      "url": "https://kevinboone.me/tpwin.html",
-      "score": 167,
-      "comments": 92,
-      "text": "",
-      "summary": "They don't make 'em like that any more: Borland Turbo Pascal 7. 점수 167, 반응 92 기준 인기 이슈입니다."
+      "summary": "Running a law firm on Free software. 점수 234, 반응 114 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
       "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-      "score": 149,
-      "comments": 156,
+      "score": 214,
+      "comments": 211,
       "text": "",
-      "summary": "Every Windows 11 app should kill Electron, and Discord just showed why. 점수 149, 반응 156 기준 인기 이슈입니다."
+      "summary": "Every Windows 11 app should kill Electron, and Discord just showed why. 점수 214, 반응 211 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "score": 199,
+      "comments": 57,
+      "text": "",
+      "summary": "MaxxBench – \"Nice DeepSWE score. 점수 199, 반응 57 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The $8 Linux Computer (2022)",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "score": 194,
+      "comments": 84,
+      "text": "",
+      "summary": "The $8 Linux Computer (2022). 점수 194, 반응 84 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "score": 191,
+      "comments": 39,
+      "text": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.<p>To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on eppser&#x2F;danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers.<p>Things that were fun to get right:<p>- Matching real units. I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions. The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A. The Dixell persona sends no Server header and pads its page to exactly 8,202 bytes.<p>- Recognising exploit attempts. It recognises CVE-2025-41450, the Danfoss “code of the day” login bypass, and records whether the submitted code is correct for today. It also tags attempts targeting three other Danfoss CVEs and the XWEB vulnerabilities.<p>- Letting them in. Default logins open a fake store dashboard with defrost buttons, so you see the second move, not just the first. Nothing behind it is real.<p>Two instances have been live for a day. So far they’ve only seen generic scanners and Shodan’s crawler, which is called refrigerator.census.shodan.io.<p>Feedback welcome, especially from anyone who has seen these devices in the field!",
+      "summary": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller. I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. 점수 191, 반응 39 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "score": 168,
+      "comments": 118,
+      "text": "",
+      "summary": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files. 점수 168, 반응 118 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Long Can Life Wait?",
+      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "score": 125,
+      "comments": 73,
+      "text": "",
+      "summary": "How Long Can Life Wait?. 점수 125, 반응 73 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 17
+      "count": 18
+    },
+    {
+      "keyword": "real",
+      "count": 5
+    },
+    {
+      "keyword": "code",
+      "count": 4
     },
     {
       "keyword": "https",
       "count": 4
     },
     {
-      "keyword": "any",
-      "count": 3
+      "keyword": "danfoss",
+      "count": 4
+    },
+    {
+      "keyword": "shodan",
+      "count": 4
     },
     {
       "keyword": "prompts",
@@ -251,6 +263,10 @@
     },
     {
       "keyword": "linux",
+      "count": 3
+    },
+    {
+      "keyword": "honeypot",
       "count": 3
     },
     {
@@ -270,27 +286,11 @@
       "count": 2
     },
     {
-      "keyword": "platform",
+      "keyword": "things",
       "count": 2
     },
     {
-      "keyword": "agentic",
-      "count": 2
-    },
-    {
-      "keyword": "software",
-      "count": 2
-    },
-    {
-      "keyword": "building",
-      "count": 2
-    },
-    {
-      "keyword": "self-host",
-      "count": 2
-    },
-    {
-      "keyword": "cloud",
+      "keyword": "any",
       "count": 2
     }
   ],
