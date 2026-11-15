@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T09:26:51.900144+00:00",
+  "updatedAt": "2026-11-15T17:11:42.668584+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,226 +10,226 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 460637,
-      "comments": 1621,
+      "score": 461402,
+      "comments": 1562,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 460637, 반응 1621 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 461402, 반응 1562 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 394491,
-      "comments": 8469,
+      "score": 394513,
+      "comments": 8513,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 394491, 반응 8469 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 394513, 반응 8513 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 317780,
-      "comments": 350,
+      "score": 317952,
+      "comments": 354,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 317780, 반응 350 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 317952, 반응 354 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 263493,
-      "comments": 53176,
+      "score": 263585,
+      "comments": 53278,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 263493, 반응 53176 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 263585, 반응 53278 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 210556,
-      "comments": 1241,
+      "score": 210565,
+      "comments": 1245,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 210556, 반응 1241 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 210565, 반응 1245 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 201885,
-      "comments": 801,
+      "score": 201990,
+      "comments": 805,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 201885, 반응 801 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 201990, 반응 805 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 188031,
-      "comments": 692,
+      "score": 188038,
+      "comments": 694,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188031, 반응 692 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188038, 반응 694 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 177452,
-      "comments": 89,
+      "score": 177527,
+      "comments": 90,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 177452, 반응 89 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 177527, 반응 90 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165319,
+      "score": 165318,
       "comments": 2512,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165319, 반응 2512 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165318, 반응 2512 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 161184,
-      "comments": 1391,
+      "score": 161203,
+      "comments": 1392,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 161184, 반응 1391 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 161203, 반응 1392 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159561,
+      "score": 159566,
       "comments": 24,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159561, 반응 24 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159566, 반응 24 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 158687,
-      "comments": 366,
+      "score": 158733,
+      "comments": 377,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 158687, 반응 366 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 158733, 반응 377 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "SpaceX catches the Starship to end Flight 15",
       "url": "https://www.spacex.com/launches/starship-flight-15",
-      "score": 1187,
-      "comments": 786,
+      "score": 1476,
+      "comments": 1009,
       "text": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595</a><p><a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233</a>",
-      "summary": "SpaceX catches the Starship to end Flight 15. https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595 https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233 점수 1187, 반응 786 기준 인기 이슈입니다."
+      "summary": "SpaceX catches the Starship to end Flight 15. https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595 https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233 점수 1476, 반응 1009 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Lovable apps expose passport details and more than 200K private messages",
       "url": "https://www.crissyfield.de/research/lovable-en/",
-      "score": 800,
-      "comments": 314,
+      "score": 944,
+      "comments": 360,
       "text": "",
-      "summary": "Lovable apps expose passport details and more than 200K private messages. 점수 800, 반응 314 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "score": 555,
-      "comments": 302,
-      "text": "",
-      "summary": "Why get an expensive Pi when I have an old phone?. 점수 555, 반응 302 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "KDE: The documentary [video]",
-      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "score": 466,
-      "comments": 102,
-      "text": "",
-      "summary": "KDE: The documentary [video]. 점수 466, 반응 102 기준 인기 이슈입니다."
+      "summary": "Lovable apps expose passport details and more than 200K private messages. 점수 944, 반응 360 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A family tree of software job titles",
       "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "score": 302,
-      "comments": 151,
+      "score": 389,
+      "comments": 192,
       "text": "",
-      "summary": "A family tree of software job titles. 점수 302, 반응 151 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-      "score": 244,
-      "comments": 116,
-      "text": "",
-      "summary": "Project Zero will disclose vulnerabilities 90 days after reporting. 점수 244, 반응 116 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "score": 240,
-      "comments": 101,
-      "text": "",
-      "summary": "PyPI's redesigned project pages with clearer security signals are now live. 점수 240, 반응 101 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "score": 230,
-      "comments": 21,
-      "text": "",
-      "summary": "Show HN: DeepSeek V3 in ~200 lines of pure Jax. 점수 230, 반응 21 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-      "score": 223,
-      "comments": 57,
-      "text": "",
-      "summary": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches. 점수 223, 반응 57 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Generative AI uses more energy on non-English text",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "score": 208,
-      "comments": 107,
-      "text": "",
-      "summary": "Generative AI uses more energy on non-English text. 점수 208, 반응 107 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-      "score": 207,
-      "comments": 101,
-      "text": "",
-      "summary": "How did Woz write the Apple 1 BASIC before building the computer?. 점수 207, 반응 101 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "score": 196,
-      "comments": 42,
-      "text": "",
-      "summary": "Advancing science and engineering with Antigravity's /teamwork. 점수 196, 반응 42 기준 인기 이슈입니다."
+      "summary": "A family tree of software job titles. 점수 389, 반응 192 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Court denies motion to dismiss DRAM price fixing case",
       "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "score": 128,
-      "comments": 31,
+      "score": 384,
+      "comments": 162,
       "text": "",
-      "summary": "Court denies motion to dismiss DRAM price fixing case. 점수 128, 반응 31 기준 인기 이슈입니다."
+      "summary": "Court denies motion to dismiss DRAM price fixing case. 점수 384, 반응 162 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "score": 364,
+      "comments": 225,
+      "text": "",
+      "summary": "All AI-generated code should be Open Source. 점수 364, 반응 225 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "score": 276,
+      "comments": 145,
+      "text": "",
+      "summary": "How did Woz write the Apple 1 BASIC before building the computer?. 점수 276, 반응 145 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "score": 263,
+      "comments": 118,
+      "text": "",
+      "summary": "PyPI's redesigned project pages with clearer security signals are now live. 점수 263, 반응 118 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "score": 206,
+      "comments": 104,
+      "text": "",
+      "summary": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use. 점수 206, 반응 104 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "score": 206,
+      "comments": 88,
+      "text": "",
+      "summary": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business. 점수 206, 반응 88 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "My favourite modern NES games",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "score": 172,
+      "comments": 27,
+      "text": "",
+      "summary": "My favourite modern NES games. 점수 172, 반응 27 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "score": 146,
+      "comments": 103,
+      "text": "",
+      "summary": "Why did some Apollo missions carry a grenade launcher?. 점수 146, 반응 103 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "score": 106,
+      "comments": 1,
+      "text": "",
+      "summary": "Understanding Positional Embeddings in Modern LLMs. 점수 106, 반응 1 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Book list for streetfighting computer scientists",
+      "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+      "score": 102,
+      "comments": 39,
+      "text": "",
+      "summary": "Book list for streetfighting computer scientists. 점수 102, 반응 39 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
@@ -282,15 +282,15 @@
       "count": 2
     },
     {
+      "keyword": "code",
+      "count": 2
+    },
+    {
       "keyword": "self-host",
       "count": 2
     },
     {
       "keyword": "cloud",
-      "count": 2
-    },
-    {
-      "keyword": "firecrawl",
       "count": 2
     }
   ],
