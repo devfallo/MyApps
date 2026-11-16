@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T22:48:24.114921+00:00",
+  "updatedAt": "2026-11-16T06:30:13.805542+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,247 +10,231 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 461848,
-      "comments": 1524,
+      "score": 462484,
+      "comments": 1502,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 461848, 반응 1524 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 462484, 반응 1502 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 394531,
-      "comments": 8535,
+      "score": 394546,
+      "comments": 8347,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 394531, 반응 8535 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 394546, 반응 8347 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 318052,
-      "comments": 354,
+      "score": 318170,
+      "comments": 355,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 318052, 반응 354 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 318170, 반응 355 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 263623,
-      "comments": 53326,
+      "score": 263703,
+      "comments": 53383,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 263623, 반응 53326 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 263703, 반응 53383 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 210608,
-      "comments": 1245,
+      "score": 210609,
+      "comments": 1244,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 210608, 반응 1245 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 210609, 반응 1244 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 202048,
+      "score": 202129,
       "comments": 805,
       "text": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 202048, 반응 805 기준 인기 이슈입니다."
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 점수 202129, 반응 805 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 188044,
-      "comments": 698,
+      "score": 188046,
+      "comments": 702,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188044, 반응 698 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188046, 반응 702 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 177558,
-      "comments": 90,
+      "score": 177591,
+      "comments": 91,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 177558, 반응 90 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 177591, 반응 91 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165315,
+      "score": 165321,
       "comments": 2512,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165315, 반응 2512 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165321, 반응 2512 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 161210,
-      "comments": 1393,
+      "score": 161234,
+      "comments": 1390,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 161210, 반응 1393 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 161234, 반응 1390 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159566,
+      "score": 159574,
       "comments": 24,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159566, 반응 24 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159574, 반응 24 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 158750,
-      "comments": 380,
+      "score": 158787,
+      "comments": 386,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 158750, 반응 380 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "score": 1615,
-      "comments": 1188,
-      "text": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595</a><p><a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233</a>",
-      "summary": "SpaceX catches the Starship to end Flight 15. https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595 https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233 점수 1615, 반응 1188 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "score": 1009,
-      "comments": 558,
-      "text": "",
-      "summary": "All AI-generated code should be Open Source. 점수 1009, 반응 558 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The MacBook Pro's OLED PWM problem",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "score": 373,
-      "comments": 202,
-      "text": "",
-      "summary": "The MacBook Pro's OLED PWM problem. 점수 373, 반응 202 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "score": 277,
-      "comments": 144,
-      "text": "",
-      "summary": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]. 점수 277, 반응 144 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 158787, 반응 386 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
       "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "score": 264,
-      "comments": 137,
+      "score": 477,
+      "comments": 207,
       "text": "",
-      "summary": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests. 점수 264, 반응 137 기준 인기 이슈입니다."
+      "summary": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests. 점수 477, 반응 207 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
-      "url": "https://space.stackexchange.com/questions/37775",
-      "score": 211,
-      "comments": 141,
+      "title": "The MacBook Pro's OLED PWM problem",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "score": 461,
+      "comments": 256,
       "text": "",
-      "summary": "Why did some Apollo missions carry a grenade launcher? 점수 211, 반응 141 기준 인기 이슈입니다."
+      "summary": "The MacBook Pro's OLED PWM problem. 점수 461, 반응 256 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "score": 184,
-      "comments": 23,
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "score": 400,
+      "comments": 196,
       "text": "",
-      "summary": "Understanding Positional Embeddings in Modern LLMs. 점수 184, 반응 23 기준 인기 이슈입니다."
+      "summary": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]. 점수 400, 반응 196 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "score": 337,
+      "comments": 112,
+      "text": "",
+      "summary": "Qwen4-Max.  점수 337, 반응 112 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "score": 266,
+      "comments": 51,
+      "text": "",
+      "summary": "Protomaps: Self-hosting map tiles has gotten cheap and easy. 점수 266, 반응 51 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "score": 243,
+      "comments": 127,
+      "text": "",
+      "summary": "Old Bitly links are being hijacked. 점수 243, 반응 127 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "score": 243,
+      "comments": 61,
+      "text": "",
+      "summary": "Universal XSS in uBlock Origin from website-driven element picker. 점수 243, 반응 61 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Things That Turbo Pascal Is Smaller Than (2011)",
       "url": "https://prog21.dadgum.com/116.html",
-      "score": 174,
-      "comments": 88,
+      "score": 221,
+      "comments": 116,
       "text": "",
-      "summary": "Things That Turbo Pascal Is Smaller Than (2011). 점수 174, 반응 88 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Emacs Is My Browser",
-      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "score": 158,
-      "comments": 81,
-      "text": "",
-      "summary": "Emacs Is My Browser.  점수 158, 반응 81 기준 인기 이슈입니다."
+      "summary": "Things That Turbo Pascal Is Smaller Than (2011). 점수 221, 반응 116 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A short explainer on how El Niño works [video]",
       "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "score": 128,
-      "comments": 40,
+      "score": 216,
+      "comments": 92,
       "text": "",
-      "summary": "A short explainer on how El Niño works [video]. 점수 128, 반응 40 기준 인기 이슈입니다."
+      "summary": "A short explainer on how El Niño works [video]. 점수 216, 반응 92 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "title": "Handwriting, as a Font",
+      "url": "https://ductus.sorenblank.com",
+      "score": 215,
+      "comments": 44,
+      "text": "",
+      "summary": "Handwriting, as a Font. 점수 215, 반응 44 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Crows make decisions faster than we can",
       "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "score": 116,
-      "comments": 87,
+      "score": 212,
+      "comments": 146,
       "text": "",
-      "summary": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can. 점수 116, 반응 87 기준 인기 이슈입니다."
+      "summary": "Crows make decisions faster than we can. 점수 212, 반응 146 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "What thousands of conversations look like inside a language model",
-      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "score": 104,
-      "comments": 29,
+      "title": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "score": 185,
+      "comments": 243,
       "text": "",
-      "summary": "What thousands of conversations look like inside a language model. 점수 104, 반응 29 기준 인기 이슈입니다."
+      "summary": "What's Next for Nvidia?. 점수 185, 반응 243 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "A NES emulator written in Odin",
-      "url": "https://lucypero.com/lucynes.html",
-      "score": 96,
-      "comments": 34,
+      "title": "Preserving 30 years of Salon journalism",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "score": 133,
+      "comments": 37,
       "text": "",
-      "summary": "A NES emulator written in Odin. 점수 96, 반응 34 기준 인기 이슈입니다."
+      "summary": "Preserving 30 years of Salon journalism. 점수 133, 반응 37 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "x2f",
-      "count": 16
-    },
-    {
-      "keyword": "https",
-      "count": 4
-    },
-    {
-      "keyword": "code",
-      "count": 3
-    },
-    {
       "keyword": "prompts",
-      "count": 3
-    },
-    {
-      "keyword": "spacex",
       "count": 3
     },
     {
@@ -291,6 +275,22 @@
     },
     {
       "keyword": "building",
+      "count": 2
+    },
+    {
+      "keyword": "code",
+      "count": 2
+    },
+    {
+      "keyword": "self-host",
+      "count": 2
+    },
+    {
+      "keyword": "cloud",
+      "count": 2
+    },
+    {
+      "keyword": "firecrawl",
       "count": 2
     }
   ],
