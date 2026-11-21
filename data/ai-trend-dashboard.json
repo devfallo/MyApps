@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T12:39:25.988040+00:00",
+  "updatedAt": "2026-11-21T20:31:08.589433+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,251 +10,247 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 472147,
-      "comments": 1378,
+      "score": 472633,
+      "comments": 1314,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 472147, 반응 1378 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 472633, 반응 1314 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 394947,
-      "comments": 8698,
+      "score": 394979,
+      "comments": 8758,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 394947, 반응 8698 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 394979, 반응 8758 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 323327,
+      "score": 323618,
       "comments": 363,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 323327, 반응 363 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 323618, 반응 363 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 265102,
-      "comments": 54222,
+      "score": 265175,
+      "comments": 54208,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 265102, 반응 54222 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 265175, 반응 54208 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 211577,
-      "comments": 1247,
+      "score": 211628,
+      "comments": 1254,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 211577, 반응 1247 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 211628, 반응 1254 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 205728,
-      "comments": 895,
+      "score": 206049,
+      "comments": 907,
       "text": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. 점수 205728, 반응 895 기준 인기 이슈입니다."
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. 점수 206049, 반응 907 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 188124,
-      "comments": 786,
+      "score": 188126,
+      "comments": 778,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188124, 반응 786 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188126, 반응 778 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 178127,
+      "score": 178178,
       "comments": 94,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 178127, 반응 94 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 178178, 반응 94 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165370,
+      "score": 165369,
       "comments": 2511,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165370, 반응 2511 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165369, 반응 2511 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 161606,
-      "comments": 1343,
+      "score": 161626,
+      "comments": 1344,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 161606, 반응 1343 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 161626, 반응 1344 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159635,
+      "score": 159639,
       "comments": 25,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159635, 반응 25 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159639, 반응 25 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 159198,
-      "comments": 279,
+      "score": 159220,
+      "comments": 278,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 159198, 반응 279 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 159220, 반응 278 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "url": "https://alpo.ge/remark.pdf",
-      "score": 2700,
-      "comments": 1884,
+      "score": 2841,
+      "comments": 2014,
       "text": "Related: <i>Hurried Announcement: Alessandro Masullo GRH</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50579568\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50579568</a>",
-      "summary": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]. Related: Hurried Announcement: Alessandro Masullo GRH - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50579568 점수 2700, 반응 1884 기준 인기 이슈입니다."
+      "summary": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]. Related: Hurried Announcement: Alessandro Masullo GRH - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50579568 점수 2841, 반응 2014 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "score": 2183,
-      "comments": 1026,
+      "score": 2341,
+      "comments": 1125,
       "text": "Related: <i>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968</a>",
-      "summary": "Hurried Announcement: Alessandro Masullo GRH. Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968 점수 2183, 반응 1026 기준 인기 이슈입니다."
+      "summary": "Hurried Announcement: Alessandro Masullo GRH. Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968 점수 2341, 반응 1125 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Inkling 2 Mini",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "score": 1083,
-      "comments": 202,
+      "score": 1304,
+      "comments": 268,
       "text": "",
-      "summary": "Inkling 2 Mini.  점수 1083, 반응 202 기준 인기 이슈입니다."
+      "summary": "Inkling 2 Mini.  점수 1304, 반응 268 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "score": 593,
+      "comments": 454,
+      "text": "",
+      "summary": "Lean verification of the Riemann Hypothesis. 점수 593, 반응 454 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "score": 580,
+      "comments": 195,
+      "text": "",
+      "summary": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT. 점수 580, 반응 195 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "We promoted developers into architects without informing them",
       "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "score": 469,
-      "comments": 256,
+      "score": 554,
+      "comments": 301,
       "text": "",
-      "summary": "We promoted developers into architects without informing them. 점수 469, 반응 256 기준 인기 이슈입니다."
+      "summary": "We promoted developers into architects without informing them. 점수 554, 반응 301 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
       "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "score": 469,
-      "comments": 192,
+      "score": 520,
+      "comments": 228,
       "text": "",
-      "summary": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis. 점수 469, 반응 192 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "score": 428,
-      "comments": 125,
-      "text": "",
-      "summary": "Language Models Can Rewrite Their Own Weights. 점수 428, 반응 125 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "score": 349,
-      "comments": 644,
-      "text": "",
-      "summary": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day. 점수 349, 반응 644 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Slopstrap – Make your site look hastily vibecoded",
-      "url": "https://slopstrap.mikelacher.com/",
-      "score": 325,
-      "comments": 61,
-      "text": "",
-      "summary": "Slopstrap – Make your site look hastily vibecoded. 점수 325, 반응 61 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Finite-time blow-up for the Navier–Stokes equations",
-      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "score": 299,
-      "comments": 93,
-      "text": "",
-      "summary": "Finite-time blow-up for the Navier–Stokes equations. 점수 299, 반응 93 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "url": "https://ninlive.com/",
-      "score": 288,
-      "comments": 74,
-      "text": "",
-      "summary": "NINLIVE: The Nine Inch Nails live archive. 점수 288, 반응 74 기준 인기 이슈입니다."
+      "summary": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis. 점수 520, 반응 228 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
       "url": "https://news.ycombinator.com/item?id=50583761",
-      "score": 263,
-      "comments": 232,
+      "score": 515,
+      "comments": 581,
       "text": "I&#x27;m Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can&#x27;t find a job, within those 2 years, I pretty much spent my savings that I&#x27;ve saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria.<p>In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE.<p>At this point, I have massive gap in my resume that I can&#x27;t explain to recruiters, I can still code (C#&#x2F;.NET&#x2F;AWS) and learned the AI, but who cares if date of my last employment is Jan2025. What should I do ?<p>If you have an alternative path (something completely different from SWE or SWE adjacent) that pays &quot;well&quot;, I would like to hear.",
-      "summary": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. I&#x27;m Senior software engineer in the US (DMV area), with 15y of experience. 점수 263, 반응 232 기준 인기 이슈입니다."
+      "summary": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. I&#x27;m Senior software engineer in the US (DMV area), with 15y of experience. 점수 515, 반응 581 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "score": 233,
-      "comments": 81,
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "score": 415,
+      "comments": 281,
       "text": "",
-      "summary": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs. 점수 233, 반응 81 기준 인기 이슈입니다."
+      "summary": "Detonating a pile of lead azide. 점수 415, 반응 281 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "url": "https://trynotched.com/find",
-      "score": 185,
-      "comments": 118,
-      "text": "I&#x27;ve had tinnitus for about a year and a half. There&#x27;s no cure, so I&#x27;m trying anything that looks promising. One idea people are researching is listening to sound with a notch cut out right at your tinnitus frequency.<p>The frequency finder will help you zero in on your tinnitus pitch. The method write-up is here: <a href=\"https:&#x2F;&#x2F;trynotched.com&#x2F;how-pitch-matching-works\" rel=\"nofollow\">https:&#x2F;&#x2F;trynotched.com&#x2F;how-pitch-matching-works</a><p>Once you have a pitch, there&#x27;s a free web app that plays background sounds (stream, rain, wind and so on) with a notch at your frequency: <a href=\"https:&#x2F;&#x2F;trynotched.com&#x2F;tools\" rel=\"nofollow\">https:&#x2F;&#x2F;trynotched.com&#x2F;tools</a>.<p>I built it as a PWA so you can save to your phone&#x27;s home screen and it works offline. No account or time limit.",
-      "summary": "Show HN: Tinnitus frequency finder and audio notch tool. I&#x27;ve had tinnitus for about a year and a half. There&#x27;s no cure, so I&#x27;m trying anything that looks promising. 점수 185, 반응 118 기준 인기 이슈입니다."
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "score": 381,
+      "comments": 222,
+      "text": "",
+      "summary": "Why there are still no non-WebKit browsers on iOS. 점수 381, 반응 222 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "score": 369,
+      "comments": 193,
+      "text": "",
+      "summary": "My monitor was cutting my download speed by 75%. 점수 369, 반응 193 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "score": 341,
+      "comments": 96,
+      "text": "",
+      "summary": "NINLIVE: The Nine Inch Nails live archive. 점수 341, 반응 96 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "score": 195,
+      "comments": 33,
+      "text": "",
+      "summary": "Inkling-2-Mini in 5.4 GB Memory. 점수 195, 반응 33 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 26
-    },
-    {
-      "keyword": "x27",
-      "count": 9
-    },
-    {
-      "keyword": "https",
-      "count": 8
-    },
-    {
-      "keyword": "com",
-      "count": 8
+      "count": 14
     },
     {
       "keyword": "can",
-      "count": 6
+      "count": 4
     },
     {
-      "keyword": "href",
+      "keyword": "riemann",
+      "count": 4
+    },
+    {
+      "keyword": "hypothesis",
+      "count": 4
+    },
+    {
+      "keyword": "https",
       "count": 4
     },
     {
@@ -266,19 +262,15 @@
       "count": 4
     },
     {
+      "keyword": "com",
+      "count": 4
+    },
+    {
       "keyword": "item",
       "count": 4
     },
     {
-      "keyword": "tinnitus",
-      "count": 4
-    },
-    {
-      "keyword": "frequency",
-      "count": 4
-    },
-    {
-      "keyword": "trynotched",
+      "keyword": "x27",
       "count": 4
     },
     {
@@ -286,11 +278,19 @@
       "count": 3
     },
     {
-      "keyword": "one",
+      "keyword": "prompts",
       "count": 3
     },
     {
-      "keyword": "tools",
+      "keyword": "generalized",
+      "count": 3
+    },
+    {
+      "keyword": "years",
+      "count": 3
+    },
+    {
+      "keyword": "swe",
       "count": 3
     }
   ],
