@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T02:13:50.713482+00:00",
+  "updatedAt": "2026-11-22T09:52:36.623350+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,260 +10,236 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 472869,
-      "comments": 1328,
+      "score": 473262,
+      "comments": 1325,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 472869, 반응 1328 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 473262, 반응 1325 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 394997,
-      "comments": 8742,
+      "score": 395017,
+      "comments": 8750,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 394997, 반응 8742 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 395017, 반응 8750 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 323767,
-      "comments": 363,
+      "score": 323978,
+      "comments": 361,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 323767, 반응 363 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 323978, 반응 361 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 265214,
-      "comments": 54242,
+      "score": 265282,
+      "comments": 54170,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 265214, 반응 54242 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 265282, 반응 54170 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 211660,
-      "comments": 1257,
+      "score": 211727,
+      "comments": 1266,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 211660, 반응 1257 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 211727, 반응 1266 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 206256,
-      "comments": 909,
+      "score": 206501,
+      "comments": 911,
       "text": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. 점수 206256, 반응 909 기준 인기 이슈입니다."
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. 점수 206501, 반응 911 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 188126,
-      "comments": 782,
+      "score": 188128,
+      "comments": 795,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188126, 반응 782 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188128, 반응 795 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 178198,
+      "score": 178228,
       "comments": 94,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 178198, 반응 94 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 178228, 반응 94 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165370,
+      "score": 165374,
       "comments": 2511,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165370, 반응 2511 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165374, 반응 2511 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 161632,
-      "comments": 1341,
+      "score": 161652,
+      "comments": 1350,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 161632, 반응 1341 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 161652, 반응 1350 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159639,
+      "score": 159643,
       "comments": 25,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159639, 반응 25 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159643, 반응 25 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 159228,
-      "comments": 281,
+      "score": 159245,
+      "comments": 283,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 159228, 반응 281 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 159245, 반응 283 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "score": 2393,
-      "comments": 1160,
+      "score": 2414,
+      "comments": 1174,
       "text": "Related: <i>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968</a>",
-      "summary": "Hurried Announcement: Alessandro Masullo GRH. Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968 점수 2393, 반응 1160 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Inkling 2 Mini",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "score": 1388,
-      "comments": 281,
-      "text": "",
-      "summary": "Inkling 2 Mini.  점수 1388, 반응 281 기준 인기 이슈입니다."
+      "summary": "Hurried Announcement: Alessandro Masullo GRH. Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968 점수 2414, 반응 1174 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Lean verification of the Riemann Hypothesis",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "score": 845,
-      "comments": 700,
+      "score": 1027,
+      "comments": 844,
       "text": "",
-      "summary": "Lean verification of the Riemann Hypothesis. 점수 845, 반응 700 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "score": 759,
-      "comments": 242,
-      "text": "",
-      "summary": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT. 점수 759, 반응 242 기준 인기 이슈입니다."
+      "summary": "Lean verification of the Riemann Hypothesis. 점수 1027, 반응 844 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
       "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "score": 637,
-      "comments": 153,
+      "score": 983,
+      "comments": 215,
       "text": "",
-      "summary": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'. 점수 637, 반응 153 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "url": "https://news.ycombinator.com/item?id=50583761",
-      "score": 619,
-      "comments": 694,
-      "text": "I&#x27;m Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can&#x27;t find a job, within those 2 years, I pretty much spent my savings that I&#x27;ve saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria.<p>In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE.<p>At this point, I have massive gap in my resume that I can&#x27;t explain to recruiters, I can still code (C#&#x2F;.NET&#x2F;AWS) and learned the AI, but who cares if date of my last employment is Jan2025. What should I do ?<p>If you have an alternative path (something completely different from SWE or SWE adjacent) that pays &quot;well&quot;, I would like to hear.",
-      "summary": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. I&#x27;m Senior software engineer in the US (DMV area), with 15y of experience. 점수 619, 반응 694 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "We promoted developers into architects without informing them",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "score": 583,
-      "comments": 310,
-      "text": "",
-      "summary": "We promoted developers into architects without informing them. 점수 583, 반응 310 기준 인기 이슈입니다."
+      "summary": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'. 점수 983, 반응 215 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Detonating a pile of lead azide",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "score": 527,
-      "comments": 348,
+      "score": 605,
+      "comments": 387,
       "text": "",
-      "summary": "Detonating a pile of lead azide. 점수 527, 반응 348 기준 인기 이슈입니다."
+      "summary": "Detonating a pile of lead azide. 점수 605, 반응 387 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "My monitor was cutting my download speed by 75%",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "score": 499,
-      "comments": 233,
+      "score": 580,
+      "comments": 270,
       "text": "",
-      "summary": "My monitor was cutting my download speed by 75%. 점수 499, 반응 233 기준 인기 이슈입니다."
+      "summary": "My monitor was cutting my download speed by 75%. 점수 580, 반응 270 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Why there are still no non-WebKit browsers on iOS",
-      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-      "score": 491,
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "score": 459,
       "comments": 273,
       "text": "",
-      "summary": "Why there are still no non-WebKit browsers on iOS. 점수 491, 반응 273 기준 인기 이슈입니다."
+      "summary": "Toyota, Nissan, and Honda to standardize parts to lower costs. 점수 459, 반응 273 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Inkling-2-Mini in 5.4 GB Memory",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "score": 363,
-      "comments": 94,
+      "score": 458,
+      "comments": 116,
       "text": "",
-      "summary": "Inkling-2-Mini in 5.4 GB Memory. 점수 363, 반응 94 기준 인기 이슈입니다."
+      "summary": "Inkling-2-Mini in 5.4 GB Memory. 점수 458, 반응 116 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "RCE in Gnupg",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "score": 233,
-      "comments": 95,
+      "title": "Getting the mind to steer the body to steer you",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "score": 267,
+      "comments": 89,
       "text": "",
-      "summary": "RCE in Gnupg.  점수 233, 반응 95 기준 인기 이슈입니다."
+      "summary": "Getting the mind to steer the body to steer you. 점수 267, 반응 89 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GnuPG Security Advisory for GPGME",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "score": 251,
+      "comments": 101,
+      "text": "",
+      "summary": "GnuPG Security Advisory for GPGME. 점수 251, 반응 101 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "LLMs can read and write executables byte by byte from a hex dump",
       "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-      "score": 193,
-      "comments": 127,
+      "score": 241,
+      "comments": 155,
       "text": "",
-      "summary": "LLMs can read and write executables byte by byte from a hex dump. 점수 193, 반응 127 기준 인기 이슈입니다."
+      "summary": "LLMs can read and write executables byte by byte from a hex dump. 점수 241, 반응 155 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "score": 225,
+      "comments": 76,
+      "text": "",
+      "summary": "Sandwich Simulator.  점수 225, 반응 76 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "score": 161,
+      "comments": 59,
+      "text": "",
+      "summary": "Advice for the next 100 Rust GUIs. 점수 161, 반응 59 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "score": 142,
+      "comments": 56,
+      "text": "",
+      "summary": "Data Processing Incidents on Inference Providers. 점수 142, 반응 56 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "x2f",
-      "count": 8
-    },
-    {
-      "keyword": "can",
-      "count": 5
-    },
-    {
-      "keyword": "x27",
-      "count": 4
-    },
-    {
-      "keyword": "any",
-      "count": 3
+      "count": 6
     },
     {
       "keyword": "prompts",
       "count": 3
-    },
-    {
-      "keyword": "years",
-      "count": 3
-    },
-    {
-      "keyword": "swe",
-      "count": 3
-    },
-    {
-      "keyword": "engineer",
-      "count": 2
     },
     {
       "keyword": "agents",
@@ -278,6 +254,10 @@
       "count": 2
     },
     {
+      "keyword": "any",
+      "count": 2
+    },
+    {
       "keyword": "platform",
       "count": 2
     },
@@ -286,11 +266,31 @@
       "count": 2
     },
     {
-      "keyword": "software",
+      "keyword": "self-host",
       "count": 2
     },
     {
-      "keyword": "code",
+      "keyword": "cloud",
+      "count": 2
+    },
+    {
+      "keyword": "firecrawl",
+      "count": 2
+    },
+    {
+      "keyword": "data",
+      "count": 2
+    },
+    {
+      "keyword": "providers",
+      "count": 2
+    },
+    {
+      "keyword": "one",
+      "count": 2
+    },
+    {
+      "keyword": "api",
       "count": 2
     }
   ],
