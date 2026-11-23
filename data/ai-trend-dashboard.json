@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T23:36:18.328618+00:00",
+  "updatedAt": "2026-11-23T07:39:18.678896+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,91 +10,91 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 474049,
-      "comments": 1355,
+      "score": 474565,
+      "comments": 1330,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 474049, 반응 1355 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 474565, 반응 1330 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 395055,
-      "comments": 8925,
+      "score": 395070,
+      "comments": 8932,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 395055, 반응 8925 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 395070, 반응 8932 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 324138,
-      "comments": 363,
+      "score": 324421,
+      "comments": 364,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 324138, 반응 363 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 324421, 반응 364 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 265423,
-      "comments": 54316,
+      "score": 265514,
+      "comments": 54374,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 265423, 반응 54316 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 265514, 반응 54374 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 211835,
-      "comments": 1270,
+      "score": 211874,
+      "comments": 1268,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 211835, 반응 1270 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 211874, 반응 1268 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 207004,
-      "comments": 918,
+      "score": 207292,
+      "comments": 923,
       "text": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. 점수 207004, 반응 918 기준 인기 이슈입니다."
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. 점수 207292, 반응 923 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 188135,
-      "comments": 808,
+      "score": 188145,
+      "comments": 818,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188135, 반응 808 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188145, 반응 818 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 178280,
-      "comments": 94,
+      "score": 178304,
+      "comments": 95,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 178280, 반응 94 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 178304, 반응 95 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "score": 165372,
+      "score": 165371,
       "comments": 2511,
       "text": "Stable Diffusion web UI",
-      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165372, 반응 2511 기준 인기 이슈입니다."
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165371, 반응 2511 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 161689,
-      "comments": 1352,
+      "score": 161713,
+      "comments": 1335,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 161689, 반응 1352 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 161713, 반응 1335 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -109,144 +109,132 @@
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 159284,
-      "comments": 283,
+      "score": 159306,
+      "comments": 285,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 159284, 반응 283 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 159306, 반응 285 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "score": 1164,
-      "comments": 669,
+      "score": 1274,
+      "comments": 698,
       "text": "",
-      "summary": "Toyota, Nissan, and Honda to standardize parts to lower costs. 점수 1164, 반응 669 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "score": 437,
-      "comments": 298,
-      "text": "",
-      "summary": "Perplexity and Intelligence. 점수 437, 반응 298 기준 인기 이슈입니다."
+      "summary": "Toyota, Nissan, and Honda to standardize parts to lower costs. 점수 1274, 반응 698 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "What Happened to Silicon Valley?",
       "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-      "score": 326,
-      "comments": 172,
+      "score": 599,
+      "comments": 320,
       "text": "",
-      "summary": "What Happened to Silicon Valley?. 점수 326, 반응 172 기준 인기 이슈입니다."
+      "summary": "What Happened to Silicon Valley?. 점수 599, 반응 320 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "score": 560,
+      "comments": 380,
+      "text": "",
+      "summary": "Perplexity and Intelligence. 점수 560, 반응 380 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
       "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "score": 280,
-      "comments": 112,
+      "score": 453,
+      "comments": 230,
       "text": "",
-      "summary": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife. 점수 280, 반응 112 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "url": "https://github.com/gulivan/worker755",
-      "score": 255,
-      "comments": 59,
-      "text": "",
-      "summary": "Show HN: I built a game where you are an LLM's subagent. 점수 255, 반응 59 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Open Social Web Alliance",
-      "url": "https://osw-alliance.net/en/",
-      "score": 204,
-      "comments": 203,
-      "text": "",
-      "summary": "Open Social Web Alliance. 점수 204, 반응 203 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-      "score": 117,
-      "comments": 29,
-      "text": "",
-      "summary": "I joined the NTP Pool, but not with my Stratum 1 Pi. 점수 117, 반응 29 기준 인기 이슈입니다."
+      "summary": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife. 점수 453, 반응 230 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "score": 108,
-      "comments": 34,
+      "score": 428,
+      "comments": 174,
       "text": "",
-      "summary": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth. 점수 108, 반응 34 기준 인기 이슈입니다."
+      "summary": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth. 점수 428, 반응 174 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-      "url": "https://news.ycombinator.com/item?id=50555002",
-      "score": 104,
-      "comments": 68,
-      "text": "I started my career 15+ years ago doing native development (c, c++, etc), but the last decade I&#x27;ve been doing fullstack web applications.<p>I&#x27;d like to transition closer to my roots with a job doing primarily c, c++ or rust. The natural place seems to be in embedded development or firmware work. How feasible is the transition this late in the game? Any advice?",
-      "summary": "Ask HN: Tips for transitioning from web development to embedded/firmware?. I started my career 15+ years ago doing native development (c, c++, etc), but the last decade I&#x27;ve been doing fullstack web applications. I&#x27;d like to transition closer to my roots with a job doing primarily c, c++ or rust. 점수 104, 반응 68 기준 인기 이슈입니다."
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "score": 417,
+      "comments": 59,
+      "text": "",
+      "summary": "Free alternative TV network built from the Internet Archive's forgotten videos. 점수 417, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "A Better Vocabulary for Testing",
-      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
-      "score": 103,
-      "comments": 28,
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "score": 309,
+      "comments": 74,
       "text": "",
-      "summary": "A Better Vocabulary for Testing. 점수 103, 반응 28 기준 인기 이슈입니다."
+      "summary": "Show HN: I built a game where you are an LLM's subagent. 점수 309, 반응 74 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "A miniature San Francisco with live buses, planes and boats",
       "url": "https://smallsf.com/",
-      "score": 90,
-      "comments": 35,
+      "score": 239,
+      "comments": 88,
       "text": "",
-      "summary": "A miniature San Francisco with live buses, planes and boats. 점수 90, 반응 35 기준 인기 이슈입니다."
+      "summary": "A miniature San Francisco with live buses, planes and boats. 점수 239, 반응 88 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
-      "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-      "score": 80,
-      "comments": 30,
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "score": 214,
+      "comments": 159,
       "text": "",
-      "summary": "All Delta Flights Through Atlanta Delayed as Automated System Falters. 점수 80, 반응 30 기준 인기 이슈입니다."
+      "summary": "Progress map for the Lean formalization of Alessandro Masullo's manuscript. 점수 214, 반응 159 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Nyx, the Oldest Internet Service Provider",
-      "url": "https://nyx.net/",
-      "score": 71,
-      "comments": 8,
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "score": 199,
+      "comments": 50,
       "text": "",
-      "summary": "Nyx, the Oldest Internet Service Provider. 점수 71, 반응 8 기준 인기 이슈입니다."
+      "summary": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches. 점수 199, 반응 50 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Masullo on the Riemann Hypothesis",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "score": 184,
+      "comments": 101,
+      "text": "",
+      "summary": "Masullo on the Riemann Hypothesis. 점수 184, 반응 101 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 177,
+      "comments": 77,
+      "text": "",
+      "summary": "XNU Linux: Full OS X GUI Userspace on Linux. 점수 177, 반응 77 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "score": 170,
+      "comments": 81,
+      "text": "",
+      "summary": "GL.iNet Security Notice 2026-11-20. 점수 170, 반응 81 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "development",
-      "count": 4
-    },
-    {
-      "keyword": "web",
-      "count": 4
-    },
-    {
-      "keyword": "native",
-      "count": 3
-    },
-    {
-      "keyword": "any",
+      "keyword": "one",
       "count": 3
     },
     {
@@ -254,15 +242,19 @@
       "count": 3
     },
     {
-      "keyword": "doing",
-      "count": 3
-    },
-    {
       "keyword": "agents",
       "count": 2
     },
     {
+      "keyword": "native",
+      "count": 2
+    },
+    {
       "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "any",
       "count": 2
     },
     {
@@ -286,11 +278,19 @@
       "count": 2
     },
     {
-      "keyword": "through",
+      "keyword": "api",
       "count": 2
     },
     {
-      "keyword": "one",
+      "keyword": "autogpt",
+      "count": 2
+    },
+    {
+      "keyword": "build",
+      "count": 2
+    },
+    {
+      "keyword": "free",
       "count": 2
     }
   ],
