@@ -1,208 +1,297 @@
 {
-  "updatedAt": "2026-11-25T14:22:23.854399+00:00",
+  "updatedAt": "2026-11-26T00:20:32.586274+00:00",
   "status": "ok",
-  "count": 15,
+  "count": 25,
   "errors": [
-    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
-      "source": "Hacker News",
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "score": 793,
-      "comments": 445,
-      "text": "",
-      "summary": "Matrix Multiplication is Θ(n^2.25) [pdf]. 점수 793, 반응 445 기준 인기 이슈입니다."
+      "source": "GitHub Repos",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "score": 478458,
+      "comments": 1184,
+      "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 478458, 반응 1184 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 395228,
+      "comments": 9208,
+      "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "summary": "The AI that really does things. 점수 395228, 반응 9208 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 326605,
+      "comments": 372,
+      "text": "An agentic skills framework & software development methodology that works.",
+      "summary": "An agentic skills framework & software development methodology that works. 점수 326605, 반응 372 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 266122,
+      "comments": 54571,
+      "text": "The agent that grows with you",
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 266122, 반응 54571 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 212140,
+      "comments": 1260,
+      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 212140, 반응 1260 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 210019,
+      "comments": 923,
+      "text": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. 점수 210019, 반응 923 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 188195,
+      "comments": 858,
+      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188195, 반응 858 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 178525,
+      "comments": 98,
+      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 178525, 반응 98 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "score": 165389,
+      "comments": 2511,
+      "text": "Stable Diffusion web UI",
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165389, 반응 2511 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 161907,
+      "comments": 1300,
+      "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 161907, 반응 1300 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "score": 159681,
+      "comments": 27,
+      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159681, 반응 27 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 159569,
+      "comments": 216,
+      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 159569, 반응 216 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "url": "https://buttons.joshwcomeau.com/",
-      "score": 571,
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "score": 1055,
+      "comments": 460,
+      "text": "",
+      "summary": "1Password Security Incident. 점수 1055, 반응 460 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "score": 794,
+      "comments": 657,
+      "text": "See also <i>The matrix multiplication exponent is nine fourths [pdf]</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220</a>",
+      "summary": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening. See also The matrix multiplication exponent is nine fourths [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220 점수 794, 반응 657 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "score": 437,
+      "comments": 326,
+      "text": "",
+      "summary": "Google releases Cogentic papers on integer factorization, discrete logs and more. 점수 437, 반응 326 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "score": 425,
+      "comments": 100,
+      "text": "",
+      "summary": "A few questions for the guy who went snorkeling in a Home Depot retention pond. 점수 425, 반응 100 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "score": 309,
+      "comments": 172,
+      "text": "",
+      "summary": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire. 점수 309, 반응 172 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Smart people who give a shit use tools",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "score": 263,
+      "comments": 202,
+      "text": "",
+      "summary": "Smart people who give a shit use tools. 점수 263, 반응 202 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "score": 216,
       "comments": 85,
       "text": "",
-      "summary": "Button Sounds – collection of professionally-recorded button clicks and presses. 점수 571, 반응 85 기준 인기 이슈입니다."
+      "summary": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs. 점수 216, 반응 85 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "The Spray Bottle",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
-      "score": 540,
-      "comments": 124,
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "score": 207,
+      "comments": 92,
       "text": "",
-      "summary": "The Spray Bottle.  점수 540, 반응 124 기준 인기 이슈입니다."
+      "summary": "Much shorter version of GRH Lean verification from Anthropic. 점수 207, 반응 92 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Ternary Bonsai 2.5 27B",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "score": 492,
-      "comments": 150,
-      "text": "",
-      "summary": "Ternary Bonsai 2.5 27B. 점수 492, 반응 150 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GTA 6 Running on Windows",
-      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
-      "score": 453,
-      "comments": 515,
-      "text": "",
-      "summary": "GTA 6 Running on Windows. 점수 453, 반응 515 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "url": "https://news.ycombinator.com/item?id=50630809",
-      "score": 367,
-      "comments": 286,
-      "text": "Basically the title.<p>Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models.<p>Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their policy?<p>Now I&#x27;ve got 24h to prove we didn&#x27;t.<p>Has anyone dealt with this too? How can you prove that you are not distilling Anthropic models without breaking your user&#x27;s privacy?",
-      "summary": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?. Anthropic is accusing me and my company of using their API for distillation. 점수 367, 반응 286 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "score": 319,
-      "comments": 135,
-      "text": "",
-      "summary": "Models Can Communicate via Inference Servers Despite Being Sandboxed. 점수 319, 반응 135 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "score": 314,
-      "comments": 53,
-      "text": "",
-      "summary": "PenGPT: A Generative Transformer for Handwriting and Sketches. 점수 314, 반응 53 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "score": 305,
-      "comments": 90,
-      "text": "",
-      "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities. 점수 305, 반응 90 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-      "score": 302,
-      "comments": 107,
-      "text": "",
-      "summary": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native. 점수 302, 반응 107 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "score": 291,
-      "comments": 146,
-      "text": "",
-      "summary": "Active intrusion campaign against Check Point security management servers. 점수 291, 반응 146 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "url": "https://gpu-demo-gallery.pages.dev/",
-      "score": 220,
-      "comments": 47,
-      "text": "",
-      "summary": "Show HN: Old Nvidia and ATI tech demos, running again in the browser. 점수 220, 반응 47 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "An Italian folding bicycle design that fits into a suitcase",
-      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
       "score": 204,
-      "comments": 138,
-      "text": "",
-      "summary": "An Italian folding bicycle design that fits into a suitcase. 점수 204, 반응 138 기준 인기 이슈입니다."
+      "comments": 59,
+      "text": "Back in 2015, when I was still at Google, there was a small group of code-golf enthusiasts spending hours trying to save just one byte on their solutions for weekly code-golf problems. No matter how hard you tried, there always seemed to be another Googler who found a shorter solution. And once a problem entered the challenge phase and every solution became public, it was always astonishing to read how brilliant other people&#x27;s solutions were.<p>11 years later, LLMs are evolving fast. A recent OpenAI post (&quot;Perplexity and Intelligence&quot;, <a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;perplexity-and-intelligence&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;perplexity-and-intelligence&#x2F;</a>) described researchers watching a model solve open math problems one after another in a Slack thread. I started to wonder: how would frontier models compete with the records that a small group of brilliant minds created with hours of effort each week?<p>So I built this benchmark. Frontier models do find a lot of new approaches (and very brilliant ones) to solve these problems. For example, in two problems (&quot;Surviving Queens&quot; and &quot;The Rolling Dice&quot;), frontier models use complex numbers to solve them in Python and Ruby (both languages have built-in complex number support). And for the &quot;(-5)-Smooth Numbers&quot; problem, where you have to write code to list the first n positive integers of the form (-2)^x⋅(-3)^y⋅(-5)^z, most solutions build them with nested loops or by growing a set, then sort. GPT-6.2 Astra gets them all from powers of 4, and earns a sole best with this brilliant solution:<p><pre><code>    g=lambda n:sorted(4**i%(2**999-5)%(2**49-3)for i in range(7000))[:n]\n</code></pre>\nThere is a dedicated section for this: <a href=\"https:&#x2F;&#x2F;bjin.github.io&#x2F;go-codegolf-benchmark&#x2F;#why&#x2F;finding-a-different-approach\" rel=\"nofollow\">https:&#x2F;&#x2F;bjin.github.io&#x2F;go-codegolf-benchmark&#x2F;#why&#x2F;finding-a-...</a><p>It&#x27;s nice to see GPT-6.2 Astra become the first frontier model to beat the human records in code golfing. Along with other frontier models, it finds a lot of interesting solutions that Googlers back in 2015 didn&#x27;t. On the other hand, I also believe code golfing can be a good benchmark (not a comprehensive one, of course) for frontier models.<p>Code golfing rewards thinking differently, because a shorter solution usually comes from looking at the problem from a different angle. It also rewards running experiments, not just thinking: writing a search program to find a shorter expression, or exploring lesser-known features and functions in the target compiler, interpreter, or library. Human code golfers do this a lot, and no public training data tells a frontier model how to do so.",
+      "summary": "GPT-6.2 Astra is the first model to beat Googlers' code golf records. Back in 2015, when I was still at Google, there was a small group of code-golf enthusiasts spending hours trying to save just one byte on their solutions for weekly code-golf problems. No matter how hard you tried, there always seemed to be another Googler who found a shorter solution. 점수 204, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "score": 170,
-      "comments": 71,
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "score": 173,
+      "comments": 59,
       "text": "",
-      "summary": "Marginalia Search, Money, C++, Rust, AI, Stuff. 점수 170, 반응 71 기준 인기 이슈입니다."
+      "summary": "I checked Clojure's core with Lean and found unreported bugs. 점수 173, 반응 59 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Taking over US Treasury subdomains for $3 each",
-      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "title": "The New York Times tells photographers not to use the latest Photoshop",
+      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
       "score": 145,
-      "comments": 29,
+      "comments": 73,
       "text": "",
-      "summary": "Taking over US Treasury subdomains for $3 each. 점수 145, 반응 29 기준 인기 이슈입니다."
+      "summary": "The New York Times tells photographers not to use the latest Photoshop. 점수 145, 반응 73 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jev is (probably) Qwen3.5-35B-A3B",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "score": 140,
+      "comments": 28,
+      "text": "",
+      "summary": "Jev is (probably) Qwen3.5-35B-A3B. 점수 140, 반응 28 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "SSH is a GUI framework",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "score": 121,
+      "comments": 61,
+      "text": "",
+      "summary": "SSH is a GUI framework. 점수 121, 반응 61 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "not",
+      "keyword": "x2f",
+      "count": 26
+    },
+    {
+      "keyword": "code",
+      "count": 9
+    },
+    {
+      "keyword": "quot",
+      "count": 8
+    },
+    {
+      "keyword": "frontier",
+      "count": 7
+    },
+    {
+      "keyword": "https",
+      "count": 6
+    },
+    {
+      "keyword": "one",
+      "count": 5
+    },
+    {
+      "keyword": "model",
+      "count": 5
+    },
+    {
+      "keyword": "shit",
       "count": 5
     },
     {
       "keyword": "models",
+      "count": 5
+    },
+    {
+      "keyword": "use",
       "count": 4
     },
     {
-      "keyword": "anthropic",
-      "count": 3
+      "keyword": "openai",
+      "count": 4
     },
     {
-      "keyword": "can",
-      "count": 3
+      "keyword": "holy",
+      "count": 4
     },
     {
-      "keyword": "prove",
-      "count": 3
+      "keyword": "com",
+      "count": 4
     },
     {
-      "keyword": "x27",
-      "count": 3
+      "keyword": "shorter",
+      "count": 4
     },
     {
-      "keyword": "button",
-      "count": 2
-    },
-    {
-      "keyword": "running",
-      "count": 2
-    },
-    {
-      "keyword": "accusing",
-      "count": 2
-    },
-    {
-      "keyword": "company",
-      "count": 2
-    },
-    {
-      "keyword": "distilling",
-      "count": 2
-    },
-    {
-      "keyword": "their",
-      "count": 2
-    },
-    {
-      "keyword": "our",
-      "count": 2
-    },
-    {
-      "keyword": "against",
-      "count": 2
-    },
-    {
-      "keyword": "servers",
-      "count": 2
+      "keyword": "solutions",
+      "count": 4
     }
   ],
   "meta": {
