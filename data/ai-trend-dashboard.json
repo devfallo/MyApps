@@ -1,208 +1,297 @@
 {
-  "updatedAt": "2026-11-27T13:58:46.285846+00:00",
+  "updatedAt": "2026-11-27T22:42:35.472391+00:00",
   "status": "ok",
-  "count": 15,
+  "count": 25,
   "errors": [
-    "fetch_github_hot: HTTP Error 403: rate limit exceeded",
     "fetch_reddit: HTTP Error 403: Blocked"
   ],
   "highlights": [
     {
+      "source": "GitHub Repos",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "score": 481082,
+      "comments": 1111,
+      "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 481082, 반응 1111 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 395353,
+      "comments": 9314,
+      "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "summary": "The AI that really does things. 점수 395353, 반응 9314 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 328268,
+      "comments": 374,
+      "text": "An agentic skills framework & software development methodology that works.",
+      "summary": "An agentic skills framework & software development methodology that works. 점수 328268, 반응 374 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 266621,
+      "comments": 54853,
+      "text": "The agent that grows with you",
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 266621, 반응 54853 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 212397,
+      "comments": 1300,
+      "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 212397, 반응 1300 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 211641,
+      "comments": 834,
+      "text": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. 점수 211641, 반응 834 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 188214,
+      "comments": 780,
+      "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188214, 반응 780 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 178700,
+      "comments": 99,
+      "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 178700, 반응 99 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "score": 165396,
+      "comments": 2511,
+      "text": "Stable Diffusion web UI",
+      "summary": "AUTOMATIC1111/stable-diffusion-webui. Stable Diffusion web UI 점수 165396, 반응 2511 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 162029,
+      "comments": 1325,
+      "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 162029, 반응 1325 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 159697,
+      "comments": 235,
+      "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 159697, 반응 235 기준 인기 이슈입니다."
+    },
+    {
+      "source": "GitHub Repos",
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "score": 159694,
+      "comments": 21,
+      "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159694, 반응 21 기준 인기 이슈입니다."
+    },
+    {
       "source": "Hacker News",
       "title": "AI made self-hosting fun again",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "score": 848,
-      "comments": 414,
+      "score": 1072,
+      "comments": 500,
       "text": "",
-      "summary": "AI made self-hosting fun again. 점수 848, 반응 414 기준 인기 이슈입니다."
+      "summary": "AI made self-hosting fun again. 점수 1072, 반응 500 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Intel One Mono font (2023)",
-      "url": "https://github.com/intel/intel-one-mono",
-      "score": 542,
-      "comments": 261,
-      "text": "",
-      "summary": "Intel One Mono font (2023). 점수 542, 반응 261 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "score": 451,
-      "comments": 535,
-      "text": "",
-      "summary": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays. 점수 451, 반응 535 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "score": 436,
-      "comments": 213,
-      "text": "",
-      "summary": "Company Culture = Slack Emoji ÷ √Headcount. 점수 436, 반응 213 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hard Drive pricing has gotten bad",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "score": 426,
-      "comments": 369,
-      "text": "",
-      "summary": "Hard Drive pricing has gotten bad. 점수 426, 반응 369 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "score": 426,
-      "comments": 111,
-      "text": "",
-      "summary": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad. 점수 426, 반응 111 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The group chat where your AI talks behind your back",
+      "title": "Group chat where your AI talks behind your back",
       "url": "https://construct22.com/",
-      "score": 420,
-      "comments": 184,
+      "score": 664,
+      "comments": 278,
       "text": "",
-      "summary": "The group chat where your AI talks behind your back. 점수 420, 반응 184 기준 인기 이슈입니다."
+      "summary": "Group chat where your AI talks behind your back. 점수 664, 반응 278 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "score": 397,
-      "comments": 97,
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "score": 351,
+      "comments": 194,
       "text": "",
-      "summary": "AMD-specific fork of llama.cpp. 점수 397, 반응 97 기준 인기 이슈입니다."
+      "summary": "Credit card skimming scripts using WebRTC found on popular shopping sites. 점수 351, 반응 194 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "score": 366,
-      "comments": 309,
+      "title": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "score": 305,
+      "comments": 190,
       "text": "",
-      "summary": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email. 점수 366, 반응 309 기준 인기 이슈입니다."
+      "summary": "US Air Force's cloud computing platform hacked. 점수 305, 반응 190 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "Moat: OpenRouter replacement",
-      "url": "https://commandcode.ai/moat",
-      "score": 302,
-      "comments": 160,
-      "text": "",
-      "summary": "Moat: OpenRouter replacement. 점수 302, 반응 160 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The USAID Files",
-      "url": "https://reclaimthenet.org/usaid-files",
-      "score": 297,
-      "comments": 360,
-      "text": "",
-      "summary": "The USAID Files.  점수 297, 반응 360 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "score": 294,
-      "comments": 142,
-      "text": "",
-      "summary": "CTO of 'RansomwareHelp' indicted for wire fraud. 점수 294, 반응 142 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "An algebraic quantization of gravity from the null cone",
-      "url": "https://arxiv.org/abs/2611.34924",
-      "score": 252,
-      "comments": 99,
-      "text": "",
-      "summary": "An algebraic quantization of gravity from the null cone. 점수 252, 반응 99 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: I wrote an entire Vim manual over 4 years",
-      "url": "http://themouseless.dev/vim/",
-      "score": 232,
-      "comments": 72,
-      "text": "I&#x27;m glad to announce that I&#x27;m releasing my new book, Learning to Play Vim.<p>When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vim manual (`:help manual`), but I didn&#x27;t like it: it was too detailed in places (for example `02.8 Finding help` completely lost me for a while), and other features didn&#x27;t get the treatment they deserved.<p>So I decided to write my own Vim manual. It took me more than 4 years and 2987 focused pomodoros (1244 hours) of work to finally get it done!<p>The result:<p>- 21 chapters showing the most important Vim features step by step.<p>- 170 exercises with solutions.<p>- Many real-life examples to show how Vim can be used and configured for your own needs.<p>- The related Vim&#x27;s help pages to dig further into each feature.<p>Most configs are both written in Vimscript and Lua for Neovim users. This book explores the common features between Vim and Neovim, so don&#x27;t expect anything about Neovim-specific features (like treesitter or LSP for example).<p>- The landing page: <a href=\"https:&#x2F;&#x2F;themouseless.dev&#x2F;vim&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;themouseless.dev&#x2F;vim&#x2F;</a><p>- A sample of the book with the entire table of contents and the first three chapters covering most of the basics: <a href=\"https:&#x2F;&#x2F;themouseless.dev&#x2F;content&#x2F;learning_to_play_vim_sample.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;themouseless.dev&#x2F;content&#x2F;learning_to_play_vim_sample...</a>.<p>I wrote this with my bare hands, no LLM involved to spoil the fun.",
-      "summary": "Show HN: I wrote an entire Vim manual over 4 years. I&#x27;m glad to announce that I&#x27;m releasing my new book, Learning to Play Vim. When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. 점수 232, 반응 72 기준 인기 이슈입니다."
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "score": 305,
+      "comments": 103,
+      "text": "a ball will fall. trade on where it lands.<p>I made this game! Some technical details:<p>The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.<p>There&#x27;s some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they&#x27;re not too hard to beat -- it&#x27;s when the market is full of real people that it gets tricky.<p>Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.",
+      "summary": "Show HN: bouncemarket – a live prediction market game for a bouncing ball. trade on where it lands. Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. 점수 305, 반응 103 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "The need for a formally verifiable mainstream programming language",
       "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "score": 205,
-      "comments": 187,
+      "score": 299,
+      "comments": 293,
       "text": "",
-      "summary": "The need for a formally verifiable mainstream programming language. 점수 205, 반응 187 기준 인기 이슈입니다."
+      "summary": "The need for a formally verifiable mainstream programming language. 점수 299, 반응 293 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Michael Nielsen took down his book on neural nets",
+      "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+      "score": 267,
+      "comments": 169,
+      "text": "",
+      "summary": "Michael Nielsen took down his book on neural nets. 점수 267, 반응 169 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "score": 199,
+      "comments": 90,
+      "text": "",
+      "summary": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]. 점수 199, 반응 90 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "score": 181,
+      "comments": 54,
+      "text": "",
+      "summary": "Convex skills send the user's app idea to a remote server without telling them. 점수 181, 반응 54 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "score": 173,
+      "comments": 53,
+      "text": "",
+      "summary": "First images of the impact of DART asteroid deflection experiment. 점수 173, 반응 53 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "score": 164,
+      "comments": 136,
+      "text": "",
+      "summary": "GPT 6.2 Astra Solves a Historical Mystery. 점수 164, 반응 136 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "score": 154,
+      "comments": 87,
+      "text": "",
+      "summary": "States sue SpaceX to stop Grok from generating child sex images, revenge porn. 점수 154, 반응 87 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "False computer-checked proofs",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "score": 150,
+      "comments": 71,
+      "text": "",
+      "summary": "False computer-checked proofs. 점수 150, 반응 71 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "x2f",
-      "count": 16
+      "keyword": "any",
+      "count": 3
     },
     {
-      "keyword": "vim",
-      "count": 13
+      "keyword": "platform",
+      "count": 3
+    },
+    {
+      "keyword": "cloud",
+      "count": 3
+    },
+    {
+      "keyword": "can",
+      "count": 3
+    },
+    {
+      "keyword": "prompts",
+      "count": 3
+    },
+    {
+      "keyword": "market",
+      "count": 3
+    },
+    {
+      "keyword": "ball",
+      "count": 3
+    },
+    {
+      "keyword": "drop",
+      "count": 3
     },
     {
       "keyword": "x27",
-      "count": 6
-    },
-    {
-      "keyword": "manual",
-      "count": 5
-    },
-    {
-      "keyword": "features",
-      "count": 5
-    },
-    {
-      "keyword": "step",
-      "count": 4
-    },
-    {
-      "keyword": "https",
-      "count": 4
-    },
-    {
-      "keyword": "themouseless",
-      "count": 4
-    },
-    {
-      "keyword": "dev",
-      "count": 4
-    },
-    {
-      "keyword": "entire",
       "count": 3
     },
     {
-      "keyword": "book",
+      "keyword": "they",
       "count": 3
     },
     {
-      "keyword": "learning",
-      "count": 3
+      "keyword": "anything",
+      "count": 2
     },
     {
-      "keyword": "play",
-      "count": 3
+      "keyword": "agents",
+      "count": 2
     },
     {
-      "keyword": "more",
-      "count": 3
+      "keyword": "app",
+      "count": 2
     },
     {
-      "keyword": "help",
-      "count": 3
+      "keyword": "down",
+      "count": 2
+    },
+    {
+      "keyword": "native",
+      "count": 2
     }
   ],
   "meta": {
