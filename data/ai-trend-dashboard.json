@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T04:15:06.741314+00:00",
+  "updatedAt": "2026-11-27T13:58:46.285846+00:00",
   "status": "ok",
   "count": 15,
   "errors": [
@@ -9,200 +9,200 @@
   "highlights": [
     {
       "source": "Hacker News",
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "score": 1639,
-      "comments": 707,
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "score": 848,
+      "comments": 414,
       "text": "",
-      "summary": "1Password Security Incident. 점수 1639, 반응 707 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tell HN: Happy Thanksgiving",
-      "url": "https://news.ycombinator.com/item?id=50655664",
-      "score": 645,
-      "comments": 138,
-      "text": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!",
-      "summary": "Tell HN: Happy Thanksgiving. Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! 점수 645, 반응 138 기준 인기 이슈입니다."
+      "summary": "AI made self-hosting fun again. 점수 848, 반응 414 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Intel One Mono font (2023)",
       "url": "https://github.com/intel/intel-one-mono",
-      "score": 486,
-      "comments": 245,
+      "score": 542,
+      "comments": 261,
       "text": "",
-      "summary": "Intel One Mono font (2023). 점수 486, 반응 245 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "score": 418,
-      "comments": 227,
-      "text": "",
-      "summary": "AI made self-hosting fun again. 점수 418, 반응 227 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nextcloud Office Desktop app",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "score": 410,
-      "comments": 209,
-      "text": "",
-      "summary": "Nextcloud Office Desktop app. 점수 410, 반응 209 기준 인기 이슈입니다."
+      "summary": "Intel One Mono font (2023). 점수 542, 반응 261 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
       "url": "https://github.com/antonpictures/youtube-punisher",
-      "score": 307,
-      "comments": 379,
+      "score": 451,
+      "comments": 535,
       "text": "",
-      "summary": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays. 점수 307, 반응 379 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "score": 306,
-      "comments": 74,
-      "text": "",
-      "summary": "AMD-specific fork of llama.cpp. 점수 306, 반응 74 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "score": 290,
-      "comments": 62,
-      "text": "",
-      "summary": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad. 점수 290, 반응 62 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "score": 278,
-      "comments": 231,
-      "text": "",
-      "summary": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email. 점수 278, 반응 231 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Moat: OpenRouter replacement",
-      "url": "https://commandcode.ai/moat",
-      "score": 261,
-      "comments": 149,
-      "text": "",
-      "summary": "Moat: OpenRouter replacement. 점수 261, 반응 149 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "score": 240,
-      "comments": 102,
-      "text": "",
-      "summary": "CTO of 'RansomwareHelp' indicted for wire fraud. 점수 240, 반응 102 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "An algebraic quantization of gravity from the null cone",
-      "url": "https://arxiv.org/abs/2611.34924",
-      "score": 225,
-      "comments": 84,
-      "text": "",
-      "summary": "An algebraic quantization of gravity from the null cone. 점수 225, 반응 84 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The USAID Files",
-      "url": "https://reclaimthenet.org/usaid-files",
-      "score": 187,
-      "comments": 220,
-      "text": "",
-      "summary": "The USAID Files.  점수 187, 반응 220 기준 인기 이슈입니다."
+      "summary": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays. 점수 451, 반응 535 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Company Culture = Slack Emoji ÷ √Headcount",
       "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "score": 175,
-      "comments": 68,
+      "score": 436,
+      "comments": 213,
       "text": "",
-      "summary": "Company Culture = Slack Emoji ÷ √Headcount. 점수 175, 반응 68 기준 인기 이슈입니다."
+      "summary": "Company Culture = Slack Emoji ÷ √Headcount. 점수 436, 반응 213 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Hard Drive pricing has gotten bad",
       "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "score": 138,
-      "comments": 69,
+      "score": 426,
+      "comments": 369,
       "text": "",
-      "summary": "Hard Drive pricing has gotten bad. 점수 138, 반응 69 기준 인기 이슈입니다."
+      "summary": "Hard Drive pricing has gotten bad. 점수 426, 반응 369 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "score": 426,
+      "comments": 111,
+      "text": "",
+      "summary": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad. 점수 426, 반응 111 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "score": 420,
+      "comments": 184,
+      "text": "",
+      "summary": "The group chat where your AI talks behind your back. 점수 420, 반응 184 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "score": 397,
+      "comments": 97,
+      "text": "",
+      "summary": "AMD-specific fork of llama.cpp. 점수 397, 반응 97 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "score": 366,
+      "comments": 309,
+      "text": "",
+      "summary": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email. 점수 366, 반응 309 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Moat: OpenRouter replacement",
+      "url": "https://commandcode.ai/moat",
+      "score": 302,
+      "comments": 160,
+      "text": "",
+      "summary": "Moat: OpenRouter replacement. 점수 302, 반응 160 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The USAID Files",
+      "url": "https://reclaimthenet.org/usaid-files",
+      "score": 297,
+      "comments": 360,
+      "text": "",
+      "summary": "The USAID Files.  점수 297, 반응 360 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "score": 294,
+      "comments": 142,
+      "text": "",
+      "summary": "CTO of 'RansomwareHelp' indicted for wire fraud. 점수 294, 반응 142 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "score": 252,
+      "comments": 99,
+      "text": "",
+      "summary": "An algebraic quantization of gravity from the null cone. 점수 252, 반응 99 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "url": "http://themouseless.dev/vim/",
+      "score": 232,
+      "comments": 72,
+      "text": "I&#x27;m glad to announce that I&#x27;m releasing my new book, Learning to Play Vim.<p>When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vim manual (`:help manual`), but I didn&#x27;t like it: it was too detailed in places (for example `02.8 Finding help` completely lost me for a while), and other features didn&#x27;t get the treatment they deserved.<p>So I decided to write my own Vim manual. It took me more than 4 years and 2987 focused pomodoros (1244 hours) of work to finally get it done!<p>The result:<p>- 21 chapters showing the most important Vim features step by step.<p>- 170 exercises with solutions.<p>- Many real-life examples to show how Vim can be used and configured for your own needs.<p>- The related Vim&#x27;s help pages to dig further into each feature.<p>Most configs are both written in Vimscript and Lua for Neovim users. This book explores the common features between Vim and Neovim, so don&#x27;t expect anything about Neovim-specific features (like treesitter or LSP for example).<p>- The landing page: <a href=\"https:&#x2F;&#x2F;themouseless.dev&#x2F;vim&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;themouseless.dev&#x2F;vim&#x2F;</a><p>- A sample of the book with the entire table of contents and the first three chapters covering most of the basics: <a href=\"https:&#x2F;&#x2F;themouseless.dev&#x2F;content&#x2F;learning_to_play_vim_sample.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;themouseless.dev&#x2F;content&#x2F;learning_to_play_vim_sample...</a>.<p>I wrote this with my bare hands, no LLM involved to spoil the fun.",
+      "summary": "Show HN: I wrote an entire Vim manual over 4 years. I&#x27;m glad to announce that I&#x27;m releasing my new book, Learning to Play Vim. When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. 점수 232, 반응 72 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "score": 205,
+      "comments": 187,
+      "text": "",
+      "summary": "The need for a formally verifiable mainstream programming language. 점수 205, 반응 187 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
-      "keyword": "great",
-      "count": 2
+      "keyword": "x2f",
+      "count": 16
     },
     {
-      "keyword": "day",
-      "count": 2
+      "keyword": "vim",
+      "count": 13
     },
     {
-      "keyword": "make",
-      "count": 2
+      "keyword": "x27",
+      "count": 6
     },
     {
-      "keyword": "one",
-      "count": 2
+      "keyword": "manual",
+      "count": 5
     },
     {
-      "keyword": "youtube",
-      "count": 2
+      "keyword": "features",
+      "count": 5
     },
     {
-      "keyword": "password",
-      "count": 1
+      "keyword": "step",
+      "count": 4
     },
     {
-      "keyword": "security",
-      "count": 1
+      "keyword": "https",
+      "count": 4
     },
     {
-      "keyword": "incident",
-      "count": 1
+      "keyword": "themouseless",
+      "count": 4
     },
     {
-      "keyword": "tell",
-      "count": 1
+      "keyword": "dev",
+      "count": 4
     },
     {
-      "keyword": "happy",
-      "count": 1
+      "keyword": "entire",
+      "count": 3
     },
     {
-      "keyword": "thanksgiving",
-      "count": 1
+      "keyword": "book",
+      "count": 3
     },
     {
-      "keyword": "hopefully",
-      "count": 1
+      "keyword": "learning",
+      "count": 3
     },
     {
-      "keyword": "spent",
-      "count": 1
+      "keyword": "play",
+      "count": 3
     },
     {
-      "keyword": "friends",
-      "count": 1
+      "keyword": "more",
+      "count": 3
     },
     {
-      "keyword": "family",
-      "count": 1
+      "keyword": "help",
+      "count": 3
     }
   ],
   "meta": {
