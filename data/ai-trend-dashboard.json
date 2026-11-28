@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:42:35.472391+00:00",
+  "updatedAt": "2026-11-28T07:49:25.949067+00:00",
   "status": "ok",
   "count": 25,
   "errors": [
@@ -10,73 +10,73 @@
       "source": "GitHub Repos",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 481082,
-      "comments": 1111,
+      "score": 481431,
+      "comments": 1091,
       "text": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 481082, 반응 1111 기준 인기 이슈입니다."
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. 점수 481431, 반응 1091 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 395353,
-      "comments": 9314,
+      "score": 395363,
+      "comments": 9405,
       "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "summary": "The AI that really does things. 점수 395353, 반응 9314 기준 인기 이슈입니다."
+      "summary": "The AI that really does things. 점수 395363, 반응 9405 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 328268,
-      "comments": 374,
+      "score": 328542,
+      "comments": 376,
       "text": "An agentic skills framework & software development methodology that works.",
-      "summary": "An agentic skills framework & software development methodology that works. 점수 328268, 반응 374 기준 인기 이슈입니다."
+      "summary": "An agentic skills framework & software development methodology that works. 점수 328542, 반응 376 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 266621,
-      "comments": 54853,
+      "score": 266636,
+      "comments": 54942,
       "text": "The agent that grows with you",
-      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 266621, 반응 54853 기준 인기 이슈입니다."
+      "summary": "NousResearch/hermes-agent. The agent that grows with you 점수 266636, 반응 54942 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 212397,
+      "score": 212352,
       "comments": 1300,
       "text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 212397, 반응 1300 기준 인기 이슈입니다."
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. 점수 212352, 반응 1300 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 211641,
-      "comments": 834,
+      "score": 211860,
+      "comments": 840,
       "text": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. 점수 211641, 반응 834 기준 인기 이슈입니다."
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. 점수 211860, 반응 840 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 188214,
-      "comments": 780,
+      "score": 188217,
+      "comments": 771,
       "text": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188214, 반응 780 기준 인기 이슈입니다."
+      "summary": "Significant-Gravitas/AutoGPT. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 점수 188217, 반응 771 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 178700,
-      "comments": 99,
+      "score": 178728,
+      "comments": 100,
       "text": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 178700, 반응 99 기준 인기 이슈입니다."
+      "summary": "Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. 점수 178728, 반응 100 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
@@ -91,158 +91,150 @@
       "source": "GitHub Repos",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 162029,
-      "comments": 1325,
+      "score": 162037,
+      "comments": 1324,
       "text": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 162029, 반응 1325 기준 인기 이슈입니다."
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. 점수 162037, 반응 1324 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 159697,
-      "comments": 235,
+      "score": 159706,
+      "comments": 237,
       "text": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 159697, 반응 235 기준 인기 이슈입니다."
+      "summary": "open-webui/open-webui. User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 점수 159706, 반응 237 기준 인기 이슈입니다."
     },
     {
       "source": "GitHub Repos",
       "title": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 159694,
-      "comments": 21,
+      "score": 159698,
+      "comments": 22,
       "text": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159694, 반응 21 기준 인기 이슈입니다."
+      "summary": "Snailclimb/JavaGuide. Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 점수 159698, 반응 22 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "score": 1072,
-      "comments": 500,
+      "title": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "score": 675,
+      "comments": 305,
       "text": "",
-      "summary": "AI made self-hosting fun again. 점수 1072, 반응 500 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "score": 664,
-      "comments": 278,
-      "text": "",
-      "summary": "Group chat where your AI talks behind your back. 점수 664, 반응 278 기준 인기 이슈입니다."
+      "summary": "Claude sabotaging ML research tasks?. 점수 675, 반응 305 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-      "score": 351,
-      "comments": 194,
+      "score": 502,
+      "comments": 260,
       "text": "",
-      "summary": "Credit card skimming scripts using WebRTC found on popular shopping sites. 점수 351, 반응 194 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "US Air Force's cloud computing platform hacked",
-      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-      "score": 305,
-      "comments": 190,
-      "text": "",
-      "summary": "US Air Force's cloud computing platform hacked. 점수 305, 반응 190 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-      "url": "https://bouncemarket.minhanhday.com/",
-      "score": 305,
-      "comments": 103,
-      "text": "a ball will fall. trade on where it lands.<p>I made this game! Some technical details:<p>The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.<p>There&#x27;s some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they&#x27;re not too hard to beat -- it&#x27;s when the market is full of real people that it gets tricky.<p>Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.",
-      "summary": "Show HN: bouncemarket – a live prediction market game for a bouncing ball. trade on where it lands. Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. 점수 305, 반응 103 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "The need for a formally verifiable mainstream programming language",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "score": 299,
-      "comments": 293,
-      "text": "",
-      "summary": "The need for a formally verifiable mainstream programming language. 점수 299, 반응 293 기준 인기 이슈입니다."
+      "summary": "Credit card skimming scripts using WebRTC found on popular shopping sites. 점수 502, 반응 260 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "Michael Nielsen took down his book on neural nets",
-      "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
-      "score": 267,
-      "comments": 169,
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "score": 497,
+      "comments": 306,
       "text": "",
-      "summary": "Michael Nielsen took down his book on neural nets. 점수 267, 반응 169 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "url": "https://eprint.iacr.org/2026/3020.pdf",
-      "score": 199,
-      "comments": 90,
-      "text": "",
-      "summary": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]. 점수 199, 반응 90 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "url": "https://github.com/convex/convex-backend-skill/issues/64",
-      "score": 181,
-      "comments": 54,
-      "text": "",
-      "summary": "Convex skills send the user's app idea to a remote server without telling them. 점수 181, 반응 54 기준 인기 이슈입니다."
-    },
-    {
-      "source": "Hacker News",
-      "title": "First images of the impact of DART asteroid deflection experiment",
-      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-      "score": 173,
-      "comments": 53,
-      "text": "",
-      "summary": "First images of the impact of DART asteroid deflection experiment. 점수 173, 반응 53 기준 인기 이슈입니다."
+      "summary": "Michael Nielsen took down his book on neural nets. 점수 497, 반응 306 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-      "score": 164,
-      "comments": 136,
+      "score": 420,
+      "comments": 260,
       "text": "",
-      "summary": "GPT 6.2 Astra Solves a Historical Mystery. 점수 164, 반응 136 기준 인기 이슈입니다."
+      "summary": "GPT 6.2 Astra Solves a Historical Mystery. 점수 420, 반응 260 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "score": 365,
+      "comments": 123,
+      "text": "a ball will fall. trade on where it lands.<p>I made this game! Some technical details:<p>The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.<p>There&#x27;s some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they&#x27;re not too hard to beat -- it&#x27;s when the market is full of real people that it gets tricky.<p>Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.",
+      "summary": "Show HN: bouncemarket – a live prediction market game for a bouncing ball. trade on where it lands. Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. 점수 365, 반응 123 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
       "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
-      "score": 154,
-      "comments": 87,
+      "score": 363,
+      "comments": 208,
       "text": "",
-      "summary": "States sue SpaceX to stop Grok from generating child sex images, revenge porn. 점수 154, 반응 87 기준 인기 이슈입니다."
+      "summary": "States sue SpaceX to stop Grok from generating child sex images, revenge porn. 점수 363, 반응 208 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "score": 319,
+      "comments": 133,
+      "text": "",
+      "summary": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster. 점수 319, 반응 133 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "score": 287,
+      "comments": 92,
+      "text": "",
+      "summary": "Convex skills send the user's app idea to a remote server without telling them. 점수 287, 반응 92 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "score": 276,
+      "comments": 63,
+      "text": "",
+      "summary": "The Balatro Timeline. 점수 276, 반응 63 기준 인기 이슈입니다."
     },
     {
       "source": "Hacker News",
       "title": "False computer-checked proofs",
       "url": "https://cr.yp.to/proofs/falseccp.html",
-      "score": 150,
-      "comments": 71,
+      "score": 217,
+      "comments": 83,
       "text": "",
-      "summary": "False computer-checked proofs. 점수 150, 반응 71 기준 인기 이슈입니다."
+      "summary": "False computer-checked proofs. 점수 217, 반응 83 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "score": 206,
+      "comments": 63,
+      "text": "",
+      "summary": "First images of the impact of DART asteroid deflection experiment. 점수 206, 반응 63 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "score": 180,
+      "comments": 26,
+      "text": "",
+      "summary": "Unkernel: Real Linux kernel, compiled to WebAssembly. 점수 180, 반응 26 기준 인기 이슈입니다."
+    },
+    {
+      "source": "Hacker News",
+      "title": "Atari Homebrew Awards Cancelled",
+      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "score": 177,
+      "comments": 175,
+      "text": "",
+      "summary": "Atari Homebrew Awards Cancelled. 점수 177, 반응 175 기준 인기 이슈입니다."
     }
   ],
   "topKeywords": [
     {
       "keyword": "any",
-      "count": 3
-    },
-    {
-      "keyword": "platform",
-      "count": 3
-    },
-    {
-      "keyword": "cloud",
       "count": 3
     },
     {
@@ -291,6 +283,14 @@
     },
     {
       "keyword": "native",
+      "count": 2
+    },
+    {
+      "keyword": "openclaw",
+      "count": 2
+    },
+    {
+      "keyword": "platform",
       "count": 2
     }
   ],
